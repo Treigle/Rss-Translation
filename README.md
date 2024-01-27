@@ -38,3 +38,4 @@
  - source025 [https://feed.indiehackers.world/posts.rss?group=Automation](https://feed.indiehackers.world/posts.rss?group=Automation) -> [indiehackers-Automation](rss/indiehackers-Automation.xml)
  - source026 [https://feed.indiehackers.world/posts.rss?group=ChatGPT](https://feed.indiehackers.world/posts.rss?group=ChatGPT) -> [indiehackers-ChatGPT](rss/indiehackers-ChatGPT.xml)
  - source027 [https://feed.indiehackers.world/posts.rss?group=No-Code](https://feed.indiehackers.world/posts.rss?group=No-Code) -> [indiehackers-No-Code](rss/indiehackers-No-Code.xml)
+ - source028 [https://www.proz.com/rss.php?id=2210425&auth=bb9f03424950d93f0da6ec6ad404b557&channel=jobs](https://www.proz.com/rss.php?id=2210425&auth=bb9f03424950d93f0da6ec6ad404b557&channel=jobs) -> [proz](rss/proz.xml)
