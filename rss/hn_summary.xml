@@ -4,12 +4,76 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sat, 27 Jan 2024 08:48:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jan 2024 11:55:33 GMT</lastBuildDate>
+    <item>
+      <title>[媒体]2023 年 9 月，macOS 上的 Safari 17.0 对元素进行了更改，允许 [...]</title>
+      <link>https://t.me/hn_summary/71294</link>
+      <description><![CDATA[在 HTML 选择元素中恢复水平规则
+2023 年 9 月，macOS 上的 Safari 17.0 引入了对  元素的更改，允许在  元素内使用  元素或水平线，以在选项之间创建视觉分隔。 Safari 十多年前就支持此功能，但后来被删除。在选择元素中重新引入水平规则需要对 HTML 解析器进行仔细更改并与 HTML 标准化社区合作。它现在是多个浏览器的一部分，并且更难意外回归。该功能仅支持  作为  元素的子元素，并且辅助技术未宣布该功能。  的使用为作者提供了另一种在视觉上分隔选项的选择。]]></description>
+      <guid>https://t.me/hn_summary/71294</guid>
+      <pubDate>Sat, 27 Jan 2024 11:55:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]medium.com 上题为“30 分钟在 AWS Kubernetes 上克隆 ChatGPT”的博客文章 [...]</title>
+      <link>https://t.me/hn_summary/71293</link>
+      <description><![CDATA[30 分钟内在 AWS Kubernetes 上克隆 ChatGPT
+medium.com 上题为“30 分钟在 AWS Kubernetes 上克隆 ChatGPT”的博客文章 演示如何使用 Cluster.dev。这篇文章解释说，虽然 Hugging Face 提供了用于本地部署和测试的 Docker 容器，但将其快速部署到 Kubernetes 需要大量的工作和配置。作者介绍了Cluster.dev，一个开源框架，可以简化允许用户使用最少的命令和文档来部署全面的基础设施和软件，从而简化部署过程。该帖子提供了有关如何使用 Cluster.dev。 （根据 90% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/71293</guid>
+      <pubDate>Sat, 27 Jan 2024 11:10:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]在 Vimeo，我们很高兴向大家展示 2023 年最佳短视频。</title>
+      <link>https://t.me/hn_summary/71292</link>
+      <description><![CDATA[Vimeo：2023 年度最佳短视频&lt; br/&gt;
+在 Vimeo，我们很高兴推出 2023 年最佳短视频。这些视频展示了我们 Vimeo 社区令人难以置信的才华和创造力。从温馨的故事到令人费解的动画，这些短片将给您带来启发和娱乐。这还不是全部！注册或续订年度 Vimeo 计划即可享受 Premiere Pro 25% 的超值折扣。此优惠可让您将视频编辑技能提升到一个新的水平。不要错过这个观看年度最佳短视频并使用 Premiere Pro 增强编辑能力的绝佳机会。]]></description>
+      <guid>https://t.me/hn_summary/71292</guid>
+      <pubDate>Sat, 27 Jan 2024 11:06:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 网页内容讨论在 2024 年构建密码破解器。</title>
+      <link>https://t.me/hn_summary/71291</link>
+      <description><![CDATA[2024 年构建密码破解程序
+该网页内容讨论了在 2024 年构建密码破解程序。它提供了优化性能、选择正确的操作系统、安装驱动程序、超频以及使用流行密码恢复工具 hashcat 的提示和建议。它还提到使用 hashcat-utils 和 PACK 等工具进行密码分析和定制。内容强调了基准测试的重要性，并强调了基准测试性能在现实破解场景中的局限性。它还提供了生成用于密码破解的单词列表和字典的建议。总的来说，内容为那些有兴趣构建密码破解装备的人提供了实用的建议和资源。]]></description>
+      <guid>https://t.me/hn_summary/71291</guid>
+      <pubDate>Sat, 27 Jan 2024 11:01:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>在本文中，作者讨论了流体机械喷头的可逆性问题 [...]</title>
+      <link>https://t.me/hn_summary/71290</link>
+      <description><![CDATA[离心流驱动费曼喷头反向旋转
+在本文中，作者讨论了从 S 形管喷射流体时自动旋转的流体机械喷头的可逆性问题。他们进行了精密实验，发现在吸力作用下存在强劲且持续的反向旋转。他们还开发了一个模型来解释观察到的运动。实验涉及一个带有超低摩擦轴承的装置，允许在喷射和抽吸下自由旋转。作者发现了一种类似火箭的机制，由反向和正向模式共享，涉及角动量通量。反向旋转归因于弯曲管道中流动的离心效应。这些发现为这两种模式提供了定量准确的解释，并建议进一步研究基于通量的力的产生以及几何形状和雷诺数的作用。]]></description>
+      <guid>https://t.me/hn_summary/71290</guid>
+      <pubDate>Sat, 27 Jan 2024 10:52:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>问 HN：初创公司发生了什么，为什么一切都那么光鲜亮丽？</title>
+      <link>https://t.me/hn_summary/71289</link>
+      <description><![CDATA[问HN：初创公司怎么了，为什么一切都那么光鲜亮丽？ 
+news.ycombinator.com 上这篇文章的作者是质疑初创公司的现状以及为什么一切看起来都如此完美。他们指出，当初创公司推出时，他们的网站通常看起来已经完全开发完毕，拥有庞大的客户群、招聘机会和投资者。然而，作者认为这种精美的外观可能很普通，而且可能是假的。他们将此与微软和苹果公司的早期进行比较，这些公司斗志旺盛，缺乏完善，但仍然设法产生了重大影响。作者暗示，如今许多初创公司可能会使用来自 WordPress 等平台的精美模板来制造成功的假象。]]></description>
+      <guid>https://t.me/hn_summary/71289</guid>
+      <pubDate>Sat, 27 Jan 2024 10:49:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 睡眠类型是指一个人在 24 小时内的特定时间睡觉的倾向 [...]</title>
+      <link>https://t.me/hn_summary/71288</link>
+      <description><![CDATA[计时类型
+睡眠时间型是指一个人在 24 小时内的特定时间睡觉的倾向。大多数人处于晚上（晚上活跃且警觉）和早晨（早晨活跃且警觉）这两个极端之间。然而，睡眠偏好在整个发育过程中会发生变化，儿童更喜欢提前睡眠，青少年更喜欢延迟睡眠，许多老年人更喜欢提前睡眠。时间型的原因和调节仍在研究中，但研究表明基因与环境的相互作用发挥了作用。光线、喂养、社会行为、工作和学校时间表等环境因素也会影响睡眠类型。时间型也已在其他物种中进行了研究。超出正常范围的极端睡眠时间型会导致昼夜节律睡眠障碍。人们已经开发了各种问卷和量表来测量睡眠类型。早晚往往遵循正态分布，并且在很大程度上与种族、性别和社会经济地位无关。与晚上型人相比，早起型人白天的体温往往较高，入睡和起床较早，褪黑激素水平的峰值时间也较早。时间型在个性、智力领域、不适眩光感知和智力方面也有所不同。 （根据故事文本的 40% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/71288</guid>
+      <pubDate>Sat, 27 Jan 2024 10:21:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Brave 宣布已集成 Mixtral 8x7B 作为默认的大语言模型（L [...]</title>
+      <link>https://t.me/hn_summary/71287</link>
+      <description><![CDATA[Brave Leo 现在默认使用 Mixtral 8x7B
+Brave 宣布已将 Mixtral 8x7B 作为默认的大语言模型 (LLM) 集成到其 AI 浏览器助手 Leo 中。 Mixtral 8x7B 是 Mistral AI 在 12 月发布的开源 LLM，因其速度和性能而广受欢迎。根据 LMSYS 聊天机器人竞技场排行榜，它的表现优于其他模型，并根据 BBQ 基准显示在减少幻觉和偏见方面有所改进。 Brave 还改进了 Leo 用户体验，包括更清晰的入门和改进的 UI。 Leo 用户可以灵活地选择不同的模型，包括 Mixtral、Claude Instant 和 Llama 2。隐私仍然是 Brave Leo 的首要任务，聊天是私密、匿名且安全的。]]></description>
+      <guid>https://t.me/hn_summary/71287</guid>
+      <pubDate>Sat, 27 Jan 2024 09:09:55 GMT</pubDate>
+    </item>
     <item>
       <title>[媒体] 在 adiuvoengineering.com 的这篇博文中，作者讨论了构建过程 [...]</title>
       <link>https://t.me/hn_summary/71286</link>
       <description><![CDATA[FPGA、PCIe 和 XDMA – 构建和测试 AMD 软件驱动程序
-在这篇来自 adiuvoengineering.com 的博文中，作者讨论了该过程为 FPGA 和 PCIe 设备构建和测试 AMD 软件驱动程序。这篇文章提供了有关如何在 Linux 计算机上安装必要的软件驱动程序并运行测试以确保它们正确安装的分步说明。作者还强调了为主机安装 XDMA 驱动程序的必要性，并提供了如何执行此操作的说明。文章最后提到，在下一篇博文中，作者将探讨如何创建利用已安装驱动程序的软件。]]></description>
+在这篇来自 adiuvoengineering.com 的博文中，作者讨论了该过程为 FPGA 和 PCIe 设备构建和测试 AMD 软件驱动程序。这篇文章提供了有关如何在 Linux 计算机上安装必要的软件驱动程序并运行测试以确保它们正确安装的分步说明。作者还强调了为主机安装 XDMA 驱动程序的必要性，并提供了如何执行此操作的说明。这篇文章最后提到，在下一篇博客文章中，作者将探讨如何创建利用已安装驱动程序的软件。]]></description>
       <guid>https://t.me/hn_summary/71286</guid>
       <pubDate>Sat, 27 Jan 2024 08:48:41 GMT</pubDate>
     </item>
@@ -20,70 +84,6 @@
 Apple 宣布对其在欧盟 (EU) 的 iOS、Safari 和 App Store 进行更改，以遵守数字市场法案 (DMA) 并履行其法律义务。这些变化包括允许第三方应用商店和侧载，以及用于应用内购买的第三方支付机制。然而，批评者认为，苹果的合规行为是恶意的，它给应用商店运营商带来了沉重的义务和成本。该公司还降低了付费 iOS 应用程序的佣金率，但在其他地方增加了费用，这对一些开发者来说可能更糟。苹果允许欧盟使用不同浏览器引擎的决定被视为浏览器创新的积极举措。不过，这一让步并不适用于 iPadOS，这意味着 Mozilla 将不得不在欧盟维护两个版本的 Firefox。法律专家预计欧盟将质疑苹果遵守 DMA 的情况。]]></description>
       <guid>https://t.me/hn_summary/71285</guid>
       <pubDate>Sat, 27 Jan 2024 08:05:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]在这篇文章中，作者批评了初创公司创造宏伟使命的趋势[...]</title>
-      <link>https://t.me/hn_summary/71284</link>
-      <description><![CDATA[拥有“使命”的不必要的废话&lt; br /&gt;
-在本文中，作者批评了初创公司制定宏伟的使命宣言，将自己与崇高目标联系起来的趋势。他们认为这些陈述是不必要的，而且经常被员工视为不真诚。相反，作者认为真正激励员工的是公司的内部运作，比如自主权、产品质量和有远见的领导力。他们提供了像 Valve 这样的成功公司的例子，这些公司专注于创造创新和令人印象深刻的产品，而不是把它们包裹在利他的目标中。作者承认，一些使命宣言可能很有意义并反映了公司的文化，但敦促初创公司诚实并专注于其核心产品和服务。]]></description>
-      <guid>https://t.me/hn_summary/71284</guid>
-      <pubDate>Sat, 27 Jan 2024 08:05:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 此网页内容是 Reddit 上的 subreddit r/woahdude 的描述和一组规则。</title>
-      <link>https://t.me/hn_summary/71283</link>
-      <description><![CDATA[所有 7 颗行星都可以容纳在地球和月球之间 
-此网页内容是 Reddit 上的 subreddit r/woahdude 的描述和一组规则。该 Reddit 子版块致力于分享迷幻、令人费解和迷幻的内容，这些内容可以使清醒的人感到醉酒，或增强已经醉酒的人的体验。内容包括鲜艳的色彩、强烈的图案、令人兴奋的科学和哲学、超现实主义和奇怪的音乐。 Reddit 子版块的规则包括允许发布什么类型的内容、描述性标题和警告标签的重要性以及禁止有毒行为和省力提交的指南。此内容中没有任何争议或令人惊讶的信息。]]></description>
-      <guid>https://t.me/hn_summary/71283</guid>
-      <pubDate>Sat, 27 Jan 2024 07:53:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]苹果公司宣布计划遵守欧盟的数字市场法案 [...]</title>
-      <link>https://t.me/hn_summary/71282</link>
-      <description><![CDATA[Apple 在欧盟的 DMA 计划&lt; br /&gt;
-Apple 宣布计划遵守将于 3 月 7 日生效的欧盟数字市场法案 (DMA)。DMA 旨在监管大型科技公司，防止它们成为过于强大的看门人。然而，围绕 DMA 存在争议，一些人认为它是反大企业而不是有利于消费者的。苹果提出的改变包括允许欧盟开发者使用替代的应用程序分发和支付处理选项。该公司强调，它优先考虑用户的隐私和安全，但批评者认为，这些变化可能会使平台变得复杂，并使用户的情况变得更糟。 （根据故事文本的 41% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/71282</guid>
-      <pubDate>Sat, 27 Jan 2024 07:49:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]作者回忆起他们十几岁时听到的一句话，并试图在我们这里找到它的起源[...]</title>
-      <link>https://t.me/hn_summary/71281</link>
-      <description><![CDATA[ChatGPT 知道 Google 不知道的事情
-作者回忆起青少年时期听到的一句话，并尝试使用谷歌查找其来源，但失败了。然后，他们转向 ChatGPT，这是一种在语义层面上工作的工具，令人惊讶的是，它知道这句话。然而，作者质疑 ChatGPT 答案的可靠性，因为它容易产生幻觉。作者探讨了 ChatGPT 和 Google 之间差异的可能解释，包括 ChatGPT 可以访问 Google 无法访问的数据的想法。最终，作者无法找到明确的答案，希望有人能帮助他们揭开这句话的出处。]]></description>
-      <guid>https://t.me/hn_summary/71281</guid>
-      <pubDate>Sat, 27 Jan 2024 07:46:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>X/Twitter 上的用户报告了使用与 Taylor Swift 和 se [...]</title>
-      <link>https://t.me/hn_summary/71280</link>
-      <description><![CDATA[“Taylor Swift”在 X/Twitter 上被禁止
-X/Twitter 上的用户报告称，在使用与泰勒·斯威夫特相关的主题标签以及在平台上搜索她的名字时遇到了困难。这是由于人工智能生成的图像引发了争议，这些图像描绘了歌手处于妥协的境地。对泰勒·斯威夫特内容的禁令引发了粉丝的担忧，并引发了对该平台处理有争议内容的质疑。]]></description>
-      <guid>https://t.me/hn_summary/71280</guid>
-      <pubDate>Sat, 27 Jan 2024 07:02:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]在研究人员进行的一项研究中，钢琴演奏新手的大脑活动是m [...]</title>
-      <link>https://t.me/hn_summary/71279</link>
-      <description><![CDATA[学习钢琴会引发大脑活动的复杂变化&lt; br /&gt;
-在研究人员进行的一项研究中，当钢琴演奏新手学习更复杂的音乐作品时，他们的大脑活动受到监测。研究发现，学习弹钢琴会引发大脑活动的复杂变化，并随着时间的推移而发生变化。最初，大脑中与记忆、感觉统合和运动处理相关的区域变得高度活跃。然而，随着学习者变得更加熟练，这种激活就会减弱。这项研究为演奏乐器学习过程中大脑活动的重组提供了宝贵的见解。此前该领域的研究持续时间有限，且仅基于一次扫描。]]></description>
-      <guid>https://t.me/hn_summary/71279</guid>
-      <pubDate>Sat, 27 Jan 2024 06:45:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]根据公共宗教研究所（PRRI）的一项最新调查，近30% [...]</title>
-      <link>https://t.me/hn_summary/71278</link>
-      <description><![CDATA[近 30% 的 Z 世代成年人认为自己是 LGBTQ 
-根据公共宗教研究所 (PRRI) 的一项新调查，美国近 30% 的 Z 世代成年人认为自己是 LGBTQ，这一比例明显高于年龄较大的群体。调查发现，18 至 25 岁的 Z 世代成年人中有 28% 认为自己是 LGBTQ，而所有成年人中这一比例为 10%。报告还显示，Z 世代成年人在种族和种族上更加多元化，不太可能加入既定宗教。此外，Z 世代成年人更有可能认为自己是 LGBTQ，而不是共和党人。这些发现与其他主要调查一致，表明 Z 世代是迄今为止最奇怪的成年人。该调查于 8 月和 9 月进行，共有超过 6,600 名参与者。面对美国 LGBTQ 权利面临的日益严峻的挑战，LGBTQ+ 青年日益增长的知名度和积极性被视为变革的力量]]></description>
-      <guid>https://t.me/hn_summary/71278</guid>
-      <pubDate>Sat, 27 Jan 2024 06:37:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]根据Quinn Emanuel Urquhart & Sullivan律师事务所的一份报告，克鲁斯，自 [...]</title>
-      <link>https://t.me/hn_summary/71277</link>
-      <description><![CDATA[邮轮并未向监管机构隐瞒事故视频 - 它的网络状况不佳
-根据Quinn Emanuel Urquhart &amp; Sullivan律师事务所的一份报告，通用汽车旗下自动驾驶汽车子公司Cruise由于“互联网原因”，无法向监管机构发送其无人驾驶汽车拖行行人事件的视频。连接问题。”报道还透露，该事件正在接受司法部和证券交易委员会的调查。加州机动车辆管理局吊销了克鲁斯的驾照，并指责该公司隐瞒了部分视频。该报告表明，克鲁斯未能披露有关该事件的关键细节，并凸显了公司内部对监管机构的敌对文化。多名高管辞职，Cruise 已暂停无人驾驶业务并召回车辆。]]></description>
-      <guid>https://t.me/hn_summary/71277</guid>
-      <pubDate>Sat, 27 Jan 2024 06:29:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
