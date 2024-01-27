@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 26 Jan 2024 12:19:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jan 2024 09:09:17 GMT</lastBuildDate>
     <item>
-      <title>您为客户设置电子邮件地址吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1abgzcr/do_you_set_up_email_addresses_for_clients/</link>
-      <description><![CDATA[嘿， 当您拥有域名并将其托管在 Hostinger 等网站上时，他们会为您提供该域名的电子邮件地址领域。  如果您是一名自由网络开发人员，您通常会为客户处理这个问题吗？如果您将他们的网站托管在 Vercel/Netlify 等平台上，您会如何做？  如果您在 Netlify/Vercel 上托管，是否有任何电子邮件提供商可以与您的域一起使用？  谢谢！   由   提交 /u/Philosofen   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1abgzcr/do_you_set_up_email_addresses_for_clients/</guid>
-      <pubDate>Fri, 26 Jan 2024 12:15:00 GMT</pubDate>
+      <title>前端开发人员可以在没有后端开发人员帮助的情况下构建网站吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ac6jsu/can_a_frontend_developer_build_a_website_without/</link>
+      <description><![CDATA[​ 考虑参加课程以成为一名经过认证的前端开发人员。我只是想知道在没有接受后端开发技能培训的情况下我能做什么的局限性，因为这些课程非常昂贵。成为一名全栈开发人员是否需要自己构建网站，或者我可以仅使用前端知识来完成它吗？ 与每种技能相比，我可以使用两种技能组合构建的网站有哪些示例其他？   由   提交 /u/PerfectConclusion932   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ac6jsu/can_a_frontend_developer_build_a_website_without/</guid>
+      <pubDate>Sat, 27 Jan 2024 08:48:34 GMT</pubDate>
     </item>
     <item>
-      <title>远程访问我的数字生活</title>
-      <link>https://www.reddit.com/r/webdev/comments/1abg64n/keep_access_to_my_digital_life_remotely/</link>
-      <description><![CDATA[嗨！我不知道我问这个问题是否正确，所以提前抱歉！我要进行一次远离家乡的长期旅行，我想实施一些数字解决方案，让我的远方生活更轻松。首先，我正在使用 WordPress 创建一个旅行博客，以分享我的照片和冒险经历。其次，我想远程访问我的数字生活，但我真的不知道该怎么做。我已经有一个本地 NAS，上面有我的照片、个人文档等，我想保持对它的访问。我将在离开之前取消我的互联网订阅，因此无法打开我的互联网盒上的端口来保持对我的 nas 的访问。您会向我建议什么解决方案？在我的博客上提供一个私人部分，我可以在其中访问所有这些私人数据，但我的印象是这不是很好的安全级别。或者支付额外的主机费用来安装带有主机的 NAS？或者直接付费购买符合隐私要求的云来托管这一切。预先感谢您的建议。    由   提交 /u/EmergencyWeight7473   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1abg64n/keep_access_to_my_digital_life_remotely/</guid>
-      <pubDate>Fri, 26 Jan 2024 11:25:29 GMT</pubDate>
+      <title>🖤❤️心潮澎湃</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ac69ib/heartwave/</link>
+      <description><![CDATA[ 由   提交/u/mburakerman  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ac69ib/heartwave/</guid>
+      <pubDate>Sat, 27 Jan 2024 08:28:47 GMT</pubDate>
     </item>
     <item>
-      <title>Monorepo 设置、路径和重定向</title>
-      <link>https://www.reddit.com/r/webdev/comments/1abfvei/monorepo_setup_pathing_and_redirects/</link>
-      <description><![CDATA[      大家好，我收集了一些我一直在工作的迷你项目，并意识到我应该开始使用 monorepo 在必要时共享组件、类型和实用程序，特别是当某些这些项目彼此相关。我一直在使用 npm 包来构建 monorepo，如下所示： monorepo/ │ | ── 包/ │ |── 项目A/ │ │ |── 页面/ │ │ │ ├── index.tsx │ │ │ └── ... │ │ |── package.json │ │ |── .. . │ │ │ |── 项目B/ │ │ |── 页面/ │ │ │ ├── index.tsx │ │ │ └── ... │ │ |── package.json │ │ |── ... │ │ │ |── ...（其他包） │ |── node_modules/ │ |── .git/ |── package.json |── ...  I我很自然地使用 next js 构建了这个，我希望将其托管在 vercel 上。最终目标是在根域上托管一个主页（从 monorepo 的 index.tsx 提供服务），然后 packages/ 目录中的每个迷你项目将位于根/主页的路径上。我只是不完全确定如何实现这一目标。我遇到过重写和重定向，但我希望能够在本地和部署时运行它。对于本地开发，我正在考虑使用一个包，例如同时在不同端口上运行 packages/dir 中的所有迷你项目，然后在每个项目的内部使用 ENV 标志next.config.js 来确定重定向或重写应指向的位置。  ​ 预期结果 有没有合法的方法可以做到这一点，或者有人对我如何构造这个有建议，以便将来我可以用多个迷你扩展它项目无需硬编码 URL？  提前致谢   由   提交/u/Whizz5  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1abfvei/monorepo_setup_pathing_and_redirects/</guid>
-      <pubDate>Fri, 26 Jan 2024 11:06:25 GMT</pubDate>
+      <title>帮我挑一堆！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ac617o/help_me_pick_a_stack/</link>
+      <description><![CDATA[所以，我目前是一名 PHP/Typescript 人员，希望重写我早就该进行的 SAAS 检修。我没有按时完成任务，并且非常乐于学习新东西。  背景： 这是一个小众社交网络应用程序，类似于 Facebook，但成人网站拥有大约 100 万用户（并非所有活跃用户）。目前在 3 台专用服务器上运行，微服务在 AWS 上，资产在 cloudfront/s3 上。跨时区大约 1-2k 并发用户。  前端： 前端的第一个想法是 React，但是（React 开发人员快要恨我了）我真的不认为它对 SEO 很友好（海绵宝宝模因，但 Google 解析渲染的 js等等）但我也有一个庞大的国际用户群，因此有效负载大小是一个重要因素。  我考虑过将它仅用于会员区域，这显然是 React 的一个很好的用例。唯一的问题是公开内容中有很多交叉内容，并且不能将其写入两次。  Vue.js 似乎是一种可能性，并且似乎有可能获得相当小的有效负载，并且对 SSR 更友好，这将解决公共/成员可重用性问题，所以我想我想要一些原因我的这个思维过程是错误的。  老派的 Jquery/Bootstrap/SASS 风格？显然是超轻（zepto），但已经完成了，虽然它是轻自动对焦，并且与我的简约强迫症融为一体。我真的很喜欢基于组件的方法和较新的框架。  后端：SSR 绝对是一个主要需求。能够很好地提高组件可重用性的东西。有点想 Nest.js（Nuxt？），但我真的很想涉足 Go。我想使用 websockets 进行消息/通知，似乎 go 在资源方面更好一些，但似乎没有很多模板选项（基于 3 秒的谷歌搜索，请建议）像 Laravel 之类的东西。我还拥有 20 年经验（至少是 PHP）的额外好处 所以……现在我已经惹恼了这里的每一位开发人员……我是一本开放的书。真的很想用所有的可能性来看待这个问题。我有点守旧，我真的很喜欢最小的依赖性，并且诚实地喜欢尽可能多地从裸机构建 对任何和所有讨论和辩论持开放态度。所有选项都有优点和缺点，我很想听听您对在我的场景中使用什么的意见。尤其是那些我没有考虑过的。   由   提交/u/dontletthestankout   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ac617o/help_me_pick_a_stack/</guid>
+      <pubDate>Sat, 27 Jan 2024 08:12:55 GMT</pubDate>
     </item>
     <item>
-      <title>如何使用 google-oauth20 回调来重定向和发送响应数据？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1abf149/how_can_i_use_googleoauth20_callback_to_both/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1abf149/how_can_i_use_googleoauth20_callback_to_both/</guid>
-      <pubDate>Fri, 26 Jan 2024 10:07:50 GMT</pubDate>
+      <title>印刷媒体风格导航</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ac5lcc/navigation_in_print_media_style/</link>
+      <description><![CDATA[      教程、代码和示例演示：此处  &amp; #32；由   提交/u/mirhod  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ac5lcc/navigation_in_print_media_style/</guid>
+      <pubDate>Sat, 27 Jan 2024 07:43:45 GMT</pubDate>
     </item>
     <item>
-      <title>无知又沮丧🥴</title>
-      <link>https://www.reddit.com/r/webdev/comments/1abepnc/clueless_and_frustrated/</link>
-      <description><![CDATA[大家好，我是来自印度的非技术初创公司创始人。建立一个市场，普通用户和卖家可以在我们的网站上销售他们的电子产品，我们收取佣金并作为中间人处理交易。 现在我不知道应该使用 Shopify + Multi 构建这个市场供应商插件（24 + 60 美元/月）。或者我应该由网络开发人员进行定制。 任何有此多供应商市场类型项目经验的人请指导我。 PS：目前我负责公司的整体运营管理一个电子商务网站（建立在无代码平台上），我在其中销售利基产品。现在我正在将同样的利基市场转变为 C2C 市场。   由   提交 /u/IsmailNerd   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1abepnc/clueless_and_frustrated/</guid>
-      <pubDate>Fri, 26 Jan 2024 09:45:23 GMT</pubDate>
+      <title>Web 应用程序 - 客户帐户登录模板</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ac5isa/web_app_customer_account_login_template/</link>
+      <description><![CDATA[我做网站已经很多年了，但我仍然无法集中精力找到任何简单快捷的东西。我正在寻找一个经过修改的网络应用程序模板，该模板将允许我的客户创建帐户、登录并查看他们的文档、帐户详细信息、未结帐单并进行付款。  模板必须在 Visual Studio 中可编辑，并链接到 MSSQL 作为数据库 - 所以我对预制商店网站等不感兴趣，它用于这些模板/的一组定制服务网站构建器网站无法处理。 有什么想法吗？我在哪里可以获得这样的模板，这样我就不必花费数月时间从头开始构建？   由   提交/u/james1b14  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ac5isa/web_app_customer_account_login_template/</guid>
+      <pubDate>Sat, 27 Jan 2024 07:38:50 GMT</pubDate>
     </item>
     <item>
-      <title>托管和客户端管理</title>
-      <link>https://www.reddit.com/r/webdev/comments/1abeo7w/hosting_and_client_management/</link>
-      <description><![CDATA[我正在寻找一种一体化平台，能够以单一价格托管、提供域名并管理大量客户网站。我可以使用什么平台？   由   提交 /u/stevohd   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1abeo7w/hosting_and_client_management/</guid>
-      <pubDate>Fri, 26 Jan 2024 09:42:21 GMT</pubDate>
+      <title>最近裁员太多，所以我创建了一个应用程序来帮助在一分钟内写求职信</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ac5hab/too_many_layoff_recently_so_i_created_an_app_to/</link>
+      <description><![CDATA[看看它是否可以帮助您加快第一轮找工作的速度：https://cover-letter-gpt-pi.vercel.app/ 很高兴听到你的反馈和想法，如果你小心！   由   提交 /u/nemothecollector   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ac5hab/too_many_layoff_recently_so_i_created_an_app_to/</guid>
+      <pubDate>Sat, 27 Jan 2024 07:35:48 GMT</pubDate>
     </item>
     <item>
-      <title>Python：开发人员无法抗拒的 10 个优势</title>
-      <link>https://www.reddit.com/r/webdev/comments/1abeiaj/python_10_benefits_that_developers_cant_resist/</link>
-      <description><![CDATA[       由   提交/u/Shakuro_com   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1abeiaj/python_10_benefits_that_developers_cant_resist/</guid>
-      <pubDate>Fri, 26 Jan 2024 09:30:15 GMT</pubDate>
+      <title>网络开发工作没有成长性吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ac5h5j/does_a_web_development_job_have_no_growth/</link>
+      <description><![CDATA[我（快 18 岁了）最近一直在考虑进入 webdev 领域，除了在高中教过 IP 之外，我之前没有任何编码经验基本的 Python 和 SQL，但编码总是让我着迷并激起我的思考。我正在考虑走自学路线，所以我问我爸爸，他说“任何人都可以在 6 个月内进行 Web 开发，这是一项没有成长的工作，不要将其视为第一选择，请将其作为最后选择”...他说得对吗？我是否应该先进行网络开发，然后转向机器学习之类的东西..（我不想，因为我读到它需要良好的数学技能，而我不太擅长）我还有很多问题，稍后会发布，因为我有我的几天后就要考试，我想先专注于考试   由   提交/u/TheGamingTech7  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ac5h5j/does_a_web_development_job_have_no_growth/</guid>
+      <pubDate>Sat, 27 Jan 2024 07:35:33 GMT</pubDate>
     </item>
     <item>
-      <title>我无法找到将用户重定向到另一个人的个人资料页面而不暴露 URL 中敏感数据的最佳方法 (NextJs)</title>
-      <link>https://www.reddit.com/r/webdev/comments/1abei7o/i_am_having_trouble_finding_the_best_way_to/</link>
-      <description><![CDATA[所以我按照 NextJs 上的教程进行操作，因为我以前从未使用过它。 “自己做”的一部分是部分表示将点击事件添加到另一个用户的名称，并将其重定向到 URL 下的个人资料页面 http://localhost:3000/profile/[userId]?name= [username]  这有明显的缺陷，因为用户名，尤其是 OAuth 用户名不是唯一的。我可以在网站上查看 Sam Bradford 16 次，但我也无法使用他们的电子邮件，因为它很敏感。所以我想的只是使用 usePathname 并将 url 拆分为“/”只是以这种方式获取 id，但我觉得必须有更好的方法来做到这一点，而我目前正在空白。下面是一些代码。 const handleProfileClick = (e: React.MouseEvent) =&gt; { // 如果用户 id 和帖子 id 相同 if (session?.user?.id === post?.creator?._id) { router.push(&quot;/profile&quot;); } else { router.push(`/profile/${post.creator._id}`); } } // 调用handleProfileClick 的整个div 是可点击的  &lt;图像 src={post.creator.image} alt=“user_image” width={40} height={40} className=“圆角完整对象包含” &gt;&gt; &lt;div className=&quot;flex flex-col&quot;&gt; &lt;h3 className=&quot;font-satoshi font-semibold text-gray-900&quot;&gt; {post.creator.username} &lt;/h3&gt;  {post.creator.email} &lt;/p&gt;    个人资料/[userId]路线 &#39;use client&#39; import { usePathname } from &quot;next/navigation&quot;从“@components/Profile”导入配置文件const UsersPage = () =&gt;; { const 路径名 = usePathname(); const pathSplit = pathname.split(&quot;/&quot;) const userId = pathSplit[pathSplit.length - 1] return ( &lt;&gt; Test  ) } 导出默认 UsersPage  &lt;这是最好的方法吗？？？提前致谢   由   提交/u/cr1M0r3  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1abei7o/i_am_having_trouble_finding_the_best_way_to/</guid>
-      <pubDate>Fri, 26 Jan 2024 09:30:07 GMT</pubDate>
+      <title>静态博客，为非编码人员提供免费/廉价的托管 CMS</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ac4jcd/static_blog_with_freecheap_hosted_cms_for/</link>
+      <description><![CDATA[我是一名网络开发人员，我正在努力帮助某人（非编码人员）创建博客。他们希望 CMS 可供多人访问（因此 Publii 或类似的东西是不可能的），因此它必须在线托管在某个地方。博客本身是静态的，没有评论/购物/等功能，所以理想情况下我可以设置某种工作流程，例如 CMS -&gt;静态文件生成-&gt;放在 Github Pages 上可以省钱，因为 WordPress 托管对于一堆有问题的主机来说似乎相对昂贵。 有什么方法可以做到这一点吗？我一直在研究 CMS 和主机，但有上百万个，而且我在 Google 上看到的几乎所有内容都是有问题的营销，而且我无法判断哪些内容实际上有什么好处。    由   提交 /u/Amazydayzee   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ac4jcd/static_blog_with_freecheap_hosted_cms_for/</guid>
+      <pubDate>Sat, 27 Jan 2024 06:33:30 GMT</pubDate>
     </item>
     <item>
-      <title>我可以赚更多钱吗</title>
-      <link>https://www.reddit.com/r/webdev/comments/1abehvj/could_i_make_more_money/</link>
-      <description><![CDATA[我想知道是否有人可以给我一些关于如何通过我的网站赚更多钱的建议。我对这些事情有点无能为力/或者更好地说是因为太多的选择而不知所措，不知道什么是最好的。 我有一个关于塔罗牌（精神/神秘）的网站，我在 28 天内浏览了大约 22.400 klicks （这就是谷歌搜索控制台所说的）。我在第一页上有特定的关键字。  但是我觉得我的收入不够。过去 7 天我赚了大约 2 欧元，或者每月通过 google adsense 赚了大约 10 欧元。  非常感谢任何提示：）谢谢！ 编辑：google adsense 说我的潜在收入可能是每年 1000 美元。但它更像是 250   由   提交 /u/Lilenna   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1abehvj/could_i_make_more_money/</guid>
-      <pubDate>Fri, 26 Jan 2024 09:29:27 GMT</pubDate>
+      <title>右下角是什么</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ac45ja/what_is_at_bottom_right/</link>
+      <description><![CDATA[     &lt; td&gt; 我（不认为）以前在访问网站时从未在移动设备上见过这样的控制台。目的是什么？   由   提交/u/anonomom19  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ac45ja/what_is_at_bottom_right/</guid>
+      <pubDate>Sat, 27 Jan 2024 06:09:35 GMT</pubDate>
     </item>
     <item>
-      <title>链接缩短器：Go 还是 Bun.js + Hono？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1abefb0/link_shortner_go_or_bunjs_hono/</link>
-      <description><![CDATA[嘿伙计们！我有一个链接缩短服务的想法，我正在考虑使用 Go 或 Bun.js + Hono。我不是构建此项目的开发人员，但回答此问题将使我能够开始寻找具有该项目正确技术经验的开发人员。规模较小时，它与 bitly 类似。 那么，在速度、稳定性、服务器成本等方面，哪一个更好 假设该服务将获得 100 万次点击/day 在短时间内，哪种解决方案可以处理这个问题并且不会中断？ 一旦我选择了要使用的解决方案，我就必须为该项目找到一个开发人员:)  启发我！ :)   由   提交/u/laurmat   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1abefb0/link_shortner_go_or_bunjs_hono/</guid>
-      <pubDate>Fri, 26 Jan 2024 09:24:11 GMT</pubDate>
+      <title>如何捕获使用延迟加载的网站的长滚动屏幕截图？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ac1deq/how_to_capture_a_long_scrolling_screenshot_of_a/</link>
+      <description><![CDATA[您好， 我需要创建一个长屏幕截图，但相关网站使用延迟加载，因此图像的一半当我捕获它时，它是空白的，即使当我选择检查元素中的最上面一行进行屏幕截图时也是如此。 必须有一种比将一堆屏幕截图拼接在一起更好的方法。 还有，有没有办法对网站进行整页/长条视频录制，以便可以看到移动图像之类的东西？ &lt;!-- SC_ON - -&gt;  由   提交 /u/PeterMcPhile   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ac1deq/how_to_capture_a_long_scrolling_screenshot_of_a/</guid>
+      <pubDate>Sat, 27 Jan 2024 03:35:18 GMT</pubDate>
     </item>
     <item>
-      <title>[需要工作] Fullstack webdev - 20 年以上经验，欧盟 - 寻找远程工作</title>
-      <link>https://www.reddit.com/r/webdev/comments/1abe5xy/need_a_job_fullstack_webdev_20_years_of/</link>
-      <description><![CDATA[我是那些自学成才的开发人员之一，他们带来了知识和大量经验（超过 20 年）谁的工作就是他的世界。如果你选择我，我会为成功和贵公司的认可而奋斗，但我需要在其中看到自己。 我经历了很多事情，并且有一个很多经验。 DevOps（Linux 系统）、硬件工程师（ATMEL、ARM 嵌入式），但主要是网页设计师（UX、品牌标识、用户界面）、前端（Vue、React、Angular、TypeScript，非常擅长 CSS、jquery.. 我的经验是一直回到表和 IE5）和后端（PHP MVC、NodeJS、Python、Joomla、Wordpress..）。但主要是我想专注于全栈。 如果你将我添加到一个团队中，你会得到一个想要融入其中的人，性格内向，完全是极客（Picard是我的队长）。 请随时在 Linkedin 上 ping 我：https://www.linkedin.com /in/miharajster/ 或查看我的 Github：https://github.com/miharajster 我也有 Medium，但我需要做更多的工作：https://medium.com/@rajster.miha 我正在寻找全职遥控器。任何时区。每天7-12小时，无薪休假。工作时间=赚到的钱。我也有自己的公司了。   由   提交 /u/winsucker   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1abe5xy/need_a_job_fullstack_webdev_20_years_of/</guid>
-      <pubDate>Fri, 26 Jan 2024 09:04:58 GMT</pubDate>
+      <title>在关系数据库中，我如何决定什么应该是表？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ac16jh/in_relational_database_how_do_i_decide_what/</link>
+      <description><![CDATA[我正在开发的应用程序基本上是一个看板，使用 React Express 和 Postgres。 在 postgres 中我有以下内容表： 用户板列任务子任务 在前端，创建板的表单也有列字段，因此当我提交板的 POST 请求时，我还需要创建列。 现在将 Columns 作为自己的表是否正确？或者我可以将其作为董事会架构的一部分吗？因为如果我更新看板，那么我也需要更新列。   由   提交/u/Intelligent_Will_948   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ac16jh/in_relational_database_how_do_i_decide_what/</guid>
+      <pubDate>Sat, 27 Jan 2024 03:25:19 GMT</pubDate>
     </item>
     <item>
-      <title>从 Wordpress 迁移到 Framer 但保留相同的域名</title>
-      <link>https://www.reddit.com/r/webdev/comments/1abdvg9/migrating_from_wordpress_to_framer_but_keeping/</link>
-      <description><![CDATA[嗨， 我是一个正在尝试学习的初学者，所以请耐心等待！ 我们（我们公司）正在从 Wordpress（旧站点）迁移到 Framer（新站点），但我们保留相同的域名。您能否帮我确认下面的清单，以便我知道我不会在排名/Google 索引方面使网站崩溃。   构建 Framer 站点并尝试尽可能复制 URL、菜单、站点地图和内容结构等 ？ 更新 DNS 记录并指向新的 Framer 网站 将新站点地图上传到 Search Console/Framer 维护/移动后分析  我有点对于第二点不清楚。在发布当天，我们是否关闭第一个站点，然后立即进入第三步？因为据我所知，两个同名的网站不可能同时存在。  非常感谢任何帮助！ 祝你有美好的一天！   由   提交/u/NordicPilot00   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1abdvg9/migrating_from_wordpress_to_framer_but_keeping/</guid>
-      <pubDate>Fri, 26 Jan 2024 08:43:47 GMT</pubDate>
+      <title>最后，官方：谷歌：HTML结构对排名并不重要</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ac035e/at_last_its_official_google_html_structure_doesnt/</link>
+      <description><![CDATA[   /u/WebLinkr  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ac035e/at_last_its_official_google_html_structure_doesnt/</guid>
+      <pubDate>Sat, 27 Jan 2024 02:28:43 GMT</pubDate>
     </item>
     <item>
-      <title>在外部网站的 iFrame 中跟踪分析</title>
-      <link>https://www.reddit.com/r/webdev/comments/1abdni5/tracking_analytics_in_an_iframe_on_external/</link>
-      <description><![CDATA[我拥有一个 iFrame，我们的客户已将我们的 iFrame 嵌入到他们的网站上。 我们需要跟踪简单的指标例如在其网站上看到徽章的人数以及网站所有者的 URL。不过，我很难配置 Google Analytics（分析）来跟踪此情况。 当我设置 Google Analytics（分析）时，如果我单独检查 iFrame URL，它就会跟踪访问情况。但是，当我访问包含我们的 iFrame 的客户页面时，它不会跟踪访问。 如何解决此问题？  P.S.不存在法律问题，因为我们的客户同意这种安排。   由   提交/u/Charming-Fox5574   reddit.com/r/webdev/comments/1abdni5/tracking_analytics_in_an_iframe_on_external/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1abdni5/tracking_analytics_in_an_iframe_on_external/</guid>
-      <pubDate>Fri, 26 Jan 2024 08:27:33 GMT</pubDate>
+      <title>使用两塔方法和 Expedia Group Traveler 数据生成候选者</title>
+      <link>https://www.reddit.com/r/webdev/comments/1abys6f/candidate_generation_using_a_twotower_approach/</link>
+      <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1abys6f/candidate_generation_using_a_twotower_approach/</guid>
+      <pubDate>Sat, 27 Jan 2024 01:23:51 GMT</pubDate>
     </item>
     <item>
-      <title>希特勒尝试了新的 RSC 和 Nextjs 14</title>
-      <link>https://www.reddit.com/r/webdev/comments/1abdlm3/hitler_tried_new_rsc_and_nextjs_14/</link>
-      <description><![CDATA[ 由   提交 /u/catapillaarr   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1abdlm3/hitler_tried_new_rsc_and_nextjs_14/</guid>
-      <pubDate>Fri, 26 Jan 2024 08:23:39 GMT</pubDate>
+      <title>请阻止我</title>
+      <link>https://www.reddit.com/r/webdev/comments/1abyk9r/please_stop_me/</link>
+      <description><![CDATA[所以我非常喜欢痴迷于无意义的小事情，但我真的很想知道这里有什么更好。因此，作为一名初级开发人员，我主要构建非常简单的 CRUD 应用程序，其中任何性能开销可能几乎不会被注意到。然而，我经常想，如果多次迭代一个小数组真的会伤害我的灵魂，而不是用 JavaScript 中的 Map 对象想出一些复杂的机制。例如，我想推导出数组交集来过滤掉表中的可见字段 - 是否值得储备我的头脑并制作一个地图来检查某些 ID，或者最好只使用数组来处理其中的所有内容和使用包含或查找进行迭代？我不知道它在幕后的装配中是如何工作的，所以我完全不知道一种方法在性能方面是否会优于另一种方法。谢谢   由   提交 /u/ExiledDude   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1abyk9r/please_stop_me/</guid>
+      <pubDate>Sat, 27 Jan 2024 01:13:09 GMT</pubDate>
     </item>
     <item>
-      <title>网站简约，但速度慢</title>
-      <link>https://www.reddit.com/r/webdev/comments/1abdcrz/minimalistic_website_but_slow/</link>
-      <description><![CDATA[你好。 我是 Web 开发的完全初学者。最近，我购买了 Hostinger 的高级托管来创建自定义计算器（Wordpress）。计算器是用插件制作的，它是非常简单的每小时费率计算器。尝试了一些加快速度的步骤（例如缓存清理），但 PageSpeed Insights 显示移动性能为 63，桌面性能为 74。 是否是因为我使用模板启动了网站？一开始，我的网站默认有多个页面和段落。我刚刚在编辑器模式下删除了所有内容并添加了我的插件的短代码。我不知道。  如果更有经验的人能够阐明这个情况，我将非常感激！   由   提交/u/vekur  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1abdcrz/minimalistic_website_but_slow/</guid>
-      <pubDate>Fri, 26 Jan 2024 08:05:58 GMT</pubDate>
+      <title>nodejs：getaddrnfo EAI_AGAIN 错误</title>
+      <link>https://www.reddit.com/r/webdev/comments/1abyiv9/nodejs_getaddrnfo_eai_again_error/</link>
+      <description><![CDATA[      嗨，webdev！最近遇到一个问题，我不太确定这是一个提问的好地方。 我有一个简单的nodejs 程序，它只是检查文件头的上次修改情况。在大多数情况下，它可以工作，并且会返回 304 未修改的代码。 但是，如果我让它运行超过一分钟左右，我将开始不停地获取 getaddrinfo EAI_AGAIN。  p&gt; ​ 这是显示的错误 有人知道该问题的潜在原因吗？我的 ISP 的 DNS 是否会限制查找？ 1 个请求/秒似乎并不过分。 该文件托管在 AWS S3 存储桶中，通过 Cloudfront 提供服务。该文件也是可公开访问的，并且前面没有 WAF。该域和路由表也位于 AWS R53 上。该代码在具有稳定互联网连接的 Windows 11 桌面上的 Node v20.10.0 上运行。目标文件存在，并且可以在重复抛出错误时通过浏览器访问。 这是我用来重现该问题的稍微经过编辑的代码： const https = 要求(&#39;https&#39;); const checkHeader = () =&gt;; { 让日期 = 新日期（）; https.request(`${TARGET_FILE_URL}`, { method: &#39;HEAD&#39;, headers: { &#39;If-Modified-Since&#39;: date.toString() } }, (res) =&gt; { console.log(res. statusCode); }).on(&#39;error&#39;, (err) =&gt; { console.error(err); }).end(); setInterval(checkHeader, 1000);  ​   由   提交 /u/_Lucille_   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1abyiv9/nodejs_getaddrnfo_eai_again_error/</guid>
+      <pubDate>Sat, 27 Jan 2024 01:11:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
