@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 28 Jan 2024 12:13:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jan 2024 18:10:03 GMT</lastBuildDate>
     <item>
-      <title>[媒体]该博客文章讨论了在 ell 中验证公钥和参数的重要性 [...]</title>
-      <link>https://t.me/hn_summary/71452</link>
-      <description><![CDATA[椭圆曲线加密验证图解指南
-该博客文章讨论了验证椭圆曲线加密 (ECC) 中的公钥和参数以防止漏洞和攻击的重要性。它强调了验证中的常见失败，并提供了避免失败的图解指南。该帖子强调需要检查点坐标是否低于场模量、对应于有效的曲线点、不是无穷远点并且位于正确的子组中。它还提到，虽然这些验证规则通常适用于所有曲线，但某些曲线和结构旨在防止这些问题。 （根据故事文本的 68% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/71452</guid>
-      <pubDate>Sun, 28 Jan 2024 12:13:48 GMT</pubDate>
+      <title>[媒体]根据 Jet Brains 的一份报告，73% 的开发人员在 [...]</title>
+      <link>https://t.me/hn_summary/71492</link>
+      <description><![CDATA[开发者经历过倦怠，但 70% 的人在周末编码
+根据 Jet Brains 的报告，73% 的开发者在职业生涯中经历过职业倦怠。那些经历过倦怠的人更容易感到疲倦，并使用自我监控应用程序或设备来跟踪他们的健康数据。研究发现，心理健康、自我组织和时间管理等因素可以提高那些经历过倦怠的人的日常工作效率。此外，75% 的开发人员已经退出了学习计划或课程，其中许多人更喜欢通过文档和 API 而不是传统课程来学习。良好的工作时间、良好的薪酬和成就感是开发人员工作满意度的最重要因素。令人惊讶的是，70% 的开发者也在周末编码以获取乐趣。]]></description>
+      <guid>https://t.me/hn_summary/71492</guid>
+      <pubDate>Sun, 28 Jan 2024 18:10:03 GMT</pubDate>
     </item>
     <item>
-      <title>GULP 网站目前正在招聘 Windows 3.11 管理员职位空缺。</title>
-      <link>https://t.me/hn_summary/71451</link>
-      <description><![CDATA[远程：Windows 3.11 管理员（男/女/女）
-GULP 网站目前正在招聘 Windows 3.11 管理员职位空缺。该职位位置偏远，对所有性别的个人开放。职位描述没有提供有关该职位所需职责或资格的任何具体细节。然而，有趣的是，该公司仍在为相对过时的操作系统寻找管理员。目前尚不清楚为什么他们专门寻找具有 Windows 3.11 专业知识的人，因为该系统已发布 25 多年前，并且已不再广泛使用。]]></description>
-      <guid>https://t.me/hn_summary/71451</guid>
-      <pubDate>Sun, 28 Jan 2024 12:12:40 GMT</pubDate>
+      <title>法国在向学生展示同一幅漫画后被一名伊斯兰极端分子斩首。</title>
+      <link>https://t.me/hn_summary/71491</link>
+      <description><![CDATA[老师展示了三年后仍然隐藏的穆罕默德漫画
+法国在向学生展示同一幅漫画后被一名伊斯兰极端分子斩首。围绕教师行为的争议以及随后的抗议活动凸显了围绕先知穆罕默德的描绘所持续的紧张局势和敏感性。三年后，这名教师仍然躲藏起来，而且不太可能回家，这一事实凸显了与此类行为相关的持久影响和潜在危险。]]></description>
+      <guid>https://t.me/hn_summary/71491</guid>
+      <pubDate>Sun, 28 Jan 2024 18:08:56 GMT</pubDate>
     </item>
     <item>
-      <title>Anki 是一款功能强大的抽认卡应用程序，其网站提供了有关如何访问酸 [...]</title>
-      <link>https://t.me/hn_summary/71450</link>
-      <description><![CDATA[Anki – 强大、智能的闪存卡
-Anki 是一款功能强大的抽认卡应用程序，其网站为那些有兴趣构建自己的版本的人提供了如何访问 GitHub 上的源代码的信息。该网站还提供了将 Anki 翻译成不同语言的说明。 AnkiMobile 是适用于 Apple 设备的付费配套应用程序，而 AnkiDroid 是适用于 Android 设备的免费版本。令人惊讶的是，AnkiDroid 是由一个单独的团队开发的，他们决定根据桌面代码将其免费。]]></description>
-      <guid>https://t.me/hn_summary/71450</guid>
-      <pubDate>Sun, 28 Jan 2024 11:59:31 GMT</pubDate>
+      <title>佐治亚州希望吸引更多的数据中心。</title>
+      <link>https://t.me/hn_summary/71490</link>
+      <description><![CDATA[格鲁吉亚希望吸引更多数据中心。现在它需要更多的力量
+佐治亚州大力吸引数据中心导致电力需求激增。数据中心是电力和水密集型设施，支持我们的数字生活。乔治亚电力公司透露，其预测的需求紧缩中约有 80% 是由数据中心驱动的。该州提供了税收优惠和财产税减免来吸引数据中心开发商，但批评者认为，这些设施创造的就业机会很少，并且给可能为额外电力容量提供资金的纳税人造成负担。亚特兰大都会区现已成为美国第六大数据中心市场，有多个大型项目正在开发中。数据中心的增长引发了人们对其对基础设施、电力消耗和供水影响的担忧。]]></description>
+      <guid>https://t.me/hn_summary/71490</guid>
+      <pubDate>Sun, 28 Jan 2024 18:07:49 GMT</pubDate>
     </item>
     <item>
-      <title>为了寻找负担得起的智能合约审计，作者转向在线社区 [...]</title>
-      <link>https://t.me/hn_summary/71449</link>
-      <description><![CDATA[我正在寻找一家网络安全公司进行负担得起的智能合约审计
-为了寻找负担得起的智能合约审计，作者向在线社区寻求帮助。他们联系那些之前接受过此类审计的人，寻求定价指导。作者的目的是找到一家网络安全公司，能够以合理的成本对其智能合约进行彻底的审计。索取定价信息的请求表明，作者正在寻求透明度，并希望确保他们不会对服务收取过高的费用。]]></description>
-      <guid>https://t.me/hn_summary/71449</guid>
-      <pubDate>Sun, 28 Jan 2024 11:58:24 GMT</pubDate>
+      <title>[媒体] 该项目是一个用 C 语言编码的用于 GNU/Linux 终端的文本模式元素周期表。</title>
+      <link>https://t.me/hn_summary/71489</link>
+      <description><![CDATA[显示 HN：GNU/C 语言的文本模式周期表Linux终端
+该项目是一个用 C 语言编码的用于 GNU/Linux 终端的文本模式周期表。它旨在提供具有视觉吸引力的复古元素周期表。该项目包括处理不同抽象级别的各种模块，例如为动画创建毫秒计时器、用于读取转义键的小键盘抽象以及用于显示的双屏幕缓冲区。主程序位于main.c 文件中，元素存储在名为elements.dat 的数据库文件中。作者提到元素的信息是使用 chatGPT 生成的。该项目的独特之处在于没有任何额外的依赖项并且易于编译和运行。]]></description>
+      <guid>https://t.me/hn_summary/71489</guid>
+      <pubDate>Sun, 28 Jan 2024 18:06:41 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]美国核物理学家</title>
-      <link>https://t.me/hn_summary/71448</link>
-      <description><![CDATA[重力有助于显示质子中强大的力量&lt; br/&gt;
-美国能源部托马斯·杰斐逊国家加速器设施的核物理学家利用重力来确定质子内部强力的分布。这项研究为质子的组成部分（称为夸克）所经历的环境提供了新的见解。研究表明，需要对夸克施加超过四吨的力才能将其从质子中拉出来。这项研究是通过半个世纪前的预测和两个十年前的数据得以实现的。这些发现为探索质子的机械特性开辟了一条新途径，并已经改变了科学家对其结构的思考方式。]]></description>
-      <guid>https://t.me/hn_summary/71448</guid>
-      <pubDate>Sun, 28 Jan 2024 11:58:18 GMT</pubDate>
+      <title>[媒体] 在这篇题为“不要给牦牛剃毛”的博文中，作者介绍了术语“牦牛 [...]</title>
+      <link>https://t.me/hn_summary/71488</link>
+      <description><![CDATA[别给那头牦牛剃毛 (2005)&lt; br/&gt;
+在这篇题为“不要给牦牛剃毛”的博文中，作者介绍了术语“给牦牛剃毛”，这是当您需要做某件事时发生的一系列步骤中的最后一步。作者举了一个例子，想要给汽车打蜡，但发现软管坏了，需要更换。这导致了一系列事件，包括借用 EZPass、归还借来的物品，以及最终给牦牛剃毛以填充枕头。作者强调了剃牦牛毛的现象在团体中更为普遍，并建议个体企业家和小型组织更有可能完成任务，因为他们的干扰较少。作者建议不要沉迷于剃牦牛毛，并鼓励妥协和把事情做好而不是完美。帖子还提到，“牦牛剃毛”显然在 2010 年被麻省理工学院媒体实验室变成了一个计算机术语。]]></description>
+      <guid>https://t.me/hn_summary/71488</guid>
+      <pubDate>Sun, 28 Jan 2024 18:03:32 GMT</pubDate>
     </item>
     <item>
-      <title>Dewhale 是一款人工智能驱动的开发工具，它利用 GitHub 使编码变得更容易、更 [...]</title>
-      <link>https://t.me/hn_summary/71447</link>
-      <description><![CDATA[展示 HN：Dewhale – GitHub 支持的 AI，轻松开发
-Dewhale 是一款人工智能驱动的开发工具，它利用 GitHub 使编码变得更容易、更高效。用户可以通过GitHub issues提交需求，并使用提供的模板选择代码生成模式。 Dewhale 目前支持为 React、Vue 和 Svelte 生成 UI 代码，并可以选择添加自定义代码生成模式。该工具具有严格的权限机制，代码生成只能由白名单用户或通过配额管理功能触发。生成的代码以拉取请求的形式呈现，可以轻松查看和修改。 Dewhale 由 GitHub 提供支持，消除了版本控制问题。通过存储库分叉和配置也简化了自我部署。]]></description>
-      <guid>https://t.me/hn_summary/71447</guid>
-      <pubDate>Sun, 28 Jan 2024 11:56:13 GMT</pubDate>
+      <title>[媒体] Mnemosyne 项目是一个免费的抽认卡工具，旨在优化学习过程。</title>
+      <link>https://t.me/hn_summary/71487</link>
+      <description><![CDATA[Mnemosyne 项目：Anki 替代品
+Mnemosyne 项目是一个免费的抽认卡工具，旨在优化学习过程。这也是一个专注于理解长期记忆的研究项目。该软件旨在为初学者提供方便，但为高级用户提供广泛的定制选项。 Mnemosyne 使用算法根据个人难度级别安排卡片复习，确保高效学习。用户还可以选择将学习过程的匿名统计数据上传到中央服务器进行分析，这将用于改进软件的调度算法。]]></description>
+      <guid>https://t.me/hn_summary/71487</guid>
+      <pubDate>Sun, 28 Jan 2024 18:02:26 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 据报道，谷歌正在开发适用于 Windows 的 Chrome 浏览器的本机版本 [...]</title>
-      <link>https://t.me/hn_summary/71446</link>
-      <description><![CDATA[Google Chrome 原生适用于 Arm 上的 Windows
-据报道，谷歌正在为 Arm 设备上的 Windows 开发 Chrome 浏览器的本机版本。这让人感到惊讶，因为谷歌此前并未表现出对 Arm 上的 Windows 的任何支持。目前，运行高通 Snapdragon 芯片的 Windows 设备必须在模拟状态下运行 Chrome，导致性能下降。相比之下，微软长期以来一直支持其 Edge 浏览器的 Arm 版本，该浏览器可以在 Arm 设备上流畅运行。 Google 对 Arm 处理器的支持对于 Windows on Arm 的未来可能具有重要意义，尤其是在微软和高通为下一次重大推动 Windows on Arm 做准备的情况下。]]></description>
-      <guid>https://t.me/hn_summary/71446</guid>
-      <pubDate>Sun, 28 Jan 2024 11:55:07 GMT</pubDate>
+      <title>[媒体] 网络内容讨论了迈克尔·刘易斯 (Michael Lewis) 的最新著作《走向无限》(Going Infinite)，该书长期 [...]</title>
+      <link>https://t.me/hn_summary/71486</link>
+      <description><![CDATA[迈克尔·刘易斯的弱点
+网络内容讨论了 Michael Lewis 的最新著作《Going Infinite》，该书记录了加密货币巨头 Sam Bankman-Fried 及其加密货币交易所 FTX 和对冲基金 Alameda Research 的兴衰。作者强调，刘易斯更感兴趣的是探索山姆的心理，而不是关注他和他周围的人所犯的错误。内容还提到刘易斯的故事讲述缺乏微妙之处，以及他未能反思自己的报道。它讨论了加密货币行业的模糊性和不熟悉性如何导致欺骗和伤害被忽视。内容强调了不要让歧义成为自我放纵的掩护的重要性。 （根据故事文本的 38% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/71486</guid>
+      <pubDate>Sun, 28 Jan 2024 18:02:21 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]这篇文章讨论了给意大利面调味的正确方法，认为意大利面在[...]</title>
-      <link>https://t.me/hn_summary/71445</link>
-      <description><![CDATA[酱汁意大利面的正确方法（2016）&lt; br/&gt;
-本文讨论了给意大利面调味的正确方法，认为与简单地在盘子上调味的意大利面相比，在煎锅中加热酱汁的意大利面具有更好的风味和质地。作者提供了如何正确调味意大利面的分步说明，包括单独加热酱汁、煮有嚼劲的意大利面、将煮熟的意大利面转移到酱汁中、添加意大利面水、添加脂肪、快速烹饪、搅拌将奶酪和香草关火，调整稠度，根据需要进行装饰，然后立即食用。本文强调了这些步骤的重要性，以实现最佳口味的面食。]]></description>
-      <guid>https://t.me/hn_summary/71445</guid>
-      <pubDate>Sun, 28 Jan 2024 11:55:01 GMT</pubDate>
+      <title>[媒体] 网页内容讨论了波音 737 MAX 飞机的持续问题，highlig [...]</title>
+      <link>https://t.me/hn_summary/71485</link>
+      <description><![CDATA[“停止这种疯狂行为”：阿拉斯加航空机门爆裂源于疏忽
+网页内容讨论了波音 737 MAX 飞机的持续问题，强调了波音公司的疏忽和企业渎职行为以及美国联邦航空管理局 (FAA) 的监管捕获。自 2019 年埃塞俄比亚航空公司坠机事件以来，作者一直在调查 737 MAX，他指出该飞机的设计、制造、工艺、检查和监督都很糟糕。文章还提到了有争议的机动特性增强系统（MCAS），该系统在坠机事件中发挥了作用，以及对波音公司在 MCAS 问题上欺骗美国联邦航空局的刑事指控。作者质疑美国联邦航空局对此事的处理方式，并批评波音公司与司法部签署的《暂缓起诉协议》(DPA)。 （根据 83% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/71485</guid>
+      <pubDate>Sun, 28 Jan 2024 18:01:14 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] wincodec.h 文件中的一项最新发现表明 Windows 可能很快就会支持 J [...]</title>
-      <link>https://t.me/hn_summary/71444</link>
-      <description><![CDATA[wincodec.h 中发现 JPEG XL – 建议即将推出的 Windows 支持
-wincodec.h 文件中的最新发现表明 Windows 可能很快就会支持 JPEG XL 图像格式。该文件是 Windows 成像组件 (WIC) API 的一部分，包含对 JPEG XL 格式的引用，表明 Microsoft 可能正在努力在未来的 Windows 更新中添加对其的支持。这对于摄影师和图形设计师来说是令人兴奋的消息，因为与传统 JPEG 格式相比，JPEG XL 提供了改进的压缩和图像质量。如果此传闻属实，则可能意味着 Windows 用户很快就能享受到这种高级图像格式的好处。]]></description>
-      <guid>https://t.me/hn_summary/71444</guid>
-      <pubDate>Sun, 28 Jan 2024 11:45:54 GMT</pubDate>
+      <title>询问 HN：如何设置新 Mac？</title>
+      <link>https://t.me/hn_summary/71484</link>
+      <description><![CDATA[询问 HN：如何设置新 Mac？
+news.ycombinator.com 上这篇文章的作者是寻求有关如何设置新 Mac 的建议。他们提到他们希望从头开始，以便进行更干净的安装。他们向其他 HN 用户询问在设置新计算机时应更改或安装哪些设置和应用程序的建议。]]></description>
+      <guid>https://t.me/hn_summary/71484</guid>
+      <pubDate>Sun, 28 Jan 2024 18:00:07 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：你最喜欢的东西是什么？</title>
-      <link>https://t.me/hn_summary/71443</link>
-      <description><![CDATA[问 HN：你最喜欢的东西是什么？&lt; br/&gt;
-在 news.ycombinator.com 上的这篇文章中，作者邀请读者分享他们最喜欢的东西，从软件工具和书籍到物理工具和艺术品。作者渴望听到对读者的生活或工作产生重大影响的项目。这篇文章鼓励社区之间的讨论，允许个人分享和发现新的最爱。]]></description>
-      <guid>https://t.me/hn_summary/71443</guid>
-      <pubDate>Sun, 28 Jan 2024 10:51:32 GMT</pubDate>
+      <title>[媒体]Netflix 近年来经历了重大变化，因为它面临着 [...]</title>
+      <link>https://t.me/hn_summary/71483</link>
+      <description><![CDATA[Netflix 现在不同了 - 没有回头路了 
+近年来，Netflix 经历了重大变化，面临着用户增长的挑战。 2022 年，该公司推出了更便宜、有广告支持的套餐，在短短六个月内就吸引了 500 万订阅者。该级别已成为 Netflix 最受欢迎的选项之一，有 40% 的新订阅者选择它。 Netflix还打击密码共享，并频繁提价，导致注册人数多于取消人数，收入也更高。该公司目前专注于扩大广告业务并使其广告计划更具吸引力。此外，Netflix 斥资 50 亿美元收购 WWE Monday Night Raw 的交易可能会为广告支持层的订户引入广告。这些变化反映了 Netflix 为提高利润并在竞争激烈的流媒体行业中保持领先地位所做的努力。]]></description>
+      <guid>https://t.me/hn_summary/71483</guid>
+      <pubDate>Sun, 28 Jan 2024 17:25:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
