@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 29 Jan 2024 12:05:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jan 2024 18:04:16 GMT</lastBuildDate>
     <item>
-      <title>[媒体]这条 Twitter 帖子将带您踏上对苏联进行逆向工程的迷人旅程 [...]</title>
-      <link>https://t.me/hn_summary/71586</link>
-      <description><![CDATA[对苏联 CMOS 芯片进行逆向工程
-这篇 Twitter 帖子将带您踏上对苏联 CMOS 芯片进行逆向工程的迷人旅程。作者是一位熟练的工程师，他分享了他们剖析芯片、识别其组件和破译其功能的逐步过程。他们发现了一些令人惊讶的功能，例如隐藏的加密算法和独特的节能机制。作者还强调了围绕该芯片起源的争议，因为它是在冷战时期开发的。对于任何对老式技术及其隐藏的秘密感兴趣的人来说，此帖子是必读的。]]></description>
-      <guid>https://t.me/hn_summary/71586</guid>
-      <pubDate>Mon, 29 Jan 2024 12:05:18 GMT</pubDate>
+      <title>[媒体]撒迪厄斯·卡希尔的电音琴是一种早期电子乐器，发明于 [...]</title>
+      <link>https://t.me/hn_summary/71643</link>
+      <description><![CDATA[撒迪厄斯·卡希尔的电风琴
+撒迪厄斯·卡希尔 (Thaddeus Cahill) 的电风琴是 19 世纪末发明的一种早期电子乐器。卡希尔在尝试通过电话线传输音乐后提出了这个想法。他意识到，通过产生大的电信号并将锥体连接到电话听筒上，他可以传输观众可以听到的音乐。卡希尔的发明被称为电传琴，是世界上第一台合成器，为我们现在所知的“穆扎克”铺平了道路。 Telharmonia 是一台重 7 吨的大型机器，由多个发电机和产生不同音高的气缸组成。尽管最初取得了成功，但电传音乐厅仍面临干扰和缺乏订户的挑战，导致其最终消亡。电传琴的录音没有保存下来，但它的概念影响了后来的电子乐器，如哈蒙德管风琴。]]></description>
+      <guid>https://t.me/hn_summary/71643</guid>
+      <pubDate>Mon, 29 Jan 2024 18:04:16 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] linefont 项目是一种专为渲染中小尺寸而设计的字体 [...]</title>
-      <link>https://t.me/hn_summary/71585</link>
-      <description><![CDATA[linefont：用于渲染折线图数据的字体
-linefont 项目是专门为渲染中小型折线图（例如时间序列数据）而设计的字体。它提供了一个字体文件，可用于Web项目中使用字符显示折线图。字体值范围从0到100，并分配给不同的字符。该项目的独特之处在于与 Wavefont 项目兼容，允许轻松交换字体，同时保持视觉一致性。该字体还包括可以通过 Ctrl + → 或双击选择的可见字符代码，可见范围之外的字符将被剪裁为 0。该项目还包括一个 npm 包，可以轻松集成到 JavaScript 项目中。]]></description>
-      <guid>https://t.me/hn_summary/71585</guid>
-      <pubDate>Mon, 29 Jan 2024 11:29:01 GMT</pubDate>
+      <title>[媒体] 美国的汽车保有量变得越来越昂贵，平均新车 [...]</title>
+      <link>https://t.me/hn_summary/71642</link>
+      <description><![CDATA[美国的汽车保有量变得越来越贵&lt; br/&gt;
+美国的汽车保有量正变得越来越昂贵，新车的平均售价接近 49,000 美元，二手车的平均售价超过 26,000 美元。尽管通胀和供应链问题有所缓解，但这仍是自 2020 年以来的大幅增长。汽车制造商利用疫情提高价格，转向利润率更高的豪华车和SUV。这导致经济型汽车的选择减少，一些人称这种趋势为“trimflation”。汽车拥有成本的上升还延伸到了维护、保险和其他费用。因此，一些专家建议政府提供补贴和激励措施，让有需要的人更买得起汽车。]]></description>
+      <guid>https://t.me/hn_summary/71642</guid>
+      <pubDate>Mon, 29 Jan 2024 17:57:03 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 隆重推出由人工智能驱动的个人财务助理 Project Hermes。</title>
-      <link>https://t.me/hn_summary/71584</link>
-      <description><![CDATA[显示 HN：人工智能个人财务助理（更新）
-隆重推出 Project Hermes，这是由人工智能驱动的个人财务助理。有了 Hermes，您可以告别与会计师和复杂数字打交道的麻烦。这种创新工具通过提供适合您特定需求的解决方案来简化您的财务。您所需要做的就是继续使用您的 Google 帐户，Hermes 将处理剩下的事情。此更新带来了更高级的功能和改进的功能，可帮助您轻松管理资金。通过 Hermes 项目迎接无压力的财务未来。]]></description>
-      <guid>https://t.me/hn_summary/71584</guid>
-      <pubDate>Mon, 29 Jan 2024 11:02:46 GMT</pubDate>
+      <title>[媒体]文章讨论了仅依赖流媒体服务的局限性和缺点[...]</title>
+      <link>https://t.me/hn_summary/71641</link>
+      <description><![CDATA[好莱坞不断提醒我们为什么我们需要更多的物理媒体
+本文讨论了仅依靠流媒体服务来访问电影和电视节目的局限性和缺点。它强调了这样一个事实，即来自不同工作室的热门特许经营权和媒体往往分布在多个平台上，给观众带来困惑和焦虑。文章认为，DVD 和蓝光等物理媒体为访问和拥有内容提供了更可靠、更持久的解决方案。它还批评企业控制和知识产权囤积导致艺术贬值并限制了消费者的选择。作者建议，流媒体应被视为传统发行模式的补充而不是替代。]]></description>
+      <guid>https://t.me/hn_summary/71641</guid>
+      <pubDate>Mon, 29 Jan 2024 17:56:55 GMT</pubDate>
     </item>
     <item>
-      <title>Harmonics Explorer 是一款令人着迷的工具，可让用户探索谐波世界 [...]</title>
-      <link>https://t.me/hn_summary/71583</link>
-      <description><![CDATA[谐波浏览器
-Harmonics Explorer 是一款令人着迷的工具，可让用户探索音乐中的和声世界。只需点击几下，用户就可以可视化并分析任何音乐作品的和声结构。该工具提供了独特的交互式体验，允许用户查看不同谐波之间的关系并了解它们如何对整体声音做出贡献。无论您是音乐家、音乐爱好者，还是只是对音乐的内部运作方式感到好奇，Harmonics Explorer 一定会令您着迷并具有教育意义。这是一种深入谐波世界并发现音乐隐藏秘密的巧妙而创新的方式。]]></description>
-      <guid>https://t.me/hn_summary/71583</guid>
-      <pubDate>Mon, 29 Jan 2024 10:50:36 GMT</pubDate>
+      <title>此网络内容的作者通知读者 YouTube RSS 源不再可用。</title>
+      <link>https://t.me/hn_summary/71640</link>
+      <description><![CDATA[告诉 HN：YouTube RSS 源已消失
+此网络内容的作者通知读者 YouTube RSS 源不再可用。他们提供了返回 404 错误的特定 RSS 源链接的示例。作者还提到，该频道“视频”页面上原来的链接也丢失了。内容的语气表明对 YouTube RSS 源的消失感到惊讶和失望。]]></description>
+      <guid>https://t.me/hn_summary/71640</guid>
+      <pubDate>Mon, 29 Jan 2024 17:51:47 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]该网络内容的作者讨论了关于成功的几个真理。</title>
-      <link>https://t.me/hn_summary/71582</link>
-      <description><![CDATA[关于成功的几个真理
-该网络内容的作者讨论了有关成功的几个真理。第一个事实是，许多人由于感知到风险、时间限制和困难而说服自己不采取行动。作者认为，这些担忧往往被高估了。第二个事实是，许多人开始项目但未能完成它们，包括程序员、游戏开发人员、艺术家和音乐家。第三个事实是，大多数工作的质量都很低，但生产高质量的东西会增加成功的机会。第四个事实是，大多数人都在努力营销自己和他们的工作。第五个真理是帕累托法则，即80%的工作是用20%的努力完成的。作者认为，宣布计划和意图可能会因寻求社会认可而阻碍进展。最后的事实是，成功是迭代的，每次成功都会带来更大的成功，每次失败都会导致更大的失败。作者还提到了一段圣经经文，马太福音25:29，它代表了成功的累积优势。作者最后指出，只有一小部分人能够取得成功，尤其是在涉及创造力的情况下。他们认为文化因素和个人策略在决定成功方面发挥着重要作用。]]></description>
-      <guid>https://t.me/hn_summary/71582</guid>
-      <pubDate>Mon, 29 Jan 2024 10:50:29 GMT</pubDate>
+      <title>Dashdive 是一种云成本跟踪工具，可计算每个用户操作所产生的成本 [...]</title>
+      <link>https://t.me/hn_summary/71639</link>
+      <description><![CDATA[启动 HN：Dashdive (YC W23) – 精确跟踪您的云成本
+Dashdive 是一种云成本跟踪工具，用于计算产品中每个用户操作所产生的成本。 Dashdive 的创始人指出了云成本可观测性差导致的三个常见问题：成本异常检测和诊断缓慢、大型组织缺乏成本问责制以及每个客户的毛利率不确定。 Dashdive 旨在通过提供单个用户操作级别的精细云使用数据来解决这些问题，从而实现实时异常检测和识别成本高昂的团队、功能和客户。该工具支持 S3 和 S3 兼容的对象存储提供商，并计划在未来添加对其他提供商和服务的支持。]]></description>
+      <guid>https://t.me/hn_summary/71639</guid>
+      <pubDate>Mon, 29 Jan 2024 17:49:38 GMT</pubDate>
     </item>
     <item>
-      <title>本文讨论了美国郊区的瓦解及其对家庭的影响 [...]</title>
-      <link>https://t.me/hn_summary/71581</link>
-      <description><![CDATA[郊区已成为庞氏骗局
-本文讨论了美国郊区的瓦解及其对有色人种家庭的影响。作者追踪了五个家庭，他们搬到郊区为孩子们寻找更好的生活，却发现自己面临着基础设施摇摇欲坠、财务管理不善和学校衰落的问题。这篇文章强调了郊区存在的种族和经济裂痕，以及它们是如何在很大程度上被忽视的。作者还提到了唐纳德·特朗普在 2020 年总统选举期间发表的颇具争议的言论，他利用郊区的衰落作为一种恐惧策略。文章最后强调了理解和解决郊区面临的问题的重要性，以便为所有居民创造更美好的未来。]]></description>
-      <guid>https://t.me/hn_summary/71581</guid>
-      <pubDate>Mon, 29 Jan 2024 10:24:11 GMT</pubDate>
+      <title>[媒体]美国如何</title>
+      <link>https://t.me/hn_summary/71638</link>
+      <description><![CDATA[美国政府如何降低所有人的食品价格 
+根据最近的 YouGov/Motherboard 民意调查，美国人越来越担心食品价格上涨，并寻求政府解决方案。为了解决这个问题，文章建议美国政府可以借鉴法国的经验。文章没有提供法国如何解决这一问题的具体细节，让读者好奇地想了解更多。]]></description>
+      <guid>https://t.me/hn_summary/71638</guid>
+      <pubDate>Mon, 29 Jan 2024 17:46:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 这个来自 linuxconfig.org 的教程解释了如何将 Firefox 安装为传统的 [...]</title>
-      <link>https://t.me/hn_summary/71580</link>
-      <description><![CDATA[在 Ubuntu 22.04 上切换到 Firefox 的 Deb：避免使用 Snap 软件包的指南
-本教程来自 linuxconfig.org，解释了如何将 Firefox 作为传统的Ubuntu 22.04 上的 Deb 软件包，现在默认将 Firefox 打包为 Snap 软件包。本文提供了使用 Apt 或 PPA 存储库而不是 Snap 安装 Firefox 的分步说明。它还包括从 Snap 切换到 APT 版本的 Firefox 时避免丢失书签的预防措施。本教程重点介绍了 Ubuntu 中向 Snap 软件包的转变，并为喜欢传统 Deb 软件包的用户提供了替代方案。争议在于某些用户可能对 Snap 软件包存在偏好和功能问题。]]></description>
-      <guid>https://t.me/hn_summary/71580</guid>
-      <pubDate>Mon, 29 Jan 2024 10:02:56 GMT</pubDate>
+      <title>[媒体] 哈佛医学院丹纳法伯癌症研究所 (Dana-Farber Cancer Institute) 的研究造假指控 [...]</title>
+      <link>https://t.me/hn_summary/71637</link>
+      <description><![CDATA[哈佛医学附属机构在博主调查后撤回并更正研究
+哈佛医学院附属达纳法伯癌症研究所的研究造假指控已导致要求撤回和更正科学论文。这些指控是由一位英国博主肖尔托·大卫(Sholto David)曝光的，他专门检测已发表的科学论文中的图像操纵。其他业余侦探也致力于发现科学研究中的错误和捏造。丹娜—法伯癌症研究所做出回应，要求撤回 6 篇论文，并更正另外 31 篇论文。微生物学家 Elisabeth Bik 等侦探使用软件工具来识别图像操纵和剽窃行为。他们的工作对科学出版产生了重大影响，旨在提高科学诚信。]]></description>
+      <guid>https://t.me/hn_summary/71637</guid>
+      <pubDate>Mon, 29 Jan 2024 17:33:16 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Y Combinator 总裁 Garry Tan 在 X 上发布推文时引起争议，X [...]</title>
-      <link>https://t.me/hn_summary/71579</link>
-      <description><![CDATA[Y Combinator 总裁 Garry Tan 在删除之前发布了一条威胁推文
-Y Combinator 总裁 Garry Tan 在社交平台 X 上发布了一条包含针对旧金山监管人员的暴力语言的推文，引发了争议。谭后来道歉，表示他认为这条推文会被理解为说唱参考。他还向监事会正式致歉。第七区主管 Myrna Melgar 形容 Tan 的言论“令人震惊”。 Tan 于 2022 年 8 月成为 Y Combinator 总裁，他在社交媒体上有好斗行为的历史，并且一直批评旧金山的进步政客。有些人为谭辩护，称他的行为值得原谅。]]></description>
-      <guid>https://t.me/hn_summary/71579</guid>
-      <pubDate>Mon, 29 Jan 2024 09:41:43 GMT</pubDate>
+      <title>[媒体]前美国空军情报官员托尼·罗密欧 (Tony Romeo) 相信他可能已经发现了 [...]</title>
+      <link>https://t.me/hn_summary/71636</link>
+      <description><![CDATA[一位花费 1100 万美元搜索埃尔哈特飞机的空军军官可能发现了它
+前美国空军情报官员托尼·罗密欧相信他可能发现了阿米莉亚·埃尔哈特失踪已久的飞机。罗密欧利用高科技无人潜水器上的声纳捕获了太平洋海底一个飞机形状物体的图像。该物体的位置似乎与埃尔哈特飞机据信坠毁的位置一致。然而，专家表示，需要更清晰的图像和更多细节来证实这一发现。罗密欧计划返回该地区，使用自主或机器人潜水器捕捉更好的图像。如果得到证实，这一发现可能会解开美国最令人困惑的谜团之一。]]></description>
+      <guid>https://t.me/hn_summary/71636</guid>
+      <pubDate>Mon, 29 Jan 2024 17:30:07 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]爱沙尼亚和日本已与其他九个国家一起暂停向联合国提供资金 [...]</title>
-      <link>https://t.me/hn_summary/71578</link>
-      <description><![CDATA[爱沙尼亚、日本与其他九个国家一起暂停近东救济工程处的资金
-爱沙尼亚和日本已与其他九个国家一起暂停向联合国近东救济工程处（近东救济工程处）提供资金，此前有指控称该机构的 12 名工作人员参与了哈马斯领导的屠杀。澳大利亚、加拿大、英国、美国、芬兰、荷兰、德国、意大利和冰岛的暂停使近东救济工程处至少 3.63 亿美元的认捐资金面临风险。近东救济工程处为不同地区的 590 万巴勒斯坦难民提供食品、教育和医疗保健等基本服务。联合国秘书长安东尼奥·古特雷斯敦促捐助国不要暂停资助，强调近东救济工程处所服务的民众的迫切需求。以色列已私下向近东救济工程处提出指控，并呼吁对近东救济工程处所有雇员参与恐怖主义的情况进行深入调查。资金削减引发了人们对加剧饥饿并可能导致加沙饥荒的担忧。]]></description>
-      <guid>https://t.me/hn_summary/71578</guid>
-      <pubDate>Mon, 29 Jan 2024 09:16:30 GMT</pubDate>
+      <title>[媒体]亚马逊放弃了以 14 亿美元收购 Roomba 制造商 iRobot 的交易，如下 [...]</title>
+      <link>https://t.me/hn_summary/71635</link>
+      <description><![CDATA[在欧盟否决报告后，亚马逊放弃了 1.4 亿美元收购 iRobot 的交易
+在欧盟 (EU) 的反对下，亚马逊放弃了以 14 亿美元收购 Roomba 制造商 iRobot 的交易。欧盟执行机构已通知亚马逊，由于担心机器人吸尘器市场的竞争，它准备阻止该交易。因此，iRobot 将从亚马逊获得 9400 万美元的终止费，并宣布计划裁员 31% 并更换首席执行官。亚马逊对监管障碍表示失望，认为这些障碍阻碍了企业家并损害了消费者和竞争。该交易还受到美国联邦贸易委员会的审查，该委员会已对亚马逊提起诉讼。]]></description>
+      <guid>https://t.me/hn_summary/71635</guid>
+      <pubDate>Mon, 29 Jan 2024 17:28:57 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]凯撒沙拉已成为各类餐厅的热门菜肴，而不仅仅是 [...]</title>
-      <link>https://t.me/hn_summary/71577</link>
-      <description><![CDATA[定义餐饮的菜单趋势
-凯撒沙拉已成为各类餐厅的热门菜肴，而不仅仅是牛排馆。它可以在墨西哥、泰国和古巴餐厅等的菜单上找到。厨师们对经典沙拉进行了自己的创新，添加了味噌、鱼露、茴香花粉和荷兰豆等配料。这些菜单上一份凯撒沙拉的平均价格为 15.42 美元，有些餐厅的收费高达 22 美元。德克萨斯州奥斯汀 Este 餐厅的老板费尔明·努涅斯 (Fermin Nuñez) 表示，凯撒沙拉是厨师们的最爱。本文还包括提供独特版本沙拉的餐厅列表。]]></description>
-      <guid>https://t.me/hn_summary/71577</guid>
-      <pubDate>Mon, 29 Jan 2024 09:14:19 GMT</pubDate>
+      <title>[媒体] 在 themarkup.org 上这篇题为“关于你的生日的谎言”的文章中，作者分享了 [...]</title>
+      <link>https://t.me/hn_summary/71634</link>
+      <description><![CDATA[谎报生日
+themarkup.org 上这篇题为“关于你的生日的谎言”的文章中，作者分享了有关保护个人信息的实用隐私技巧。作者强调了分享出生日期的潜在风险，例如身份盗窃和欺诈。他们建议当公司要求时谎报生日以避免这些风险。然而，他们强调，这只适用于试图将数据用于营销目的的公司，而不适用于银行或医生等重要机构。作者提供了有关如何选择接近真实生日的假生日以仍然获得促销的提示。他们还建议在分享一般个人信息时保持谨慎，并质疑为什么有必要这样做。文章以轻松的结尾，鼓励读者享受生日折扣和免费赠品的好处，同时保护自己的隐私。]]></description>
+      <guid>https://t.me/hn_summary/71634</guid>
+      <pubDate>Mon, 29 Jan 2024 17:28:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
