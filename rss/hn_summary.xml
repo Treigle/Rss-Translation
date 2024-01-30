@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 30 Jan 2024 05:13:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jan 2024 14:48:26 GMT</lastBuildDate>
     <item>
-      <title>[媒体]Unfetch.com是一个旨在教AI进行API调用的平台。</title>
-      <link>https://t.me/hn_summary/71747</link>
-      <description><![CDATA[显示 HN：Unfetch.com – 我正在教授人工智能进行API调用
-Unfetch.com是一个旨在教AI制作API的平台来电。借助自定义大语言模型 (LLM)，Unfetch.com 确保AI 根据聊天上下文做出完美的 API 调用。该平台还允许用户将 API 规范注入模型中，无论他们是与内部 API 还是公共 API 交互。 Unfetch.com 提供内置身份验证，使连接变得轻松使用 OAuth 或 API 密钥的 API。此外，用户可以使用脚本运行强大的工作流程并访问超过 100 万个 npm 包，而无需部署、托管或服务器。该平台通过允许用户将其托管在自己的服务器上并使用自己的大型语言模型来优先考虑安全性。 Unfetch.com 还提供团队权限设置，以实现更好的协作。用户可以通过询问任何问题或使用提供的提示与 JokeAPI、TheCocktailDB API、Programming Quotes API 和 Dog API 等 API 进行交互来试用该平台。]]></description>
-      <guid>https://t.me/hn_summary/71747</guid>
-      <pubDate>Tue, 30 Jan 2024 05:13:47 GMT</pubDate>
+      <title>这篇文章讨论了农用空气炮不断发射造成的破坏[...]</title>
+      <link>https://t.me/hn_summary/71796</link>
+      <description><![CDATA[寻找空气炮
+这篇文章讨论了科瓦利斯附近社区日夜每两分钟发射一次农用空气炮造成的破坏。作者使用谷歌地图、三个监听站和一个编程模拟来精确定位空气炮所在的区域。他们找到了造成噪音的农场，并联系了农场经理，同时夜间空气炮停止了。笔者怀疑经理在谈话后停止了这种做法。文章强调了作者寻找噪声源的决心以及使用他们的方法定位噪声源的能力。 （根据 82% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/71796</guid>
+      <pubDate>Tue, 30 Jan 2024 14:48:26 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Supadash 是一个新的人工智能生成的仪表板，允许用户可视化他们的数据库数据。</title>
-      <link>https://t.me/hn_summary/71746</link>
-      <description><![CDATA[显示 HN：Supadash – 人工智能生成的仪表板，用于可视化您的数据库数据
-Supadash 是一个新的人工智能生成的仪表板，允许用户可视化他们的数据库数据。仪表板为用户提供了清晰直观的界面来探索和分析数据。用户可以根据不同的条件（例如用户 ID、姓名、电子邮件和创建日期）轻松过滤和排序数据。仪表板还包括搜索功能，可以快速查找特定数据点。借助 Supadash，用户可以通过视觉上有吸引力且用户友好的方式从数据库数据中获得有价值的见解。 （根据故事文本的 14% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/71746</guid>
-      <pubDate>Tue, 30 Jan 2024 05:13:40 GMT</pubDate>
+      <title>[媒体]网络内容讨论了硅谷技术威权主义的兴起。</title>
+      <link>https://t.me/hn_summary/71795</link>
+      <description><![CDATA[技术威权主义的兴起
+网络内容讨论了硅谷技术威权主义的兴起。它强调了 Facebook 的有争议行为，例如传播虚假信息、进行情绪操纵实验和煽动暴力。作者认为，Facebook 的行为是整个科技行业的象征，YouTube、Instagram 和 Twitter 等其他平台也损害了个人权利和民主。这篇文章批评了这些科技公司的潜在意识形态，将其称为独裁技术官僚。它认为，这些公司将规模和利润置于安全和公共责任之上，并在没有有意义的协商或透明度的情况下将其信仰和制度强加给民众。 （根据故事文本的 63% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/71795</guid>
+      <pubDate>Tue, 30 Jan 2024 14:47:17 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] CodeDiagram 是 VSCode 的扩展，可以让用户快速创建代码流程图。</title>
-      <link>https://t.me/hn_summary/71745</link>
-      <description><![CDATA[显示 HN：CodeDiagram – 用于快速制作代码流程图的 VSCode 扩展&lt; /a&gt;
-CodeDiagram 是 VSCode 的扩展，允许用户快速创建代码流程图。该扩展允许用户将代码转换为图表，反之亦然，所有这些都在同一平台内进行。用户可以从市场或直接从 VSCode 安装扩展。该扩展具有分屏视图，允许用户同时查看代码和图表。用户可以选择部分代码并自动生成图表。该扩展支持 192 种语言，并为图表提供多种颜色主题。用户可以轻松地与团队共享图表以进行代码审查或结对编程。 CodeDiagram 目前处于早期访问阶段。]]></description>
-      <guid>https://t.me/hn_summary/71745</guid>
-      <pubDate>Tue, 30 Jan 2024 05:13:34 GMT</pubDate>
+      <title>skyzh.github.io 上的本教程教读者如何构建一个简单的 LSM-Tree 存储引擎 [...]</title>
+      <link>https://t.me/hn_summary/71794</link>
+      <description><![CDATA[一周内构建一个简单的 LSM-Tree 存储引擎
+skyzh.github.io 上的本教程教读者如何使用 Rust 编程语言构建一个简单的 LSM-Tree 存储引擎。本教程解释了 LSM-Tree 是 TiDB 和 CockroachDB 等分布式数据库系统中常用的数据结构。它将 LSM-Tree 与 RB-Tree 和 B-Tree 等其他键值数据结构进行了比较，强调了 LSM-Tree 追加友好设计的优势。本教程涵盖 Rust 编程和键值存储引擎的基础知识，并推荐一些有关 LSM 树概念的背景阅读。这是一门综合课程，分为几个部分，每个部分都包含可在 2-3 小时内完成的章节。本教程提供了用于验证的测试套件和 CLI 工具，但请注意该测试套件可能并不详尽。作者还提供了一个解决方案检查点存储库供参考，但警告它可能不包含正确的解决方案。本教程已获得 Apache 2.0 许可，作者欢迎提供反馈以不断改进课程。]]></description>
+      <guid>https://t.me/hn_summary/71794</guid>
+      <pubDate>Tue, 30 Jan 2024 14:45:08 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Auto 1111 SDK/Python 客户端是一个 Python 库，为 [...]</title>
-      <link>https://t.me/hn_summary/71744</link>
-      <description><![CDATA[显示 HN：Automatic1111 稳定 Diffusion WebUI 的 SDK/Python 客户端
-Auto 1111 SDK/Python 客户端是一个 Python 库，提供使用扩散模型生成、放大和编辑图像的功能。它充当 Automatic 1111 Stable Diffusion Web UI 的模块化轻量级客户端。该 SDK 提供了核心功能，例如文本到图像、图像到图像、修复、外绘管道，以及 Esrgan 和 Real Esrgan 升级器的升级管道。它还与 Civit AI 集成以进行模型下载。该项目的与众不同之处在于支持与 Stable Diffusion Web UI 相同的参数，提供从 UI 轻松复制创作，并为多个操作提供单一管道，从而节省 RAM。]]></description>
-      <guid>https://t.me/hn_summary/71744</guid>
-      <pubDate>Tue, 30 Jan 2024 05:13:27 GMT</pubDate>
+      <title>[媒体] Apple Vision Pro 是苹果公司进军可穿戴电脑领域的一次尝试。</title>
+      <link>https://t.me/hn_summary/71793</link>
+      <description><![CDATA[Apple Vision Pro 评测：神奇，直到它不是 
+Apple Vision Pro 是苹果进军可穿戴电脑领域的一次尝试。它的售价为 3,499 美元，承诺为用户带来空间计算和增强现实。然而，Vision Pro 面临着来自 Oculus Quest 3 等其他 VR 耳机的激烈竞争，后者以低廉的价格提供了类似的体验。 Vision Pro 拥有令人印象深刻的功能，例如高品质显示屏、手眼追踪以及与 Apple 生态系统的无缝集成。然而，它也有其缺点，包括价格高昂、视频直通模糊、跟踪不一致以及诡异的角色。最终，Vision Pro 要想超越竞争对手，还有很长的路要走。 （根据故事文本的 24% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/71793</guid>
+      <pubDate>Tue, 30 Jan 2024 14:42:59 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] GitHub 上的 LangChain ChatAbstractions 项目提供了聊天模型的集合 [...]</title>
-      <link>https://t.me/hn_summary/71743</link>
-      <description><![CDATA[显示 HN：用于负载平衡、混沌工程等的 LangChain 抽象
-GitHub 上的 LangChain ChatAbstractions 项目提供了聊天模型抽象的集合，演示了如何在不破坏现有聊天模型接口的情况下向链添加功能。该项目的主要目的是展示包装聊天模型的不同用例，重点是动态模型选择。该项目包括多种实现，例如用于运行时模型选择的 ChatDynamic、用于模型之间负载平衡的 ChatLoadBalance、用于混沌行为的 ChatChaos、用于优化路由的 ChatNotDiamond、用于自定义路由逻辑的 ChatCustomRouter 以及用于动态设置模型参数的 ChatDynamicParams。作者强调，该项目通过提供这些抽象的实际示例和实现而与众不同。]]></description>
-      <guid>https://t.me/hn_summary/71743</guid>
-      <pubDate>Tue, 30 Jan 2024 05:13:20 GMT</pubDate>
+      <title>[媒体]文章讨论了全球生育率下降以及潜在的长期[...]</title>
+      <link>https://t.me/hn_summary/71792</link>
+      <description><![CDATA[全球生育率不仅在下降，而且正在崩溃 
+文章讨论了全球生育率下降和人口数量潜在的长期下降。作者强调了经济学家赫苏斯·费尔南德斯-维拉韦德的预测，他认为全球生育率下降的速度比之前想象的要快。作者还介绍了“85 规则”，这是一种人口统计方法，用于根据出生率和预期寿命估算长期人口。虽然生育率下降被视为一种趋势，但作者承认，社会和文化因素以及医疗保健的进步和预期寿命的变化可能会影响未来的人口趋势。]]></description>
+      <guid>https://t.me/hn_summary/71792</guid>
+      <pubDate>Tue, 30 Jan 2024 14:42:51 GMT</pubDate>
     </item>
     <item>
-      <title>QnAyoutube.com 是一个革命性的平台，允许用户与 YouTube 视频进行实时聊天 [...]</title>
-      <link>https://t.me/hn_summary/71742</link>
-      <description><![CDATA[显示 HN：QnAyoutube.com – 与 YouTube 聊天的最快方式视频
-QnAyoutube.com 是一个革命性的平台，允许用户与 YouTube 聊天实时视频。 QnAyoutube 不隶属于 YouTube，但提供了一种独特且高效的方式来参与视频内容。用户可以在观看视频的同时提出问题、发表评论、进行讨论，增强整体观看体验。这一创新概念旨在弥合观众和内容创作者之间的差距，培养社区感和互动感。 QnAyoutube.com 是连接 YouTube 视频的最快方式，对于所有狂热的视频观看者来说，这是必须尝试的。]]></description>
-      <guid>https://t.me/hn_summary/71742</guid>
-      <pubDate>Tue, 30 Jan 2024 05:13:13 GMT</pubDate>
+      <title>[媒体] 该项目是一个用 Go 编写的简单 TCP 转发实用程序。</title>
+      <link>https://t.me/hn_summary/71791</link>
+      <description><![CDATA[显示 HN：用 Go 编写的简单 TCP 桥&lt; br/&gt;
+该项目是一个用 Go 编写的简单 TCP 转发实用程序。它允许用户将 TCP 连接从端口列表转发到指定的目标主机。该项目的目的是提供一种直接的方法来转发 TCP 连接，而不需要复杂的配置。它可用于解决本地开发的端口转发或将流量重定向到不同服务器等问题。作者提到该项目与其他项目的不同之处在于其简单性和易用性。该项目可以使用 Go 编译器或通过源代码编译来安装和运行。]]></description>
+      <guid>https://t.me/hn_summary/71791</guid>
+      <pubDate>Tue, 30 Jan 2024 14:39:43 GMT</pubDate>
     </item>
     <item>
-      <title>Shiny Express 是一种用 Python 编写 Shiny 应用程序的新方法，使其更容易上手并 [...]</title>
-      <link>https://t.me/hn_summary/71741</link>
-      <description><![CDATA[显示 HN：Shiny Express – Python 中的数据科学反应式 Web 框架
-Shiny Express 是一种用 Python 编写 Shiny 应用程序的新方法，可以更轻松地开始使用最少的样板代码编写简单的应用程序。该框架由 Shiny 的反应式编程框架提供支持，并提供可定制的 UI 方法。它适用于一系列应用程序，从原型到生产质量的业务工作流程应用程序。 Shiny Express 和 Shiny Core（编写 Shiny 应用程序的传统语法）是互补的，并且两者都将得到无限期支持。 Shiny Express内置于shiny包中，可以使用pip安装。虽然 Shiny Express 目前仅适用于 Python，但将来可能会对 R 的类似语法感兴趣。]]></description>
-      <guid>https://t.me/hn_summary/71741</guid>
-      <pubDate>Tue, 30 Jan 2024 05:13:08 GMT</pubDate>
+      <title>[媒体]此 Web 内容的作者讨论了他们希望使 Emacs 看起来更直观的愿望 [...]</title>
+      <link>https://t.me/hn_summary/71790</link>
+      <description><![CDATA[我只是想让 Emacs 看起来漂亮 – 在中使用 24 位颜色终端
+此 Web 内容的作者讨论了他们希望通过在终端中使用 24 位颜色使 Emacs 看起来更具视觉吸引力。他们解释说，虽然图形 Emacs 自动支持 24 位颜色，但终端 Emacs 不支持。作者深入研究了 ANSI 转义码的历史以及终端中颜色的引入。他们还探讨了 24 位颜色支持的起源以及围绕用于将颜色代码发送到终端的语法的混乱。该内容为那些有兴趣在终端环境中自定义 Emacs 外观的人提供技术信息和历史背景。 （根据故事文本的 26% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/71790</guid>
+      <pubDate>Tue, 30 Jan 2024 14:39:34 GMT</pubDate>
     </item>
     <item>
-      <title>该 GitHub 项目的目的是提供 T [...]</title>
-      <link>https://t.me/hn_summary/71740</link>
-      <description><![CDATA[用 20 行 Python 代码显示 Tabby 后端（自托管AI编码助手）
-该 GitHub 项目的目的是提供 Tabby AI 编码助手的简化和自托管版本。作者提到，原始的 TabbyML 服务器实现很复杂，并且有很多依赖项，因此他们创建了一个只有两个依赖项和 20 行代码的 Python 版本。该项目允许用户使用 Python 安装和运行 Tabby 后端，并提供下载和配置所需模型的说明。作者还提到可能存在错误和缺失的功能，但鼓励用户为该项目做出贡献。该项目强调简单性和易于维护。]]></description>
-      <guid>https://t.me/hn_summary/71740</guid>
-      <pubDate>Tue, 30 Jan 2024 05:13:01 GMT</pubDate>
+      <title>[媒体]Wren 是一款笔记应用程序和待办事项管理系统，旨在简化 [...]</title>
+      <link>https://t.me/hn_summary/71789</link>
+      <description><![CDATA[显示 HN：Wren – 使用 CLI、Telegram 进行简单但可扩展的任务管理, HTTP
+Wren 是一款笔记应用程序和待办事项管理系统，旨在简单而先进。它的与众不同之处在于使用基于文件的方法，其中每个笔记都存储为单独的文件，从而可以轻松在设备之间同步任务并最大限度地减少冲突。这些文件是纯文本，可以轻松编辑。 Wren 还具有可扩展性，提供用于管理笔记和接收人工智能驱动的每日摘要的 Telegram 机器人，以及用于通过 API 或浏览器管理任务的微型 HTTP 服务器。该项目提供了命令行界面、集成和配置选项的安装说明和使用示例。]]></description>
+      <guid>https://t.me/hn_summary/71789</guid>
+      <pubDate>Tue, 30 Jan 2024 14:38:23 GMT</pubDate>
     </item>
     <item>
-      <title>Rainboot.css 是一个新的 CSS 框架，旨在提供熟悉的 Bootstr 外观和感觉 [...]</title>
-      <link>https://t.me/hn_summary/71739</link>
-      <description><![CDATA[显示 HN：Rainboot.css – 具有 Cloudscape 外观的 Bootstrap&lt; /a&gt;
-Rainboot.css 是一个新的 CSS 框架，旨在提供熟悉的 Bootstrap 外观和感觉，而不需要复杂的构建系统或最新的 JavaScript 框架。借助 Rainboot.css，用户只需将 CSS 文件放入 HTML 中即可享受传统 Web 开发的简单性。这个框架非常适合那些厌倦了不断学习新技术而只想坚持自己所知道和喜欢的东西的人。]]></description>
-      <guid>https://t.me/hn_summary/71739</guid>
-      <pubDate>Tue, 30 Jan 2024 05:12:55 GMT</pubDate>
+      <title>Web 内容的作者讨论了证书生命周期自动化的重要性。</title>
+      <link>https://t.me/hn_summary/71788</link>
+      <description><![CDATA[为什么证书生命周期自动化很重要
+Web 内容的作者讨论了证书生命周期自动化的重要性。他们分析来自受损证书的数据，并确定受损证书数量最多的颁发者。然后，作者根据不同证书颁发机构（CA）的发行量来比较其妥协率。他们根据泄密率将 CA 分为“超级泄密者”、“常规泄密者”和“低泄密者”。作者强调，由于以人为中心的做法，传统 CA 更容易受到损害，而使用自动化的 Let&#39;s Encrypt 的妥协率较低。作者还提到了一个异常值 DigiCert，尽管它是传统 CA，但其妥协率较低，这可能是由于管理主要托管 TLS 提供商的证书。 （根据 72% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/71788</guid>
+      <pubDate>Tue, 30 Jan 2024 14:21:10 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]倡议。</title>
-      <link>https://t.me/hn_summary/71738</link>
-      <description><![CDATA[展示 HN：Oasis，构建宣传飞轮的社区技术集体&lt; /a&gt;
-倡议。我们的愿景是创建一个技术与行动主义交叉的可持续生态系统，使我们能够解决社会问题并推动积极变革。通过利用技术的力量和社区的集体努力，我们的目标是创造飞轮效应，使我们的利润驱动型产品的成功直接推动我们的非营利计划。这种独特的方法使我们能够拥有一个自我维持的模式，持续支持和扩大我们的宣传工作。与我们一起通过技术和行动主义建设更美好的未来。]]></description>
-      <guid>https://t.me/hn_summary/71738</guid>
-      <pubDate>Tue, 30 Jan 2024 05:12:51 GMT</pubDate>
+      <title>[媒体] 作者讨论了 GNU Emacs 中的垃圾收集问题并提供了一个 hack [...]</title>
+      <link>https://t.me/hn_summary/71787</link>
+      <description><![CDATA[原始神奇的 Emacs 垃圾收集技巧 (2019) 
+作者讨论了 GNU Emacs 中的垃圾收集问题，并提供了优化它的方法。他们解释说，Emacs 需要时不时地回收未使用的内存，这可能会导致延迟并影响性能。作者建议使用“gc-elapsed”变量来检查垃圾收集所花费的时间，然后介绍了一种调整垃圾收集器在 Emacs 空闲时运行的方法。他们建议将垃圾收集阈值设置为 1GB，并使用计时器每 15 秒空闲时间运行一次垃圾收集器。作者声称这种非常规策略可以提高响应能力和生产力。]]></description>
+      <guid>https://t.me/hn_summary/71787</guid>
+      <pubDate>Tue, 30 Jan 2024 14:20:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
