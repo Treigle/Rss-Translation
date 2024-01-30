@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 30 Jan 2024 00:43:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jan 2024 03:11:51 GMT</lastBuildDate>
+    <item>
+      <title>🎾 网球发球分析</title>
+      <link>https://www.reddit.com/r/opensource/comments/1aeb8z8/tennis_serve_analysis/</link>
+      <description><![CDATA[网球发球分析应用程序是一款移动应用程序，旨在彻底改变网球运动员分析和改进发球的方式。该应用程序利用机器学习算法和计算机视觉技术，为用户提供个性化反馈、与职业球员的即时比较以及对其发球机制的宝贵见解。 请为 repo如果你喜欢你所看到的😊。 💻安装链接 在 Play 商店中安装 （或）  下载 Apk  📖 使用  在您的移动设备上启动应用程序。 输入您的身高和打球的手型（左手或右手）。 上传您要分析的侧发球视频。 查看分析，包括与职业球员的最大、最小和平均关节角度以及球速比较（目前包括罗杰·费德勒、拉斐尔·纳达尔和法比奥·福格尼尼）。  ✨功能  🦵 姿势估计：利用机器学习模型MoveNet来估计用户发球的关键点，包括肘、肩、膝等关节。  🧔 职业球员比较：允许用户将自己的发球与同等身高的职业球员进行比较，提供视觉叠加和角度比较。  🥎 球跟踪：采用 AutoML Vision 进行球检测和跟踪，计算球撞击后的速度。 👥 用户反馈：提供关节角度的实时反馈，使用户了解他们的技术并收到改进建议。 📊 数据驱动的进度跟踪：使用户能够跟踪他们随时间的进展，帮助他们监控改进并完善他们的训练策略.    由   提交 /u/adityabolt   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1aeb8z8/tennis_serve_analysis/</guid>
+      <pubDate>Tue, 30 Jan 2024 00:43:02 GMT</pubDate>
+    </item>
     <item>
       <title>用于Automatic1111稳定扩散WebUI的SDK/Python客户端</title>
       <link>https://www.reddit.com/r/opensource/comments/1ae7vzt/sdkpython_client_for_automatic1111s_stable/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交 /u/black_frost_byte   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ad06fw/how_can_i_create_an_opensource_repository_for_all/</guid>
       <pubDate>Sun, 28 Jan 2024 10:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>FL studio 有开源版本吗</title>
-      <link>https://www.reddit.com/r/opensource/comments/1acuuu9/is_there_an_opensource_version_version_of_fl/</link>
-      <description><![CDATA[我试用了 FL Studio 并且喜欢它我想知道是否有开源版本所以我不付费并且它赢了不占用太多空间。   由   提交 /u/Zealousideal-Ship740    reddit.com/r/opensource/comments/1acuuu9/is_there_an_opensource_version_version_of_fl/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1acuuu9/is_there_an_opensource_version_version_of_fl/</guid>
-      <pubDate>Sun, 28 Jan 2024 05:06:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
