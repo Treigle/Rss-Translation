@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 31 Jan 2024 00:43:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jan 2024 03:11:32 GMT</lastBuildDate>
     <item>
       <title>Reddit 软件开发人员：您是否曾因为开源项目做出贡献而获得 FTE 职位？</title>
       <link>https://www.reddit.com/r/opensource/comments/1af4itn/software_developers_of_reddit_have_you_ever/</link>
@@ -18,13 +18,6 @@
       <description><![CDATA[ 开源社区您好！ 我很高兴能分享一个我一直在从事的项目，并且邀请这个令人惊叹的社区的合作。它是 HLS Mono Node.js/ffmpeg 概念验证，我正在寻找贡献者来帮助维护和增强它，特别是在编写 S3 兼容性适配器方面。  这个项目的目的是为创建需要视频上传的服务器（即 LMS）时通常需要的特定任务制作一个简单的即插即用存储库，我不想成为被迫使用 Vimeoo 或 Mux 订阅，我们可能有自己的实例，可以根据我们的需要进行扩展 关于该项目： 该项目是一个Turborepo 包含多个专为视频编码和处理而设计的软件包和应用程序：  api：一个简单的 Express.js 应用程序，用于将视频上传并编码为 HLS 格式。 hlsify：一个利用 ffmpeg 进行 HLS 视频编码的便携式 Node.js 包。 hlsify-worker：一个与框架无关的、为 hlsify 包预先设置 MQ 工作线程，用辣酱 🌶️ 和钩子 🔗 调味。  入门：  克隆存储库：git clone https://github.com/ahmedrowaihi/hls-monorepo 安装：使用 pnpm install 进行设置。 运行应用：只需输入 pnpm dev 即可走吧！  我们正在寻找的贡献：  维护：帮助管理和维护更新现有代码库。 S3 适配器：编写适配器以使此解决方案与 S3 存储解决方案兼容。  为什么贡献?  成为激动人心的开源项目的一部分。 使用视频处理领域的尖端技术。 与全球开发者社区合作。  如何贡献： 随意分叉存储库、进行更改并提交拉取请求。如需更详细的讨论或建议，请在此处或 GitHub 存储库上留言。 感谢您考虑为此项目做出贡献。非常感谢您的专业知识和时间！    由   提交 /u/Independent-Kick4381   /u/Independent-Kick4381 reddit.com/r/opensource/comments/1af1f3a/seeking_open_source_contributors_for_hls_mono/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1af1f3a/seeking_open_source_contributors_for_hls_mono/</guid>
       <pubDate>Tue, 30 Jan 2024 22:29:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们启动了一个开源赏金平台</title>
-      <link>https://www.reddit.com/r/opensource/comments/1aezky6/we_bootstrapped_an_open_source_bounties_platform/</link>
-      <description><![CDATA[大家好！我们是 Zaf 和 Ioannis，Algora.io 的创始人，这是一个开源赏金平台，已帮助向 311 名 OSS 贡献者奖励了 1,105 笔赏金（122,684 美元）在 54 个国家/地区。 赏金是针对 Github 问题的现金奖励，在合并 PR 时支付。任何人都可以在任何存储库中提供社区赏金，而维护者都可以创建自己的以及与社区一起​​众筹。 我们很乐意听到您的反馈、问题和建议。要求！我们在下面分享流行编程语言的开放赏金，希望您能找到自己喜欢的东西！    开放赏金 &lt; th&gt;总奖励 热门项目    TypeScript 85 12,419 美元 Cal.com、Trigger.dev、Drizzle ORM   Rust 75 16,880 美元 Qdrant、Tailcall、RustDesk   Scala 54 $14,475 ZIO   C++ 20 4,080 美元 Timeplus、PX4 Autopilot、Mudlet   Python 3 4,575 美元 &lt; td&gt;保留，Refact.ai   继续 8 $2,050 Highlight、Permify、WunderGraph   最后，对于任何有兴趣开始的人一家商业开源公司，或者只是今天了解有关开源的更多信息，您还可以查看我们采访开源创始人的播客：https: //youtube.com/@algora-io   由   提交/u/mgcrimhead  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1aezky6/we_bootstrapped_an_open_source_bounties_platform/</guid>
-      <pubDate>Tue, 30 Jan 2024 21:15:24 GMT</pubDate>
     </item>
     <item>
       <title>寻找涉及树莓派的 Meraki、Aruba、Fortigate 的替代品</title>
@@ -109,6 +102,13 @@
       <description><![CDATA[我在社交媒体上花费了太多时间，是否有适用于 Brave/Chromium 的 FOSS 浏览器扩展来阻止特定网站。最好有何时屏蔽某些网站的功能。   由   提交 /u/skincr   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ae70ba/any_url_blocker_browser_extension_for/</guid>
       <pubDate>Mon, 29 Jan 2024 21:38:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Plasma 6 - RC 2 将于周三登陆。准备好向我们询问任何问题！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ae51sd/plasma_6_rc_2_is_landing_on_wednesday_get_ready/</link>
+      <description><![CDATA[ 由   提交/u/Bro666  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ae51sd/plasma_6_rc_2_is_landing_on_wednesday_get_ready/</guid>
+      <pubDate>Mon, 29 Jan 2024 20:18:08 GMT</pubDate>
     </item>
     </channel>
 </rss>

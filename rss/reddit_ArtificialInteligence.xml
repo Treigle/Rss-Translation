@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 31 Jan 2024 00:42:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jan 2024 03:10:22 GMT</lastBuildDate>
+    <item>
+      <title>查找科学文献</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1af60sq/finding_scientific_literature/</link>
+      <description><![CDATA[我写了一份报告。我想加强引用的参考文献。人工智能可以帮助找到科学参考资料来支持我的报告中的陈述吗？如果是这样，建议使用什么或提示？   由   提交 /u/AsukaHiji   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1af60sq/finding_scientific_literature/</guid>
+      <pubDate>Wed, 31 Jan 2024 01:52:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI写作工具对决</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1af5dpo/ai_writing_tool_showdown/</link>
+      <description><![CDATA[ 由   提交 /u/Original_Nerve6819   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1af5dpo/ai_writing_tool_showdown/</guid>
+      <pubDate>Wed, 31 Jan 2024 01:22:04 GMT</pubDate>
+    </item>
     <item>
       <title>有没有可以用我自己的数据训练的人工智能程序？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1af4fhi/is_there_an_ai_program_i_can_train_on_my_own_data/</link>
@@ -39,13 +53,6 @@
       <description><![CDATA[理论上，我可以向人工智能提供一个人的所有已知信件、互联网帖子、社交媒体帐户等，然后要求人工智能在 reddit 中找到我的帐户一定有合理水平吗？主要是出于对自己的恐惧。   由   提交/u/anonyquestions1  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1af1inq/could_an_ai_find_my_anonymous_reddit_account/</guid>
       <pubDate>Tue, 30 Jan 2024 22:33:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>带有头像的人工智能助手</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aezzuq/ai_assistants_with_avatars/</link>
-      <description><![CDATA[我正在寻找具有某些特征的人工智能。我有点厌倦使用没有灵魂的聊天助手。现在有哪些免费的助手？我唯一知道的是 amica.arbius.ai，但我想扩展到更多助手。    由   提交/u/expired_crypto   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aezzuq/ai_assistants_with_avatars/</guid>
-      <pubDate>Tue, 30 Jan 2024 21:31:58 GMT</pubDate>
     </item>
     <item>
       <title>使用 LlamaIndex + Pinecone + Gemini Pro 的 RAG：初学者指南</title>
@@ -88,13 +95,6 @@
       <description><![CDATA[我每天都以某种方式使用 GPT，无论是通过 Copilot 还是我的 ChatGPT pro 订阅。是只有我一个人觉得这样还是答案的质量随着时间的推移而大幅下降？我在这里看到过其他人对此发表过帖子，但目前它在解决简单的代码问题方面变得如此糟糕，以至于我宁愿回去按照我 10 年来一直在做的方式做所有事情。老实说，这让我放慢了速度。如果你要求它解决任何复杂的问题——即使副驾驶处于工作区模式——大多数时候它都会失败。现在看来它很少能真正解决某些任务，但大多数时候我必须纠正它吐出的很多内容，所以我宁愿不使用它。认为这个工具很快就会取代一群软件工程师的想法是荒谬的。   由   提交 /u/patrickisgreat   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aebtp0/sr_software_engineer_here_gpt4_sucks_at_coding/</guid>
       <pubDate>Tue, 30 Jan 2024 01:10:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>回复：厌倦了人工智能兄弟</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ae80nx/re_tired_of_ai_bros/</link>
-      <description><![CDATA[我之前看到过一篇关于一个厌倦了 AI 兄弟和 GPT 包装器的人的帖子。他还提到，人们喜欢创办人工智能公司，并将他们指向 OpenAI 端点——有趣的是，这是真的。看，每家提供此类服务的公司通常都在对您撒谎。 “尖端技术” “专有模型” （通常意味着他们做了一些即时工程或训练了他们的函数调用模型） 我一直看到它。我从事这个行业。我的公司一开始是“将其连接到端点并向用户提供服务”的公司之一。类型交易。每个人都是这样开始的。我对其他公司了解得越多，就越发现每个人都在假装。大家！ 服务将平台建立在虚假承诺和流沙之上，用胶带和纸板将东西固定在一起。老实说，我喜欢开玩笑说任何白痴都可以托管端点 - 因为这是真的！我可以为你们中的任何人编写一份指南，以便立即为每小时运行 30 美分的服务器托管自己的端点！如果您可以浏览 bash 终端，这并不难。但对我来说，这从来都不是重点。这从来都不是最终的游戏。 我认为，一家有前途的人工智能公司与其他公司的区别不在于他们提出终点的能力。他们有能力利用现有技术创造出令人惊叹的东西。伙计们，用人工智能构建东西很容易。如果您能够阅读，有耐心筛选文档，并且具备一点点技术悟性，您就可以做成千上万其他公司正在做的事情。它的美妙之处在于它简单。 任何人都可以做到。 为什么？我会告诉你 - 由于人工智能对我们来说变得如此简单，无论你是想使用法学硕士、创建图像、制作音乐 - 它都为创造性思维提供了空间，让他们找到问题的解决方案或使用这些新兴技术的组合来创造事物。我们不必担心实施，因为跑腿工作已经为我们完成了！有人制作了一个 Python 库，或者组合了一个 GUI，或者为一个开源项目做出了贡献，以使您的想法成为可能。所有这一切都为解决问题和创新打开了大门！对我来说，这就是将自己与其他人区分开来的意义。  我只是想分享我的这些想法，作为一个从人工智能兄弟开始，现在生活和呼吸人工智能的人。这是我的热情 - 我喜欢阅读研究文章，观看视频，实现我认为很酷的模型......我喜欢研究，理论，以及另一篇文章中的那位先生提到的所有东西似乎都迷失在了当前的景观。我认为创造出美丽且有价值的东西是 100% 可能的，即使它很容易，即使任何人都可以做到。 因此，如果你想有所作为，请巧妙地利用人们费尽心力创造并与世界分享的技术。以前所未有的创造性方式实施新兴技术！如果您只是一名爱好者，请花点时间欣赏在您之前的杰出人才，正是他们使这一切成为可能。  归根结底，人工智能真是太美了。无论有多少人工智能兄弟出现，或者每个即将推出的产品广告中都有多少人工智能兄弟，它都不会改变这个简单的事实。我每天都很感激它，因为它给了我一种深刻的目标感，每当我听到一些可能会改变事情的新事物时，我都会感到兴奋:)   由   提交 /u/B1LLSTAR   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ae80nx/re_tired_of_ai_bros/</guid>
-      <pubDate>Mon, 29 Jan 2024 22:20:07 GMT</pubDate>
     </item>
     <item>
       <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
