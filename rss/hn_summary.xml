@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 01 Feb 2024 05:35:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Feb 2024 15:08:54 GMT</lastBuildDate>
     <item>
-      <title>[媒体]文章讨论了人工智能 (AI) 在反应堆安全和 p [...]</title>
-      <link>https://t.me/hn_summary/72114</link>
-      <description><![CDATA[朝鲜利用人工智能实现反应堆安全和发电优化&lt; /a&gt;
-本文讨论了朝鲜使用人工智能 (AI) 实现反应堆安全和发电优化的情况。作者强调了解决与国家电厂建设相关的科学技术问题的重要性。本文重点讨论核反应堆的加载模式优化（LPO），这是一个复杂的优化问题。作者介绍了遗传算法（GA）用于LPO，并提出了一种新的自适应遗传算法（AGA）来提高收敛速度。 AGA 用于优化额定功率为 1000MW 的压水堆 (PWR) 的第一循环模式。结果表明，与传统遗传算法相比，所提出的 AGA 能够有效提高收敛速度并取得更好的结果。研究成果发表在《Annals of Nuclear Energy》杂志上。]]></description>
-      <guid>https://t.me/hn_summary/72114</guid>
-      <pubDate>Thu, 01 Feb 2024 05:35:26 GMT</pubDate>
+      <title>[媒体]特斯拉正面临来自加州 25 个县的诉讼，指控该汽车制造商存在不当行为 [...]</title>
+      <link>https://t.me/hn_summary/72174</link>
+      <description><![CDATA[特斯拉因涉嫌多年来在加州不当处理危险废物而被起诉
+特斯拉正面临来自加州 25 个县的诉讼，指控该汽车制造商在其工厂处理危险废物不当。该诉讼指控特斯拉对电池、油漆、制动液等材料的标签和处理不当。每个县的地方检察官正在寻求禁令，以确保未来适当的废物管理以及民事处罚。每次违规，特斯拉可能面临每天最高 7 万美元的罚款。这起诉讼是在特斯拉与地区检察官办公室之间的和解谈判破裂后发生的。此前，特斯拉加州工厂曾因环境违规而面临审查。]]></description>
+      <guid>https://t.me/hn_summary/72174</guid>
+      <pubDate>Thu, 01 Feb 2024 15:08:54 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网页内容的作者讨论了他们使用 ORM（Object-Relat [...]</title>
-      <link>https://t.me/hn_summary/72113</link>
-      <description><![CDATA[ORM 很好，但它们是错误的抽象&lt; br/&gt;
-Web 内容的作者讨论了他们在数据库交互中使用 ORM（对象关系映射）的经验。他们解释说，虽然 ORM 乍一看似乎很方便，但它们是错误的抽象，因为它们最终会用目标语言重新实现 SQL，使得与数据库交互变得很麻烦，并可能隐藏性能问题。作者提供了使用 ORM 库 Gorm 的示例，以说明使用 ORM 查询数据如何变得简单，但也会导致测试中的依赖性和困难。他们认为数据库是它们自己的可编程领域，SQL 是数据库的声明性机器语言，而 ORM 则充当汇编语言。 （根据故事文本的 52% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/72113</guid>
-      <pubDate>Thu, 01 Feb 2024 05:19:08 GMT</pubDate>
+      <title>[媒体]Okta，美国</title>
+      <link>https://t.me/hn_summary/72173</link>
+      <description><![CDATA[Okta 裁员 400 名员工 - 距上次裁员已近一年&lt; /a&gt;
+美国访问和身份管理公司 Okta 宣布将裁员约 400 名员工，占其全球员工总数的 7%。这几乎是在该公司裁员 5% 的一年之后。 Okta 的首席执行官托德·麦金农 (Todd McKinnon) 表示，这一决定对于公司的盈利增长是必要的。此次裁员是一项积极主动的措施，旨在帮助公司取得长期成功。受影响的具体角色和地区并未披露。 Okta 宣布这一消息前不久，网络安全公司 Proofpoint 确认裁员约 6%。]]></description>
+      <guid>https://t.me/hn_summary/72173</guid>
+      <pubDate>Thu, 01 Feb 2024 14:55:41 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]众议院通过了一项两党税收法案，旨在为工薪家庭减税[...]</title>
-      <link>https://t.me/hn_summary/72112</link>
-      <description><![CDATA[众议院在新税单中恢复立即研发扣除
-众议院通过了一项两党税收法案，旨在为工薪家庭减税并恢复某些企业税收减免。该法案扩大了低收入家庭儿童税收抵免的资格，并根据通货膨胀调整支付金额。它还加强了营业税抵免，包括研发扣除。然而，该法案在参议院面临挑战，共和党人可以通过阻挠来阻止该法案。一些共和党参议员批评了该法案，参议员查克·格拉斯利(Chuck Grassley)表示担心该法案可能有助于拜登总统的连任竞选。左翼众议员罗莎·德劳罗对该法案投了反对票，称该法案在平衡家庭利益与企业税收减免方面还不够。该法案还有可能失去自由派立法者的支持，他们认为该法案在扩大儿童税收抵免方面做得还不够。扩大儿童税收抵免旨在帮助更多低收入家庭有资格获得援助并降低儿童贫困率。该法案因众议院共和党人之间的争议而面临争议，一些人威胁要阻止有关州税和地方税扣除上限的立法。社交媒体上还流传着一些虚假说法，称该法案将使无证移民能够申请儿童税收抵免，但事实并非如此。尽管面临挑战，该法案还是获得了外部团体和商业游说团体的支持。全国福音派协会表示支持扩大儿童税收抵免，并表示这将使堕胎变得不太可能。该法案在众议院的通过被视为小企业和工薪家庭的胜利。该法案的命运现在取决于参议院，其未来仍不确定。]]></description>
-      <guid>https://t.me/hn_summary/72112</guid>
-      <pubDate>Thu, 01 Feb 2024 05:07:55 GMT</pubDate>
+      <title>[媒体]“wordl-rs”项目是一个终端 wordle 游戏，旨在提供类似网络的 Wordl [...]</title>
+      <link>https://t.me/hn_summary/72172</link>
+      <description><![CDATA[显示 HN：Wordl – 具有类似于 GUI 的 Web 终端 Wordle
+“wordl-rs”项目是一款终端 Wordle 游戏，旨在提供类似 Web 的 Wordle 体验。它包括猜测后缓慢显示字母颜色和键盘提示等功能。该项目可以从 Cargo 或通过预编译的二进制文件安装。游戏规则很简单：输入您的猜测并按 Enter 键，按退格键清除字母，按 Ctrl-N 开始新的猜测，然后按 Esc 或 Ctrl-C 退出游戏。该项目的特色在于提供基于终端的 Wordle 游戏，具有类似 Web 的 GUI 和键盘提示。游戏中使用的单词列表可以通过提交拉取请求来修改。]]></description>
+      <guid>https://t.me/hn_summary/72172</guid>
+      <pubDate>Thu, 01 Feb 2024 14:52:32 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]网络内容讨论了波音飞机最近发生的事件和持续存在的问题，[...]</title>
-      <link>https://t.me/hn_summary/72111</link>
-      <description><![CDATA[波音公司如何将利润置于飞机之上
-网络内容讨论了波音飞机最近发生的事件和持续存在的问题，强调该公司对利润的关注如何损害了安全和质量。它提到了阿拉斯加航空的紧急门插头爆炸事件，以及之前涉及波音 737 Max 飞机的坠机事件。文章还提到了波音飞机的其他问题，例如系统故障和制造缺陷。作者认为，波音公司文化的下滑可以追溯到杰克·韦尔奇的影响以及采用优先考虑成本削减而非安全的精益管理风格。文章还批评波音公司对分包商的依赖及其对待工人和供应商的方式。总体而言，内容表明波音公司的企业文化和成本削减措施对其飞机的安全和声誉产生了负面影响。 （根据 87% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/72111</guid>
-      <pubDate>Thu, 01 Feb 2024 04:54:35 GMT</pubDate>
+      <title>[媒体]美国联邦法院得出结论认为，以色列似乎正在参与 [...]</title>
+      <link>https://t.me/hn_summary/72171</link>
+      <description><![CDATA[美国法院得出合理的种族灭绝结论，以管辖权为由驳回案件
+美国联邦法院得出的结论是，以色列似乎正在对加沙的巴勒斯坦人民进行种族灭绝。法院的评估基于巴勒斯坦证人的证词以及种族灭绝和大屠杀学者的专家意见。然而，该案以管辖权为由被驳回，法院表示，由于外交政策方面的行政决策，它无权解决此案。法院批评美国对以色列军事围困加沙的“坚定支持”，并恳求拜登政府审查并结束其致命的行动方针。以宪法权利中心为代表的原告将继续寻求法律途径来制止种族灭绝。]]></description>
+      <guid>https://t.me/hn_summary/72171</guid>
+      <pubDate>Thu, 01 Feb 2024 14:45:19 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 天文学家 Krisztián Sárneczky 在一次碰撞中发现了一颗名为 2024 BX1 的小行星 [...]</title>
-      <link>https://t.me/hn_summary/72110</link>
-      <description><![CDATA[竞相追踪小行星 2024 BX1 与地球的碰撞路线 
-天文学家 Krisztián Sárneczky 在与地球相撞的过程中发现了一颗名为 2024 BX1 的小行星。这颗小行星撞击柏林附近的地球大气层，产生了令人震惊的火球。这只是撞击前检测到的第八颗小行星。萨尔内茨基的发现引发了全球协调一致的反应，世界各地的天文台都在追踪这颗小行星。此次活动凸显了空间监测技术的进步和国际合作的价值。这颗小行星大约一米大小，不会造成重大危险，而且大多数这种大小的小行星从未被发现。现在正在寻找在穿过大气层的炽热旅程中幸存下来的任何潜在陨石。]]></description>
-      <guid>https://t.me/hn_summary/72110</guid>
-      <pubDate>Thu, 01 Feb 2024 04:32:20 GMT</pubDate>
+      <title>[媒体]crankysec.com 上标题为“Your Security Program Is Shit”的网页内容讨论了 [...]</title>
+      <link>https://t.me/hn_summary/72170</link>
+      <description><![CDATA[安全程序就是狗屎
+crankysec.com 讨论业界安全计划的缺陷和不足。作者认为，许多安全专业人员假装他们的程序有效，但实际上，它们往往是不够的。作者认为，那些不直接参与信息安全运营方面的人很容易欺骗他人，并维持强大安全计划的假象。内容重点介绍了医院 CISO 的场景，他的任务是在没有真正了解要求的情况下获得 ISO 认证。作者批评了对德勤等外部顾问的依赖，因为他们可能缺乏必要的专业知识。内容最后强调了知识渊博的内部员工受到的不公平待遇以及取悦上级而不是实际安全措施的优先顺序。]]></description>
+      <guid>https://t.me/hn_summary/72170</guid>
+      <pubDate>Thu, 01 Feb 2024 14:43:09 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在这篇文章中，John Siracusa 讨论了计算机中“直接操纵”的概念 [...]</title>
-      <link>https://t.me/hn_summary/72109</link>
-      <description><![CDATA[空间计算
-在本文中，约翰·锡拉库扎 (John Siracusa) 讨论了计算机界面中“直接操作”的概念及其多年来的演变。他强调了图形用户界面 (GUI) 的成功，例如第一代 Macintosh 上的图形用户界面和 iPhone 的触摸界面，这两种界面都利用了我们与生俱来的能力来推理和操纵空间中的物体。 Siracusa 推出了 Apple 的新型“空间计算机”Vision Pro，它通过模拟 3D 世界将空间界面提升到一个新的水平。然而，他质疑 Vision Pro 的界面是否需要用户查看物体并执行间接手势，是否像 iPhone 的触摸界面一样直观和高效。文章最后承认 Vision Pro 打开了新体验和界面的大门，但对其当前的交互模式提出了质疑。]]></description>
-      <guid>https://t.me/hn_summary/72109</guid>
-      <pubDate>Thu, 01 Feb 2024 04:25:11 GMT</pubDate>
+      <title>[媒体] Astro 4.3 现已在 astro.build 上提供。</title>
+      <link>https://t.me/hn_summary/72169</link>
+      <description><![CDATA[Astro 4.3
+Astro 4.3 现已在 astro.build 上提供。此版本引入了一项新的实验性 i18n 功能，允许用户为不同支持的区域设置指定不同的域或子域。用户可以启用实验标志“i18nDomains”并将其区域设置映射到 astro.config.mjs 文件中的域。值得注意的是，此功能需要一个没有预渲染页面的服务器渲染站点。该版本还包括对构建输出、组件属性类型、Markdown 图像等的改进。值得注意的是，通过在 build.format 配置中添加“preserve”选项，用户现在可以更好地控制 HTML 文件输出。 Astro 还包括一个新的 ComponentProps 类型导出，并修复了与在没有相对说明符的情况下在 Markdown 中使用图像相关的错误。]]></description>
+      <guid>https://t.me/hn_summary/72169</guid>
+      <pubDate>Thu, 01 Feb 2024 14:43:01 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]作者在ma.tt网站上介绍了一个名为“Freedom grants”的新机会。</title>
-      <link>https://t.me/hn_summary/72108</link>
-      <description><![CDATA[自由授予
-作者在网站 ma.tt&lt; 上介绍了一个名为“Freedom grants”的新机会/a&gt;.这些赠款针对的是那些认为当前政治环境与开源价值观不相容的开源贡献者。这些赠款旨在帮助这些人适应新环境。作者承认，赠款如何运作的细节仍在研究中。赠款的想法受到奥斯陆自由论坛工作的启发。]]></description>
-      <guid>https://t.me/hn_summary/72108</guid>
-      <pubDate>Thu, 01 Feb 2024 03:43:54 GMT</pubDate>
+      <title>[媒体] C.J. 题为“To Be Is to Be a Value of a Variable”的论文</title>
+      <link>https://t.me/hn_summary/72168</link>
+      <description><![CDATA[成为变量的值 [pdf]( https://news.ycombinator.com/item?id=39188987)
+C.J. Date 题为“To Be Is to Be a Value of a Variable”的论文是对批评者 A 和 B 对《第三宣言》的批评的回应。该论文讨论了关系变量（relvars）和关系赋值的概念，对于更新数据库至关重要。作者认为关系赋值是唯一需要的关系更新运算符，并在本文的其余部分重点讨论它。作者对批评者A提出的反对意见进行了回应和反驳。本文详细分析了与相关变量和关系分配相关的概念和术语。 （根据故事文本的 23% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/72168</guid>
+      <pubDate>Thu, 01 Feb 2024 14:38:51 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]这篇文章讨论了亚马逊退出与 [...] 的交易的潜在后果</title>
-      <link>https://t.me/hn_summary/72107</link>
-      <description><![CDATA[亚马逊给 Roomba 留下了一大堆乱七八糟的东西需要清理 
-这篇文章讨论了亚马逊退出收购 iRobot（Roomba 机器人吸尘器背后的公司）的交易的潜在后果。虽然隐私倡导者可能认为这是一次胜利，但这可能不利于 iRobot 的未来。该公司一直在与扫地机器人市场日益激烈的竞争作斗争，其市场份额稳步下降。科沃斯、Anker、Roborock 和 Dreame Technology 等中国公司已经以更便宜的选择进入市场。 iRobot 的创新技术，例如自动清空坞站和有效的房间测绘，已被竞争对手采用。本文重点介绍了 iRobot 独特的双橡胶滚刷系统及其软件方法。然而，该公司在采用新技术和跟上竞争对手的一体化解决方案方面面临着挑战。疫情还对 iRobot 的收入产生了负面影响，目前面临运营亏损，需要寻找额外资金。该公司计划裁员、关闭办公室并减少研发。文章最后表达了对 iRobot 未来以及中国公司主导市场潜力的不确定性。]]></description>
-      <guid>https://t.me/hn_summary/72107</guid>
-      <pubDate>Thu, 01 Feb 2024 03:42:47 GMT</pubDate>
+      <title>LifeStance 是一家由私募股权公司支持的心理健康提供商，正面临着潜在的财务问题 [...]</title>
+      <link>https://t.me/hn_summary/72167</link>
+      <description><![CDATA[LifeStance：私募股权支持的心理健康汇总即将崩溃
+LifeStance 是一家由私募股权公司支持的心理健康提供商，目前正面临潜在的财务问题。尽管其临床医生基础不断增长，并且行为健康市场预计将增长，但 LifeStance 仍报告了重大损失、巨额债务负担和较低的现金余额。由于其财务状况和未决诉讼，该公司预计将很快筹集现金。人们对该公司的临床医生组合感到担忧，与利润较高的精神科医生相比，利润较低的治疗师所占比例较高。 LifeStance 还因其临床医生保留率以及欺骗性就业机会和薪酬做法的指控而面临争议。前员工描述了一种消极的企业文化，并且注重收入最大化而不是护理质量。该公司还因其处方做法和滥用受控物质的可能性而受到批评。 LifeStance 的股票遭到大量内部人士抛售，该公司也经历了高管更替。总体而言，该报告表明 LifeStance 是一家财务上不可持续的企业，它优先考虑指标而不是患者护理和投资者盈利能力。 （根据故事文本的 18% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/72167</guid>
+      <pubDate>Thu, 01 Feb 2024 14:31:35 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]特斯拉公司</title>
-      <link>https://t.me/hn_summary/72106</link>
-      <description><![CDATA[特斯拉公司 vs. 埃隆·马斯克
-本网页内容是理查德·J·托内塔诉埃隆·马斯克等人一案的审后意见，该案已向特拉华州衡平法院提交。原告指控特斯拉董事向埃隆·马斯克授予基于绩效的股权薪酬计划，违反了信托义务。该计划为马斯克提供了获得 12 批期权的机会，每批期权相当于特斯拉已发行股票的 1%。该计划是公开市场上迄今为止观察到的最大的潜在补偿机会。法院认为，赔偿方案是在整个公平标准下接受审查的，被告未能证明其公平性。法院还讨论了马斯克是否控制特斯拉的问题，并得出结论认为他确实控制了特斯拉。被告无法证明批准该计划的股东投票是在充分知情的情况下进行的。法院认为该计划的批准程序存在缺陷，而且价格不公平。 （根据故事文字的 2% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/72106</guid>
-      <pubDate>Thu, 01 Feb 2024 03:41:36 GMT</pubDate>
+      <title>[媒体]据路透社报道，人工智能相关公司已经损失了惊人的 1900 亿美元 [...]</title>
+      <link>https://t.me/hn_summary/72166</link>
+      <description><![CDATA[人工智能相关公司的股票市值损失了 190B 美元
+据路透社报道，由于微软和谷歌母公司 Alphabet 的季度业绩令人失望，人工智能相关公司的股票市值损失了 1900 亿美元。尽管微软凭借其人工智能服务的承诺成功说服了投资者，但其股价仍下跌了 0.7%。 Alphabet 的表现更糟，广告收入未达到预期，股价下跌 5.6%。股价下跌可能表明投资者对科技公司在人工智能方面过度承诺而没有明确的货币化路径持谨慎态度。一些分析师认为，这种低迷可能是过度扩张的迹象，而另一些分析师则仍然看好人工智能革命。人工智能公司的未来将取决于它们创造利润的能力。]]></description>
+      <guid>https://t.me/hn_summary/72166</guid>
+      <pubDate>Thu, 01 Feb 2024 14:27:24 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 维多利亚动物正义党议员乔吉·珀塞尔 (Georgie Purcell) 的数字修改图像，其中 [...]</title>
-      <link>https://t.me/hn_summary/72105</link>
-      <description><![CDATA[Photoshop 的“生成扩展”工具可能会扩大胸围并暴露中腹部&lt; /a&gt;
-维多利亚州动物正义党议员乔吉·珀塞尔（Georgie Purcell）的数字修改图像暴露了她的腹部并扩大了她的胸部，引发了国际社会对生成人工智能影响范围的关注和辩论。九号新闻广播公司对这一改动表示歉意，称这是由于“Photoshop 自动化”调整原始照片大小造成的。修改是使用 Adob​​e Photoshop 的“生成扩展”工具进行的，该工具使用 AI 来假设如何填充图像。专家表示，九号台的解释似乎有道理，但强调需要加强监管和人工智能素养，以防止未来发生此类事件。]]></description>
-      <guid>https://t.me/hn_summary/72105</guid>
-      <pubDate>Thu, 01 Feb 2024 03:32:08 GMT</pubDate>
+      <title>[媒体]Ivanti 发布了 Connect Secure 和 Policy Secur 的第一轮补丁 [...]</title>
+      <link>https://t.me/hn_summary/72165</link>
+      <description><![CDATA[Ivanti 发布 VPN 零日漏洞补丁，披露了另外两个高-严重漏洞
+Ivanti 已为其 Connect Secure 和 Policy Secure 网关发布了第一轮补丁，这些网关受到零日漏洞的影响。然而，该公司还发现了另外两个零日漏洞，其中之一目前正在被积极利用。这些补丁适用于某些版本，建议管理员在应用补丁之前将其设备恢复出厂设置，以防止攻击者获得升级持久性。这些漏洞允许未经身份验证的远程攻击者实现代码执行。美国网络安全和基础设施安全局 (CISA) 警告称，一些经验丰富的攻击者已经绕过了 Ivanti 的缓解措施。 Ivanti 已更新其缓解措施并发布了针对额外零日漏洞的补丁。]]></description>
+      <guid>https://t.me/hn_summary/72165</guid>
+      <pubDate>Thu, 01 Feb 2024 14:23:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
