@@ -4,7 +4,55 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Fri, 02 Feb 2024 08:58:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Feb 2024 12:06:54 GMT</lastBuildDate>
+    <item>
+      <title>[媒体] Pandoc 是一款多功能工具，可让您将文件从一种标记格式转换为 [...]</title>
+      <link>https://t.me/hn_summary/72326</link>
+      <description><![CDATA[Pandoc
+Pandoc 是一种多功能工具，可让您将文件从一种标记格式转换为另一种标记格式。它支持多种格式，包括 Microsoft Word 和 OpenOffice 等文字处理格式、Jupyter 笔记本等交互式笔记本格式、InDesign 等页面布局格式、MediaWiki 和 DokuWiki 等 wiki 标记格式、LaTeX Beamer 和 PowerPoint 等幻灯片放映格式、数据格式例如 CSV 和 TSV 表等。 Pandoc 还提供有用的 Markdown 语法扩展，支持 LaTeX 数学和宏，并包含强大的引文和参考书目系统。它可以通过模板和过滤器进行自定义，并可作为 Haskell 库和命令行程序使用。]]></description>
+      <guid>https://t.me/hn_summary/72326</guid>
+      <pubDate>Fri, 02 Feb 2024 12:06:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 2023 年，开源社区与欧盟监管机构就 [...]</title>
+      <link>https://t.me/hn_summary/72325</link>
+      <description><![CDATA[欧洲监管机构听取了开源社区的意见&lt; br /&gt;
+2023 年，开源社区与欧盟监管机构就网络弹性法案 (CRA) 和欧洲产品责任指令 (PLD) 的修订进行了接触。 CRA 旨在首次将产品责任责任纳入软件。然而，社区成员发现 CRA 的义务可能落在开发者和开源基金会身上，这对开源开发构成了生存威胁。经过广泛的参与和协调，CRA 的最终文本减轻了个人开发者和开源基金会的风险。尽管挑战仍然存在，但修订后的立法承认开源软件的价值，并创建了一个名为“开源管家”的新经济参与者。 OSI 鼓励继续参与并寻求对立法某些方面的澄清。此外，一群积极参与的个人在 FOSDEM 2024 上组织了研讨会，讨论未来与立法者的合作。]]></description>
+      <guid>https://t.me/hn_summary/72325</guid>
+      <pubDate>Fri, 02 Feb 2024 11:46:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]此网络内容的作者讨论了他们作为多面手软件工程师的斗争 [...]</title>
+      <link>https://t.me/hn_summary/72324</link>
+      <description><![CDATA[卧底通才
+该网络内容的作者讨论了他们作为一名通才软件工程师的挣扎，他们必须将自己推销为专家。他们分享了自己的经验，即尽管他们认为自己是一个多面手的问题解决者，但为了找到工作，他们需要表现得像专家一样。然后，作者继续解释了他们如何将自己打造成专业 Rust 开发人员，以及他们通过这种方法取得的成功。然而，他们透露，他们本质上仍然是一位多面手，因为他们曾使用不同的技术从事过广泛的项目。作者的结论是，将自己展现为专家实际上有助于获得通才项目，因为它可以与客户建立信任。他们邀请读者就该主题分享自己的经验和观点。]]></description>
+      <guid>https://t.me/hn_summary/72324</guid>
+      <pubDate>Fri, 02 Feb 2024 11:05:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]令人惊讶的是，一只疑似中国间谍鸽在 [...]</title>
+      <link>https://t.me/hn_summary/72323</link>
+      <description><![CDATA[飞行风险：疑似间谍鸽被拘留八个月后获释
+令人惊讶的是，一只疑似中国间谍鸽在印度被拘留八个月后被释放。这只鸽子是在孟买的一个港口附近被捕获的，它的腿上绑着两个环，上面带着一条似乎是中文的信息。警方怀疑这只鸟涉嫌间谍活动，并将这只鸟带走进行调查。然而后来人们发现，这只鸽子实际上是一只来自台湾的开放水域赛鸽，后来逃到了印度。经警方许可，这只鸟被转移到动物医院并最终被释放。这起事件并不是印度第一次有鸟类涉嫌从事间谍活动，凸显了印度与其邻国之间持续的紧张关系。]]></description>
+      <guid>https://t.me/hn_summary/72323</guid>
+      <pubDate>Fri, 02 Feb 2024 10:57:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]公司聊天软件Campfire经过[...]打磨现已上市销售</title>
+      <link>https://t.me/hn_summary/72322</link>
+      <description><![CDATA[Campfire 现已发售 (37signals)
+Campfire是一款公司聊天软件，经过早期客户的打磨，现已上市销售。 Campfire 的发布意义重大，因为它代表了一种新旧的软件销售方式，而不是流行的软件即服务 (SaaS) 模型。虽然 SaaS 对于许多系统都有意义，但它可能并不适合所有情况。与 Slack 和 Teams 等竞争对手相比，Campfire 以低得多的价格提供简单版本的公司聊天。只需 299 美元，用户就可以购买在自己的服务器上运行 Campfire 的许可证，或者他们也可以选择 Hetzner 的云虚拟机，每月费用约为 5 美元。这使得 Campfire 比其他选项便宜得多，3 年总拥有成本比 Slack 便宜 99.9%。虽然像 Slack 这样的企业产品可能会提供更多功能，但 Campfire 为那些不需要所有附加设置和功能的用户提供了一种经济高效的替代方案。]]></description>
+      <guid>https://t.me/hn_summary/72322</guid>
+      <pubDate>Fri, 02 Feb 2024 10:40:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]文章讨论了二战期间自焊套筒的使用情况。</title>
+      <link>https://t.me/hn_summary/72321</link>
+      <description><![CDATA[看看这些二战时期的自焊套筒
+本文讨论了二战期间自焊套筒的使用。这些袖子是由特别行动执行局开发的，该组织负责在被占领的欧洲进行破坏和颠覆行动。这些套管的设计目的是为了在雷管和炸药引火线之间快速建立电气连接。它们由一根铜管组成，电线穿过铜管，中间有焊料。套筒上覆盖有烟火材料，并使用安全火柴式起爆化学品点燃。烟火材料产生的热量熔化焊料，形成连接。本文建议观看随附的视频，了解这些设备的工作原理。]]></description>
+      <guid>https://t.me/hn_summary/72321</guid>
+      <pubDate>Fri, 02 Feb 2024 10:04:36 GMT</pubDate>
+    </item>
     <item>
       <title>[媒体] 网页内容是 1996 年的一篇文章，介绍了 Juice，一种用于分发的新技术。</title>
       <link>https://t.me/hn_summary/72320</link>
@@ -36,54 +84,6 @@ Bloop 是一家 Y-Combinator 支持的初创公司，正在伦敦招聘对编译
 关于布莱恩·伊诺的纪录片《伊诺》在圣丹斯电影节首映。这部电影由加里·赫斯威特执导，其独特之处在于它使用生成软件在每次观看时创建不同的版本。这部纪录片主要以伊诺本人为主角，讲述他的职业生涯和创作哲学。这部电影借鉴了 Eno 个人档案中 500 小时的镜头，展示了他与 David Bowie、Talking Heads、U2 和 Coldplay 等艺术家的合作。虽然《伊诺》时尚且引人入胜，但一些观众可能更喜欢一部带有其他艺术家推荐的更传统的纪录片。]]></description>
       <guid>https://t.me/hn_summary/72317</guid>
       <pubDate>Fri, 02 Feb 2024 07:01:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]本文讨论了飞利浦伟康（一家生产呼吸机的公司）如何 [...]</title>
-      <link>https://t.me/hn_summary/72316</link>
-      <description><![CDATA[飞利浦多年来向 FDA 和患者隐瞒 CPAP 机器问题
-本文讨论了飞利浦伟康（一家生产家庭和医院呼吸机的公司）如何多年来向 FDA 和患者隐瞒其 CPAP 机器的问题。该公司于 2010 年重新设计了机器，使用的工业泡沫开始降解并释放出潜在的有毒和致癌颗粒。尽管收到大量投诉，飞利浦还是拒绝了 FDA 的大部分警告，并继续销售这些机器。直到 2021 年 6 月，飞利浦才宣布召回这些机器。文章强调了该公司未能优先考虑患者安全以及保护其利润的尝试。 （根据故事文本的 29% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/72316</guid>
-      <pubDate>Fri, 02 Feb 2024 06:21:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 复古网络 – 数据库、文档、BIOS、驱动程序等。</title>
-      <link>https://t.me/hn_summary/72315</link>
-      <description><![CDATA[复古网络 – 数据库、文档、BIOS、驱动程序等。适用于旧电脑硬件
-Retro Web 是一个全面的在线资源，提供与旧 PC 硬件相关的所有内容。该网站由 Deksor、computerguy096 和 Zago 等专家团队创建，提供庞大的信息数据库，包括文档、BIOS 文件、驱动程序等。无论您是收藏家、爱好者，还是只是对老式电脑感到好奇，复古网都能满足您的需求。该网站对版权声明进行了巧妙的修改，声明“所有错误均已逆转”，承诺为用户提供独特且令人惊讶的体验。]]></description>
-      <guid>https://t.me/hn_summary/72315</guid>
-      <pubDate>Fri, 02 Feb 2024 06:18:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] Slint GUI 工具包是一个声明式 GUI 工具包，允许开发人员构建 nat [...]</title>
-      <link>https://t.me/hn_summary/72314</link>
-      <description><![CDATA[Slint GUI工具包
-Slint GUI 工具包是一个声明性 GUI 工具包，允许开发人员使用 Rust、C++ 或 JavaScript 为桌面和嵌入式应用程序构建本机用户界面。该项目旨在提供可扩展、轻量级、直观且原生的 UI 设计体验。它支持跨平台使用，需要最少的资源，并提供类似智能手机的用户体验。使用 Slint 构建的 GUI 可以编译为机器代码，并提供对完整操作系统 API 和外设连接的访问​​。该项目目前正在积极开发中，并支持嵌入式设备，对桌面、Web 和移动平台的支持正在进行中。该项目提供文档、示例和工具来帮助开发过程。欢迎贡献，该项目已获得各种许可证的许可，包括免版税许可证、GNU GPLv3 和付费许可证。]]></description>
-      <guid>https://t.me/hn_summary/72314</guid>
-      <pubDate>Fri, 02 Feb 2024 06:14:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] PowerShark 是适用于 Amiga 计算机的革命性电源适配器，特别是 [...]</title>
-      <link>https://t.me/hn_summary/72313</link>
-      <description><![CDATA[适用于 Amiga 500、600 和 1200 的 USB-C 电源
-PowerShark 是一款革命性的电源适配器，适用于 Amiga 计算机，特别是 A500、A600 和 A1200 型号。它提供清洁、稳定的能源供应，非常适合扩展使用，甚至是最扩展的配置。 PowerShark 可与任何支持 12V 的 USB-C 电源配合使用，让用户可以从各种经济实惠的选项中进行选择。它还支持便携式 USB-C 充电器，使电池供电的 Amigas 成为现实。该设备具有先进的监控和保护功能，确保Amiga组件的安全。它专为安全无人值守操作而设计，可防止快速电源循环。 PowerShark高效、环保，其紧凑的设计和时尚的外观使其成为出色的产品。]]></description>
-      <guid>https://t.me/hn_summary/72313</guid>
-      <pubDate>Fri, 02 Feb 2024 06:08:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] Tembo 是一家服务提供商，完全在 Postg 上构建了他们的客户数据仓库 [...]</title>
-      <link>https://t.me/hn_summary/72312</link>
-      <description><![CDATA[我们全部在 Postgres 上构建客户数据仓库&lt; br /&gt;
-Tembo 是一家即服务提供商，使用外部数据包装器和其他 Postgres 扩展完全在 Postgres 上构建其客户数据仓库。这使他们能够将多个来源的数据转移到一个位置，并简化跟踪和了解客户使用情况和行为的过程。他们将自己构建的工具作为开源项目发布，并使其他人可以轻松使用 Tembo 数据仓库堆栈构建自己的数据仓库。他们还使用 pgcron（一种作业调度扩展）来保持数据仓库最新。此外，他们还利用 pgpartman 扩展进行分区，以提高性能并轻松实现数据过期。 （根据 83% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/72312</guid>
-      <pubDate>Fri, 02 Feb 2024 05:59:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>【媒体】网络时间协议（NTP）的发明者 David Mills 去世，享年 85 岁。</title>
-      <link>https://t.me/hn_summary/72311</link>
-      <description><![CDATA[NTP时间领主去世
-网络时间协议 (NTP) 的发明者 David Mills 去世，享年 85 岁。NTP 是跨不同系统和网络同步计算机时钟的重要系统。 Mills 独自创建并维护了该解决方案，该解决方案现已在全球数十亿台设备上使用。 NTP 确保数据完整性、网络安全、金融交易以及记录和监控网络活动的准确计时。米尔斯在维护和发展协议方面面临挑战，但他的工作得到了广泛认可，并因其对网络协议和计时的贡献而获得了多个奖项。米尔斯去世时是特拉华大学的名誉教授。]]></description>
-      <guid>https://t.me/hn_summary/72311</guid>
-      <pubDate>Fri, 02 Feb 2024 05:49:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
