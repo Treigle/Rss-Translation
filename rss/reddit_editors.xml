@@ -4,7 +4,7 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Sat, 03 Feb 2024 06:13:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Feb 2024 09:10:19 GMT</lastBuildDate>
     <item>
       <title>你可以在没有 SoDa 的情况下使用 ipvcurator 吗</title>
       <link>https://www.reddit.com/r/editors/comments/1ahnh5k/can_you_use_ipvcurator_without_soda/</link>
@@ -20,7 +20,7 @@
       <pubDate>Sat, 03 Feb 2024 01:54:38 GMT</pubDate>
     </item>
     <item>
-      <title>基于访谈的文档中出色的声音设计参考？</title>
+      <title>基于访谈的文档中有关出色声音设计的参考？</title>
       <link>https://www.reddit.com/r/editors/comments/1ahix53/references_for_great_sound_design_in/</link>
       <description><![CDATA[你们都看过任何您喜欢声音设计的文档吗？真实犯罪参考可加分！   由   提交 /u/kopytojelito   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ahix53/references_for_great_sound_design_in/</guid>
@@ -50,7 +50,7 @@
     <item>
       <title>首映 - 我再次询问“线性颜色合成”</title>
       <link>https://www.reddit.com/r/editors/comments/1ahe4n1/premiere_i_am_once_again_asking_about_composite/</link>
-      <description><![CDATA[我经常遇到这个问题，并且之前曾在这个论坛上提出过这个问题，但我还没有得到一个自信的答复。所以，我想我会再次尝试 -  在 Adob​​e Premiere 的序列设置中，有一个名为“线性颜色合成”的小复选框。这似乎会影响带有 Alpha、交叉溶解等的图形的显示方式，并且在 Premiere 中默认启用。  但是 - 这意味着 Premiere 呈现这些图形的方式与其他程序有显着不同。据我所知，这适用于 Resolve、Flame，甚至 After Effects。  举例来说，假设我正在 After Effects 中创建图形，并且图形下方有一个无文本视频，以查看它们的显示方式。我导出带有 Alpha 的图形以覆盖 Premiere 中的视频，但我也随视频一起导出以比较导出的外观。  如果我在 Premiere 中启用了线性颜色合成，我不会获得与 After Effects 导出相匹配的结果。如果我禁用了它，我就会这样做 获取与 After Effects 导出的匹配项。与 Premiere 相比，同样的原则也适用于从 Resolve 导出。  这显然意味着禁用线性颜色复合，但我看到了一些答案，暗示除 GFX 之外的其他东西可能会改变外观（我无法通过测试辨别任何东西）。那么，这里真正正确的做法是什么？  Mac Studio M1 Ultra，运行 Ventura 13.6.1 Premiere v24.1.0   由   提交 /u/mxmrtin   [链接] [评论]]]></description>
+      <description><![CDATA[我经常遇到这个问题，并且之前曾在这个论坛上提出过这个问题，但我还没有得到一个自信的答复。所以，我想我会再次尝试 -  在 Adob​​e Premiere 的序列设置中，有一个名为“线性颜色合成”的小复选框。这似乎会影响带有 Alpha、交叉溶解等的图形的显示方式，并且在 Premiere 中默认启用。  但是 - 这意味着 Premiere 呈现这些图形的方式与其他程序有显着不同。据我所知，这适用于 Resolve、Flame，甚至 After Effects。  举个例子 - 假设我正在 After Effects 中创建图形，并且我的图形下面有一个无文本视频，以查看它们将如何显示。我导出带有 Alpha 的图形以覆盖 Premiere 中的视频，但我也随视频一起导出以比较导出的外观。  如果我在 Premiere 中启用了线性颜色合成，我不会获得与 After Effects 导出的匹配项。如果我禁用它，我会 获取与 After Effects 导出的匹配项。与 Premiere 相比，同样的原则也适用于从 Resolve 导出。  这显然意味着禁用线性颜色复合，但我看到了一些答案，暗示除 GFX 之外的其他东西可能会改变外观（我无法通过测试辨别任何东西）。那么，这里真正正确的做法是什么？  Mac Studio M1 Ultra，运行 Ventura 13.6.1 Premiere v24.1.0   由   提交 /u/mxmrtin   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ahe4n1/premiere_i_am_once_again_asking_about_composite/</guid>
       <pubDate>Fri, 02 Feb 2024 21:00:48 GMT</pubDate>
     </item>
@@ -71,7 +71,7 @@
     <item>
       <title>如何在不弄乱视频黑色部分的情况下消除这些亮点？ （首映专业版）</title>
       <link>https://www.reddit.com/r/editors/comments/1ahbf07/how_can_i_kill_these_highlights_without_messing/</link>
-      <description><![CDATA[这是视频截图，基本上，这个麦克风是一个静态物体，它的高光太亮了。我需要将字幕放在麦克风上方，但白色文本+麦克风的白色使文本很难阅读。  这是屏幕截图 https://imgur.com/xH4wTHc  现在我的麦克风顶部只有一个黑色遮罩，不透明度为 68%，但高光仍然显示出来。 我只想消除这些白色高光，但不知道如何做。 HSL 不起作用，曲线选项也不起作用。我知道我可以只遮盖白色部分，然后这样做，但是有没有办法只关闭超级突出显示的白色部分？我觉得必须有一些效果或插件。   由   提交/u/situ139  [链接] [评论]]]></description>
+      <description><![CDATA[这是视频截图，基本上，这个麦克风是一个静态物体，它的高光太亮了。我需要将字幕放在麦克风顶部，但白色文本+麦克风的白色使文本很难阅读。  这是屏幕截图 https://imgur.com/xH4wTHc  现在我的麦克风顶部只有一个黑色遮罩，不透明度为 68%，但高光仍然显示出来。 我只想消除这些白色高光，但不知道如何做。 HSL 不起作用，曲线选项也不起作用。我知道我可以只遮盖白色部分，然后这样做，但是有没有办法只关闭超级突出显示的白色部分？我觉得必须有一些效果或插件。   由   提交/u/situ139  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ahbf07/how_can_i_kill_these_highlights_without_messing/</guid>
       <pubDate>Fri, 02 Feb 2024 19:04:59 GMT</pubDate>
     </item>
@@ -92,7 +92,7 @@
     <item>
       <title>帮助多编辑器远程工作流程</title>
       <link>https://www.reddit.com/r/editors/comments/1ah9pcc/help_with_multi_editor_remote_workflow/</link>
-      <description><![CDATA[我与遍布全国的 3-4 名编辑组成的团队合作。我们制作的广告素材数量有限，但周转速度非常快。我正在尝试找到让我们所有人在远程环境中处理同一项目的不同序列的最佳方法。 我们都在 Premiere 上，所以看起来最好的方法是创建 ProRes 代理并将其推送到 Frame IO 并在 Teams 项目中工作。然后，1 名在本地拥有原始媒体的剪辑师可以担任所有节目的整理剪辑师。 我通常担任整理剪辑师，并且有一台 8 盘位 Synology NAS 供我使用，但我尚未充分利用还没有。 有人对此工作流程的最佳实践有任何建议吗？关于如何最好地实现自动化并确保新资产与每个人保持同步有什么想法吗？有没有办法在这种环境下更好地利用NAS？   由   提交 /u/Espresso0nly   [链接] [评论]]]></description>
+      <description><![CDATA[我与遍布全国的 3-4 名编辑组成的团队合作。我们制作的广告素材数量有限，但周转速度非常快。我正在尝试找到让我们所有人在远程环境中处理同一项目的不同序列的最佳方法。 我们都在 Premiere 上，所以看起来最好的方法是创建 ProRes 代理并将其推送到 Frame IO 并在 Teams 项目中工作。然后，1 名在本地拥有原始媒体的剪辑师可以担任所有节目的后期剪辑师。 我通常担任后期剪辑师，并且有一台 8 盘位 Synology NAS 供我使用，但我尚未充分利用它还没有。 有人对此工作流程的最佳实践有任何建议吗？关于如何最好地实现自动化并确保新资产与每个人保持同步有什么想法吗？有没有办法在这种环境下更好地利用NAS？   由   提交 /u/Espresso0nly   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ah9pcc/help_with_multi_editor_remote_workflow/</guid>
       <pubDate>Fri, 02 Feb 2024 17:52:59 GMT</pubDate>
     </item>
