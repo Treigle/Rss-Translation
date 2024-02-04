@@ -4,13 +4,20 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sun, 04 Feb 2024 00:46:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Feb 2024 03:11:40 GMT</lastBuildDate>
     <item>
-      <title>𝐖̲𝐞̲𝐞̲𝐤̲𝐥̲𝐲̲ ̲𝐃̲𝐢̲𝐠̲𝐞̲𝐬̲𝐭̲ ̲#̲𝟏̲ ̲:̲ ̲𝐆̲𝐞̲𝐧̲𝐞̲𝐫̲𝐚̲𝐭̲𝐞̲ ̲𝐚̲𝐮̲𝐭̲𝐡̲𝐞̲𝐧̲𝐭̲𝐢̲𝐜̲𝐚̲𝐭̲𝐢̲𝐨̲𝐧̲ ̲𝐥̲𝐢̲𝐤̲𝐞̲ ̲𝐑̲𝐚̲𝐢̲𝐥̲𝐬̲ ̲𝟖̲ ̲𝐰̲𝐢̲𝐥̲𝐥̲</title>
-      <link>https://www.reddit.com/r/programming/comments/1ai9zjo/𝐖𝐞𝐞𝐤𝐥𝐲_𝐃𝐢𝐠𝐞𝐬𝐭_𝟏_𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞_𝐚𝐮𝐭𝐡𝐞𝐧𝐭𝐢𝐜𝐚𝐭𝐢𝐨𝐧_𝐥𝐢𝐤𝐞/</link>
-      <description><![CDATA[ 由   提交/u/Educational-Ad2036   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ai9zjo/𝐖𝐞𝐞𝐤𝐥𝐲_𝐃𝐢𝐠𝐞𝐬𝐭_𝟏_𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞_𝐚𝐮𝐭𝐡𝐞𝐧𝐭𝐢𝐜𝐚𝐭𝐢𝐨𝐧_𝐥𝐢𝐤𝐞/</guid>
-      <pubDate>Sat, 03 Feb 2024 23:54:18 GMT</pubDate>
+      <title>时间的三种类型</title>
+      <link>https://www.reddit.com/r/programming/comments/1aic3zc/the_three_types_of_time/</link>
+      <description><![CDATA[ 由   提交/u/bubble_boi  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aic3zc/the_three_types_of_time/</guid>
+      <pubDate>Sun, 04 Feb 2024 01:36:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>数据建模很难</title>
+      <link>https://www.reddit.com/r/programming/comments/1aibp2h/data_modeling_is_hard/</link>
+      <description><![CDATA[ 由   提交/u/dcspazz  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aibp2h/data_modeling_is_hard/</guid>
+      <pubDate>Sun, 04 Feb 2024 01:15:41 GMT</pubDate>
     </item>
     <item>
       <title>链接检查器机器人（我已经开发了）</title>
@@ -57,7 +64,7 @@
     <item>
       <title>我是一名程序员，最近购买了 Meta Quest 3，想测试一下我是否可以在 VR 中编码。这是我的经验。</title>
       <link>https://www.reddit.com/r/programming/comments/1ai6kn1/im_a_programmer_and_i_recently_bought_meta_quest/</link>
-      <description><![CDATA[总体体验很好，但显示效果不如 4k 显示器清晰，但你可以使用它，最好的是你可以访问三个大型显示屏随处可见。我没有遇到任何延迟或连接问题，并且使用键盘和鼠标也非常容易。   由   提交/u/vikasofvikas   [链接] [评论]]]></description>
+      <description><![CDATA[总体体验很好，但显示效果不如 4k 显示器清晰，但你可以使用它，最好的事情是你可以访问三个大型显示屏随处可见。我没有遇到任何延迟或连接问题，并且使用键盘和鼠标也非常容易。   由   提交/u/vikasofvikas   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ai6kn1/im_a_programmer_and_i_recently_bought_meta_quest/</guid>
       <pubDate>Sat, 03 Feb 2024 21:21:55 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交/u/python4geeks  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ai0ylc/pythons_map_function_to_process_iterable_without/</guid>
       <pubDate>Sat, 03 Feb 2024 17:13:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>REST API 的六大限制</title>
-      <link>https://www.reddit.com/r/programming/comments/1ai0sh8/the_six_constraints_of_rest_api/</link>
-      <description><![CDATA[ 由   提交/u/wineandcode  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ai0sh8/the_six_constraints_of_rest_api/</guid>
-      <pubDate>Sat, 03 Feb 2024 17:06:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
