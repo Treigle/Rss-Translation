@@ -4,7 +4,63 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sun, 04 Feb 2024 18:13:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Feb 2024 00:43:54 GMT</lastBuildDate>
+    <item>
+      <title>SSH3有什么意义？</title>
+      <link>https://www.reddit.com/r/programming/comments/1aj2gug/what_is_the_point_of_ssh3/</link>
+      <description><![CDATA[最近我看到一些关于这个新的 SSH3 的内容，它依赖于 HTTP。我最大的问题是为什么？对我来说，这个项目似乎基本上没有必要。 SSH 对我来说非常完美，从一个新的代码库开始似乎肯定会带来一大堆新的漏洞。我也不认为通过 HTTP 构建它并允许 SSO 进行身份验证以及它添加的所有其他疯狂的东西有什么意义。我认识的人中没有人要求 SSH 提供 SSO 支持。就像如果您担心安全性一样，SSH 已经提供了公钥身份验证，那么这到底是为谁服务的呢？实际上是 SSH 的新发行版本。看起来几乎是有意为之，试图利用 SSH 的流行来使特洛伊木马本身得到更广泛的使用。 整个事情感觉不太对劲。我无法真正确定它，但我想知道其他人对此的看法？   由   提交 /u/fojam   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aj2gug/what_is_the_point_of_ssh3/</guid>
+      <pubDate>Sun, 04 Feb 2024 23:54:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>FireflyDB：一种快速、线程安全、基于 JVM 的键值存储引擎，具有微秒级延迟。</title>
+      <link>https://www.reddit.com/r/programming/comments/1aj1tga/fireflydb_a_fast_threadsafe_jvmbased_keyvalue/</link>
+      <description><![CDATA[ 由   提交 /u/GodCrampy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aj1tga/fireflydb_a_fast_threadsafe_jvmbased_keyvalue/</guid>
+      <pubDate>Sun, 04 Feb 2024 23:25:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>打造副驾驶的痛点</title>
+      <link>https://www.reddit.com/r/programming/comments/1aizra6/the_pain_points_of_building_a_copilot/</link>
+      <description><![CDATA[ 由   提交/u/azhenley  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aizra6/the_pain_points_of_building_a_copilot/</guid>
+      <pubDate>Sun, 04 Feb 2024 21:56:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>让您的代码更易于调试的 7 种简单*方法</title>
+      <link>https://www.reddit.com/r/programming/comments/1aixyfl/7_easy_ways_to_make_your_code_easier_to_debug/</link>
+      <description><![CDATA[ 由   提交/u/lyubolp  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aixyfl/7_easy_ways_to_make_your_code_easier_to_debug/</guid>
+      <pubDate>Sun, 04 Feb 2024 20:42:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>编写接口代码！</title>
+      <link>https://www.reddit.com/r/programming/comments/1aiwu85/code_to_an_interface/</link>
+      <description><![CDATA[ 由   提交/u/According_Ant_5944   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aiwu85/code_to_an_interface/</guid>
+      <pubDate>Sun, 04 Feb 2024 19:56:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>WireQuery：捕获、探索和分析流入和流出应用程序的数据 - 而不影响机密性。</title>
+      <link>https://www.reddit.com/r/programming/comments/1aiw6yq/wirequery_capture_explore_and_analyze_data/</link>
+      <description><![CDATA[ 由   提交/u/wnederhof  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aiw6yq/wirequery_capture_explore_and_analyze_data/</guid>
+      <pubDate>Sun, 04 Feb 2024 19:30:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>生成代码从来都不是困难的部分</title>
+      <link>https://www.reddit.com/r/programming/comments/1aiw2p6/generating_code_was_never_the_hard_part/</link>
+      <description><![CDATA[ 由   提交/u/coffee_kazoo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aiw2p6/generating_code_was_never_the_hard_part/</guid>
+      <pubDate>Sun, 04 Feb 2024 19:26:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>让期货就期货</title>
+      <link>https://www.reddit.com/r/programming/comments/1aivb3o/let_futures_be_futures/</link>
+      <description><![CDATA[ 由   提交/u/simon_o   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aivb3o/let_futures_be_futures/</guid>
+      <pubDate>Sun, 04 Feb 2024 18:54:27 GMT</pubDate>
+    </item>
     <item>
       <title>WebRTC 安全：真正的去中心化和私密通话可能吗？</title>
       <link>https://www.reddit.com/r/programming/comments/1aiu8dp/webrtc_security_are_truly_decentralized_and/</link>
@@ -53,62 +109,6 @@
       <description><![CDATA[ 由   提交/u/congolomera  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1airp2f/exploring_nosql_4_main_store_types_the_cap_theorem/</guid>
       <pubDate>Sun, 04 Feb 2024 16:24:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软团队失败了|两支球队的故事</title>
-      <link>https://www.reddit.com/r/programming/comments/1aiqli6/microsoft_teams_went_down_a_tale_of_two_teams/</link>
-      <description><![CDATA[ 由   提交/u/kaiwen2times  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1aiqli6/microsoft_teams_went_down_a_tale_of_two_teams/</guid>
-      <pubDate>Sun, 04 Feb 2024 15:37:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>该死的蜜罐太多了</title>
-      <link>https://www.reddit.com/r/programming/comments/1aiqe9v/there_are_too_many_damn_honeypots/</link>
-      <description><![CDATA[ 由   提交/u/keybeebig  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1aiqe9v/there_are_too_many_damn_honeypots/</guid>
-      <pubDate>Sun, 04 Feb 2024 15:28:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助开发者在舞台上获得信心的 7 个公开演讲技巧</title>
-      <link>https://www.reddit.com/r/programming/comments/1aiq1t1/7_public_speaking_tips_for_developers_to_gain/</link>
-      <description><![CDATA[ 由   提交 /u/odd_sherlock   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1aiq1t1/7_public_speaking_tips_for_developers_to_gain/</guid>
-      <pubDate>Sun, 04 Feb 2024 15:13:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Envoy 异步 HTTP 过滤器：lua-resty-ffi 与 golang 过滤器</title>
-      <link>https://www.reddit.com/r/programming/comments/1aipowp/envoy_asynchronous_http_filter_luarestyffi_vs/</link>
-      <description><![CDATA[ 由   提交/u/Ill_Excuse_4​​291   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1aipowp/envoy_asynchronous_http_filter_luarestyffi_vs/</guid>
-      <pubDate>Sun, 04 Feb 2024 14:57:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>反机器人指纹识别：他们如何知道你是人类，以及如何愚弄他们</title>
-      <link>https://www.reddit.com/r/programming/comments/1aipi5u/antibot_fingerprinting_how_they_know_youre_human/</link>
-      <description><![CDATA[ 由   提交/u/AtlasLogics  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1aipi5u/antibot_fingerprinting_how_they_know_youre_human/</guid>
-      <pubDate>Sun, 04 Feb 2024 14:48:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>虚幻引擎 C++ 干净架构 [六边形、DDD、垂直切片] CRUD – Drakgoku</title>
-      <link>https://www.reddit.com/r/programming/comments/1aipe2b/unreal_engine_c_clean_architecture_hexagonal_ddd/</link>
-      <description><![CDATA[ 由   提交/u/drakgoku  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1aipe2b/unreal_engine_c_clean_architecture_hexagonal_ddd/</guid>
-      <pubDate>Sun, 04 Feb 2024 14:43:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过威胁情报和逆向工程改进抗体生物识别保护：Akamai 的惨痛教训</title>
-      <link>https://www.reddit.com/r/programming/comments/1aipbtc/improving_antibot_biometric_protections_through/</link>
-      <description><![CDATA[ 由   提交/u/AtlasLogics  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1aipbtc/improving_antibot_biometric_protections_through/</guid>
-      <pubDate>Sun, 04 Feb 2024 14:40:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 VSCode 中调试 dockerized Python 应用程序</title>
-      <link>https://www.reddit.com/r/programming/comments/1aiov7x/debugging_dockerized_python_apps_in_vscode/</link>
-      <description><![CDATA[ 由   提交/u/pmz  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1aiov7x/debugging_dockerized_python_apps_in_vscode/</guid>
-      <pubDate>Sun, 04 Feb 2024 14:18:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
