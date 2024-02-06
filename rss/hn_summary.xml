@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 06 Feb 2024 06:14:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Feb 2024 12:03:40 GMT</lastBuildDate>
     <item>
-      <title>[媒体]欧洲核子研究中心（CERN）是大型强子对撞机的所在地，正计划建造一台名为 [...]</title>
-      <link>https://t.me/hn_summary/72940</link>
-      <description><![CDATA[CERN 旨在建造 20B 欧元的对撞机来解开宇宙的秘密
-大型强子对撞机的所在地欧洲核子研究中心（CERN）正计划建造一台名为未来圆形对撞机（FCC）的新机器，其体积将是现有粒子加速器的三倍。 2012年，大型强子对撞机被用来发现希格斯玻色子，但自那以后，它就没有揭示任何重要的新物理现象。 FCC 的预算为 200 亿欧元，旨在解开宇宙中一些最深奥的谜团，例如暗物质和暗能量。然而，该提案遭到批评，一些人认为这些资金应该用于解决气候危机。如果获得批准，FCC 将分两个阶段建设，并可在 2040 年代投入运行。]]></description>
-      <guid>https://t.me/hn_summary/72940</guid>
-      <pubDate>Tue, 06 Feb 2024 06:14:24 GMT</pubDate>
+      <title>[媒体] 无论如何，发件人有什么用处？</title>
+      <link>https://t.me/hn_summary/72961</link>
+      <description><![CDATA[发件人有什么好处？
+作者讨论了 P2300 提案，旨在为 C++ 提供标准的异步编程模型。作者承认并不是每个人都对这项工作充满热情，并解决了对发送者的需求和提案的复杂性的普遍担忧。然后，作者解释了 C++ 中异步 API 的当前状态以及使用不同回调 API 的挑战。他们认为拥有标准化的异步抽象对于解决这个问题是必要的。作者介绍了发送器作为解决方案，并提供了代码示例来演示如何使用发送器来创建更统一和可组合的异步 API。 （根据故事文本的 63% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/72961</guid>
+      <pubDate>Tue, 06 Feb 2024 12:03:40 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在这篇题为“浏览器现在很奇怪”的文章中，作者分享了他们的想法 [...]</title>
-      <link>https://t.me/hn_summary/72939</link>
-      <description><![CDATA[浏览器很奇怪
-在这篇题为“浏览器现在很奇怪”的文章中，作者分享了他们对各种网络浏览器的想法和经验。他们对 Arc 直观的侧边栏和创新功能表示兴奋，但也提到了一些缺点。作者批评 Brave 的运营者是一个恐同、反疫苗的加密小丑。他们回忆起第一次使用 Chrome 的经历，并承认它的受欢迎程度，但认为它有助于浏览器单一文化。作者对 Edge 向 Chromium 的过渡感到有点难过，并质疑他们是否是目标受众。他们对 Firefox 有怀旧之情，欣赏其独特的 CSS 开发工具，但对其使用量下降和不确定的未来表示担忧。 Opera 由于过去的商业恶作剧而被解雇。 Safari 因其最近的发展而受到赞扬，但因其兼容性有限而受到批评。尽管有自定义选项，Vivaldi 的 UI 仍令作者难以抗拒。文章最后，作者决定回到 Firefox，因为它的跨平台兼容性和独特的渲染引擎。]]></description>
-      <guid>https://t.me/hn_summary/72939</guid>
-      <pubDate>Tue, 06 Feb 2024 06:09:15 GMT</pubDate>
+      <title>[媒体] Lago 是 Stripe 的开源替代品，正在招聘一名解决方案工程师来领导他们 [...]</title>
+      <link>https://t.me/hn_summary/72960</link>
+      <description><![CDATA[Lago：Stripe 的开源替代方案正在招聘解决方案工程师&lt; /a&gt;
+Lago 是 Stripe 的开源替代品，正在招聘一名解决方案工程师来领导他们的售后客户体验。该角色涉及监督产品的实施、管理客户实施以及提供卓越的客户体验。理想的候选人应具有技术项目管理或面向中端市场或企业业务客户的客户角色的经验。 Lago 目前有 12 人的团队，但他们计划在未来几个月内扩大到 20 人的团队。该公司总部位于巴黎，但也提供远程工作选择。 Lago 旨在提供一个更加开放的定价堆栈，与公司内部工作流程和系统互连。]]></description>
+      <guid>https://t.me/hn_summary/72960</guid>
+      <pubDate>Tue, 06 Feb 2024 12:01:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在东京新宿的繁华地段，有一个被称为“新宿”的隐秘社区 [...]</title>
-      <link>https://t.me/hn_summary/72938</link>
-      <description><![CDATA[Toyoko Kids：东京孤独的街头儿童&lt; br/&gt;
-在东京繁华的新宿区，有一个隐藏的社区，名为“东横孩子”。这些街头儿童以动漫风格的妆容和宽松的衣服为特征，在这个边缘群体中找到了安慰和陪伴。他们中既有长期离家出走的人，也有寻求社区意识的人。让他们与众不同的是他们独特的青年亚文化，围绕着共同的忽视、互联网流行和独特的时尚感。虽然东横孩子们可能不会被许多游客注意到，但他们已经成为该地区的主要存在，在东京市中心创造了一个令人惊讶且充满活力的社区。]]></description>
-      <guid>https://t.me/hn_summary/72938</guid>
-      <pubDate>Tue, 06 Feb 2024 04:58:48 GMT</pubDate>
+      <title>[媒体] 在亚利桑那州最近举行的一次听证会上，该州最大公用事业公司 Ari 的专家证人 [...]</title>
+      <link>https://t.me/hn_summary/72959</link>
+      <description><![CDATA[来自公用事业公司关于与屋顶太阳能竞争的一些罕见的真实谈话&lt; /a&gt;
+在亚利桑那州最近的一次听证会上，该州最大的公用事业公司亚利桑那州公共服务部（APS）的专家证人承认，公用事业公司反对屋顶太阳能，因为它威胁到了他们的利润。这一声明证实了可再生能源倡导者长期以来的说法。证人罗杰·莫林（Roger Morin）同意这一观点，即客户拥有的发电（例如屋顶太阳能）会取代公用事业本可以进行的投资，从而给公用事业股东带来风险。这一消息引发了关于是否需要改革监管体系以平衡公用事业的经济利益与屋顶太阳能增长的讨论。批评者认为，公用事业公司反对屋顶太阳能是因为他们希望保护自己的利润，而不是支持清洁能源。]]></description>
+      <guid>https://t.me/hn_summary/72959</guid>
+      <pubDate>Tue, 06 Feb 2024 11:39:15 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]本文讨论了光电鼠标的开发，这是一种用于连续操作的指点设备 [...]</title>
-      <link>https://t.me/hn_summary/72937</link>
-      <description><![CDATA[光电鼠标 [pdf (1981)](https:// news.ycombinator.com/item?id=39248437)
-本文讨论了光学鼠标的开发，这是一种用于控制个人工作站显示屏上光标的定点设备。与早期的机电鼠标不同，光学鼠标通过观察鼠标垫以光学方式检测运动，从而无需内部移动部件。光学鼠标的关键是传感器芯片，它报告可见点相对于芯片坐标系的运动。本文重点介绍了定制 LSI 设计和实现功能的强大功能，以及简化的设计方法。事实证明，光学鼠标芯片功能齐全，并且与现有的机电鼠标兼容。 （根据故事文本的 13% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/72937</guid>
-      <pubDate>Tue, 06 Feb 2024 04:53:41 GMT</pubDate>
+      <title>作者讨论了最近机房空调故障及其面临的挑战 [...]</title>
+      <link>https://t.me/hn_summary/72958</link>
+      <description><![CDATA[我们可能希望定期跟踪每台服务器的重要性&lt; /a&gt;
+作者讨论了最近发生的机房空调故障以及他们在确定关闭哪些服务器而不中断服务时所面临的挑战。他们建议定期跟踪每台服务器的重要性，以便更好地规划未来类似的情况。作者承认，记录这些信息需要持续的工作，但可以帮助避免最后一刻的决策并识别不再需要的服务器。他们还提到了了解环境中的联系和依赖关系的价值。作者最后质疑他们是否会真正实现这个想法，因为他们觉得每台机器的用途在部署过程中已经很明显了。]]></description>
+      <guid>https://t.me/hn_summary/72958</guid>
+      <pubDate>Tue, 06 Feb 2024 11:28:07 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]此网络内容的作者对当今软件技术的衰退感到遗憾 [...]</title>
-      <link>https://t.me/hn_summary/72936</link>
-      <description><![CDATA[一路走来，我们忘记了软件工艺&lt; br/&gt;
-该网络内容的作者对行业软件技术的衰退表示遗憾。他们认为，在追求速度和生产力的过程中，代码质量受到了影响。作者认为，围绕“影响”的不正当激励措施和积压压力导致了这种下降。他们还指出，通过互联网运输产品的风险较低，导致缺乏彻底的测试和对捷径的接受。作者最后表达了对软件工程中对工艺的关注正在减弱的担忧，这可能是由于那些优先考虑它的人的退休或离开。]]></description>
-      <guid>https://t.me/hn_summary/72936</guid>
-      <pubDate>Tue, 06 Feb 2024 04:40:23 GMT</pubDate>
+      <title>[媒体]卫星巨型星座会削弱地球磁场吗？</title>
+      <link>https://t.me/hn_summary/72957</link>
+      <description><![CDATA[卫星巨型星座会削弱地球磁场吗？
+近年来，地球轨道上的卫星数量增加了一倍多，其中 SpaceX 的 Starlink 互联网卫星处于领先地位。环保主义者对这些巨型星座的影响提出了担忧，包括光污染、近地轨道交通拥堵和臭氧消耗。现在，冰岛大学研究生塞拉·索尔特的一项新研究表明，巨型星座也可能削弱地球磁场。索尔特解释说，当卫星在地球大气层中解体时，它们会在地球周围产生一层带电粒子。这可能会扰乱磁层，并可能削弱保护我们免受宇宙射线和太阳风暴侵害的磁场。索尔特的研究强调了对此问题进行进一步多学科研究的必要性。]]></description>
+      <guid>https://t.me/hn_summary/72957</guid>
+      <pubDate>Tue, 06 Feb 2024 11:20:57 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 作者讨论了他们对增强现实 (AR) 的信念以及它与 [...]</title>
-      <link>https://t.me/hn_summary/72935</link>
-      <description><![CDATA[愿景 1993
-作者讨论了他们对增强现实 (AR) 的信念以及它与 Apple Vision Pro (AVP) 的关系。他们提到了 William Gibson 于 1993 年出版的一本名为《虚拟光》的小说，其中描绘了一个包含类似于 AVP 的设备的未来。作者赞扬了这本书及其人物，特别是将旧金山海湾大桥描绘成反文化的棚户区。他们还引用了描述 AR 技术的书中的内容，强调了其昂贵且沉重的本质。作者最后强调了 AR 增强现实世界的潜力，并建议 AVP 是迈向这一愿景的一步。]]></description>
-      <guid>https://t.me/hn_summary/72935</guid>
-      <pubDate>Tue, 06 Feb 2024 04:28:14 GMT</pubDate>
+      <title>[媒体]苏富比的审判揭露了艺术市场的不良做法，特别是在[...]</title>
+      <link>https://t.me/hn_summary/72956</link>
+      <description><![CDATA[苏富比审判揭露了艺术市场的不良做法&lt; br/&gt;
+苏富比的审判揭露了艺术品市场的不良做法，特别是在私人拍卖方面。俄罗斯亿万富翁德米特里·雷博洛夫列夫发现，一位名叫伊夫·布维尔的瑞士中间人将雷博洛夫列夫购买的一幅画的高价收入囊中。这导致了一场长达近十年的法律诉讼，最终以雷博洛夫列夫令人失望的结果告终。审判的重点是苏富比是否协助和教唆布维尔涉嫌欺诈，但陪审团发现事实并非如此。该案凸显了艺术品市场缺乏透明度，私人拍卖的不透明是出了名的。审判还强调了收藏家需要通过书面协议和合同来保护自己的利益。]]></description>
+      <guid>https://t.me/hn_summary/72956</guid>
+      <pubDate>Tue, 06 Feb 2024 11:03:46 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]本文讨论了如何谈判工作机会的最后四项规则。</title>
-      <link>https://t.me/hn_summary/72934</link>
-      <description><![CDATA[如何不破坏你的报价谈判（2016） 
-本文讨论了有关如何谈判工作机会的最后四项规则。它强调，成为一名优秀的谈判者不仅仅是表现得自信并要求更多的钱。优秀的谈判者具有同理心和协作精神，能够创造性地思考如何满足自己和雇主的需求。本文还强调了将谈判视为协作过程而不是零和游戏的重要性。它建议制定替代方案并对其进行有效沟通，以增强谈判地位。本文还讨论了是通过电话还是通过电子邮件进行谈判的决定，并提供了如何处理每个选项的提示。 （根据故事文本的 28% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/72934</guid>
-      <pubDate>Tue, 06 Feb 2024 03:51:56 GMT</pubDate>
+      <title>[媒体] 网络内容讨论了伦敦青少年扎克·布雷特勒的神秘死亡事件。</title>
+      <link>https://t.me/hn_summary/72955</link>
+      <description><![CDATA[一名青少年致命地坠入伦敦地下世界
+网络内容讨论了伦敦青少年扎克·布雷特勒的神秘死亡事件。作者强调警方缺乏紧迫感和调查，表明他们可能将死亡归类为自杀，而没有彻底探索其他可能性。这篇文章还深入探讨了扎克讲故事和撒谎的倾向，表明他可能创造了另一个自我，成为俄罗斯富裕家庭的儿子。作者对扎克说法的真实性提出了质疑，并探讨了他的死亡与伦敦其他涉及与俄罗斯有联系的个人的可疑死亡之间的潜在联系。 （根据 85% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/72955</guid>
+      <pubDate>Tue, 06 Feb 2024 11:02:39 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] LineageOS，继承 CyanogenMod 的定制 ROM，目前安装在 1.5 英里 [...]</title>
-      <link>https://t.me/hn_summary/72933</link>
-      <description><![CDATA[LineageOS 目前已安装在 150 万台 Android 设备上&lt; br/&gt;
-LineageOS 是继 CyanogenMod 之后的定制 ROM，目前已安装在 150 万台 Android 设备上。该 ROM 适用于各种品牌，包括 Google、Fairphone、三星、OnePlus、小米等。 LineageOS 甚至支持 Essential 和 LG 等已停产品牌。 LineageOS 团队成员最近的一期播客节目揭示了这一统计数据，让我们深入了解 ROM 在定制 ROM 不再像以前那样流行或必要的世界中的受欢迎程度。但是，没有提供有关这些设备的活动、其组成以及用户数量的详细信息。]]></description>
-      <guid>https://t.me/hn_summary/72933</guid>
-      <pubDate>Tue, 06 Feb 2024 03:40:46 GMT</pubDate>
+      <title>[媒体]此网页内容的作者讨论了游戏中反复出现的作弊问题，[...]</title>
+      <link>https://t.me/hn_summary/72954</link>
+      <description><![CDATA[显示 HN：保护您的软件免受 DMA 访问&lt; br/&gt;
+该网页内容的作者讨论了游戏中反复出现的作弊问题，特别是通过使用具有自定义固件的支持 DMA 的设备。当前打击 DMA 作弊的方法是通过 PCIE 配置空间上的签名扫描，但作者提出了使用 DMA 重新映射的更好解决方案。 DMA 重新映射与 SLAT 类似，被虚拟化器用来防止设备从主机或其他虚拟机访问内存。作者提供了 DMA 重新映射如何工作的示例，并承认潜在的实现问题和绕过方法。作者建议反作弊系统可以利用该技术来保护游戏，并邀请研究人员和反作弊公司与他们联系以获得合作或就业机会。]]></description>
+      <guid>https://t.me/hn_summary/72954</guid>
+      <pubDate>Tue, 06 Feb 2024 11:01:32 GMT</pubDate>
     </item>
     <item>
-      <title>本文介绍了零知识安全模型（ZKSM）的概念，该模型的设计 [...]</title>
-      <link>https://t.me/hn_summary/72932</link>
-      <description><![CDATA[零知识安全模型：简介
-本文介绍了零知识安全模型（ZKSM）的概念，该模型旨在即使在完全访问网络基础设施和云服务的情况下也能保护敏感数据。 ZKSM 采用多种技术，例如不在在线系统中保留数据、对静态和传输中的数据进行加密以及确保不间断的安全性。它还强调了数据所有权以及安全共享密钥和数据的重要性。 ZKSM 保证数据的完整性、机密性、真实性和不可否认性等属性。本文还强调，仅端到端加密并不能算是“零知识”系统，并讨论了设计 ZKSM 系统的注意事项。]]></description>
-      <guid>https://t.me/hn_summary/72932</guid>
-      <pubDate>Tue, 06 Feb 2024 03:30:36 GMT</pubDate>
+      <title>[媒体]Yandex，通常被称为“俄罗斯的谷歌”，正在采取令人惊讶的举动，将 [...]</title>
+      <link>https://t.me/hn_summary/72953</link>
+      <description><![CDATA[Yandex：“俄罗斯谷歌”所有者撤离祖国&lt; /a&gt;
+Yandex，通常被称为“俄罗斯的谷歌”，做出了令人惊讶的举动，退出了自己的祖国。随着欧盟对 Yandex 实施制裁，该公司创始人沃洛日 (Volozh) 面临争议，欧盟指责其宣传俄罗斯官方媒体和叙事，同时压制批评内容。这一退出俄罗斯的决定出人意料，引发了人们对 Yandex 的未来及其与克里姆林宫关系的质疑。此举将如何影响这家搜索引擎巨头及其在俄罗斯的用户还有待观察。]]></description>
+      <guid>https://t.me/hn_summary/72953</guid>
+      <pubDate>Tue, 06 Feb 2024 11:01:25 GMT</pubDate>
     </item>
     <item>
-      <title>文章揭露，俄罗斯格鲁乌特工一直在与人权活动人士混在一起，[...]</title>
-      <link>https://t.me/hn_summary/72931</link>
-      <description><![CDATA[俄罗斯 GRU 特工与人权活动家、记者、电影制作人混在一起&lt; /a&gt;
-文章揭露，俄罗斯格鲁乌特工一直在与人权活动家、记者和电影制片人打交道。这些特工糟糕的间谍手段使得他们的活动被追踪，包括他们前往各个国家的旅行以及与他们组织的高级领导人的沟通。其中一位特工罗季奥诺夫曾担任纪录片和商业电影制片人，但他的工作经历被发现是伪造的。另一名特工梅德韦杰夫一直以他的合法名字运作，并且有着独特的背景，他的父亲是一名苏联军官。文章呼吁可能遇到过这些特工的读者与他们私下联系。]]></description>
-      <guid>https://t.me/hn_summary/72931</guid>
-      <pubDate>Tue, 06 Feb 2024 03:25:27 GMT</pubDate>
+      <title>[媒体]Elon Code Review 为社交媒体巨头提供了一个简单的定价结构，无论 [...]</title>
+      <link>https://t.me/hn_summary/72952</link>
+      <description><![CDATA[Elon 代码审查
+Elon Code Review 为社交媒体巨头提供了一个简单的定价结构，无论其规模或市值如何。这项服务的独特之处在于埃隆·马斯克本人将亲自审查您的代码。这是令人惊讶和令人兴奋的，因为它为公司提供了一个机会，让科技行业最有影响力的人物之一评估他们的代码。但需要注意的是，所提供的内容中并未提及围绕该服务的争议。]]></description>
+      <guid>https://t.me/hn_summary/72952</guid>
+      <pubDate>Tue, 06 Feb 2024 10:45:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
