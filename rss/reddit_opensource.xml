@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 08 Feb 2024 00:43:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Feb 2024 03:12:36 GMT</lastBuildDate>
+    <item>
+      <title>面向学生的开源应用程序</title>
+      <link>https://www.reddit.com/r/opensource/comments/1all6qf/open_source_apps_for_students/</link>
+      <description><![CDATA[我想知道我向大学生推荐哪些应用程序，我说的是日历和待办事项应用程序等易于与 Android 集成的应用程序应用程序和 Linux 桌面应用程序。  我一直一团糟，我从谷歌及其所有网络应用程序开始，但我想改变并找到了 notion，但是尽管 notion 拥有一切，但 android 应用程序看起来很糟糕并且很难使用，没有办法创建一个好的日历或一个有效的待办事项。  我也尝试过黑曜石，它是效果最好的一个，但事实上，我无法在不付费的情况下将其与云同步，这让我很沮丧。   由   提交 /u/Druxorey   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1all6qf/open_source_apps_for_students/</guid>
+      <pubDate>Thu, 08 Feb 2024 02:40:53 GMT</pubDate>
+    </item>
     <item>
       <title>meme-maker：简单快速的 CLI 工具来生成模因</title>
       <link>https://www.reddit.com/r/opensource/comments/1alhb51/mememaker_simple_and_quick_cli_tool_to_generate/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[       由   提交/u/waozen  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1akdo5a/stract_open_source_web_search_engine_targeted/</guid>
       <pubDate>Tue, 06 Feb 2024 16:23:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的自定义内容过滤浏览器扩展“Mutable”现已开源！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1akaslo/my_custom_content_filtering_browser_extension/</link>
-      <description><![CDATA[https://mutable.idreesinc.com/  几个月前，我发布了 Mutable，这是一个浏览器扩展和应用程序，允许您隐藏/模糊/替换网络上包含您不想看到的文本的任何内容。现在它通过 MPL 2.0 开源，允许人们出于隐私原因透明地看到正在发生的事情，甚至让他们可以选择在出于某种原因想要添加新的解析器或功能时修改代码。在这里查看并告诉我您的想法：https://github.com/IdreesInc/Mutable  &lt; /div&gt;  由   提交 /u/IdreesInc   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1akaslo/my_custom_content_filtering_browser_extension/</guid>
-      <pubDate>Tue, 06 Feb 2024 14:18:13 GMT</pubDate>
     </item>
     </channel>
 </rss>

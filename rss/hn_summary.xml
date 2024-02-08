@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 07 Feb 2024 20:47:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Feb 2024 03:04:50 GMT</lastBuildDate>
     <item>
-      <title>[媒体]科莫多巨蜥是现存最大的蜥蜴，它的牙齿惊人地相似[...]</title>
-      <link>https://t.me/hn_summary/73210</link>
-      <description><![CDATA[成年科莫多牙齿与兽脚亚目恐龙的牙齿惊人地相似
-多伦多大学密西沙加分校的研究人员进行的一项研究表明，科莫多巨蜥是现存最大的蜥蜴，其牙齿与兽脚类恐龙的牙齿惊人地相似。研究小组检查了成年和幼年科莫多巨蜥的牙齿和颌骨，发现成年牙齿具有锯齿状切削边缘，并通过牙本质核加固，类似于兽脚亚目恐龙的牙齿。科莫多龙还具有独特的牙齿特征，其下颌中的每个牙齿位置最多有五颗替换牙齿，这在其他掠食性爬行动物中是看不到的。研究人员还发现，科莫多龙的牙齿更换速度很快，每个牙齿位置每 40 天就会长出新牙齿。这种快速的牙齿更换使得科莫多龙能够在捕获猎物或去肉时快速更换破损的牙齿。研究还发现，幼年科莫多龙的牙齿更加脆弱，不适合成年科莫多龙典型的去肉行为，这表明牙齿和摄食行为之间存在相关性。]]></description>
-      <guid>https://t.me/hn_summary/73210</guid>
-      <pubDate>Wed, 07 Feb 2024 20:47:54 GMT</pubDate>
+      <title>[媒体]新西兰环境保护局（EPA）宣布将禁止[...]</title>
+      <link>https://t.me/hn_summary/73256</link>
+      <description><![CDATA[新西兰将成为第一个禁止化妆品中使用 PFAS 的国家&lt; /a&gt;
+新西兰环境保护局（EPA）宣布将从2027年开始禁止在化妆品中使用全氟烷基物质和多氟烷基物质（PFAS）。此举使新西兰成为世界上最早采取此类行动的国家之一保护人类和环境。 PFAS 常用于指甲油、剃须膏和口红等化妆品中，使皮肤光滑，使产品更耐用、防水。 EPA 表示，虽然 PFAS 只存在于少数产品中，但他们正在对潜在风险采取预防措施。这一决定是新西兰持续努力逐步淘汰消防泡沫中的 PFAS 并测试环境中 PFAS 背景水平的一部分。]]></description>
+      <guid>https://t.me/hn_summary/73256</guid>
+      <pubDate>Thu, 08 Feb 2024 03:04:50 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]这篇文章讨论了 DOS 中“虚幻模式”的概念，它允许访问备忘录 [...]</title>
-      <link>https://t.me/hn_summary/73209</link>
-      <description><![CDATA[超越 DOS 中的 1 MB 屏障
-本文讨论了 DOS 中“虚幻模式”的概念，该模式允许访问超过 1 MB 限制的内存，同时避免昂贵的保护模式切换。作者通过将任意段描述符加载到处理器的缓存中来解释虚幻模式的工作原理，这允许绕过实模式规则并直接访问扩展内存。本文还提到了未记录的 LOADALL 指令，该指令使用内存区域中的值（包括缓存的段描述符）一次性设置所有处理器寄存器。作者强调了使用 LOADALL 所带来的性能提升，并提到 HIMEM.SYS 利用了该指令。然而，作者未能在 DOSBox 中复制 LOADALL 的用法。 （根据故事文本的 34% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/73209</guid>
-      <pubDate>Wed, 07 Feb 2024 20:44:45 GMT</pubDate>
+      <title>【媒体】欧特克创始人约翰·沃克去世，享年75岁。</title>
+      <link>https://t.me/hn_summary/73255</link>
+      <description><![CDATA[Autodesk 创始人 John Walker 去世，享年 75 岁 
+Autodesk 创始人约翰·沃克 (John Walker) 去世，享年 75 岁。他出生于马里兰州，选择从事计算机科学事业，而不是遵循家族的医学传统。在凯斯西储大学计算中心工作后，他遇到了妻子 Roxie，并最终搬到加利福尼亚州寻找新工作。 1976 年，他设计了自己的电路板，从而创建了 Marinchip Systems，并最终创建了 Autodesk。约翰的遗产和生活可以通过他在他的网站 Fourmilab 上的著作来探索。他的去世消息是在约翰本人创建的 Scanalyst 网站上发布的。]]></description>
+      <guid>https://t.me/hn_summary/73255</guid>
+      <pubDate>Thu, 08 Feb 2024 02:55:39 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 超现实 (2016) [视频](https://news.ycombinator.com/item?id=39293470)</title>
-      <link>https://t.me/hn_summary/73208</link>
-      <description><![CDATA[超现实 (2016) [视频](https:// news.ycombinator.com/item?id=39293470)
-《超现实》是一部发人深省、视觉效果令人惊叹的短片，让人们一睹物理世界和虚拟世界之间界限已经模糊的未来。这部电影由松田圭一创作，带我们踏上一段穿越媒体和科技完全饱和的城市的旅程。这部电影提出了有关技术对我们生活的影响以及生活在高度互联的世界中的潜在后果的问题。凭借其令人着迷的视觉效果和发人深省的叙事，“超现实”挑战观众思考我们日益数字化和媒体驱动的社会的影响。]]></description>
-      <guid>https://t.me/hn_summary/73208</guid>
-      <pubDate>Wed, 07 Feb 2024 20:41:34 GMT</pubDate>
+      <title>[媒体] 网络内容是对克里斯·迪克森 (Chris Dixon) 的书《Read Write Own》的评论，以评论的形式写成 [...]</title>
+      <link>https://t.me/hn_summary/73254</link>
+      <description><![CDATA[评论：Chris Dixon 的 Read Write Own
+网络内容是对克里斯·迪克森（Chris Dixon）的书《Read Write Own》的评论，以批评的语气撰写。作者强调了围绕迪克森的书的争议，特别是他没有承认自己的公司在“科技巨头”垄断网络中所扮演的角色。作者还批评了迪克森认为区块链是互联网问题的解决方案的观点，指出缺乏成功的区块链项目以及迪克森的论点中的矛盾。作者质疑这本书的目标读者，并批评缺乏对迪克森主张的引用和支持证据。 （根据 92% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/73254</guid>
+      <pubDate>Thu, 08 Feb 2024 02:54:33 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：谁是您最珍视的现场程序员？</title>
-      <link>https://t.me/hn_summary/73207</link>
-      <description><![CDATA[问 HN：谁是您最珍惜的现场程序员？
-news.ycombinator.com 上这篇文章的作者是寻求有关他们认为是宝藏的实时编码员的建议。他们提到在 Twitch 上观看 lichess 创始人 Thibault 的实时编码，并对如此有才华的人的平易近人感到惊讶。他们还提到了他们珍视的其他现场程序员，包括约翰·罗梅罗、乔治·霍茨和斯蒂芬·沃尔弗拉姆，他们的观众人数都低得惊人。作者正在为其他不太知名的现场程序员寻求建议，而他们可能并不知道。]]></description>
-      <guid>https://t.me/hn_summary/73207</guid>
-      <pubDate>Wed, 07 Feb 2024 20:32:21 GMT</pubDate>
+      <title>[媒体]欢迎来到“新中世纪时代”：国家正在变得过时吗？</title>
+      <link>https://t.me/hn_summary/73253</link>
+      <description><![CDATA[欢迎来到“新中世纪时代”：国家正在变得过时吗？&lt; /a&gt;
+文章讨论了世界正在进入一个“新中世纪时代”的观点，其特征是国家衰弱、社会分裂、经济失衡、威胁无处不在和战争非正式化。作者认为，这个时代与 1800 年之前的历史比最近的历史有更多的共同点。新中世纪时代的概念并不新鲜，它已被用来解释冷战后世界的政治和经济复杂性。俄罗斯在乌克兰正在进行的战争被认为是具有前现代特征的冲突的一个例子，俄罗斯被描述为一个坐落在现代官僚国家之上的中世纪宫廷。文章还强调，大多数西方国家尚未做好应对全面工业规模冲突的准备。 （根据故事文本的 54% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/73253</guid>
+      <pubDate>Thu, 08 Feb 2024 02:44:24 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]新西兰的清洁汽车折扣计划已被取消，导致 [...]</title>
-      <link>https://t.me/hn_summary/73206</link>
-      <description><![CDATA[清洁汽车计划取消后电动汽车销量直线下降（新西兰）&lt; /a&gt;
-新西兰的清洁汽车折扣计划已被取消，导致电动汽车（EV）销量大幅下降。 2024 年 1 月，仅登记了 352 辆纯电动汽车和 308 辆插电式混合动力汽车，而 2023 年购买的新车数量为四分之一。倡导组织 Drive Electric 主席克尔斯滕·科森 (Kirsten Corson) 将销量下降归因于取消了清洁汽车折扣。她认为，电动汽车销量将在一段时间内保持低位，因为该计划有效地促进了销量。 Drive Electric 委托撰写的一份报告表明，如果没有该计划，到 2030 年，道路上的电动汽车数量可能会减少 100,000 至 300,000 辆。交通部长西蒙·布朗 (Simeon Brown) 为废除该计划的决定进行了辩护，理由是该计划负担不起，而且需要支持农民和技工。他还认为，由于电动汽车补贴的取消，销量下降是预料之中的。然而，科森不同意，并强调建立电动汽车二手市场以使大多数消费者更容易获得电动汽车的重要性。]]></description>
-      <guid>https://t.me/hn_summary/73206</guid>
-      <pubDate>Wed, 07 Feb 2024 20:26:11 GMT</pubDate>
+      <title>[媒体]德国一家法院在与 Inte 的专利纠纷中做出了有利于 R2 Semiconductor 的裁决 [...]</title>
+      <link>https://t.me/hn_summary/73252</link>
+      <description><![CDATA[德国法院因专利纠纷禁止在德国销售部分英特尔 CPU&lt; /a&gt;
+德国一家法院在与英特尔的专利纠纷中做出了有利于 R2 Semiconductor 的裁决，这可能导致部分英特尔处理器及基于这些处理器的产品在德国被禁止销售。法院认定，英特尔侵犯了R2的集成稳压器技术专利。英特尔指控 R2 是专利流氓，并计划对该决定提出上诉。法院发布的禁令涵盖英特尔酷睿系列“Ice Lake”、“Tiger Lake”、“Alder Lake”和至强可扩展“Ice Lake Server”处理器，但不包括其当前一代酷睿“Raptor Lake”和Core Ultra “流星湖”处理器。 R2 Semiconductor 对法院的判决表示欢迎，并计划执行该禁令。]]></description>
+      <guid>https://t.me/hn_summary/73252</guid>
+      <pubDate>Thu, 08 Feb 2024 02:37:15 GMT</pubDate>
     </item>
     <item>
-      <title>询问 HN：不再提交“我被骗了”的意见怎么样？</title>
-      <link>https://t.me/hn_summary/73205</link>
-      <description><![CDATA[询问 HN：不再提交“我被骗了”怎么样？ 
-从首页。是的，我说的是黑客新闻上那些“我被骗了”的帖子。虽然提高人们对诈骗的认识并保护其他人免遭受害者很重要，但这些帖子已经变得重复，对社区几乎没有任何价值。相反，让我们专注于分享有洞察力的内容，讨论创新想法，并营造积极的学习和成长环境。争议：一些用户认为这些帖子具有警示意义，可以帮助其他人避免类似的骗局。]]></description>
-      <guid>https://t.me/hn_summary/73205</guid>
-      <pubDate>Wed, 07 Feb 2024 20:23:59 GMT</pubDate>
+      <title>[媒体]麦当劳将顾客推向价格边缘。</title>
+      <link>https://t.me/hn_summary/73251</link>
+      <description><![CDATA[麦当劳将顾客逼到了价格的边缘。他们开始反击
+麦当劳因价格过高而面临顾客的抵制，导致这家快餐连锁店考虑降低某些菜单项的价格。首席执行官克里斯·肯普钦斯基(Chris Kempczinski)承认“负担能力”问题，并提到与外出就餐相比，在家吃饭变得更加实惠。低收入消费者是麦当劳的重要基础，他们正感受到外出就餐价格上涨的压力。虽然没有具体说明降价的时间和幅度，但肯普钦斯基对负担能力的关注标志着他与之前声明的转变，此前他曾吹嘘价格上涨不会阻碍销售。麦当劳已成为社交媒体抱怨高价的目标，病毒故事和 TikTok 视频批评单一薯饼或中等炸薯条等商品的成本。该公司重申了提供价格实惠的选择的承诺，但没有给出具体细节。]]></description>
+      <guid>https://t.me/hn_summary/73251</guid>
+      <pubDate>Thu, 08 Feb 2024 02:10:59 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] PGP FileLock 是一个轻量级工具，允许用户使用 [...]</title>
-      <link>https://t.me/hn_summary/73204</link>
-      <description><![CDATA[显示 HN：PGP FileLock
-PGP FileLock 是一个轻量级工具，允许用户使用 PGP 标准加密和解密文件。它提供了一个简单的接口，用于生成 PGP 密钥对、使用公钥加密文件以及使用私钥解密文件。该项目旨在提供快速、安全的文件加密，而无需全功能 PGP 软件的复杂性。它提供 GUI 模式和 CLI 模式，以实现易用性和自动化。该项目的特点是轻量级、跨平台，并提供预编译的二进制文件以增加便利性。作者还在路线图中提到了未来的功能，例如验证、签名加密和验证解密。欢迎贡献、错误报告和功能建议。]]></description>
-      <guid>https://t.me/hn_summary/73204</guid>
-      <pubDate>Wed, 07 Feb 2024 20:16:46 GMT</pubDate>
+      <title>[媒体] 作者讨论了有关 Apple 是否声称拥有 Apple Visio 的反馈和理论 [...]</title>
+      <link>https://t.me/hn_summary/73250</link>
+      <description><![CDATA[Apple Vision Pro – 为什么更换显示器是荒谬的&lt; br/&gt;
+作者讨论了有关苹果是否声称 Apple Vision Pro (AVP) 是办公/文本应用程序的显示器替代品的反馈和理论。他们讨论了 AVP 与现有计算机显示器相比的分辨率和像素密度，以及使用注视相关眼视差 (GCOP) 进行深度感知。作者直接引用了 Apple WWDC 2023 演示文稿，认为 Apple 确实声称 AVP 将是文本密集型应用程序的合理显示器替代品。他们还讨论了作为参考点的 Meta Quest Pro (MQP) 的光学畸变和分辨率。 （根据 90% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/73250</guid>
+      <pubDate>Thu, 08 Feb 2024 02:10:52 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] VizTracer VS Code Extension 是一个允许用户可视化他们的 Python [...]</title>
-      <link>https://t.me/hn_summary/73203</link>
-      <description><![CDATA[显示 HN：在 VSCode 中可视化 Python 代码执行 
-VizTracer VS Code 扩展是一个工具，允许用户在 Visual Studio Code 中可视化其 Python 代码执行情况。要使用该扩展，用户需要安装 VS Code 的官方 Python 扩展，并在其 Python 环境中安装 VizTracer 包（版本 0.16.1 或更高版本）。用户可以通过右键单击脚本并选择“使用 VizTracer 跟踪”或使用命令行来跟踪脚本。该扩展还允许用户通过右键单击 JSON 报告并选择“使用 vizviewer 查看”来查看报告。此外，该扩展还提供了源代码浏览器功能，允许用户在 VS Code 中打开源代码。该扩展根据 Apache 2.0 许可证分发。]]></description>
-      <guid>https://t.me/hn_summary/73203</guid>
-      <pubDate>Wed, 07 Feb 2024 20:16:37 GMT</pubDate>
+      <title>[媒体]这项研究旨在使用全脑透视来识别 ADHD 的神经影像学相关性 [...]</title>
+      <link>https://t.me/hn_summary/73249</link>
+      <description><![CDATA[大脑静息状态连接与多动症症状显着相关 
+本研究旨在利用全脑视角和大型多部位样本来识别 ADHD 的神经影像相关性。研究人员构建了一个代表累积的、全脑的、与多动症相关的静息态功能连接的多神经评分（PNRS），并使用青少年大脑认知发展（ABCD）研究的数据对其进行了验证。他们发现 ADHD PNRS 与 ABCD 和俄勒冈州队列中的 ADHD 症状显着相关。在涉及默认模式和扣带-鳃盖网络的连接中观察到最强的影响。该研究提供了 ADHD 中广泛存在的连接失调的进一步证据，并强调了 PNRS 方法在提高神经影像学研究的可重复性方面的前景。]]></description>
+      <guid>https://t.me/hn_summary/73249</guid>
+      <pubDate>Thu, 08 Feb 2024 02:08:44 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Codeium Editor 是一款具有无限自动完成功能的开源代码编辑器。</title>
-      <link>https://t.me/hn_summary/73202</link>
-      <description><![CDATA[显示 HN：内置自动完成功能的开源代码编辑器&lt; /a&gt;
-Codeium Editor 是一款具有无限自动完成功能的开源代码编辑器。它是 Microsoft Monaco 编辑器的包装器，并提供基于编辑器内容的代码自动完成功能。该项目是可定制的，并扩展了 Monaco React 的 API。它可以免费使用，无需帐户。可以使用 NPM、Yarn 或 PNPM 安装编辑器。作者提到，该项目与其他项目的区别在于其无限的自动完成功能以及与 Monaco 编辑器的集成。该项目根据未指定的许可证获得许可。]]></description>
-      <guid>https://t.me/hn_summary/73202</guid>
-      <pubDate>Wed, 07 Feb 2024 20:16:29 GMT</pubDate>
+      <title>[媒体]美国法院禁止拜耳、巴斯夫和先正达生产的三种除草剂，芬 [...]</title>
+      <link>https://t.me/hn_summary/73248</link>
+      <description><![CDATA[法院禁止三种除草剂，并发现 EPA 在审批过程中违法
+美国一家法院裁定，美国环境保护局 (EPA) 批准拜耳、巴斯夫和先正达生产的三种除草剂违反了法律，因此禁止使用它们。该裁决特别针对基于麦草畏的除草剂，这些除草剂被指责造成农作物损害以及对濒临灭绝的物种和自然区域的损害。这是自 2017 年推出这些除草剂以来，联邦法院第二次禁止这些除草剂。法院发现，美国环保署在重新批准麦草畏时没有遵循规定的公众公告和评论程序。该裁决影响拜耳的 XtendiMax 除草剂、先正达的 Tavium 除草剂和巴斯夫的 Engenia 除草剂。]]></description>
+      <guid>https://t.me/hn_summary/73248</guid>
+      <pubDate>Thu, 08 Feb 2024 02:06:34 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 这个项目的目的是为 ChatGPT 的每个响应添加一个回复按钮，一个 [...]</title>
-      <link>https://t.me/hn_summary/73201</link>
-      <description><![CDATA[显示 HN：使用 Chrome 扩展程序引用对 ChatGPT 响应的回复
-该项目的目的是为 ChatGPT（OpenAI 开发的聊天机器人）的每个响应添加一个回复按钮，使用 Chrome 扩展。这使用户可以轻松引用和参考聊天中以前的回复。该扩展程序会自动检测新的响应，并适用于浅色和深色主题。它专门设计用于 chat.openai.com 网站不收集任何数据或显示广告。作者提到该扩展与 ChatGPT 或 OpenAI 无关。自述文件提供了安装、使用和为项目做出贡献的说明。]]></description>
-      <guid>https://t.me/hn_summary/73201</guid>
-      <pubDate>Wed, 07 Feb 2024 20:16:22 GMT</pubDate>
+      <title>[媒体]文章讨论了美国人对各种职业的信任度下降。</title>
+      <link>https://t.me/hn_summary/73247</link>
+      <description><![CDATA[幻灭的美国人对几乎所有职业都失去了信心&lt; br/&gt;
+文章讨论了美国人对各种职业的信任度下降。作者强调了盖洛普的一项调查，该调查发现，几乎所有职业的人们对这些领域工人道德标准的看法都在下降。唯一没有衰落的职业是工会领袖。文章认为，信任度下降是由于两极分化加剧、政客不兑现承诺、经济陷入困境以及教育体系摇摇欲坠等因素造成的。作者还提到，对职业的信任可能会因个人的教育程度和政治倾向而异。此外，文章还提到 Z 世代正在进入劳动力市场，重点是寻找符合他们理想和道德的工作。]]></description>
+      <guid>https://t.me/hn_summary/73247</guid>
+      <pubDate>Thu, 08 Feb 2024 02:04:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
