@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 08 Feb 2024 12:06:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Feb 2024 18:08:01 GMT</lastBuildDate>
     <item>
-      <title>[媒体]作者讨论了模拟假设并分享了他们对是否或[...]的想法</title>
-      <link>https://t.me/hn_summary/73291</link>
-      <description><![CDATA[关于我们是否生活在模拟中&lt; br/&gt;
-作者讨论了模拟假设，并分享了他们对我们是否生活在计算机模拟中的想法。他们质疑讨论的相关性，表示如果无法确定我们是否处于模拟中，那就不值得担心。他们还讨论了我们的后代将有能力模拟宇宙的论点，但他们认为，如果我们被模拟，那将是由更大宇宙中的生物而不是我们自己的后代来模拟。作者的结论是，虽然他们没有花太多时间担心模拟假设，但他们偶尔会同意在小组讨论中谈论它。]]></description>
-      <guid>https://t.me/hn_summary/73291</guid>
-      <pubDate>Thu, 08 Feb 2024 12:06:03 GMT</pubDate>
+      <title>该网络内容的作者发现了他于 1990 年制作的一款名为 Viboritas 的游戏。</title>
+      <link>https://t.me/hn_summary/73324</link>
+      <description><![CDATA[Viboritas：我 1990 年游戏的逆向工程（当时我 11 岁） )
+该网络内容的作者发现了他于 1990 年制作的一款名为 Viboritas 的游戏。他在软盘上找到了游戏的备份，并决定对其进行逆向工程。使用监视器式程序将游戏直接编码为机器代码。作者受到一本杂志的启发，想要制作一款科幻游戏，玩家将使用梯子并躲避敌人。该游戏最初是为配备 Zilog Z80 CPU 的自制计算机编写的，并且有 2K 的限制。作者对游戏进行了反汇编，并开始针对 MSX 计算机和 Colecovision 游戏机进行改编。 （根据故事文本的 11% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/73324</guid>
+      <pubDate>Thu, 08 Feb 2024 18:08:01 GMT</pubDate>
     </item>
     <item>
-      <title>在这篇博文中，作者分享了他们在 [...] 中创建十亿个空文件的经验。</title>
-      <link>https://t.me/hn_summary/73290</link>
-      <description><![CDATA[十亿文件文件系统
-在这篇博文中，作者分享了他们在 ext4 文件系统中创建十亿个空文件的经验。他们提供了为此目的编写的程序的链接。作者解释说，磁盘映像以 TB 大小的稀疏文件开始，不占用任何空间，然后将文件系统放入其中。生成的映像使用 276 GiB 的磁盘空间。作者还提到压缩图像可以使其变小，但他们没有测量压缩时间。他们邀请读者在需要使用这样的文件系统时与我们联系，但也鼓励读者在有时间的情况下自己创建一个。作者建议该文件系统可用于基准测试目的或作为学生有趣的项目。]]></description>
-      <guid>https://t.me/hn_summary/73290</guid>
-      <pubDate>Thu, 08 Feb 2024 11:57:54 GMT</pubDate>
+      <title>[媒体] J.G.</title>
+      <link>https://t.me/hn_summary/73323</link>
+      <description><![CDATA[J.G.巴拉德：我最喜欢的书
+在这篇文章中，J.G.巴拉德反思了一生塑造他想象力的文学。他谈到了他童年时读过的《金银岛》和《鲁宾逊漂流记》等书如何仍然引起他的共鸣，而他在 30 多岁和 40 多岁时读过的书却被遗忘了。巴拉德还反思了流行文化对他的孩子这一代的重要性，以及他自己青少年时期的大量阅读可能如何阻碍了他的成长。他讨论了他在上海度过的童年的影响以及他早期阅读的大部分内容的可怕本质。巴拉德最后分享了他过去五年中最喜欢的书籍，其中包括科学期刊、技术手册，甚至洛杉矶“黄页”。 （根据 93% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/73323</guid>
+      <pubDate>Thu, 08 Feb 2024 17:36:48 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Audiocate 是一个 Haskell 库，旨在打击音频 Deepfakes 的滥用 [...]</title>
-      <link>https://t.me/hn_summary/73289</link>
-      <description><![CDATA[显示 HN：Audiocate – 一个用于打击音频 Deepfake 滥用的 Haskell 库&lt; /a&gt;
-Audiocate 是一个 Haskell 库，旨在打击人工智能生成的音频深度伪造的滥用行为。它允许将有意义的有效负载嵌入到音频中以验证其真实性。该库使用 TOTP 算法将时间范围引入编码过程。 Audiocate 目前支持最低有效位 (LSB) 编码，并且具有高度的不可察觉性。它还提供 CLI 和简单的 GUI 进行交互。该项目包括构建、生成文档、运行测试和基准测试以及分析频谱图的功能。]]></description>
-      <guid>https://t.me/hn_summary/73289</guid>
-      <pubDate>Thu, 08 Feb 2024 11:50:45 GMT</pubDate>
+      <title>news.ycombinator.com 上这篇文章的作者是一位软件工程师，他正在与 [...]</title>
+      <link>https://t.me/hn_summary/73322</link>
+      <description><![CDATA[问 HN：我是软件人员，营销对我来说就是地狱
+news.ycombinator.com 上这篇文章的作者是一位正在为初创公司的营销和潜在客户开发而苦苦挣扎的软件工程师。他们拥有多家初创公司的经验，但缺乏经营企业的非技术方面的技能。他们曾尝试寻找联合创始人来处理非技术方面的问题，但迄今为止尚未成功。作者正在寻求有关如何找到优秀的非技术联合创始人的建议。]]></description>
+      <guid>https://t.me/hn_summary/73322</guid>
+      <pubDate>Thu, 08 Feb 2024 17:34:13 GMT</pubDate>
     </item>
     <item>
-      <title>在不断变化的美国就业市场中，权力动态已经发生变化，雇主现在掌握着 [...]</title>
-      <link>https://t.me/hn_summary/73288</link>
-      <description><![CDATA[随着美国就业市场的权力转移，“雇主现在掌握了主动权” 
-在不断变化的美国就业市场中，权力动态已经发生变化，雇主现在掌握着主动权。由于对技术工人的需求量大且失业率低，企业在谈判中占据上风。这种转变导致工作保障的减少以及合同工和零工经济工作的使用增加。虽然这可能对雇主有利，但对寻求稳定和公平薪酬的工人构成了挑战。就业市场格局的变化要求重新评估传统就业模式，并注重适应性和持续学习。]]></description>
-      <guid>https://t.me/hn_summary/73288</guid>
-      <pubDate>Thu, 08 Feb 2024 11:49:36 GMT</pubDate>
+      <title>[媒体]苹果在 iOS 17.4 测试版中进行了更改，以符合欧洲数字市场法案 [...]</title>
+      <link>https://t.me/hn_summary/73321</link>
+      <description><![CDATA[Apple 在 iOS 17 Beta 中破坏了 Web 应用程序，并且尚未修复它们
+Apple 在 iOS 17.4 Beta 版中进行了更改，以符合欧洲的数字市场法案 (DMA)，但这些更改对渐进式 Web 应用程序 (PWA) 产生了负面影响。在测试版中，PWA 已从独立应用程序降级为在默认浏览器中打开的快捷方式。这一变化影响了欧盟用户，并引起了人们对 iOS 上网络应用程序功能和功能的担忧。一些人认为苹果的行为是故意让网络应用程序处于不利地位，而另一些人则希望这只是未来 API 更新的占位符。苹果尚未回应澄清请求。]]></description>
+      <guid>https://t.me/hn_summary/73321</guid>
+      <pubDate>Thu, 08 Feb 2024 17:18:35 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]气候科学家迈克尔·曼 (Michael Mann) 结束了对被告 R 的诽谤审判 [...]</title>
-      <link>https://t.me/hn_summary/73287</link>
-      <description><![CDATA[气候科学家迈克尔·曼在拖延 12 年之后在法庭上面对诽谤者&lt; /a&gt;
-气候科学家迈克尔·曼 (Michael Mann) 对被告兰德·辛伯格 (Rand Simberg) 和马克·斯泰恩 (Mark Steyn) 的诽谤审判在拖延 12 年之后终于结束。曼恩因创建显示全球平均表面温度上升的曲棍球棒图而闻名，在辛伯格和斯坦恩指控他伪造数据后，曼恩以诽谤罪起诉他们。对曼恩的攻击是与化石燃料亿万富翁查尔斯·科赫有关的气候怀疑论者发起的更广泛运动的一部分。该审判凸显了对科学和科学家的攻击日益增多，以及气候科学家需要传达气候变化的危险并打击错误信息。]]></description>
-      <guid>https://t.me/hn_summary/73287</guid>
-      <pubDate>Thu, 08 Feb 2024 11:41:29 GMT</pubDate>
+      <title>[媒体] traderjoesprices.com 网站提供了各种 i [...]</title>
+      <link>https://t.me/hn_summary/73320</link>
+      <description><![CDATA[交易者每日价格跟踪
+网站 traderjoesprices.com 提供各种商品的完整价格列表Trader Joe&#39;s 有售。该清单包括广泛的产品，从水果、蔬菜和乳制品等食品到纸巾和蜡烛等家居用品。列出的价格对于想要比较价格或计划杂货预算的购物者很有用。该网站提供了一种便捷的方式来跟踪 Trader Joe&#39;s 产品的价格。 （根据故事文本的 15% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/73320</guid>
+      <pubDate>Thu, 08 Feb 2024 17:12:58 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]一项新研究发现，月球正在慢慢缩小，引发强烈的月震。</title>
-      <link>https://t.me/hn_summary/73286</link>
-      <description><![CDATA[月球正在慢慢缩小 - 并且引发了强烈的月震
-一项新的研究发现，月球正在慢慢缩小，引发强烈的月震。由于内部冷却和地球引力的影响，月球地壳承受着恒定的压力，导致断层的形成。研究表明，月球震动，特别是月球南极附近的震动，对人类殖民者构成地震危险，并可能影响未来的月球基地。月震可能非常强烈，5 级月震有可能造成重大损害。然而，并非所有科学家都同意月震威胁的严重性，因为还需要更多的研究。]]></description>
-      <guid>https://t.me/hn_summary/73286</guid>
-      <pubDate>Thu, 08 Feb 2024 11:40:23 GMT</pubDate>
+      <title>[媒体]教育机构筹款平台 GiveCampus 正在招聘美国工程师 [...]</title>
+      <link>https://t.me/hn_summary/73319</link>
+      <description><![CDATA[GiveCampus (YC S15) 正在招聘关心教育的美国工程师&lt; /a&gt;
+GiveCampus 是一个为教育机构筹款的平台，正在招聘热衷于教育的美国工程师。公司获得Y Combinator的种子投资，并已连续六年实现盈利和正现金流。他们最近筹集了 5000 万美元来加速发展。 GiveCampus 发起了一项社会流动计划，该计划已捐赠 ​​100 万美元作为免费筹款支持，用于惠及低收入学生、第一代学生和代表性不足的少数族裔的项目。他们正在寻找一名高级软件工程师加入他们的团队，帮助将平台提升到一个新的水平。公司重视多元化，鼓励各种背景的候选人申请。]]></description>
+      <guid>https://t.me/hn_summary/73319</guid>
+      <pubDate>Thu, 08 Feb 2024 17:01:49 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]最近有报道称 300 万支电动牙刷被黑客入侵并用于 [...]</title>
-      <link>https://t.me/hn_summary/73285</link>
-      <description><![CDATA[DDoS 攻击中并未使用 3M 电动牙刷 
-最近有报道称 300 万支电动牙刷被黑客入侵并用于分布式拒绝服务 (DDoS) 攻击，这很可能是假设场景，而不是实际攻击。这篇来自瑞士新闻网站的报道称，犯罪分子在牙刷上安装了恶意软件，同时访问一家瑞士公司的网站并造成损害。然而，没有证据支持这一说法，并且被认为是该文章来源的网络安全公司 Fortinet 尚未提供任何信息或对所谓的攻击发表评论。电动牙刷不太可能以允许其感染恶意软件的方式暴露在互联网上。这个故事提醒我们确保所有暴露在互联网上的设备都拥有最新的安全更新和强密码。]]></description>
-      <guid>https://t.me/hn_summary/73285</guid>
-      <pubDate>Thu, 08 Feb 2024 11:10:10 GMT</pubDate>
+      <title>[媒体]作者分享了他们在 JPL 被解雇的个人经历 (J [...]</title>
+      <link>https://t.me/hn_summary/73318</link>
+      <description><![CDATA[JPL 裁员 Reddit 主题
+作者分享了他们在 JPL（喷气推进实验室）被解雇的个人经历。他们将这一事件描述为“大屠杀”，并表达了他们的震惊和难以置信。作者还在 Reddit 帖子上联系了其他人，询问他们的经历。内容中没有提及任何争议或令人惊讶的信息。]]></description>
+      <guid>https://t.me/hn_summary/73318</guid>
+      <pubDate>Thu, 08 Feb 2024 16:28:33 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 作者讨论了 Rosatom 数字图书馆的“原子乐趣”部分，该部分与 [...]</title>
-      <link>https://t.me/hn_summary/73284</link>
-      <description><![CDATA[贝利亚同志，你在开玩笑吧（2021）
-作者讨论了 Rosatom 数字图书馆的“原子乐趣”部分，其中包含苏联原子弹项目的幽默故事。作者承认在核武器的破坏性影响和美国核设施受害者的背景下寻找幽默的争议。他们猜测这种幽默的加入是否是缓解紧张局势的必要手段，还是俄罗斯民族主义修正主义的一部分。作者分享了一些笑话的例子，强调了它们对预期的颠覆以及转移到苏联核计划时的险恶暗示。他们对这些笑话表达了复杂的感情，觉得有些冒犯，但也赞赏俄罗斯核机构的透明度。]]></description>
-      <guid>https://t.me/hn_summary/73284</guid>
-      <pubDate>Thu, 08 Feb 2024 10:55:59 GMT</pubDate>
+      <title>[媒体] 一家海鲜公司想要养殖章鱼。</title>
+      <link>https://t.me/hn_summary/73317</link>
+      <description><![CDATA[一家海鲜公司想要养殖章鱼。活动人士说他们太聪明了
+西班牙海鲜公司 Nueva Pescanova 计划商业化养殖章鱼，以满足对章鱼肉不断增长的需求。然而，该计划遭到了活动人士的反对，他们认为章鱼非常聪明，养殖它们会很残忍，而且会对环境造成风险。 Nueva Pescanova 声称该农场将有助于保护该物种并缓解野生种群的捕捞压力。批评者认为该公司的动机是利润而不是保护。争议围绕着章鱼的智力和福利展开，活动人士认为章鱼能够完成复杂的任务，不应该被养殖。 （根据80%的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/73317</guid>
+      <pubDate>Thu, 08 Feb 2024 16:27:24 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Cyber​​us Technology 发布了 VirtualBox 的 KVM 后端，为用户提供了 [...]</title>
-      <link>https://t.me/hn_summary/73283</link>
-      <description><![CDATA[VirtualBox KVM 公开发布
-Cyber​​us Technology 发布了 VirtualBox 的 KVM 后端，为用户提供快速、可靠、安全的虚拟化解决方案。 KVM 后端允许 VirtualBox 使用 Linux KVM 管理程序运行虚拟机，从而提供诸如改进的安全性和对 Windows 虚拟化功能的支持等优势。 Cyber​​us Technology 在 GitHub 上开源发布的变更允许用户使用 KVM 后端构建 VirtualBox，并享受更快的虚拟机、更广泛的硬件支持和更好的安全性。该公司还为那些有兴趣将 VirtualBox 与 KVM 或自定义虚拟化解决方案结合使用的用户提供指导和工程服务。]]></description>
-      <guid>https://t.me/hn_summary/73283</guid>
-      <pubDate>Thu, 08 Feb 2024 10:54:51 GMT</pubDate>
+      <title>[媒体]巴基斯坦暂时停止全国移动电话网络和互联网服务 [...]</title>
+      <link>https://t.me/hn_summary/73316</link>
+      <description><![CDATA[巴基斯坦在选举日切断电话和互联网服务 
+巴基斯坦在选举日暂时关闭了全国范围内的移动电话网络和互联网服务，以应对潜在威胁。此举是由于该国最近发生的恐怖主义事件引发的。虽然各国在关键日子关闭移动网络和互联网的情况并非史无前例，但全国范围内的封锁仍然非常罕见。言论自由倡导者批评了这一行动，认为应该保持获取信息和沟通的机会，特别是在政治投票期间。暂停服务的持续时间以及何时恢复服务尚未确定。]]></description>
+      <guid>https://t.me/hn_summary/73316</guid>
+      <pubDate>Thu, 08 Feb 2024 16:14:15 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 这个项目是一个用于创建 Postgres 扩展的 cookiecutter 模板。</title>
-      <link>https://t.me/hn_summary/73282</link>
-      <description><![CDATA[显示 HN：Postgres 扩展的 Cookiecutter
-该项目是一个用于创建 Postgres 扩展的 cookiecutter 模板。它提供预先填充的标准扩展文件，包括 Makefile、.control、.c、.h 和 .sql 文件。它还包括回归测试、用于在多个 Postgres 版本上构建的 GitHub Actions、Docker 支持以及与 pgxn.org。该项目的目的是通过提供包含所有必要文件和配置的模板来简化创建 Postgres 扩展的过程。它通过提供开箱即用的 GitHub Actions 和 Docker 支持来区别于其他项目。]]></description>
-      <guid>https://t.me/hn_summary/73282</guid>
-      <pubDate>Thu, 08 Feb 2024 10:39:40 GMT</pubDate>
+      <title>该网络内容是关于一种名为 Princess 的编程语言。</title>
+      <link>https://t.me/hn_summary/73315</link>
+      <description><![CDATA[公主：像皇室一样编码
+该网络内容是关于一种名为 Princess 的编程语言。作者警告说，该语言处于早期 alpha 阶段，文档中提到的所有内容尚未实现。该语言具有熟悉的逻辑语法，并支持静态类型、自动内存管理、运算符重载和多态函数等功能。它还具有统一的函数调用语法，并支持使用 defer 进行清理。 Princess 具有完整的运行时和编译时反射、FFI 和与 C 的互操作，以及与 GDB 的调试符号。该语言使用 LLVM 作为后端并具有增量编译。还有一个具有自动完成功能的 VSCode 扩展。内容包括演示该语言功能的代码示例。]]></description>
+      <guid>https://t.me/hn_summary/73315</guid>
+      <pubDate>Thu, 08 Feb 2024 16:04:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
