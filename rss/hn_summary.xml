@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Fri, 09 Feb 2024 06:12:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Feb 2024 12:07:53 GMT</lastBuildDate>
     <item>
-      <title>[媒体]科学家发现了数据存储和时间效率之间的最佳平衡[...]</title>
-      <link>https://t.me/hn_summary/73428</link>
-      <description><![CDATA[科学家找到数据存储和时间的最佳平衡&lt; br/&gt;
-科学家们发现了哈希表中数据存储和时间效率之间的最佳平衡。该团队开发了一个主要数据结构，用于存储没有任何浪费位的项目，以及一个辅助数据结构，用于帮助查询请求。关键的发现是二级结构的记忆效率取决于一级结构如何排列其存储的项目。通过不断地将项目转移到主结构中的首选位置，团队能够在不增加查询时间的情况下减少内存消耗。本发明为高效哈希表设定了新的上限，但仍有进一步改进的可能性。另一个团队尝试改进哈希表，但得出的结论是上限也是下限，这意味着无法找到更好的解决方案。他们通过确定节省空间的哈希表访问内存所需的最小次数来计算下限。这是利用通信复杂性理论实现的。]]></description>
-      <guid>https://t.me/hn_summary/73428</guid>
-      <pubDate>Fri, 09 Feb 2024 06:12:14 GMT</pubDate>
+      <title>[媒体] 排列城市</title>
+      <link>https://t.me/hn_summary/73449</link>
+      <description><![CDATA[排列城市
+格雷格·伊根（Greg Egan）的《排列城市》是一部科幻小说，探讨了在虚拟现实中创建自我软件模拟的概念。主角保罗·达勒姆（Paul Durham）不断复制自己，用作人工智能、时间和因果关系实验的豚鼠。然而，他的副本不断自行关闭。与此同时，玛丽亚·德卢卡沉迷于一个名为“汽车宇宙”的虚拟世界，保罗为她提供了一份工作，为汽车宇宙中的虚拟生物圈设计种子。问题是它需要对汽车宇宙进行模拟，超出了当前计算机的能力。小说深入探讨了围绕意识和现实的复杂哲学和科学思想。]]></description>
+      <guid>https://t.me/hn_summary/73449</guid>
+      <pubDate>Fri, 09 Feb 2024 12:07:53 GMT</pubDate>
     </item>
     <item>
-      <title>作者讨论了定期将公司的目录服务转储到 tra [...]</title>
-      <link>https://t.me/hn_summary/73427</link>
-      <description><![CDATA[找出谁将离开公司：转储、差异、重复
-作者讨论了定期转储公司目录服务以跟踪离开公司的员工的做法。他们与一家拥有名为“墓志铭”的内部服务的公司分享了他们的经验，员工可以在其中添加有关离职同事的评论。作者还描述了他们如何创建自己的系统来跟踪另一家公司的员工离职情况。他们强调了这种做法在提供有关人们离开原因的背景和信息方面的有用性。作者还提到了一些令人惊讶的事件，例如在 IRC 频道中遇到一位前同事以及在会议期间目睹经理的直接报告被停用。他们建议在公司发展的早期就开始这种做法，并强调支持性和创新性工作环境的重要性。]]></description>
-      <guid>https://t.me/hn_summary/73427</guid>
-      <pubDate>Fri, 09 Feb 2024 05:17:41 GMT</pubDate>
+      <title>[媒体] 医疗保健技术初创公司 Circle Medical 正在蒙特利尔招聘 Ruby 工程师。</title>
+      <link>https://t.me/hn_summary/73448</link>
+      <description><![CDATA[Circle Medical (YC S15) 正在蒙特利尔招聘 Ruby 工程师
+Circle Medical 是一家医疗保健技术初创公司，正在蒙特利尔招聘 Ruby 工程师。该公司由李嘉诚爵士支持，其使命是为每个人提供优质的初级护理。凭借最近的资金，Circle Medical 计划在未来六个月内在全国范围内扩张。他们正在寻找具有使用 Ruby、Rails 和 PostgreSQL 进行后端开发经验的充满热情的工程师。职责包括实施和维护功能、设计 API、集成第三方 API 以及编写安全软件。优先资格包括计算机科学学位、大型软件系统经验以及 JavaScript 和计算机安全知识。]]></description>
+      <guid>https://t.me/hn_summary/73448</guid>
+      <pubDate>Fri, 09 Feb 2024 12:01:49 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]丰田和其他汽车品牌被指控收集和共享驾驶员数据 [...]</title>
-      <link>https://t.me/hn_summary/73426</link>
-      <description><![CDATA[丰田和其他汽车品牌被指控收集和共享驾驶员数据
-丰田和其他汽车品牌被指控收集和共享驾驶员数据，但没有为消费者提供明确的隐私选择。收集的数据可以包括个人信息、车辆位置、驾驶数据等。例如，丰田的互联服务系统出于各种目的收集数据，并可能与保险公司和收债机构等第三方共享数据。汽车公司的隐私政策往往含糊其辞，旨在允许收集数据，而不是保护消费者隐私。该问题凸显了汽车行业缺乏隐私保护以及澳大利亚需要加强隐私法。]]></description>
-      <guid>https://t.me/hn_summary/73426</guid>
-      <pubDate>Fri, 09 Feb 2024 05:06:34 GMT</pubDate>
+      <title>Netflix 技术博客的这篇博文讨论了重建公司视频的过程 [...]</title>
+      <link>https://t.me/hn_summary/73447</link>
+      <description><![CDATA[使用微服务重建 Netflix 视频处理管道
+Netflix 技术博客的这篇博文讨论了使用微服务重建公司视频处理管道的过程。这篇文章重点介绍了多年来对该管道所做的改进和扩展，包括对 4K 和高动态范围 (HDR) 内容的支持，以及编码创新的集成，例如按标题和按镜头优化。这篇文章还解释了以前的系统（称为 Reloaded）的局限性，并介绍了称为 Cosmos 的新的基于微服务的平台。这篇文章接着描述了构成管道的不同视频服务，例如视频编码服务和视频质量服务，并解释了它们如何协同工作来生成用于流媒体和工作室操作的视频资产。]]></description>
+      <guid>https://t.me/hn_summary/73447</guid>
+      <pubDate>Fri, 09 Feb 2024 11:44:40 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]法国初创公司 Arkeocean 正在要求各国海军重新考虑他们的水下监视 [...]</title>
-      <link>https://t.me/hn_summary/73425</link>
-      <description><![CDATA[水下无人机集群制造商重塑海上监视任务 
-法国初创公司 Arkeocean 正在要求各国海军重新考虑使用大量小型无人系统进行水下监视任务。该公司最近与法国海军完成了 Lelantos 游荡自主水下航行器 (AUV) 群体的海上试验，证明了其概念。 AUV 的长度分别为 70 厘米和 15 厘米，可以通过编程来监听敌舰的声音“信号”，并将信息转发回海军指挥官。 Arkeocean 声称已经签署了 AUV 合同，目前正在生产 25 个平台，将于 2024 年第一季度进行群体系列交付。该公司预计海军领域将出现与无人空中和地面系统类似的扩散趋势。]]></description>
-      <guid>https://t.me/hn_summary/73425</guid>
-      <pubDate>Fri, 09 Feb 2024 05:02:30 GMT</pubDate>
+      <title>[媒体]科学家宣布，世界已经超过了关键的变暖阈值[...]</title>
+      <link>https://t.me/hn_summary/73446</link>
+      <description><![CDATA[全球全年超过关键变暖阈值&lt; br/&gt;
+科学家们宣布，世界有记录以来首次超过了关键的变暖阈值，截至今年 1 月的 12 个月内，全球平均气温比工业化前平均气温高出 1.52 摄氏度。这强化了迅速减少温室气体排放以避免气候危机最严重影响的必要性。数据还显示，2024 年 1 月是有记录以来最热的 1 月，之前 7 个月都打破了高温记录。研究结果对采取行动限制气候变化和实现《巴黎协定》目标的紧迫性提出了严厉警告。]]></description>
+      <guid>https://t.me/hn_summary/73446</guid>
+      <pubDate>Fri, 09 Feb 2024 11:40:36 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Goody-2 是一种人工智能模型，它以最负责任和最安全的选择而自豪 [...]</title>
-      <link>https://t.me/hn_summary/73424</link>
-      <description><![CDATA[Goody-2：最负责任的人工智能模型&lt; br/&gt;
-Goody-2 是一种人工智能模型，它以最负责任、最安全的选择而自豪。它经过了广泛的培训，以确保它能够识别并避免在任何情况下可能有争议、冒犯或危险的任何查询。这一独特的功能使 Goody-2 能够重定向对话并降低任何潜在的品牌风险。这是一个极其安全的人工智能模型，优先考虑负责任的沟通。]]></description>
-      <guid>https://t.me/hn_summary/73424</guid>
-      <pubDate>Fri, 09 Feb 2024 04:57:25 GMT</pubDate>
+      <title>[媒体]中国北京理工大学科学家研发出游戏-changi [...]</title>
+      <link>https://t.me/hn_summary/73445</link>
+      <description><![CDATA[中国科学家声称对GHz范围进行干扰和实时射频频谱分析
+北京理工大学的中国科学家开发出了结合干扰和实时射频 (RF) 频谱分析的革命性技术。该技术被描述为“体积小、性能高、功耗低”，可以监测和分析千兆赫范围内的信号，超出了传统的 40-160 MHz 范围。这一进步使中国在电子战领域具有优势，使他们能够捕获和分析美国军事单位发出的信号，从而可能影响无线通信。杨凯教授领导的研究团队还将人工智能融入数据分析过程，提升军队信息感知能力。]]></description>
+      <guid>https://t.me/hn_summary/73445</guid>
+      <pubDate>Fri, 09 Feb 2024 11:15:26 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] API 设计是一门失传的艺术吗？</title>
-      <link>https://t.me/hn_summary/73423</link>
-      <description><![CDATA[API 设计是一门失传的艺术吗？
-本文讨论了在生成式人工智能系统与电子商务系统集成的场景中 API 设计的重要性。作者强调，虽然系统本身可能设计良好，但连接它们的 API 经常遇到性能、扩展和延迟问题。本文强调了良好 API 设计的基础知识，包括可扩展性、模块化、无状态性和高效的数据处理。作者还强调了监控和测试 API 以确保最佳性能的重要性。文章最后指出，API 设计在云开发培训中经常被忽视或没有正确教授，并呼吁在应用程序开发中更加优先考虑 API 设计。]]></description>
-      <guid>https://t.me/hn_summary/73423</guid>
-      <pubDate>Fri, 09 Feb 2024 04:46:20 GMT</pubDate>
+      <title>此网页内容来自 craftinginterpreters.com 网站，标题为“编译表达式”。</title>
+      <link>https://t.me/hn_summary/73444</link>
+      <description><![CDATA[编译表达式
+此网页内容来自网站 craftinginterpreters.com，标题为“编译表达式。”作者在本章开头引用了但丁·阿利吉耶里的《地狱篇》中的一段话，并介绍了本章令人兴奋的三个原因。首先，它提供虚拟机执行管道的最后一段。其次，作者开始编写一个实际的编译器来解析源代码并输出字节码。第三，作者介绍了Vaughan Pratt的“自顶向下运算符优先级解析”算法，这是他们最喜欢的解析表达式的算法。作者还提到，Pratt 解析器在学术界并不常见，但在生产编译器中却广为人知。然后本章继续讨论深入解析器核心之前的预备步骤。作者解释了使用VM编译和执行代码的过程，并介绍了单遍编译器的概念。作者还提到他们为本书设计的 Lox 语言非常适合单遍编译器。本章最后介绍了“advance()”函数，该函数从扫描仪读取标记并处理错误标记。 （根据故事文本的 18% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/73444</guid>
+      <pubDate>Fri, 09 Feb 2024 10:41:14 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Apple 改进了其 Windows 应用程序套件，包括 Apple Music、Apple TV 和 Dev [...]</title>
-      <link>https://t.me/hn_summary/73422</link>
-      <description><![CDATA[Apple 彻底改革了整个 Windows 应用套件，包括 iCloud 和 Apple Music&lt; /a&gt;
-Apple 改进了其 Windows 应用程序套件，包括 Apple Music、Apple TV 和 Devices，并发布了 Windows 版 iCloud 的重大更新。这些应用程序取代了 Windows 版 iTunes 应用程序的大部分功能。新应用程序已在 Microsoft Store 中提供，并且与 Windows 11 和 Windows 10 兼容。Apple Music 和 Apple TV 应用程序提供对 Apple 流媒体库的访问，而设备应用程序允许用户备份和恢复 iPhone 和 iPad。 Windows 版 iCloud 应用程序重新设计了界面，并支持深色模式。但是，某些功能（例如同步笔记和提醒）在 Windows 上仍然不可用。 Apple 专注于改进其 Windows 应用程序可能是由于其服务部门的增长，其中包括来自 iCloud、Apple Music 和其他订阅计划的收入。]]></description>
-      <guid>https://t.me/hn_summary/73422</guid>
-      <pubDate>Fri, 09 Feb 2024 04:42:17 GMT</pubDate>
+      <title>[媒体]有报道称，俄罗斯军队正在使用卫星互联网服务 Starlink [...]</title>
+      <link>https://t.me/hn_summary/73443</link>
+      <description><![CDATA[俄罗斯军队使用从迪拜获得许可并进口的星链&lt; br/&gt;
+有报道称，俄罗斯军队正在使用从迪拜进口的卫星互联网服务“星链”。乌克兰士兵注意到俄罗斯军队对星链的使用有所增加，授权账户和终端抵达俄罗斯并在有争议的地区全面投入使用。乌克兰士兵还报告说，前线的互联网速度较慢。俄罗斯军方部署了电子战系统，扰乱了星链网络，并导致阿夫季夫卡互联网中断。这次中断影响了乌克兰军队的指挥和控制系统，削弱了与高级指挥部的沟通。俄罗斯军方还采取措施物理消除已发现的星链终端。文章还提供了 2022 年俄罗斯入侵乌克兰的背景信息。]]></description>
+      <guid>https://t.me/hn_summary/73443</guid>
+      <pubDate>Fri, 09 Feb 2024 09:55:57 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Apple Vision Pro 让业主不确定其用途，并努力弄清楚 [...]</title>
-      <link>https://t.me/hn_summary/73421</link>
-      <description><![CDATA[Apple Vision Pro 用户正在努力弄清楚他们刚刚购买了什么&lt; /a&gt;
-Apple Vision Pro 让用户不确定其用途，并努力弄清楚如何使用它。虽然一些买家发现在公共场合佩戴该设备会吸引注意力并制作病毒视频，但这些视频并没有提供有关该设备的功能或未来如何使用该设备的更多信息。相反，真正的业主正在论坛和社交媒体上分享他们的经验和挑战。用户报告说头带和密封带来不适，甚至求助于使用 DIY 头带来提高舒适度。所有者之间也对该设备的用途和潜力存在争议，许多人表示兴奋，但也计划在几天后归还它。总体而言，对 Vision Pro 的反应褒贬不一，有些人觉得它很有趣，而另一些人则不确定它的价值。]]></description>
-      <guid>https://t.me/hn_summary/73421</guid>
-      <pubDate>Fri, 09 Feb 2024 04:38:13 GMT</pubDate>
+      <title>[媒体] 这条推文的作者声称，流行的编程语言 Gemini 无法实现 [...]</title>
+      <link>https://t.me/hn_summary/73442</link>
+      <description><![CDATA[Gemini 无法向我展示在 C# 中复制内存的最快方法因为这是不道德的
+这条推文的作者声称，流行的编程语言 Gemini 无法为他们提供 C# 中复制内存的最快方法，因为这是不道德的。该推文没有提供任何进一步的解释或上下文，让读者猜测围绕此问题的争议。目前尚不清楚作者对 Gemini 有哪些具体的道德问题，也不清楚为什么在 C# 中使用它进行内存复制是不道德的。]]></description>
+      <guid>https://t.me/hn_summary/73442</guid>
+      <pubDate>Fri, 09 Feb 2024 09:15:43 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 这篇博文讨论了 Lamport 时钟，这是 Leslie Lampo 提出的概念 [...]</title>
-      <link>https://t.me/hn_summary/73420</link>
-      <description><![CDATA[兰波特时钟
-这篇博客文章讨论了 Lamport 时钟，这是 Leslie Lamport 在他的论文“分布式系统中的时间、时钟和事件排序”中引入的概念。这篇文章提供了论文摘要，并解释了如何使用 Lamport 时钟来解决分布式互斥问题。它还讨论了“之前发生”的关系和逻辑时钟的概念。这篇文章提到逻辑时钟并不总是提供事件的总排序，并介绍了使用物理时钟来满足强时钟条件的想法。这篇文章最后以一个示例说明了如何使用 Lamport 时钟来解决互斥问题。 （根据故事文本的 54% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/73420</guid>
-      <pubDate>Fri, 09 Feb 2024 04:31:08 GMT</pubDate>
+      <title>[媒体]Carta，一家专门从事股权管理的初创公司，推出了一项新的服务cal [...]</title>
+      <link>https://t.me/hn_summary/73441</link>
+      <description><![CDATA[Carta推出启动关闭服务
+Carta 是一家专门从事股权管理的初创公司，推出了一项名为 Carta 结论的新服务，以帮助决定解散公司的创始人。关闭公司的过程通常充满挑战且耗时，涉及创建遣散费、取消协议和提交纳税申报表等任务。 Carta 结论旨在通过指导创始人完成整个流程并处理所有运营任务来减轻这一负担。此外，该服务还确保 Carta 上的投资者收到适当的税务文件。我们的目标是在这个困难时期为创始人提供支持，并帮助他们过渡到下一个篇章，无论是创办新公司还是追求不同的职业道路。]]></description>
+      <guid>https://t.me/hn_summary/73441</guid>
+      <pubDate>Fri, 09 Feb 2024 09:02:38 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]CUDA Quantum 是一种开源编程模型，允许开发人员构建量子 [...]</title>
-      <link>https://t.me/hn_summary/73419</link>
-      <description><![CDATA[CUDA 量子
-CUDA Quantum 是一种开源编程模型，允许开发人员构建量子经典应用程序。它通过提供对异构计算架构（例如量子处理单元 (QPU)、GPU 和 CPU）进行编程的工具来加速这些应用程序。 CUDA Quantum 的主要功能之一是能够针对多个 QPU 和 GPU，从而通过并行化显着提高速度。该软件还与消息传递接口 (MPI) 集成，以解决计算密集型问题。此外，CUDA Quantum 允许组合多 QPU 和多 GPU 工作负载，从而实现大规模模拟并行运行。该软件可以使用 MPI 插件与任何 MPI 实现集成。]]></description>
-      <guid>https://t.me/hn_summary/73419</guid>
-      <pubDate>Fri, 09 Feb 2024 03:47:53 GMT</pubDate>
+      <title>询问 HN：您的网络首选堆栈是什么？</title>
+      <link>https://t.me/hn_summary/73440</link>
+      <description><![CDATA[询问 HN：您的网络首选堆栈是什么？ 
+这篇文章的作者正在向黑客新闻社区寻求关于各种类型网站的首选技术堆栈的建议。他们特别提到了经典的商业网站、SaaS（软件即服务）平台、登陆页面和任何其他类型的网站。该帖子表明作者已经离开 Web 开发 10 年，正在寻找 HN 社区的最新建议和见解。]]></description>
+      <guid>https://t.me/hn_summary/73440</guid>
+      <pubDate>Fri, 09 Feb 2024 08:41:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
