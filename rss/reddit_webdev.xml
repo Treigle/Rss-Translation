@@ -4,7 +4,56 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 13 Feb 2024 06:15:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Feb 2024 09:10:46 GMT</lastBuildDate>
+    <item>
+      <title>Epic 游戏商店（CEF 等网络开发）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1app4n3/epic_games_store_cef_so_webdev/</link>
+      <description><![CDATA[Epic Games 商店采用 Chromium 嵌入式框架 (CEF) 构建，因此其网络技术。我的问题是发生了什么事情让它变得这么慢。它慢得不可思议，就像网站如果这么慢就会超时一样。而且服务器流量并不大，而且服务器距离很远。它从来都不是很快，而且从来都不是。在 2022 年的 PC 上冷启动 2 分钟是疯狂的。您认为它可能会在加载之前检查所有本地文件吗？这对于全新安装来说应该不重要。在干净的 SSD 上应该会更好，但事实并非如此。 您认为瓶颈是什么？他们与数据库通信的方式可能是？   由   提交/u/vesko26  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1app4n3/epic_games_store_cef_so_webdev/</guid>
+      <pubDate>Tue, 13 Feb 2024 08:59:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>CSS_BOX。编写 CSS 的更好方法</title>
+      <link>https://www.reddit.com/r/webdev/comments/1apoxku/css_box_a_better_way_to_write_css/</link>
+      <description><![CDATA[    &lt; /a&gt;   由   提交/u/toniyevych  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1apoxku/css_box_a_better_way_to_write_css/</guid>
+      <pubDate>Tue, 13 Feb 2024 08:45:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>开始自由网络开发服务所需的文件</title>
+      <link>https://www.reddit.com/r/webdev/comments/1apokq7/documents_needed_for_starting_out_freelance_web/</link>
+      <description><![CDATA[您好，我作为开发人员工作了一段时间，我希望通过自由网络开发获得第二个收入来源。我正在做一些关于自由职业的研究，需要向潜在客户提供许多不同的文件。希望您对应该制作哪些文件并将其提供给潜在客户提出意见和个人意见。提前致谢！   由   提交/u/Dazzling_Accident_68   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1apokq7/documents_needed_for_starting_out_freelance_web/</guid>
+      <pubDate>Tue, 13 Feb 2024 08:19:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>你会写 Lee Code 吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1apogxt/do_you_even_leet_code/</link>
+      <description><![CDATA[我想知道有多少专业开发人员为 Leet 代码之类的东西烦恼。这种事情是行业的必需品吗？我的意思是，你不需要成为算法之王/女王来击败网站。 那么，你甚至会 Leet Code 吗？   由   提交 /u/Independent_Range171   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1apogxt/do_you_even_leet_code/</guid>
+      <pubDate>Tue, 13 Feb 2024 08:11:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>在前端和后端之间通信错误代码和类型的最佳实践？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1apn9ho/best_practice_for_communicating_error_codes_and/</link>
+      <description><![CDATA[因此，使用我的后端 API (FastAPI)，我一直在抛出 HTTPException，status_code 400，并将详细信息作为一些人类可读的字符串（“太多短时间内请求。稍后再试。”）或类似的内容。但我意识到这并不是让我的前端在向用户显示某些内容方面做出正确反应的好方法，除非我只是在前端显示确切的消息。如果我想返回错误类型、错误代码和描述？像错误代码 400 一样，输入“TOO_MANY_REQUESTS”，然后输入像我之前那样的描述。还是人们不这样做？我知道我可以使用字符串匹配长描述来确定有错误的前端操作，但我知道有一天我会遇到麻烦。  &amp; #32；由   提交 /u/maxiedaniels   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1apn9ho/best_practice_for_communicating_error_codes_and/</guid>
+      <pubDate>Tue, 13 Feb 2024 06:48:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>检查代码对于视障人士的可访问性的最佳方法是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1apn5ho/whats_the_best_way_to_check_accessibility_of_your/</link>
+      <description><![CDATA[该社区需要正文。   由   提交 /u/69420FappistMonk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1apn5ho/whats_the_best_way_to_check_accessibility_of_your/</guid>
+      <pubDate>Tue, 13 Feb 2024 06:41:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>确保用户只能在我的 API 中更新自己的记录的最佳方法是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1apmqq7/whats_the_best_way_to_make_sure_a_user_can_only/</link>
+      <description><![CDATA[大家好， 我正在使用 NestJS 创建一个 API，尽管我不认为这依赖于框架，而且我我正在努力确保用户只能更新他们自己在我的数据库中的记录。使用典型的 REST API 标准，其中 DELETE 端点在 url 中具有要删除的资源的 id，那么仅允许该资源的所有者进行删除的最佳方法是什么？ JWT 有其中用户的 uid，我可以先查询数据库并检查它是否属于该用户，但我觉得这增加了一堆额外的查询。  想法？   由   提交/u/wojo1086  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1apmqq7/whats_the_best_way_to_make_sure_a_user_can_only/</guid>
+      <pubDate>Tue, 13 Feb 2024 06:16:25 GMT</pubDate>
+    </item>
     <item>
       <title>Http 标头中的 Cookie、Set-cookie 和 set-cookie2 有什么区别？</title>
       <link>https://www.reddit.com/r/webdev/comments/1apm0sy/whats_the_dofference_between_cookie_setcookie_and/</link>
@@ -60,55 +109,6 @@
       <description><![CDATA[我是一名后端开发人员，最近开始从事前端开发。我正在使用 Astro 构建一个网站。我选择了一个免费主题并边学习边学习。我觉得我的网站缺乏色彩，也许还有其他一些东西。我可以使用任何资源来帮助我改进网页设计吗？  我看到人们推荐 Coolors.co 和其他资源。   由   提交/u/sanji1212  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1apj0mf/how_to_be_better_at_web_design_my_website_lacks/</guid>
       <pubDate>Tue, 13 Feb 2024 03:00:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>尝试制作我的个人项目一直失败，我应该遵循教程一段时间吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aphw2l/keep_failing_trying_to_make_my_personal_project/</link>
-      <description><![CDATA[我是一个初学者，我用 Angular 创建了这个网站，您可以在其中搜索召回。现在我的目标是添加一个 .Net api，以便用户可以使用 Google 登录，创建一个监视列表，然后当某些内容被召回（如果它在用户监视列表中）时，我们会向他们发送一封电子邮件。好吧，简单的目标，但我发现很难做到这一点，人们说致力于你的个人项目..好吧。每次我用谷歌搜索如何做 x 时，我都会看到大约 20 种不同的方法。你如何编写控制器？有人知道吗？或者 dbContext？关系数据？每个 YouTube 视频都说要做一些不同的事情，并且该文档不适合初学者。我只是觉得很难弄清楚你具体需要什么。你是如何克服这个问题的？人们说不要遵循教程，但现在我开始遵循教程，因为我认为严格的边做边学和谷歌搜索是不可行的。    ;由   提交/u/FordCEO   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aphw2l/keep_failing_trying_to_make_my_personal_project/</guid>
-      <pubDate>Tue, 13 Feb 2024 02:06:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>成为 MERN 开发者后爱上 Laravel</title>
-      <link>https://www.reddit.com/r/webdev/comments/1apht60/loving_laravel_after_being_a_mern_developer/</link>
-      <description><![CDATA[在使用 Node/React 进行 Web 开发多年后，回到 Laraval/Blade 让我意识到以下内容  现代 PHP (v8.1+) 是一种非常好用的语言。与 PHPDocs 和 PHPStan 配合使用，它在类型安全方面几乎可以与 Typescript 相媲美。 我使用 Laravel 的开发速度远远超过使用 NodeJS 的速度。带有组件的刀片/Livewire 完全集成到框架中，无需任何样板代码即可实现后端到前端代码的紧密集成。 不必要的复杂性会扼杀项目。带有刀片组件/Livewire 的 Laravel 最大限度地降低了复杂性，对于大多数 Web 应用程序来说已经足够了。 PHP 工具链也比混乱的 Javascript 工具链简单得多。 托管成本可以大大降低。 NodeJS 应用程序几乎完全托管在昂贵的云基础设施上，初创企业可以通过部署廉价的 VPS/共享托管来节省大量服务器成本（至少在他们的应用程序获得关注之前）  总而言之，PHP / Laravel 仍然是一个可靠/务实的选择，我希望更多的人会在新项目中选择它。与它一起工作确实是一种乐趣。   由   提交 /u/Nervous_Swordfish289   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1apht60/loving_laravel_after_being_a_mern_developer/</guid>
-      <pubDate>Tue, 13 Feb 2024 02:02:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Win 11 上，我可以使用 Edge、Chrome、Firefox 访问网站并生成文本文件，一旦我下载它，Windows 就会将其删除。即使 Windows 安全性已关闭。我 99% 确定它与这个网站有关，也许下载的文件是一个 lisp 程序。这是怎么回事？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1apgyly/on_win_11_i_can_visit_a_website_and_generate_a/</link>
-      <description><![CDATA[我访问 https://emacs.amodernist.com/ 生成初始 emacs 配置文件。此配置文件是纯文本，但其内容是 emacs lisp 程序。 如果单击文件保存，它将有一个建议文件名generate.txt 在 Windows 11 上Pro，使用 Edge、Chrome、Firefox、Brave、Opera 和 Vivaldi，一旦我下载生成的文本，Windows 就会将其删除。  事件查看器中没有看到任何事件，事件查看器中也没有任何内容。应用程序、安全性或系统日志 Windows 安全性不会在其保护历史记录中记录任何内容  我什至检查了 Windows 安全性并关闭了与病毒和应用程序相关的所有内容。威胁防护以及应用程序和应用程序浏览器控制。 无论如何，只要我下载该文件，Windows 就会将其删除。 我重新启动并重试，并且...一旦我下载该文件，Windows 就会删除它。删除它。 我可以从其他网站下载文本文件，但似乎不能从这个网站下载。 除了 Windows Security，我没有运行任何其他病毒防护。&lt; /p&gt; 知道这里发生了什么吗？   由   提交 /u/DenebianSlimeMolds   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1apgyly/on_win_11_i_can_visit_a_website_and_generate_a/</guid>
-      <pubDate>Tue, 13 Feb 2024 01:21:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>希望聘请一名网络开发人员</title>
-      <link>https://www.reddit.com/r/webdev/comments/1apgnzq/looking_to_hire_a_web_developer/</link>
-      <description><![CDATA[希望为特定用例构建一个专注于房地产的网站。 1. 我对网站的初始版本有一些基本功能的想法。 2. 开发人员应该能够轻松地完成前端（包括设计）和后端工作。 3. 开发商应熟悉MLS/IDX集成等房地产技术。 4. 应位于北美（墨西哥可以）。旧金山湾区本地人优先。 5. 请直接与我联系。在 DM 中分享您过去的项目或工作。 编辑：如果您只按小时计费，我不感兴趣。    由   提交/u/Random-Cloud  /u/Random-Cloud  reddit.com/r/webdev/comments/1apgnzq/looking_to_hire_a_web_developer/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1apgnzq/looking_to_hire_a_web_developer/</guid>
-      <pubDate>Tue, 13 Feb 2024 01:08:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>为第三方构建小部件，iframe 与注入 html/css/scripts？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1apgmfi/building_widget_for_thirdparties_iframe_vs_inject/</link>
-      <description><![CDATA[我正在构建一个反馈小部件，其他网站可以将其嵌入到其页面中。在查看其他服务如何解决此问题时，我发现了两种方法： 1) Doorbell 注入所有 CSS、HTML 和需要 JavaScript 才能将小部件运行到您的网站中。 2) Feedback Fish 为您提供一个小脚本以添加到您的网站。然后，此脚本将一个 iframe 注入您的网站，该网站显示一个由反馈托管的 小部件页面Fish inside a popup. 选项 2 似乎是最好的选择，您可以使用任何您想要构建小部件页面的工具（React、Tailwind 等），而不必担心小部件的捆绑包大小，它允许您构建更复杂的功能，而不用担心与主机站点的样式冲突等。它似乎只是提供了更多的整体控制。然而，大多数此类服务似乎都选择第一个选项，并将所需的一切注入到您的网站中。 我缺少什么，选项 2 的缺点是什么？   由   提交 /u/ReactiveNative   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1apgmfi/building_widget_for_thirdparties_iframe_vs_inject/</guid>
-      <pubDate>Tue, 13 Feb 2024 01:05:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>JSDOM 未运行 javascript</title>
-      <link>https://www.reddit.com/r/webdev/comments/1apgit3/jsdom_is_not_running_javascript/</link>
-      <description><![CDATA[我在使用 JSDOM 时遇到了问题。由于某种原因，我的 Jest 单元测试似乎在 JavaScript 加载之前运行。如何确保在测试运行之前加载 JavaScript？ HTML 有一个脚本标签 。 ​ import {fireEvent, getByTestId} 来自“@testing-library/dom”从“路径”导入{目录名}；导入“@testing-library/jest-dom”从“jsdom”导入 jsdom, {JSDOM}从“路径”导入路径从“url”导入{ fileURLToPath }； const __filename = fileURLToPath(import.meta.url); const __dirname = dirname(__filename); const BASE = path.resolve(__dirname, &quot;./src&quot;) let virtualConsole let dom, body描述(&quot;手风琴测试&quot;, function () { beforeEach(async () =&gt; { dom = wait JSDOM.fromFile( path.join(BASE, &#39;/index.html&#39;), { url: `${BASE}`, runScripts: &quot;dangerously&quot;, resources: &quot;usable&quot;, fakeToBeVisual: true, // virtualConsole }) body = dom .window.document.body }) it(&#39;显示默认展开的第一个项目描述&#39;, async function () { const Accordion1 = getByTestId(body, &#39;1&#39;) const description1 = Accordion1.querySelector(&#39;.description&#39;) Expect (description1).toBeVisible() const ids = [&#39;2&#39;, &#39;3&#39;, &#39;4&#39;, &#39;5&#39;] for (const id of ids) { const Accordion = getByTestId(body, id) const description = Accordion.querySelector (&#39;.description&#39;) Expect(description).not.toBeVisible() } }) .....  ​    提交者   /u/False-Owl8404   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1apgit3/jsdom_is_not_running_javascript/</guid>
-      <pubDate>Tue, 13 Feb 2024 01:01:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找一些构建前端的建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1apfvft/looking_for_some_advice_for_building_front_ends/</link>
-      <description><![CDATA[您好，我是一名正在从事 Web 开发的计算机专业学生。我正在开发一个使用express js作为后端的项目，并计划使用react或vue作为前端。这一切都很好，但我不擅长用 html 和 css 设计东西（我做了两件事，但我都不是很满意）。我向我的一个朋友提到了这一点，他们说我应该在 Figma 中设计它，但仔细查看它似乎实际上并没有原生生成 css/hmtl 文件。我看到还有一些其他工具，例如 Framer 和 Webflow，以及 Figma 插件，但我需要一些帮助来帮助我入门。我真的只是想要一些东西，让我能够轻松地重现我脑海中的布局/设计，并能够将 js 函数连接到元素。这是否存在，或者你们只是在文本编辑器中制作令人惊叹的网站😆 谢谢   由   提交 /u/DeepFrozeOof   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1apfvft/looking_for_some_advice_for_building_front_ends/</guid>
-      <pubDate>Tue, 13 Feb 2024 00:31:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
