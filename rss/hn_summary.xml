@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 18 Feb 2024 18:09:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Feb 2024 00:39:30 GMT</lastBuildDate>
     <item>
-      <title>[媒体] GitHub 上的“Settings Bundle”项目是一个 Symfony 包，旨在轻松创建 [...]</title>
-      <link>https://t.me/hn_summary/74834</link>
-      <description><![CDATA[显示 HN：一个 symfony 包，可轻松创建类型安全、用户友好的可配置设置
-GitHub 上的“Settings Bundle”项目是一个 Symfony 捆绑包，旨在轻松创建和管理 Symfony 应用程序中的用户可配置设置。它允许创建类型安全的设置对象，可以通过 Web 前端管理和更改这些对象。与其他类似的捆绑包不同，该项目专注于模块化和类型安全，允许将设置定义为具有元数据属性的类。它提供基于类的设置管理、类型安全访问、简单的 API 使用和各种存储后端等功能。该项目还提供用于更改设置的表单生成和用于调试的分析器集成。它需要 PHP 8.1 或更高版本以及 Symfony 6.4 或更高版本。]]></description>
-      <guid>https://t.me/hn_summary/74834</guid>
-      <pubDate>Sun, 18 Feb 2024 18:09:34 GMT</pubDate>
+      <title>J vs.</title>
+      <link>https://t.me/hn_summary/74879</link>
+      <description><![CDATA[J 与 K 举例 (2005)&lt; br /&gt;
+网页内容通过简单算术、列表操作、列表元素、索引、排序、列表聚合、函数组合和用户定义函数的示例来比较 J 和 K 编程语言。 J 由 JSoftware Inc. 开发，K 则由 Kx Inc. 开发，展示了完成类似任务的不同语法和方法。内容突出了每种语言的独特之处，例如 J 使用括号来改变顺序，K 使用符号进行运算。通过比较，可以深入了解这两种语言的优势和差异，供程序员探索。 （根据 39% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/74879</guid>
+      <pubDate>Mon, 19 Feb 2024 00:39:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]太空核推进是一项利用裂变力量的尖端技术[...]</title>
-      <link>https://t.me/hn_summary/74833</link>
-      <description><![CDATA[太空核推进
-太空核推进是一项尖端技术，利用裂变的力量为载人火星任务和深空探索提供几乎无限的能量密度。美国宇航局正在探索热和电核推进系统，热推进提供高推力和推进剂效率，而电力推进效率更高，但推力较低。 NASA 与能源部设施和研究机构等行业合作伙伴之间的合作正在突破太空探索的界限，并可能在 2030 年代彻底改变人类火星任务。这项技术有可能改变深空探索的游戏规则。]]></description>
-      <guid>https://t.me/hn_summary/74833</guid>
-      <pubDate>Sun, 18 Feb 2024 18:05:30 GMT</pubDate>
+      <title>在本文中，作者探讨了与欺诈相关的规模不经济的概念 [...]</title>
+      <link>https://t.me/hn_summary/74878</link>
+      <description><![CDATA[欺诈、垃圾邮件、支持和审核方面的规模不经济
+在本文中，作者探讨了与在线平台上的欺诈、垃圾邮件、支持和审核相关的规模不经济概念。他们认为，与较大平台相比，较小平台的诈骗、垃圾邮件和欺诈内容发生率往往较低。作者对“只有大公司才能有效处理审核和反垃圾邮件工作”的普遍看法提出了挑战，并列举了小公司在这些领域优于大公司的例子。他们还讨论了支持质量如何随着平台规模的增加而下降，以及用户对内容审核的分歧如何在较大的平台上变得更加普遍。作者批评了规模经济总是让用户受益的观点，并强调了小公司提供更好用户体验的例子。最终，本文对网络世界中越大越好的假设提出了质疑。 （根据故事文本的 4% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/74878</guid>
+      <pubDate>Mon, 19 Feb 2024 00:35:26 GMT</pubDate>
     </item>
     <item>
-      <title>隆重推出 Domino Fit，终极多米诺骨牌拼图游戏！</title>
-      <link>https://t.me/hn_summary/74832</link>
-      <description><![CDATA[显示 HN：Domino Fit – 多米诺平铺拼图&lt; br/&gt;
-隆重推出 Domino Fit，终极多米诺骨牌拼图游戏！通过这款令人上瘾且益智的游戏来挑战自己，测试您的空间推理能力。你能完美地拼合所有多米诺骨牌来完成拼图吗？请访问 dominofit.isotropic.us 进行尝试并查看你能多快解决它。准备好锻炼你的思维并享受 Domino Fit 带来的乐趣吧！]]></description>
-      <guid>https://t.me/hn_summary/74832</guid>
-      <pubDate>Sun, 18 Feb 2024 18:01:26 GMT</pubDate>
+      <title>为什么振幅是复数？</title>
+      <link>https://t.me/hn_summary/74877</link>
+      <description><![CDATA[为什么振幅是复数？ (2018)
+大自然对量子力学的选择让许多人质疑为什么振幅是复数。这篇文章深入研究了量子力学中复数的必要性，探讨了使用实数或四元数的含义。令人惊讶的是，虽然复数是许多量子现象的基础，但实数在大多数量子计算应用中就足够了。这篇文章强调了复数在均匀随机概率分布和量子态局部断层扫描等场景中的优雅和必要性。复数的独特性质可以更精确地确定量子态，展示了它们在量子世界中不可或缺的作用。 （根据 43% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/74877</guid>
+      <pubDate>Mon, 19 Feb 2024 00:20:19 GMT</pubDate>
     </item>
     <item>
-      <title>在 Lapce，我们通过内置功能提供全面的编码体验。</title>
-      <link>https://t.me/hn_summary/74831</link>
-      <description><![CDATA[拉普斯
-在 Lapce，我们通过内置功能提供全面的编码体验。我们使用 Tree-sitter 的代码语法突出显示比传统的基于正则表达式的方法更快、更准确。此外，我们还为代码智能提供内置 LSP 支持，包括代码完成、诊断和代码操作等功能。告别缓慢且过时的工具 - Lapce 拥有高效编码所需的一切。今天就尝试一下，亲自体验一下差异。]]></description>
-      <guid>https://t.me/hn_summary/74831</guid>
-      <pubDate>Sun, 18 Feb 2024 17:57:22 GMT</pubDate>
+      <title>[媒体]美国食品公司的卡车司机在全国范围内举行罢工，扩大了罢工范围，赢得了重大胜利 [...]</title>
+      <link>https://t.me/hn_summary/74876</link>
+      <description><![CDATA[Teamster 食品司机在全国范围内赢得了罢工 
+美国食品公司的卡车司机在全国范围内举行罢工，将纠察队延伸到全国两打以上的工厂，赢得了重大胜利。纠察队的激进策略导致公司运营陷入瘫痪，并迫使公司坐到谈判桌前。保护权利语言的使用使工人能够遵守主要纠察线并扩大冲突范围。这种战略方法，加上协调一致的讨价还价努力，已经为卡车司机带来了回报，带来了合同的重大收益，并为未来的谈判奠定了基础。芝加哥的成功将推动食品服务分销行业持续的组织活动。]]></description>
+      <guid>https://t.me/hn_summary/74876</guid>
+      <pubDate>Mon, 19 Feb 2024 00:16:15 GMT</pubDate>
     </item>
     <item>
-      <title>由于各种原因，Apple 的一些最忠实的客户出人意料地退回了他们的 Vision Pro [...]</title>
-      <link>https://t.me/hn_summary/74830</link>
-      <description><![CDATA[为什么苹果的一些忠实粉丝正在回归他们的视觉专业人士
-由于产品存在各种问题，苹果的一些最忠实的客户出人意料地退回了他们的 Vision Pro。尽管期望很高，但用户还是报告了眼镜的贴合度、舒适度和整体功能方面的问题。这场争议引发了科技爱好者和苹果粉丝关于该公司兑现承诺能力的争论。当客户权衡他们的选择时，苹果将如何解决这些问题并保持其忠实粉丝群的信任还有待观察。]]></description>
-      <guid>https://t.me/hn_summary/74830</guid>
-      <pubDate>Sun, 18 Feb 2024 17:53:19 GMT</pubDate>
+      <title>在 GitHub 上发现一系列精彩的开源游戏以及可用源代码。</title>
+      <link>https://t.me/hn_summary/74875</link>
+      <description><![CDATA[开源游戏
+在 GitHub 上发现一系列精彩的开源游戏以及可用源代码。从基于浏览器的棋盘游戏（如 3D Hartwing Chess Set）到街机经典游戏（如 Asteroids 和 Breakout），每个游戏玩家都能找到适合自己的游戏。深入探索《暗黑破坏神 JavaScript》等 RPG 游戏和《BrowserQuest》等大型多人在线角色扮演游戏，或者通过《Ancient Beast》和《命令与征服》等游戏挑战您的策略技能。该合集凭借 Drunken Viking 和 Genetic Drift 等独特游戏展现了开源游戏开发者的创造力和创新精神。在 Project- 上探索、畅玩开源游戏世界并为之做出贡献Awesome.org。 （根据 29% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/74875</guid>
+      <pubDate>Sun, 18 Feb 2024 23:59:08 GMT</pubDate>
     </item>
     <item>
-      <title>嘿！</title>
-      <link>https://t.me/hn_summary/74829</link>
-      <description><![CDATA[显示 HN：仅供娱乐
-嘿！欢迎来到 randomball.netlify.app，您可以在这里享受使用我们的随机球生成器带来有趣的互动体验。只需单击按钮，即可观看球在屏幕上以令人着迷的显示方式弹跳。这是一种简单而有趣的方式来打发时间，甚至可以缓解一些压力。尝试一下，看看你能让球弹跳多少次才消失。这是一种独特且令人惊讶的在线娱乐方式。所以，来吧，试一试，看看随机球会带你去哪里！]]></description>
-      <guid>https://t.me/hn_summary/74829</guid>
-      <pubDate>Sun, 18 Feb 2024 17:49:16 GMT</pubDate>
+      <title>[媒体] 隆重推出 Synthical，这是一个将黑客新闻社区模型带入世界的平台 [...]</title>
+      <link>https://t.me/hn_summary/74874</link>
+      <description><![CDATA[显示 HN：与 HN 类似，但用于科学&lt; br /&gt;
+隆重推出 Synthical，这是一个将 Hacker News 社区模型带入科学世界的平台。我们的人工智能技术简化了复杂的文章，澄清了科学术语，并协助研究，使用户更容易了解并参与最新的科学发现。加入我们 Synthical.com，探索与人互动的新方式科学内容。]]></description>
+      <guid>https://t.me/hn_summary/74874</guid>
+      <pubDate>Sun, 18 Feb 2024 23:55:04 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]“Trello 卡片计数器”项目是一个 Tampermonkey 脚本，可添加卡片计数 [...]</title>
-      <link>https://t.me/hn_summary/74828</link>
-      <description><![CDATA[显示 HN：Trello 的一个小 Tampermonkey 脚本，用于显示卡片计数列表
-“Trello 卡片计数器”项目是一个 Tampermonkey 脚本，可为 Trello 看板上的列表添加卡片计数。它旨在为用户提供一种快速简便的方法来查看每个列表中的卡片数量，从而更轻松地管理和组织任务。作者提到该脚本与各种浏览器兼容，并提供了从 Greasyfork 下载它的链接。该项目的与众不同之处在于提供了一个简单而具体的解决方案来增强 Trello 用户体验。]]></description>
-      <guid>https://t.me/hn_summary/74828</guid>
-      <pubDate>Sun, 18 Feb 2024 17:45:12 GMT</pubDate>
+      <title>[媒体]联邦贸易委员会已获得针对 Simple Health 的 1.95 亿美元判决 [...]</title>
+      <link>https://t.me/hn_summary/74873</link>
+      <description><![CDATA[FTC 获得 1.95 亿美元的判决并禁止 Simple Health 提供虚假保险
+联邦贸易委员会已对 Simple Health Plans LLC 及其首席执行官做出 1.95 亿美元的判决，指控其通过虚假医疗保健计划欺骗消费者。法院发现，Simple Health 误导人们认为他们购买了全面的健康保险，而实际上他们没有支付医疗费用或无法获得必要的医疗保健。法院已禁止 Simple Health 及相关实体进行电话营销和营销医疗保健产品，并下令清算其资产以退还给消费者。首席合规官 Candida Girouard 也已和解指控，并被禁止销售医疗保健产品。该案例凸显了医疗保健行业消费者保护的重要性。]]></description>
+      <guid>https://t.me/hn_summary/74873</guid>
+      <pubDate>Sun, 18 Feb 2024 23:51:00 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 百页 vs 百页</title>
-      <link>https://t.me/hn_summary/74827</link>
-      <description><![CDATA[一百页与 11 个字
-在这篇发人深省的文章中，作者深入研究了传统语言的低效率以及通过使用抽象和语言模型进行改进的潜力。通过将冗长的应用问题与简洁的数学方程进行比较，作者强调了通过抽象可以实现的清晰度和精确性。作者探讨了语言模型将智力与语言分离的有争议的想法，作者最终表达了对未来的希望，即思想比雄辩的散文更有价值。这个令人惊讶的结论提供了一个强有力的例子，说明如何用短短十一个词有效地传达复杂的情感。]]></description>
-      <guid>https://t.me/hn_summary/74827</guid>
-      <pubDate>Sun, 18 Feb 2024 17:41:09 GMT</pubDate>
+      <title>[媒体]本文讨论了 Nebula（一种网状 VPN）与类似软件的基准测试 [...]</title>
+      <link>https://t.me/hn_summary/74872</link>
+      <description><![CDATA[Nebula 不是最快的网状 VPN，但其他也不是&lt; /a&gt;
+本文讨论了自 2018 年以来网状 VPN Nebula 与类似软件的基准测试。作者强调了客观和公平测试的重要性，详细说明了使用专用硬件和测试主机之间的多个流等指南。比较包括 Nebula、Netmaker、Tailscale 和 ZeroTier，突出了性能差异和状态数据包过滤的重要性。测试重点是单向数据传输，表明 ZeroTier 的单线程特性限制了其与其他产品相比的性能。本文旨在提供持续的性能记录，并欢迎对其他项目进行测试的建议。 （根据故事文本的 52% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/74872</guid>
+      <pubDate>Sun, 18 Feb 2024 23:21:50 GMT</pubDate>
     </item>
     <item>
-      <title>三十年来，robots.txt 文件一直控制着互联网的给予和接受，允许 [...]</title>
-      <link>https://t.me/hn_summary/74826</link>
-      <description><![CDATA[随着人工智能的兴起，网络爬虫突然备受争议
-三十年来，robots.txt 文件一直控制着互联网的给予和接受，允许网站所有者控制谁可以访问其网站。然而，随着人工智能的兴起，公司正在使用网络数据来构建大量训练集，而无需承认网站所有者。这引发了争议，因为许多人认为人工智能是索取而不回报。 Medium、BBC 和《纽约时报》等出版商屏蔽了人工智能爬虫，声称它们正在榨取作家的价值。在强大的网络爬虫和人工智能时代，随着访问和控制之间的平衡发生变化，互联网的迷你宪法正在受到挑战。 （根据 69% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/74826</guid>
-      <pubDate>Sun, 18 Feb 2024 17:36:01 GMT</pubDate>
+      <title>[媒体]几个世纪以来，加利福尼亚州在地图上被错误地描绘为一个岛屿，引发了法西斯 [...]</title>
+      <link>https://t.me/hn_summary/74871</link>
+      <description><![CDATA[数百年来，人们一直认为加利福尼亚是一个岛屿
+几个世纪以来，加利福尼亚州在地图上被错误地描绘成一个岛屿，引发了人们的迷恋和争论。 Glen McLaughlin 收集了 700 多张与该主题相关的地图，展示了这种持久的制图谬误。尽管在地理上与大陆相连，加州作为一个幅员辽阔、多元化的州的独特身份促成了这个神话。这种误解的根源可以追溯到西班牙小说中的一个虚构岛屿，导致西班牙和英国制图师之间长达几个世纪的争论。直到 1747 年，西班牙国王斐迪南六世才正式宣布“加利福尼亚不是一个岛屿”，结束了这个经久不衰的神话。 （根据 98% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/74871</guid>
+      <pubDate>Sun, 18 Feb 2024 22:55:41 GMT</pubDate>
     </item>
     <item>
-      <title>RoR Debugbar 是专为 Ruby on Rails 开发人员设计的强大工具。</title>
-      <link>https://t.me/hn_summary/74825</link>
-      <description><![CDATA[RoR 调试栏
-RoR Debugbar 是专为 Ruby on Rails 开发人员设计的强大工具。通过此调试栏，您可以深入了解应用程序的性能和行为，从而更有效地进行优化和故障排除。对于希望简化调试过程并增强整体开发体验的开发人员来说，该工具是一个游戏规则改变者。查看 debugbar.dev 详细了解此工具如何带来变革您的 Ruby on Rails 开发工作流程。]]></description>
-      <guid>https://t.me/hn_summary/74825</guid>
-      <pubDate>Sun, 18 Feb 2024 17:31:56 GMT</pubDate>
+      <title>[媒体]在这篇文章中，作者反思了 DuckDuckGo 多年来的演变，曲 [...]</title>
+      <link>https://t.me/hn_summary/74870</link>
+      <description><![CDATA[有关 DuckDuckGo 未来的问题
+在这篇文章中，作者回顾了 DuckDuckGo 多年来的演变，质疑其未来的发展方向。虽然 DuckDuckGo 最初以其注重隐私的搜索引擎而闻名，但现已扩展到浏览器、应用程序和其他工具，导致人们对其主要产品感到困惑。作者指出搜索引擎最近缺乏改进，并推测了该公司多元化的动机。这篇文章对 DuckDuckGo 的潜在战略提出了疑问，包括与其他浏览器或搜索引擎竞争，或者可能完全放弃搜索。最后，作者强调了 DuckDuckGo 的核心产品是隐私，并想知道该公司将如何继续优先考虑其产品并通过其货币化。]]></description>
+      <guid>https://t.me/hn_summary/74870</guid>
+      <pubDate>Sun, 18 Feb 2024 22:34:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
