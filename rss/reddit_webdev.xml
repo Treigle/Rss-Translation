@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 20 Feb 2024 15:10:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2024 21:10:05 GMT</lastBuildDate>
     <item>
-      <title>如何知道我必须使用的结构/技术/框架来完成一个项目？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1avjtbu/how_to_know_the_structuretechnologiesframeworks_i/</link>
-      <description><![CDATA[这是我已经问自己一段时间的问题，但我从未找到答案。也许答案是“到处走走看看”。但也许你们中的一个人知道一些资源，基本上我可以在其中找到指南或知识。我是一名前端开发人员，有 2 年经验，其中有 6 个月的 React + Vite 经验。最近，我有一个想法开始一个业余项目——一个日历，我可以在其中上传我的日历和一些其他功能。然而，我对从哪里开始的想法为零。我在这里有太多问题要问，所以我会问一个一般性的问题：我可以从哪里以及如何开始学习？特别是关于后端方面，因为我对它的了解几乎为零。  我希望你能理解我，并感谢你的帮助， ——一个害怕的初级开发人员  &amp; #32；由   提交 /u/9InTheMorning   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1avjtbu/how_to_know_the_structuretechnologiesframeworks_i/</guid>
-      <pubDate>Tue, 20 Feb 2024 15:06:50 GMT</pubDate>
+      <title>清理提交历史记录？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1avssw7/clean_up_commit_history/</link>
+      <description><![CDATA[正如标题所示，我部署了一个我一直在致力于的开源项目（到目前为止，我是唯一一个致力于该项目的人） ），在生产过程中，我遇到了 React minified 错误 #31。我无法在本地测试它，因为它只发生在生产中。现在我担心当有人查看提交历史记录时（我在 3 小时内进行了 40 多次提交以试图修复 bug），他们会认为我疯了。在对代码进行小调整后，我多次推送相同的更改，最终我什至没有解决该错误。我正在推动一个单独的分支，但正在合并所有内容。  一旦找到错误的解决方案，清理提交历史记录的最佳方法是什么？我什至不介意整个项目只有一次初始提交。   由   提交/u/nuclearxrd   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1avssw7/clean_up_commit_history/</guid>
+      <pubDate>Tue, 20 Feb 2024 21:03:35 GMT</pubDate>
     </item>
     <item>
-      <title>从事网络开发的人应该如何开始学习有关现代人工智能/法学硕士的相关知识？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1avjle8/how_should_someone_who_does_web_development_start/</link>
-      <description><![CDATA[基本上，如果招聘启事开始要求“对人工智能有基本的熟悉程度”，我不会感到惊讶。我也只是对一般感兴趣。我基本上做正常的前端和后端工作，并想知道从哪里开始学习使用 AI/LLM 进行开发   由   提交 /u/nadimify   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1avjle8/how_should_someone_who_does_web_development_start/</guid>
-      <pubDate>Tue, 20 Feb 2024 14:57:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>希望学习 API 集成的前端开发人员 - 需要课程推荐！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aviyly/frontend_developer_looking_to_learn_api/</link>
-      <description><![CDATA[大家好， 我是一名纯粹的前端开发人员，在 HTML、CSS 和 JavaScript 方面拥有扎实的基础。到目前为止，我的工作主要集中在网络开发的视觉和交互方面。然而，由于我正在从事的项目的需求不断变化，我发现自己需要扩展自己的技能，包括进行 API 调用和处理从这些 API 获取的数据。 尽管我对 JS 很满意对于前端任务，我对将 API 集成到 Web 应用程序的概念还比较陌生。因此，我正在向此社区寻求一些有关课程、教程或任何可以帮助我开始进行 API 集成的资源的指导和建议。 如果您知道任何适合初学者的材料，涵盖了使用 JavaScript 进行 API 调用、理解响应数据以及在前端上下文中有效使用这些数据的基础知识，我将非常感谢您的建议。我的目标是学习如何将外部数据源无缝集成到我的项目中，以创建更加动态和交互式的 Web 体验。 预先感谢您可以分享的任何建议或资源。当我踏上新的学习旅程时，非常感谢您的帮助！   由   提交 /u/ImprovementJolly3711   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aviyly/frontend_developer_looking_to_learn_api/</guid>
-      <pubDate>Tue, 20 Feb 2024 14:29:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使边界框适合图像？我想添加边框半径。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1avisyd/how_can_i_fit_bounding_box_to_image_i_want_to_add/</link>
-      <description><![CDATA[       由   提交 /u/VLRbaXUjymAqyvaeLqUo   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1avisyd/how_can_i_fit_bounding_box_to_image_i_want_to_add/</guid>
-      <pubDate>Tue, 20 Feb 2024 14:22:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过 WebRTC 发送视频文件的所有方法</title>
-      <link>https://www.reddit.com/r/webdev/comments/1avinia/all_the_ways_to_send_a_video_file_over_webrtc/</link>
-      <description><![CDATA[   /u/feross  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1avinia/all_the_ways_to_send_a_video_file_over_webrtc/</guid>
-      <pubDate>Tue, 20 Feb 2024 14:15:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>除了唤醒锁之外，还有哪些其他方法可以在移动设备上保持屏幕处于活动状态？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1avikhb/other_than_wakelock_what_other_methods_are_there/</link>
-      <description><![CDATA[在嵌入式系统上开发非安全 Web 应用程序。寻找让移动设备上的屏幕保持活动状态的方法。完全控制服务器和网页。使用 HTML、CSS、vanilla javascript。 稍后可能会实现 HTTPS，但现在需要使用 HTTP，因此唤醒锁不可用。    由   提交/u/SandHK  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1avikhb/other_than_wakelock_what_other_methods_are_there/</guid>
-      <pubDate>Tue, 20 Feb 2024 14:12:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Safari (iOS) 在新选项卡而不是同一选项卡中打开下载的文件</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aviilx/safari_ios_open_downloaded_file_in_a_new_tab/</link>
-      <description><![CDATA[您好， 我创建了一个应用程序，用户可以在其中填写文档，然后单击下载按钮。在其他浏览器（例如 iOS 上的 Chrome）中，当用户单击“下载”时，它会在后台下载，并且用户停留在同一页面上。 但是，使用 Safari，文件会在窗口中打开。这是一个问题，因为单击下载按钮后，我们希望提示用户在我们这里创建一个帐户，以简化将来的流程。 是否可以：  a) 让 Safari (iOS) 在后台下载文件 b) 在新选项卡中打开文件，用户可以根据需要导航到 这会在同一窗口中强制打开考虑到用户要求下载文件而不是立即打开，这很奇怪。   由   提交 /u/productrocket   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aviilx/safari_ios_open_downloaded_file_in_a_new_tab/</guid>
-      <pubDate>Tue, 20 Feb 2024 14:09:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>为开发人员提供的开发人员课程？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1avi0et/developer_courses_for_developers/</link>
-      <description><![CDATA[Udemy 课程等非常适合学习新学科。但我发现它们通常针对的是刚接触该环境的人。 我在哪里可以找到面向开发人员的开发人员课程，这样我就不必一直苦苦学习基础知识，甚至可能了解一些更先进的流程、技巧和行业标准？   由   提交 /u/Independent_Range171   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1avi0et/developer_courses_for_developers/</guid>
-      <pubDate>Tue, 20 Feb 2024 13:46:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>VSCode 中的自定义行/区域突出显示，可能吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1avhkbs/custom_lineareahighlighting_in_vscode_possible/</link>
-      <description><![CDATA[我真的很想找到一个可以执行此操作的扩展，但我找不到它： 我通常使用书签 - 用于保存文件中位置的扩展。我更希望在 VSC 中找到一种方法来更改文件中某些行的背景颜色。 这就是我希望它工作的方式：  &lt; li&gt;选择一些线条 右键单击选择 单击“突出显示线条” 然后这些线条的背景为浅蓝色，或者我设置的任何内容.  书签扩展目前还不错，但在快速滚动文件时很难发现它们。而且我不想处理折叠。 突出显示应该保存在工作区中，并且可以清除。 不，书签扩展没有这个不幸的是，这个功能。   由   提交 /u/nio_rad   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1avhkbs/custom_lineareahighlighting_in_vscode_possible/</guid>
-      <pubDate>Tue, 20 Feb 2024 13:24:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 Tailwind CSS 和 Astrojs 创建动画图像卡</title>
-      <link>https://www.reddit.com/r/webdev/comments/1avhip2/how_to_create_animated_image_cards_with_tailwind/</link>
+      <title>为什么顶部居中且正确，而其余部分却不然？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1avsmwo/why_is_the_top_part_centered_and_correct_but_the/</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1avhip2/how_to_create_animated_image_cards_with_tailwind/</guid>
-      <pubDate>Tue, 20 Feb 2024 13:22:44 GMT</pubDate>
+      <guid>https://www.reddit.com/r/webdev/comments/1avsmwo/why_is_the_top_part_centered_and_correct_but_the/</guid>
+      <pubDate>Tue, 20 Feb 2024 20:57:19 GMT</pubDate>
     </item>
     <item>
-      <title>第一个全栈网站！请不是促销</title>
-      <link>https://www.reddit.com/r/webdev/comments/1avhat2/first_full_stack_website_not_a_promo_please/</link>
-      <description><![CDATA[开发者们大家好，我主要是一个后台人员，但我已经使用 nextjs 和 tailwind 创建了一个网站。这是我的第一个网站。没有设计 UI，没有计划，只是不断前进，最终达到了这一点。这看起来像 SAAS，但只是认为这是一个大项目，我只是想获取一些关于我的设计的评论。我使用了大量的字体、颜色，请告诉我你的第一印象是什么。注意：不是促销：batchnepal.com。    由   提交/u/WeedLover_1  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1avhat2/first_full_stack_website_not_a_promo_please/</guid>
-      <pubDate>Tue, 20 Feb 2024 13:11:31 GMT</pubDate>
+      <title>断断续续地发展了20年。没学过任何框架。如果我想保持相关性并留住客户，我该有多糟糕？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1avritd/been_developing_on_and_off_for_20_years_never/</link>
+      <description><![CDATA[我的框架经验是 jquery，谢天谢地，我不再使用它。 &lt;!-- SC_ON - -&gt;  由   提交/u/G0dsp33d888  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1avritd/been_developing_on_and_off_for_20_years_never/</guid>
+      <pubDate>Tue, 20 Feb 2024 20:13:57 GMT</pubDate>
     </item>
     <item>
-      <title>小型库或精简代码，用于使用 Pill 输入 html</title>
-      <link>https://www.reddit.com/r/webdev/comments/1avh33b/small_library_or_minified_code_to_have_html_input/</link>
-      <description><![CDATA[您好，我想向我的网站添加以下功能： https://select2.org/selections#limiting-the-number-of-selections 您可以看到可选择项目的列表，当您选择它时，它会变成一个“药丸”。由于我不知道如何调用这个功能，所以很难google。 为什么不选择select2？我不想要 select2 的全部功能，坦率地说，我不想为此加载 jQuery。因此，如果有人知道一个简单的脚本，只允许这个（或更多，但数量仍然有限，以保持较小的大小），这会很有帮助。  &amp;# 32；由   提交/u/cryinginjs   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1avh33b/small_library_or_minified_code_to_have_html_input/</guid>
-      <pubDate>Tue, 20 Feb 2024 13:00:44 GMT</pubDate>
+      <title>在哪里寻找电子邮件模板编码的现代最佳实践？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1avr4ju/where_to_look_for_modern_bestpractices_for_coding/</link>
+      <description><![CDATA[特别是从正在接受设计的开发人员的角度来看。我已经有一分钟没有完成电子邮件模板了，并且想更新一下当前有关交付内容的最佳实践。谷歌搜索主要是找到谈论内容的东西。   由   提交 /u/Red_Icnivad   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1avr4ju/where_to_look_for_modern_bestpractices_for_coding/</guid>
+      <pubDate>Tue, 20 Feb 2024 19:58:21 GMT</pubDate>
     </item>
     <item>
-      <title>哪个团队应该拥有公共网站、营销或技术？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1avgzmy/which_team_should_own_the_public_website/</link>
-      <description><![CDATA[背景 我们是一个拥有 B2B SaaS 产品的 20 人团队。我们的客户是大型公司（1,000 到 20,000 名员工）。  - 公共网站是使用流行的静态站点生成器构建的。 - 托管在我们的服务器上。 - 在与 SaaS 应用程序相同的域上运行。  - 看起来像一个相当标准的 B2B SaaS 网站（如果您在 google 上搜索图库，我们的网站看起来与您找到的类似）。 - 使用 翻译为多个区域设置通过 Github Actions 实现自动化流程。 - 进行一些优化工作以使其快速加载（CDN、预加载逻辑等）。 - 安全性很重要（对我们和我们的客户而言）。  - 营销人员可以访问源代码并进行更新（大多数页面都是 markdown，因此很容易更改。但是，他们没有第三方托管 CMS 的灵活性，需要询问技术人员） （设计师或前端开发人员）对网站进行较大的更改。 问题 营销的角度：此过程速度很慢，可以对文本/内容进行较小的更改，但无法轻松地向网站添加全新的部分。这会减慢进度并阻碍修补。 技术人员的观点：他们不想放弃控制权的几个原因：(a) 安全问题，因为它与应用程序位于同一域中，(b) 很难使其与现有的翻译自动化管道一起工作，(c) 营销团队中没有开发人员，很多事情仍然需要开发，并且在技术团队希望帮助分析、集成等方面提供帮助的情况下，他们不喜欢在第三方 CMS 中工作（因为这些通常有限制）。 问题 如果您处于类似领域（拥有关心安全性的大客户的 B2B SaaS），您是如何构建这个领域的？您现在拥有的优点/缺点？ 技术想要在静态站点生成器选择和构建管道方面拥有发言权是不合理的吗？ 对此的其他想法和想法重要吗？ 想法 我一直在考虑的一些想法： - 分配一名开发人员专门提供帮助营销团队（50% 的时间） - 使用静态网站构建器，但使用连接到源代码的无头 CMS，以便更轻松地更新。 - 放弃并使用第三方CMS（但我担心从长远来看，这会导致更多的工作，因为它们的技术更加严格，并且会带来安全问题）。 半相关&lt; /p&gt; 我尝试浏览其他网站，例如 stripe.com、front.com、gusto.com、twilio .com 和 mapbox.com（仅举几个例子）。我的猜测是他们没有运行第三方 CMS，但我可能是错的。   由   提交 /u/a16m   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1avgzmy/which_team_should_own_the_public_website/</guid>
-      <pubDate>Tue, 20 Feb 2024 12:55:40 GMT</pubDate>
+      <title>RDBMS 有哪些好的资源？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1avqowd/what_are_good_resources_for_rdbms/</link>
+      <description><![CDATA[寻找有关理论和管理的好信息   由   提交/u/IdeaExpective3073  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1avqowd/what_are_good_resources_for_rdbms/</guid>
+      <pubDate>Tue, 20 Feb 2024 19:40:51 GMT</pubDate>
     </item>
     <item>
-      <title>不断改变前端动态对象创建的数据模型契约</title>
-      <link>https://www.reddit.com/r/webdev/comments/1avgyhe/constantly_changing_data_model_contract_for/</link>
-      <description><![CDATA[你好，我是后端团队的一员。 我们有一个用 React 和 React 编写的巨大平台。 Nodejs（在前面）。该平台的功能就像一种软件集市——每个项目都有特定于该软件的不同属性和行为。 因此，数据模型必然会发生很大变化...我们尝试按共同属性对一些项目进行分组开始，但这会导致严格的数据模型并丢失一些重要参数。所有的对象都是在前端手动开发的。 我一直在思考如何让这些对象的创建在前端更加动态和容易，我们可以给他们发送一个更全面的数据模型合约，并看看我们是否可以对每个字段预期的组件类型（下拉列表、文本字段、其他等）进行归因...但对我来说，就前端和前端之间的维护和耦合代码而言，这些似乎是一个坏主意返回.... 您通常会如何解决这些问题？   由   提交 /u/Cute_Arachnidx   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1avgyhe/constantly_changing_data_model_contract_for/</guid>
-      <pubDate>Tue, 20 Feb 2024 12:53:55 GMT</pubDate>
+      <title>利用 Instagram API 创建定制提要是否可行？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1avq7wo/is_it_feasible_to_utilize_the_instagram_api_for/</link>
+      <description><![CDATA[嘿， 最近 Instagram 上的各种内容让我感到有点不知所措。虽然内容具有相关性，但内容非常多样化，每个视频都与下一个视频完全不同。 我很想拥有自己的网站，在其中我可以连续观看类似类型的视频，满足符合我的具体兴趣。例如，如果我喜欢语言学习，我想连续观看语言学习视频。 我正在考虑使用 Instagram API 来实现这一目标，但我不确定是否可行或者如何去做。任何关于简化 Instagram feed 以根据我的喜好显示更一致的内容的建议或见解将不胜感激。 谢谢。  &amp; #32；由   提交/u/Tasty_Reason_688   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1avq7wo/is_it_feasible_to_utilize_the_instagram_api_for/</guid>
+      <pubDate>Tue, 20 Feb 2024 19:22:08 GMT</pubDate>
     </item>
     <item>
-      <title>您可以为应用内聊天推荐什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1avgwmf/what_can_you_recommend_for_inapp_chat/</link>
-      <description><![CDATA[嗨，一家初创公司已经在一家咨询公司烧了很多钱，我受雇来发布他们的产品。该策略是使用现成的应用程序构建块，并在内部开发集成和前端。初始发布后阶段的要求之一是进行应用内聊天。这家初创公司向公共部门出售教育内容，并希望拥有一个基本的社交网络。 因此，我正在评估现有的工具。目前我仔细研究了 getstream.io 和 weavy.com。我喜欢 weavy 具有易于使用的构建块，但我认为 getstream 的 React 组件更加灵活。我们现在不使用React，但是仅针对应用程序组件构建一个小型应用程序会相对容易。 你使用什么？你能推荐一项服务吗？如果有替代方案，开源也很棒。   由   提交/u/sebastianstehle  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1avgwmf/what_can_you_recommend_for_inapp_chat/</guid>
-      <pubDate>Tue, 20 Feb 2024 12:51:04 GMT</pubDate>
+      <title>你还保留着哪些旧习惯？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1avq7kl/what_old_habits_are_you_still_hanging_on_to/</link>
+      <description><![CDATA[我仍然使用 element.getAttribute(&#39;data-value&#39;) 而不是 element.dataset.value，尽管没有理由仍然这样做哈哈。   由   提交 /u/blakealex   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1avq7kl/what_old_habits_are_you_still_hanging_on_to/</guid>
+      <pubDate>Tue, 20 Feb 2024 19:21:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google 登录 API 最佳实践？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1avpdyd/google_sign_in_api_best_practice/</link>
+      <description><![CDATA[我们有一种产品正在销售给多个不同的客户，该网站已进行更改以适应客户的品牌。不过，所有版本都将使用 Google 登录。 您认为我们应该为每个销售的版本制作单独的 Google 登录 API 密钥吗？我正在与我的同事讨论这个问题，但我们没有找到任何官方信息以某种方式明确回答这个问题。 我的想法是肯定的，因为通过这种方式，许多客户端都可以获得自己的 API 密钥。这可能具有安全性优势，并且可以使一个客户端免受另一个客户端的负载，并且可以让我们分别查看每个版本的 API 使用情况，这对于评估我们的客户对使用我们产品的喜好程度等很有用。   由   提交 /u/Kfct   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1avpdyd/google_sign_in_api_best_practice/</guid>
+      <pubDate>Tue, 20 Feb 2024 18:48:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Squarespace 还是 Webflow？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1avpbmn/squarespace_or_webflow/</link>
+      <description><![CDATA[我正在构建一个媒体网站，其中所有内容都将以专栏形式呈现，因此本质上是一种高端博客格式。重点将放在图像和内容上，一开始我不需要太多的设计能力，但最终可能会随着使用基础的增长以及更多的资金和创造力空间而需要。我还希望以后能够将其变成基于订阅的业务，并且人们能够评论和分享帖子非常重要。我还希望收视率相当大，因此平台必须能够同时处理大量登录和浏览。  我聘请了一家品牌代理/开发商，他们说 webflow 是比 squarespace 更好的解决方案。对我来说，问题是 Squarespace 似乎更容易使用 - 即分析、电子邮件活动、跟踪用户是如此直接且易于阅读。 Webflow 是否也具有这些功能？它是否像 Squarespace 一样简单易用？我发现每次登录 webflow 时我都会不知所措，而 squarespace 却没有这种感觉。  如有任何反馈，我们将不胜感激。    由   提交 /u/AdelMarla   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1avpbmn/squarespace_or_webflow/</guid>
+      <pubDate>Tue, 20 Feb 2024 18:45:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>前 Google Domains 用户，您搬到哪里了？为什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1avokxz/exgoogle_domains_users_where_did_you_move_to_and/</link>
+      <description><![CDATA[我有几个域名需要在今年晚些时候续订，我想在 squarespace 完成过渡之前解决它们的问题。  那么你搬到哪里去了，为什么？   由   提交 /u/M0ney0nMyMind   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1avokxz/exgoogle_domains_users_where_did_you_move_to_and/</guid>
+      <pubDate>Tue, 20 Feb 2024 18:16:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>PWA 死了吗？还有其他选择吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1avojxf/are_pwa_dead_any_alternatives/</link>
+      <description><![CDATA[我与客户一起使用 PWA，我将所有表单从该网站提交到 PWA，他们可以在其中访问提交内容，PWA 是一个基本的 CRUD 网络应用程序。  随着苹果在欧盟取消 PWA 支持，我担心同样的事情也会在美国发生，我的客户会感到很困惑  很好奇是否有人知道商店中有任何可以使用 PWA 的应用程序替代我的 PWA。   由   提交 /u/Wvrcus   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1avojxf/are_pwa_dead_any_alternatives/</guid>
+      <pubDate>Tue, 20 Feb 2024 18:15:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助！在移动 Chrome 浏览器中查看 React 应用程序时，用户界面出现抖动</title>
+      <link>https://www.reddit.com/r/webdev/comments/1avnwiw/help_jittery_user_interface_when_react_app_is/</link>
+      <description><![CDATA[所以我有这个 React 应用程序，采用 tailwind css 样式；在桌面上一切都运行顺利，但当我从移动设备上查看该应用程序时，在页面上向下滚动时感觉很紧张；我还有一个用于移动浏览器视图的响应式导航菜单；但从左到右的过渡是滞后的；就好像显示帧速率下降了。当我在移动浏览器中以“桌面站点”模式查看该应用程序时，它可以顺利运行。我不明白为什么会发生这种情况，请帮忙。   由   提交/u/GanjaGlobal  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1avnwiw/help_jittery_user_interface_when_react_app_is/</guid>
+      <pubDate>Tue, 20 Feb 2024 17:50:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>那么，关于React。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1avn5lp/so_about_react/</link>
+      <description><![CDATA[我喜欢 React。 Hook 感觉就像是 JavaScript 的狂野西部和 MVC 等严格模式之间的一个很好的中间地带。函数组件（当我们编写时）是声明性的和表达性的。有大量的库和支持可供使用。 我的问题是，您在使用 React 时遇到了哪些问题？我听过一些不同的即兴抱怨，但我很想听到更直接的抱怨   由   提交 /u/tajetaje   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1avn5lp/so_about_react/</guid>
+      <pubDate>Tue, 20 Feb 2024 17:21:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>反应JS</title>
+      <link>https://www.reddit.com/r/webdev/comments/1avn08l/react_js/</link>
+      <description><![CDATA[嘿！我是一名二年级理工科学生，这是我最后一个学期。我已经学会了React.js，但我没有写任何笔记或保存任何东西，现在我很后悔，因为我已经忘记了一切。我学习了几个星期，我想如果我有一个复习视频我就能记住它们。但我在 YouTube 上找到的都是待办事项列表之类的项目，很无聊。我需要一个用 React 制作的项目，该项目实际上很重要并且可以修改。请在评论中给我推荐一些 React.js 的项目制作视频。    由   提交/u/Altruistic_Gap2719   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1avn08l/react_js/</guid>
+      <pubDate>Tue, 20 Feb 2024 17:15:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>处理联系表格</title>
+      <link>https://www.reddit.com/r/webdev/comments/1avmt5e/handle_contact_forms/</link>
+      <description><![CDATA[有自由职业者愿意提供一些关于他们如何处理客户网站上的联系表单的见解吗？您使用过并推荐什么好的服务吗？计划制作静态网站，但不确定联系表单数据发送到服务器后如何处理。    由   提交 /u/fl3ggm   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1avmt5e/handle_contact_forms/</guid>
+      <pubDate>Tue, 20 Feb 2024 17:08:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
