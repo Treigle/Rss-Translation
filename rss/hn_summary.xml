@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 19 Feb 2024 21:09:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2024 05:40:53 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 基于闪存的 SSD 彻底改变了存储，吞吐量和 [...]</title>
-      <link>https://t.me/hn_summary/75021</link>
-      <description><![CDATA[SSD 变得越来越快，除了在云端&lt; br/&gt;
-基于闪存的 SSD 彻底改变了存储，吞吐量和容量迅速提高。顶级数据中心 SSD 现在可达到高达 13 GB/s 的读取吞吐量和 270 万以上的随机读取 IOPS。然而，AWS 等主要云供应商并没有跟上步伐，自 2017 年以来，每个 SSD 的性能停滞在 2 GB/s。造成这种差异的原因尚不清楚，各种理论包括故意限制速度和破坏现有存储服务。尽管如此，笔者还是希望未来的云实例能够配备10GB/s SSD，挑战现状，推动云存储技术的创新。]]></description>
-      <guid>https://t.me/hn_summary/75021</guid>
-      <pubDate>Mon, 19 Feb 2024 21:09:36 GMT</pubDate>
+      <title>[媒体]这个 GitHub 项目是软件工程师的学习资源集合，aimi [...]</title>
+      <link>https://t.me/hn_summary/75079</link>
+      <description><![CDATA[为好奇的软件工程师提供的学习资源集合&lt; br/&gt;
+这个GitHub项目是软件工程师学习资源的集合，旨在通过提供鼓舞人心且永恒的经典来让开发人员更加熟练。它包括有关算法和数据结构、API 设计、职业发展、设计模式、调试、机器学习等各种主题的必读书籍、文章和资源。作者强调了原则、贡献和资源选择的重要性。该项目的独特之处在于精心策划的资源列表，这些资源给了作者个人启发，注重质量而不是数量。欢迎通过拉取请求做出贡献，以保持列表简洁和有价值。 （根据故事文本的 13% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/75079</guid>
+      <pubDate>Tue, 20 Feb 2024 05:40:53 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]由于加州降雨过多，死亡谷国家公园现在提供[...]</title>
-      <link>https://t.me/hn_summary/75020</link>
-      <description><![CDATA[死亡谷国家公园现在提供难得的机会 - 皮划艇
-由于加利福尼亚州降雨过多，死亡谷国家公园现在为北美海拔最低的恶水盆地提供了难得的皮划艇机会。这个临时湖，非正式地称为曼利湖，长约 6 英里，宽 3 英里，深仅 1 英尺。虽然这个浅湖可能只适合划皮划艇几周，但公园管理员相信它会在整个四月创造出美丽的倒影。我们鼓励游客遵守公园规则，以尽量减少对脆弱的沙漠环境的影响。此外，公园还将举办一年一度的死亡谷黑暗天空节，以供观赏史诗般的星空。]]></description>
-      <guid>https://t.me/hn_summary/75020</guid>
-      <pubDate>Mon, 19 Feb 2024 21:05:30 GMT</pubDate>
+      <title>[媒体] 在 www.thewoodshedd.com 上的“Picking Unfair Fights (2021)”中，作者分享了个人 [...]</title>
+      <link>https://t.me/hn_summary/75078</link>
+      <description><![CDATA[挑选不公平的战斗（2021）
+在 www.thewoodshedd.com&lt; 上的“挑选不公平的战斗 (2021)”中/a&gt;，作者分享了足球和 UFC 博彩的个人经验，强调了比赛选择对于取得成功的重要性。作者回顾了在橄榄球赛中与琼斯兄弟的对决，以及后来在 UFC 中赢得对乔恩·“骨头”·琼斯的赌注，展示了选择有优势的战斗的力量。作者强调无论是投资还是做生意都要发挥自己的优势，并鼓励读者发现自己不公平的优势。这个故事提醒我们要仔细选择生活中的游戏，以最大限度地提高成功的机会。]]></description>
+      <guid>https://t.me/hn_summary/75078</guid>
+      <pubDate>Tue, 20 Feb 2024 04:34:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]美国联邦贸易委员会 (FTC) 禁止使用人工智能工具冒充个人，理由是此类行为有所增加 [...]</title>
-      <link>https://t.me/hn_summary/75019</link>
-      <description><![CDATA[FTC 禁止 AI 冒充个人
-美国联邦贸易委员会 (FTC) 禁止使用人工智能工具冒充个人，理由是有关冒充欺诈的投诉有所增加。该机构正在寻求打击网络犯罪分子使用 ChatGPT 等公共生成人工智能工具创建的深度伪造品。除了禁止通过冒充故意伤害消费者的人工智能平台外，联邦贸易委员会还敲定了一项规则，允许他们直接向滥用人工智能欺骗真实实体的骗子寻求金钱救济。此举是为了回应公众反馈，旨在加强联邦贸易委员会解决人工智能诈骗的能力。该裁决以 3 比 0 获得通过，并将在《联邦公报》上公布。]]></description>
-      <guid>https://t.me/hn_summary/75019</guid>
-      <pubDate>Mon, 19 Feb 2024 21:01:25 GMT</pubDate>
+      <title>在“专利荒谬”中，Kode Vicious 建议软件工程师不要阅读专利，高度 [...]</title>
+      <link>https://t.me/hn_summary/75077</link>
+      <description><![CDATA[专利荒谬
+在《专利荒谬》一书中，Kode Vicious 建议软件工程师不要阅读专利，并强调了过于宽泛和写得不好的专利所造成的陷阱。作者认为，软件专利往往毫无意义，声称想法显而易见，缺乏新颖性。主要的结论是，软件专利最好留给公司律师，因为故意侵犯它们可能会导致三倍的损失。这篇文章揭示了被大公司武器化的软件专利的价值以及挑战它们所涉及的法律复杂性。总的来说，这篇文章对涉及软件专利的陷阱提供了批判性的视角。]]></description>
+      <guid>https://t.me/hn_summary/75077</guid>
+      <pubDate>Tue, 20 Feb 2024 04:27:24 GMT</pubDate>
     </item>
     <item>
-      <title>星际迷航：博格 – 重制版</title>
-      <link>https://t.me/hn_summary/75018</link>
-      <description><![CDATA[星际迷航：博格 – 重制版
-“星际迷航：博格 - 重制版”是一个粉丝项目，旨在使用 AI 在浏览器中以高清质量重新创建 1996 年 FMV 游戏。玩家可以通过 LCARS 界面控制游戏，做出选择并使用 Q 的三录仪扫描物品。该项目获得了意想不到的关注，导致一些用户出现服务器负载问题。游戏默认为高视频质量，因此使用移动数据的玩家可能需要调整设置以避免使用过多的数据。独特地使用人工智能来重新制作游戏镜头，使该项目与其他粉丝翻拍作品区分开来。]]></description>
-      <guid>https://t.me/hn_summary/75018</guid>
-      <pubDate>Mon, 19 Feb 2024 20:57:22 GMT</pubDate>
+      <title>[媒体]在佛罗里达州，一所小学出现了一系列麻疹病例，该小学的感染率较低 [...]</title>
+      <link>https://t.me/hn_summary/75076</link>
+      <description><![CDATA[佛罗里达州学校爆发麻疹，11% 的孩子未接种疫苗
+在佛罗里达州，一所疫苗接种率较低的小学出现了一系列麻疹病例，引发了卫生专家的担忧。海牛湾小学 (Manatee Bay Elementary) 的学生完全免疫接种率仅为 89.31%，远低于 95% 的目标。麻疹具有高度传染性，可造成严重后果，每 1000 名儿童中就有 3 人死于感染。随着全国疫苗接种率下降，此次疫情凸显了麻疹日益严重的威胁。随着病例不断增加，卫生官员敦促公众确保充分接种疫苗，以防止疫情进一步爆发。]]></description>
+      <guid>https://t.me/hn_summary/75076</guid>
+      <pubDate>Tue, 20 Feb 2024 04:17:17 GMT</pubDate>
     </item>
     <item>
-      <title>在 fffuel.co，我们提供各种免费的 SVG 生成器和网页设计工具来帮助您创建 [...]</title>
-      <link>https://t.me/hn_summary/75017</link>
-      <description><![CDATA[免费 SVG 生成器、颜色工具和网页设计工具 
-在 fffuel.co，我们提供各种免费的 SVG 生成器和网页设计工具可帮助您为您的项目创建独特且具有视觉吸引力的图形。我们的 SVG 制作工具可让您轻松自定义背景、图案、渐变、纹理、形状和斑点，以与您的设计无缝集成。 SVG 具有许多优点，例如在不损失质量的情况下可扩展、易于编辑以及与光栅图像相比文件大小较小。需要将 SVG 转换为 PNG 吗？我们已经为您提供了转换工具。如果您想使用 SVG 作为背景图案，我们的 base64 编码器可以轻松将它们添加到您的 CSS 中。探索我们的颜色工具（例如颜色选择器和调色板生成器）来增强您的设计。]]></description>
-      <guid>https://t.me/hn_summary/75017</guid>
-      <pubDate>Mon, 19 Feb 2024 20:52:53 GMT</pubDate>
+      <title>[媒体]平价连接计划 (ACP) 面临资金危机，补贴 [...]</title>
+      <link>https://t.me/hn_summary/75075</link>
+      <description><![CDATA[平价连接计划即将结束 
+平价互联互通计划 (ACP) 正面临资金危机，补贴将于 2024 年 4 月下旬或 5 月用完。尽管得到了两党的大力支持，国会延长资助的努力仍面临着一场艰苦的战斗。最近的一项研究表明，ACP 参与者担心如果该计划结束，他们会失去工作、获得医疗保健以及学业落后。延长 ACP 不仅对单个家庭至关重要，而且对整个经济也至关重要，可以为政府在医疗保健和失业计划方面节省开支。未能为 ACP 提供资金可能会导致犯罪增加和经济衰退，因此国会必须迅速采取行动。]]></description>
+      <guid>https://t.me/hn_summary/75075</guid>
+      <pubDate>Tue, 20 Feb 2024 03:59:07 GMT</pubDate>
     </item>
     <item>
-      <title>在这篇文章中，我介绍了新的 Python 运算符，包括有争议的“海象运算符”[...]</title>
-      <link>https://t.me/hn_summary/75016</link>
-      <description><![CDATA[Peter Norvig：新的 Python 运算符
-在这篇文章中，我介绍了新的 Python 运算符，包括有争议的“海象运算符”:=，以及名称奇特的运算符，如“滑雪帽”、“哑铃”、“拍打猫”和“飞碟”运算符。这些运算符自 2023 年 4 月 1 日起可用，为 Python 添加了独特的功能，例如清空变量、强调序列，甚至实现部分阶乘运算符。虽然这些运算符可能违反 PEP 8 准则，但它们为编码增添了乐趣。查看我的旧帖子了解更多运算符，包括 C++ 中 ++ 和 &lt;&lt; 运算符的实现。 PS：这篇文章中的所有内容都是真实的，除了“这已经足够好了，对吧？”这个问题。]]></description>
-      <guid>https://t.me/hn_summary/75016</guid>
-      <pubDate>Mon, 19 Feb 2024 20:48:49 GMT</pubDate>
+      <title>[媒体]Reddit 因在我之前向一家未透露姓名的人工智能公司出售训练数据而成为头条新闻 [...]</title>
+      <link>https://t.me/hn_summary/75074</link>
+      <description><![CDATA[Reddit 在 IPO 前向未具名的人工智能公司出售训练数据
+Reddit 因在一家未具名的人工智能公司预计 IPO 之前向其出售训练数据而成为头条新闻。据报道，每年 6000 万美元的交易可能会增加 Reddit IPO 的价值，估计价值 50 亿美元。这一举措出台之际，科技公司开始签署协议，授权培训人工智能模型的内容，这与之前的做法有所不同。虽然交易细节尚未披露，但 Reddit 上发布的内容有可能用于训练下一代人工智能模型。尽管存在一些争议，Reddit 的收入一直在稳步增长，到 2023 年将达到 8 亿美元以上。]]></description>
+      <guid>https://t.me/hn_summary/75074</guid>
+      <pubDate>Tue, 20 Feb 2024 03:50:59 GMT</pubDate>
     </item>
     <item>
-      <title>高通对主线 Linux 内核的硬件支持有了显着改善，新的 [...]</title>
-      <link>https://t.me/hn_summary/75015</link>
-      <description><![CDATA[Linux 内核对高通硬件的支持日益良好 
-高通对主线Linux内核的硬件支持显着改善，新的Snapdragon 8 Gen 3设备得到了良好的支持和快速集成。由 Snapdragon 提供支持的 ThinkPad X13s 由于其上游支持而受到 Linux 开发人员的欢迎。来自 Linaro 的 Neil Armstrong 强调了 FOSDEM 2024 的进展，展示了高通公开宣布后短短两个月内取得的进展。虽然 Linux 6.8 上的 Snapdragon 8 Gen 3 拥有令人印象深刻的功能，但仍有需要改进的地方。联想ThinkPad X13s还因其出色的Linux兼容性而受到好评。请查看 Armstrong 的演示，了解有关 Qualcomm 对 Linux 的硬件支持的更多详细信息。]]></description>
-      <guid>https://t.me/hn_summary/75015</guid>
-      <pubDate>Mon, 19 Feb 2024 20:44:44 GMT</pubDate>
+      <title>[媒体] 在这篇题为“大规模无声数据损坏”的论文中，作者深入研究了 [...]</title>
+      <link>https://t.me/hn_summary/75073</link>
+      <description><![CDATA[大规模无声数据损坏（2021 年）
+在这篇题为“大规模静默数据损坏”的论文中，作者深入研究了静默数据损坏 (SDC) 对大规模基础设施服务的影响。这些错误如果未被 CPU 错误报告机制捕获，可能会导致数据丢失并需要大量调试。作者讨论了硅制造中导致 SDC 的常见缺陷类型，并提供了数据中心应用中的真实示例。他们概述了用于识别 CPU 内错误指令的调试流程，并提供缓解措施以降低 SDC 风险。令人惊讶的是，他们检测到了数百个具有跨代 SDC 的 CPU，凸显了此问题的系统性。]]></description>
+      <guid>https://t.me/hn_summary/75073</guid>
+      <pubDate>Tue, 20 Feb 2024 03:32:50 GMT</pubDate>
     </item>
     <item>
-      <title>希望找到延迟最低的云提供商？</title>
-      <link>https://t.me/hn_summary/75014</link>
-      <description><![CDATA[Cloudflare Workers 上的 Hono 比替代方案快 3 倍&lt; br/&gt;
-希望找到延迟最低的云提供商？ www.openstatus.dev 上的这篇文章比较了 Cloudflare Workers，使用 OpenStatus 进行飞行、Koyeb、铁路和渲染。 Cloudflare Workers 的速度比其他产品快 3 倍，可提供全局性能，且不会出现冷启动问题。 Fly.io 和 Koyeb 非常适合多区域部署，而铁路和渲染在特定区域部署方面表现出色。 Cloudflare Workers 在全球范围内高效部署应用程序，使其成为低延迟的首选。过去两周的数据显示，Cloudflare Workers 在正常运行时间和延迟指标方面处于领先地位，使他们成为云提供商领域的有力竞争者。 （根据 96% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/75014</guid>
-      <pubDate>Mon, 19 Feb 2024 20:40:40 GMT</pubDate>
+      <title>[媒体]为什么 Prettier 坚如磐石？</title>
+      <link>https://t.me/hn_summary/75072</link>
+      <description><![CDATA[为什么 Prettier 坚如磐石？
+Prettier 以其坚如磐石的质量而闻名，其 HTML、CSS、JS 和 TS 的核心格式化程序从未破坏过代码。尽管对默认值或速度问题可能存在分歧，但 Prettier 的功能仍然很可靠。 Philip Wadler 的一篇论文给出了对其质量的令人惊讶的答案，原作者发现并使用该论文有效地实现了 Prettier。与 Haskell 的这种联系展示了该语言如何继续丰富项目，甚至是那些与其没有直接关系的项目。 Prettier 的可靠性和研究基础使其在 JavaScript 库领域中脱颖而出。]]></description>
+      <guid>https://t.me/hn_summary/75072</guid>
+      <pubDate>Tue, 20 Feb 2024 02:45:31 GMT</pubDate>
     </item>
     <item>
-      <title>询问 HN：开源项目是否应该允许禁用遥测？</title>
-      <link>https://t.me/hn_summary/75013</link>
-      <description><![CDATA[询问 HN：开源项目是否应该允许禁用遥测？
-DiggerHQ 的团队面临着一个困境 - 开源项目是否应该允许用户禁用遥测？最近的一个问题和 PR 引发了社区内的争论。虽然与作者共享使用数据对于早期项目可能有益，但一些用户重视他们的隐私并希望选择退出。该团队在保持使用情况可见性和尊重用户隐私之间左右为难。这是开源公司的常见问题，但找到双方都满意的平衡点是关键。有没有可以达成的折衷办法？]]></description>
-      <guid>https://t.me/hn_summary/75013</guid>
-      <pubDate>Mon, 19 Feb 2024 20:25:34 GMT</pubDate>
+      <title>[媒体]SpaceX最近发射了一枚猎鹰9号火箭，运载着六颗军用卫星，其设计目的是 [...]</title>
+      <link>https://t.me/hn_summary/75071</link>
+      <description><![CDATA[SpaceX 发射了旨在跟踪高超音速导弹的军用卫星&lt; br/&gt;
+SpaceX 最近发射了一枚猎鹰 9 号火箭，运载着六颗旨在跟踪高超音速导弹的军用卫星。这些卫星是新一代航天器的一部分，旨在探测来自中国、俄罗斯、伊朗和朝鲜等国家的新兴导弹威胁。太空发展局（SDA）一直在发射原型卫星，以在近地轨道上创建一个星座，称为“扩散作战空间架构”（PWSA），以跟踪和中继有关导弹飞行路径的数据。 SDA 的方法利用商用技术，具有成本效益和弹性。此次成功发射，标志着美军导弹防御能力提升迈出重要一步。]]></description>
+      <guid>https://t.me/hn_summary/75071</guid>
+      <pubDate>Tue, 20 Feb 2024 02:44:26 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：您多久重新启动一次计算机？</title>
-      <link>https://t.me/hn_summary/75012</link>
-      <description><![CDATA[询问 HN：您多久重新启动一次计算机？
-作者反思了计算机重新启动的演变，从过去定期重新启动的必要性到目前认为性能不需要重新启动的信念。尽管有专家的建议，作者还是发现他们的计算机在重新启动后运行速度更快，CPU 使用率更低，可用 RAM 更大。作者向社区提出了这个问题，询问其他人多久重新启动一次计算机。令人惊讶的是，即使拥有现代 M2 MBA，作者仍然发现重新启动计算机以提高性能是有价值的。]]></description>
-      <guid>https://t.me/hn_summary/75012</guid>
-      <pubDate>Mon, 19 Feb 2024 20:21:31 GMT</pubDate>
+      <title>[媒体]以太网是一种通用且广泛使用的技术，只需要两个差异对（f [...]</title>
+      <link>https://t.me/hn_summary/75070</link>
+      <description><![CDATA[以太网：基础知识
+以太网是一种通用且广泛使用的技术，只需要两个差分对（四根线）即可建立 100Mbit 链路。它快速、简单，并且受到许多微控制器和 SoC 的支持。虽然大多数人都熟悉面向消费者的以太网，但有些工业和汽车标准挑战了常见的假设。以太网的世界非常广阔，有各种速度和电缆类型。了解以太网基础知识（例如布线和连接器）对于使用网络技术的任何人都至关重要。此外，了解交叉电缆和对引脚映射可以为了解以太网连接的复杂性提供有价值的见解。 （根据 87% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/75070</guid>
+      <pubDate>Tue, 20 Feb 2024 02:30:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
