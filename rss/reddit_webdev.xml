@@ -4,7 +4,14 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 21 Feb 2024 00:43:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Feb 2024 03:11:11 GMT</lastBuildDate>
+    <item>
+      <title>任何人都可以添加 WordPress 日历？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aw0plw/wordpress_calendar_anyone_can_add_to/</link>
+      <description><![CDATA[我想在我的博客 (wordpress) 上放置一个日历，任何人都可以向其中添加活动 我有日历插件ins 但这些似乎并没有达到我想要的效果或    由   提交/u/jaej1  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aw0plw/wordpress_calendar_anyone_can_add_to/</guid>
+      <pubDate>Wed, 21 Feb 2024 02:36:39 GMT</pubDate>
+    </item>
     <item>
       <title>无法加载响应数据：请求内容已从检查器缓存中逐出</title>
       <link>https://www.reddit.com/r/webdev/comments/1avxe6h/failed_to_load_response_data_request_content_was/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我使用 Google 地图已经有一段时间了，但我仍然希望有人能回答一个基本问题？ 如果我希望向某人提供我所在位置的链接；从它们恰好被地理定位的地方开始。这可能吗？苹果地图同上。   由   提交 /u/myuser01   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1avf9zo/google_apple_maps_directions_link_from_users/</guid>
       <pubDate>Tue, 20 Feb 2024 11:16:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Next.js 应用程序中实现服务器驱动和配置驱动的 UI？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1avdyya/implementing_serverdriven_and_configurationdriven/</link>
-      <description><![CDATA[我目前正在开发 Next.js 应用程序，并且有兴趣探索如何实现服务器驱动和配置驱动的 UI 架构。据我了解，Next.js 内置了对服务器端渲染的支持，可以在服务器上渲染组件。我很想知道开发人员如何使用这些功能来创建由服务器驱动或以集中方式配置的动态 UI。 对于服务器驱动的 UI，我正在寻找策略和最佳方案有关如何管理服务器上的状态和数据获取，以及如何有效地将这些信息传递给客户端进行渲染的实践。此外，我有兴趣了解如何使用这种方法处理实时更新和个性化。 对于配置驱动的 UI，我想了解如何定义和管理无需更新即可更新的 UI 配置。需要更改代码。这包括如何构造配置数据、如何将其应用到 UI 组件以及如何处理配置更新。 任何人都可以分享他们在实施时发现的经验、挑战和解决方案吗Next.js 中的这些 UI 架构？任何见解、示例或资源将不胜感激。   由   提交 /u/Visible-Sun6772    reddit.com/r/webdev/comments/1avdyya/implementing_serverdriven_and_configurationdriven/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1avdyya/implementing_serverdriven_and_configurationdriven/</guid>
-      <pubDate>Tue, 20 Feb 2024 09:50:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
