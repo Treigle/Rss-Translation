@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 22 Feb 2024 00:42:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Feb 2024 03:11:52 GMT</lastBuildDate>
+    <item>
+      <title>为什么F.lux如此复杂？这让我发疯。</title>
+      <link>https://www.reddit.com/r/software/comments/1awvn8n/why_is_flux_so_complicated_it_is_driving_me_insane/</link>
+      <description><![CDATA[现在是凌晨 3.55，我必须获得该死的地质学硕士学位才能以某种方式计算瓦特和到赤道的距离。我想做的就是让我的屏幕少一点闪烁，我必须接受一个该死的量子理论测试才能做到这一点，但我仍然无法修复它。  f.lux，你是我绝对讨厌但却无法停止使用的应用程序的缩影。有人知道我到底该怎么办吗？耶稣基督是设计缺陷的缩影。   由   提交/u/fjolo123  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1awvn8n/why_is_flux_so_complicated_it_is_driving_me_insane/</guid>
+      <pubDate>Thu, 22 Feb 2024 02:57:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>提高触摸板最大速度（鼠标指针移动速度）</title>
+      <link>https://www.reddit.com/r/software/comments/1awtedy/increasing_the_maximum_touchpad_speed_mouse/</link>
+      <description><![CDATA[我搜索了整个互联网 我搜索了整个 reddit 我在超级用户中搜索了 &gt; 但是我找不到提高触摸板速度的程序或技巧（笔记本电脑触摸板的鼠标指针移动速度）。我在Windows设置和笔记本电脑触摸板程序中最大化了触摸板速度，但它是对我来说仍然太低。 感谢任何帮助，谢谢   由   提交/u/Xtruth369  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1awtedy/increasing_the_maximum_touchpad_speed_mouse/</guid>
+      <pubDate>Thu, 22 Feb 2024 01:12:46 GMT</pubDate>
+    </item>
     <item>
       <title>寻找具有特定功能的流程/对象模型软件</title>
       <link>https://www.reddit.com/r/software/comments/1awr3jh/looking_for_process_flowobject_model_software/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[如果我需要做的只是剪切视频并渲染高达 4k 的 1080p 素材（多音轨支持也很好），那么最快的视频编辑器是什么，但不需要）？我不需要任何其他功能，我的目标是最快使用/渲染。我将使用这个软件来渲染我的速度游戏。   由   提交 /u/Sizzyl   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1awe2nk/fastest_video_editor_for_cutting_video/</guid>
       <pubDate>Wed, 21 Feb 2024 14:59:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>刻录数据光盘的最佳免费 poweriso 替代品？</title>
-      <link>https://www.reddit.com/r/software/comments/1awb4qy/best_free_poweriso_alternative_for_burning_data/</link>
-      <description><![CDATA[所以我的众多备份之一是光学媒体（DVD、蓝光），我最近购买了华硕 BD-16D1X-U 外置蓝光刻录机，但我使用了 PowerISO已经使用了很多年，拒绝用这个驱动器刻录任何东西，在准备媒体阶段后它就失败了，但 IMGBURN 工作得很好，所以我正在寻找具有类似用户界面的 poweriso 替代品，imgburn 工作得很好，但我不喜欢它的 UI对文件和文件夹进行排序，因此如果有人知道类似于 poweriso 的良好替代方案，请告诉我   由   提交 /u/lucky_peic   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1awb4qy/best_free_poweriso_alternative_for_burning_data/</guid>
-      <pubDate>Wed, 21 Feb 2024 12:42:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>您更喜欢 FreeOffice、LibreOffice 和 Google Docs？ （在 Windows 11 上）</title>
-      <link>https://www.reddit.com/r/software/comments/1aw8u94/your_preference_between_freeoffice_libreoffice/</link>
-      <description><![CDATA[这可能是一个常见问题解答，因此我很抱歉再次麻烦地提出它。 FreeOffice、LibreOffice 还是 GoogleDocs？ &gt; 我必须更换家庭成员的笔记本电脑，并且不想购买 Micro$oft Office，因为这需要 Microsoft 帐户，几乎需要 One Drive，并且会显着增加成本。 （他们目前运行的 Office 版本足够旧，不需要帐户或 MS 云存储，但愿意尝试其他方法） TIA    由   提交 /u/notyourusualbot   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1aw8u94/your_preference_between_freeoffice_libreoffice/</guid>
-      <pubDate>Wed, 21 Feb 2024 10:25:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
