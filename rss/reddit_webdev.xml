@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 25 Feb 2024 06:12:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Feb 2024 09:10:10 GMT</lastBuildDate>
+    <item>
+      <title>2024 年及以后 Opera 仍然是主要浏览器吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aziatr/is_opera_still_a_major_browser_in_2024_and_onwards/</link>
+      <description><![CDATA[Opera 是否应该再被视为与 Chrome、Safari 和 Firefox 一样的主要浏览器？在桌面和移动设备上都可以吗？   由   提交 /u/Zaza_Zazadze   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aziatr/is_opera_still_a_major_browser_in_2024_and_onwards/</guid>
+      <pubDate>Sun, 25 Feb 2024 07:41:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>将 Vercel 项目移交给客户的建议方法是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1azh46o/whats_the_suggested_way_to_hand_off_a_vercel/</link>
+      <description><![CDATA[我正在开展一个志愿者项目，我希望客户拥有代码和部署的最终所有权。我目前正在通过我的 GitLab 帐户部署到 Vercel。如果我想实际将其交给客户，我是否必须为客户创建一个 GitHub 帐户并将其连接到新的 Vercel 帐户，还是有更简单的方法？ &lt; !-- SC_ON --&gt;  由   提交/u/freew1ll_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1azh46o/whats_the_suggested_way_to_hand_off_a_vercel/</guid>
+      <pubDate>Sun, 25 Feb 2024 06:26:31 GMT</pubDate>
+    </item>
     <item>
       <title>评价我的投资组合网站</title>
       <link>https://www.reddit.com/r/webdev/comments/1azgud5/rate_my_portfolio_site/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[   /u/lindogamaton  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1azbchg/download_postman_collection_should_i_replace/</guid>
       <pubDate>Sun, 25 Feb 2024 01:21:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>针对注销用户的每会话分析建议比谷歌分析更详细？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1azb32w/recs_for_persession_analytics_for_logged_out/</link>
-      <description><![CDATA[大家好，想知道您对显示注销用户的每会话分析的服务有何建议，例如引用 URL 是什么、位置、设备，IP地址，如果他们之前访问过等等。 对我登录的用户使用mixpanel，但他们建议不要记录注销用户的操作，并且我设置了谷歌分析，但似乎只提供非常广泛的数据，例如我每天的访问次数。我目前没有将 Google Analytics 与登录用户关联起来（这看起来确实很复杂），而且 Google 似乎不想让这些数据的使用变得容易。 我们正在开展促销活动不同的城市，并且使用不同的查询字符串来分段数据通常并不总是可行（人们只是给出我们的整个网站，而不是我们发送的链接）。一直在考虑为热图设置 hotjar，但不认为它具有这种注销分析功能。你怎么处理这个问题？还有其他服务可以做得更好吗？谢谢。   由   提交 /u/gyrftw   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1azb32w/recs_for_persession_analytics_for_logged_out/</guid>
-      <pubDate>Sun, 25 Feb 2024 01:09:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>想要制作一个简单的网站，对这个过程完全陌生。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1azaapc/wanting_to_make_a_simple_website_completely_new/</link>
-      <description><![CDATA[我想为社交媒体上每半月一次的独立作者活动创建一个新网站。 这也没什么复杂，只是列出参与者（提供指向他们的页面/电子邮件的链接），一些漂亮的图片来展示他们的书籍，列出相关信息，并展示我们的促销合作伙伴。 我从未在我的生活，我对最便宜/最简单的方法有点迷失。我考虑过雇人帮我做这件事，但由于设计简单，我不确定它是否值这个钱。 帮助？ &lt;!-- SC_ON - -&gt;  由   提交/u/archblade7777   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1azaapc/wanting_to_make_a_simple_website_completely_new/</guid>
-      <pubDate>Sun, 25 Feb 2024 00:33:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
