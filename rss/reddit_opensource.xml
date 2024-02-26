@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 26 Feb 2024 18:12:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Feb 2024 21:12:09 GMT</lastBuildDate>
+    <item>
+      <title>需要人们微调模型</title>
+      <link>https://www.reddit.com/r/opensource/comments/1b0scwr/need_folks_to_finetune_a_model/</link>
+      <description><![CDATA[   大家好，我们最近一直在致力于视觉演说综合项目（视觉叙事：从图像中衍生上下文） ). 附上 GitHub 存储库！您可以观看自述文件中的演示。 我们需要聪明的人们更好地训练我们的 ML 模型，它是来自 flicker8K 数据集的 TQDM、CNN、LSTM。 &lt; p&gt;P.S：我对 ML 一无所知，这个模型是我的朋友提供的。 有兴趣的人请私信我...我将使用 ipynb、数据集等所有资源创建一个新的存储库以及其他相关的东西！我们可以一起努力！   由   提交 /u/Dev-Daddy   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1b0scwr/need_folks_to_finetune_a_model/</guid>
+      <pubDate>Mon, 26 Feb 2024 20:50:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>对海猴有什么看法？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1b0q321/thoughts_on_seamonkey/</link>
+      <description><![CDATA[欢迎大家 你们觉得 SeaMonkey 套件怎么样？对于上下文，我从未使用过任何开源软件，并且我一直在考虑尝试该领域的一些东西 我找到了一个关于上述套件的维基百科页面，读起来非常有趣 &gt; 想听听你的意见   由   提交 /u/Paassaat   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1b0q321/thoughts_on_seamonkey/</guid>
+      <pubDate>Mon, 26 Feb 2024 19:21:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源招聘会</title>
+      <link>https://www.reddit.com/r/opensource/comments/1b0owch/opensource_jobfair/</link>
+      <description><![CDATA[你好。 我是一名 18 年级计算机科学一年级学生。下周我将去参加一个招聘会，主要是开发自由开源软件的公司。我希望尝试在那里找到一份工作 - 尽管我知道我的机会很低，因为我没有工作经验。 7年来我几乎每天都在编程，主要是 JavaScript 和打字稿。我还非常精通 Rust、C、Go、PHP、Java 和 python。然而我并没有很多公共项目，我最引人注目的一个可能是一个用 Rust 编写的解释器。我也没有任何开源贡献。 我想知道你们是否有任何建议可以让我仍然能够将我卖给这些公司，这样我就可以在那里找到一份工作并学习如何将我的技能应用到现实世界中。 谢谢   由   提交 /u/Vigintillionn   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1b0owch/opensource_jobfair/</guid>
+      <pubDate>Mon, 26 Feb 2024 18:34:42 GMT</pubDate>
+    </item>
     <item>
       <title>如何管理开源项目的多个开发环境？</title>
       <link>https://www.reddit.com/r/opensource/comments/1b0henw/how_do_you_manage_multiple_dev_environments_for/</link>
@@ -43,7 +64,7 @@
     <item>
       <title>我制作了一个像 Urban Dictionary 这样的众包网站，但针对的是开发人员条款！</title>
       <link>https://www.reddit.com/r/opensource/comments/1b01zr8/i_made_a_crowdsourced_website_like_urban/</link>
-      <description><![CDATA[嘿朋友们！ 👋 我是一名大学生，拥有构建软件的诀窍。 我注意到的一件事是，Google 并不总是能让您轻松找到正确的定义。寻找，特别是在这个 SEO 稀释的互联网中的利基开发者术语。 作为一个解决方案，我刚刚构建了 DevTerms — 一个开源、众包的词典网站，开发人员可以在其中查找技术术语、编程术语等！想想城市词典，但对于开发人员来说！ 非常感谢所有反馈！ :) 如果您也想查看源代码，请在此处获取： https: //github.com/aelew/devterms   由   提交 /u/MajesticWeb2250   [链接] [评论]]]></description>
+      <description><![CDATA[嘿朋友们！ 👋 我是一名大学生，拥有构建软件的诀窍。 我注意到的一件事是，Google 并不总是能让您轻松找到正确的定义。寻找，特别是在这个 SEO 稀释的互联网中的利基开发者术语。 作为一个解决方案，我刚刚构建了 DevTerms — 一个开源、众包的词典网站，开发人员可以在其中查找技术术语、编程术语等！想想城市词典，但对于开发人员来说！ 非常感谢所有反馈！ :) 如果您也想查看源代码，请点击此处： https: //github.com/aelew/devterms   由   提交/u/MajesticWeb2250   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b01zr8/i_made_a_crowdsourced_website_like_urban/</guid>
       <pubDate>Sun, 25 Feb 2024 23:07:40 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[ 由   提交 /u/LiberatedTester   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1azhsxs/looking_for_a_ui_library_which_can_build_good/</guid>
       <pubDate>Sun, 25 Feb 2024 07:09:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>教育科技项目需要开源贡献者</title>
-      <link>https://www.reddit.com/r/opensource/comments/1aza14u/need_opensource_contributors_for_edtech_project/</link>
-      <description><![CDATA[我正在为我正在设计的教育科技产品寻找开源贡献。 Flutter 移动开发人员尤其欢迎，因为该产品主要是移动的   由   提交/u/approaching77  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1aza14u/need_opensource_contributors_for_edtech_project/</guid>
-      <pubDate>Sun, 25 Feb 2024 00:21:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源社交 VR 平台 Overte 已获得 NLnet 资助</title>
-      <link>https://www.reddit.com/r/opensource/comments/1az562r/overte_an_open_source_social_vr_platform_has/</link>
-      <description><![CDATA[ 由   提交/u/dale_glass  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1az562r/overte_an_open_source_social_vr_platform_has/</guid>
-      <pubDate>Sat, 24 Feb 2024 20:57:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>PDF 阅读器应用程序（例如 MS Edge） - 从您离开的地方继续</title>
-      <link>https://www.reddit.com/r/opensource/comments/1az54oc/pdf_reader_app_like_ms_edge_pick_up_where_you_left/</link>
-      <description><![CDATA[您知道是否有一款开源 PDF 阅读器应用程序具有像 Microsoft Edge 一样的“从上次离开的地方继续”功能？始终在您离开的位置打开特定的 PDF，非常方便   由   提交/u/Appressive_Ad_5042   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1az54oc/pdf_reader_app_like_ms_edge_pick_up_where_you_left/</guid>
-      <pubDate>Sat, 24 Feb 2024 20:56:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
