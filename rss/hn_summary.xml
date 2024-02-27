@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 27 Feb 2024 06:02:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Feb 2024 12:17:18 GMT</lastBuildDate>
     <item>
-      <title>[媒体]前海豹突击队队员、作家大卫·戈金斯 (David Goggins) 对亚马逊提起诉讼，指控 [...]</title>
-      <link>https://t.me/hn_summary/76359</link>
-      <description><![CDATA[作家、前海豹突击队员大卫·戈金斯因盗版书籍起诉亚马逊
-前海豹突击队队员、作家大卫·戈金斯对亚马逊提起诉讼，指控该公司允许销售他自行出版的书籍的盗版副本。尽管多次要求停止假货销售，亚马逊据称仍继续从中获利。戈金斯声称这些假书损害了他的声誉，甚至迫使他在一次活动中签署了 125 本盗版书。戈金斯在 Instagram 上引起人们对这一问题的关注后，亚马逊限制了对授权卖家的销售。该诉讼寻求经济损失和销毁未经授权的副本。亚马逊尚未对这些指控做出回应。]]></description>
-      <guid>https://t.me/hn_summary/76359</guid>
-      <pubDate>Tue, 27 Feb 2024 06:02:08 GMT</pubDate>
+      <title>[媒体] 68 岁的加州男子保罗·埃德蒙兹 (Paul Edmonds) 因即将成为头条新闻 [...]</title>
+      <link>https://t.me/hn_summary/76389</link>
+      <description><![CDATA[加州 68 岁男子被诊断出患有艾滋病毒和血癌，两者都治愈了
+68 岁的加州男子保罗·埃德蒙兹 (Paul Edmonds) 因艾滋病毒和血癌即将被治愈而成为头条新闻。埃德蒙兹先生接受了来自具有罕见的抗艾滋病毒基因突变的捐赠者的干细胞移植后，没有表现出任何一种疾病的迹象。他是全球仅有的五位通过干细胞移植实现艾滋病毒缓解的人之一。 《新英格兰医学杂志》中描述的这一开创性病例为血癌个性化治疗和治愈艾滋病毒的潜力带来了希望。加州希望之城诊所的医疗团队正在继续研究创造天然抵抗艾滋病毒的干细胞。]]></description>
+      <guid>https://t.me/hn_summary/76389</guid>
+      <pubDate>Tue, 27 Feb 2024 12:17:18 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Tableau 死了吗？</title>
-      <link>https://t.me/hn_summary/76358</link>
-      <description><![CDATA[Tableau 已死了吗？
-在“Tableau 死了吗？”一文中在 MergeYourData.com 上，作者讨论了 Tableau 的当前状态，突出积极和消极两方面。尽管 Tableau 周围的势头和社区可能已经消失，但该公司的收入增长仍然稳健，尤其是自从与 Salesforce 挂钩以来。作者反思了自 Salesforce 收购以来发生的变化，并指出了它所引发的复杂情绪。随着数据可视化领域的竞争日益激烈，尤其是来自微软 Power BI 的竞争，Tableau 的未来充满不确定性。尽管面临这些挑战，Tableau 预计仍将是企业市场的主要参与者，尽管与前几年相比，其作用更为低调。]]></description>
-      <guid>https://t.me/hn_summary/76358</guid>
-      <pubDate>Tue, 27 Feb 2024 05:49:00 GMT</pubDate>
+      <title>斯德哥尔摩大学科学家最近的一项研究发现，全世界的雨水都是不安全的[...]</title>
+      <link>https://t.me/hn_summary/76388</link>
+      <description><![CDATA[由于化学物质的存在，地球上任何地方的雨水都无法安全饮用（2022 )
+斯德哥尔摩大学科学家最近的一项研究发现，由于 PFAS 有毒化学物质含量很高，全世界的雨水都无法安全饮用。这些“永远的化学物质”分解缓慢，并污染了整个环境，包括水和空气。研究表明，即使在南极洲和青藏高原等偏远地区，雨水中的 PFAS 含量也超过了饮用水标准。虽然接触 PFAS 会导致各种健康问题，包括发育迟缓和癌症风险增加，但这些化学物质现在如此普遍，以至于它们永远不会从地球上消失。尽管如此，该研究的主要作者建议我们必须学会忍受这种污染。]]></description>
+      <guid>https://t.me/hn_summary/76388</guid>
+      <pubDate>Tue, 27 Feb 2024 12:12:11 GMT</pubDate>
     </item>
     <item>
-      <title>在此 Web 内容中，作者探讨了在 GNU Smalltalk 中实现 FizzBu​​zz。</title>
-      <link>https://t.me/hn_summary/76357</link>
-      <description><![CDATA[GNU Smalltalk 中的 FizzBu​​zz
-在此 Web 内容中，作者探讨了在 GNU Smalltalk 中实现 FizzBu​​zz。他们讨论了使用 Interval 对象进行迭代的独特方法，这种方法一开始可能感觉间接，但与其他语言中的生成器语法有相似之处。作者还指出，虽然 Smalltalk 看起来很冗长，但它实际上用字母替换了符号，以创建更易读的代码。使用 Smalltalk 的非常规结构，而不是遵循 Algol 或 C 等传统语言，是一个值得欣赏的功能。提供的代码片段演示了 FizzBu​​zz 在 Smalltalk 中的实现。]]></description>
-      <guid>https://t.me/hn_summary/76357</guid>
-      <pubDate>Tue, 27 Feb 2024 05:21:47 GMT</pubDate>
+      <title>[媒体]Promoted.ai 是一家 Y Combinator W21 初创公司，目前正在寻找 Flink 专家加入 [...]</title>
+      <link>https://t.me/hn_summary/76387</link>
+      <description><![CDATA[Promoted.ai (YC W21) 正在招聘 – Flink 专家
+Promoted.ai 是一家 Y Combinator W21 初创公司，目前正在寻找Flink Expert 加入他们的团队。该公司专门优化 Airbnb 等在线市场，通过分类和推广最佳房源来增加收入。 Promoted 的与众不同之处在于，他们专注于构建第一方无处不在的广告网络，由来自 Facebook 和 Google 的经验丰富的工程师团队领导。凭借良好的成功记录，这个机会提供了研究尖端技术并在数字广告领域产生重大影响的机会。立即申请成为这个创新团队的一员。]]></description>
+      <guid>https://t.me/hn_summary/76387</guid>
+      <pubDate>Tue, 27 Feb 2024 12:01:04 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]亿万富翁马克·罗文 (Marc Rowan) 的投资公司阿波罗全球管理公司 (Apollo Global Management) 警告称，人工智能 [...]</title>
-      <link>https://t.me/hn_summary/76356</link>
-      <description><![CDATA[Apollo 称人工智能是一个比互联网时代还要糟糕的“泡沫”&lt; /a&gt;
-亿万富翁马克·罗文 (Marc Rowan) 的投资公司阿波罗全球管理公司 (Apollo Global Management) 警告称，人工智能的估值已经超过了互联网时代的过高水平。合伙人兼首席经济学家 Torsten Sløk 预测美联储可能会对市场进行调整。英伟达创纪录的市值增长引发了人们对能否满足不断飙升的预期的担忧。首席执行官黄仁勋表示人工智能将消除编码的需要。 ARK Invest 创始人 Cathie Wood 预计利润率将面临压力，因此降低了对人工智能半导体领域的投资。 《Eye on AI》时事通讯探讨了人工智能在商业领域的未来。免费订阅以随时了解情况。]]></description>
-      <guid>https://t.me/hn_summary/76356</guid>
-      <pubDate>Tue, 27 Feb 2024 05:05:38 GMT</pubDate>
+      <title>[媒体]据专家Dr.</title>
+      <link>https://t.me/hn_summary/76386</link>
+      <description><![CDATA[专家表示，精神病患者的女性数量可能比之前想象的要多
+专家克莱夫·博迪博士表示，具有精神病特征的女性数量可能比之前想象的要多。虽然男性精神病患者通常与暴力和反社会行为有关，但女性精神病患者可能表现出更微妙的操纵和情感暴力形式。博迪认为，目前对精神病患者的评估偏向于男性，导致对女性精神病患者的潜在低估。他的研究表明，大约 12-13% 的女性可能具有足够多的精神病特征，从而产生问题。认识到两种性别的精神病态至关重要，因为具有这些特征的个人可以对工作场所和社会产生重大影响。博迪主张对求职者进行筛选，以保护员工免受潜在伤害。]]></description>
+      <guid>https://t.me/hn_summary/76386</guid>
+      <pubDate>Tue, 27 Feb 2024 11:54:27 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 制作者和开发者 Roni Bandini 创建了一个 Raspberry Pi 项目来阻止他吵闹的 nei [...]</title>
-      <link>https://t.me/hn_summary/76355</link>
-      <description><![CDATA[Maker 使用 Raspberry Pi 和 AI 来屏蔽邻居吵闹的蓝牙扬声器
-制作者兼开发者 Roni Bandini 创建了一个 Raspberry Pi 项目来阻止他吵闹的邻居的蓝牙扬声器播放雷鬼音乐。该项目使用人工智能来检测音乐并干扰扬声器，使音频失真。虽然是开玩笑，但该项目的合法性因地点而异。 Raspberry Pi 3 B+ 由 DFRobot OLED 显示面板和用于音频检测的 USB 麦克风供电。 Edge Impulse 驱动机器学习方面来识别雷鬼音乐。查看 Hackster 上的项目，进一步了解针对常见问题的独特解决方案。]]></description>
-      <guid>https://t.me/hn_summary/76355</guid>
-      <pubDate>Tue, 27 Feb 2024 04:45:29 GMT</pubDate>
+      <title>[媒体]AMD 正准备发布 ROCm 6.1，这是其开源 GPU 计算的最新更新 [...]</title>
+      <link>https://t.me/hn_summary/76385</link>
+      <description><![CDATA[AMD 准备发布具有新功能的 ROCm 6.1&lt; br/&gt;
+AMD 正准备发布 ROCm 6.1，这是其开源 GPU 计算堆栈的最新更新。继 ROCm 6.0 的成功引入了对 AMD Instinct MI300A/MI300X 的支持并增强了 AI 功能后，即将发布的版本预计将带来更多改进，以与 NVIDIA 的 CUDA 竞争。凭借新的求解器、FP8 支持和扩展的算子支持，ROCm 6.1 有望将 GPU 计算提升到新的高度。此外，针对非 AMD 平台的“hipother”存储库的推出以及 HIPIFY 工具的更新表明了 AMD 致力于使 GPU 编程更易于访问和通用。敬请期待ROCm 6.1正式发布。]]></description>
+      <guid>https://t.me/hn_summary/76385</guid>
+      <pubDate>Tue, 27 Feb 2024 11:45:18 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]今天，我在某个网页上测试ChatGPT（v4）时发现了一些有趣的事情。</title>
-      <link>https://t.me/hn_summary/76354</link>
-      <description><![CDATA[网址让 ChatGPT 变得愚蠢
-今天，我在特定网页上测试 ChatGPT (v4) 时发现了一些有趣的事情。令人惊讶的是，当要求将数据提取到 Markdown 结构中时，ChatGPT 没有按预期访问该网站。它似乎避免了网页浏览，可能是出于成本原因。有趣的是，它缓存了对页面的响应而不是页面本身，这是一个聪明的解决方法。即使给定 URL，ChatGPT 也拒绝直接访问该页面，仅响应对该 URL 的操作。尽管它不愿意浏览，但它厚颜无耻地将我们的对话命名为“Crear Objectos Personalizados”，增添了一种令人愉快的感觉。使用网页的 PDF 进行测试取得了成功的结果，证实了我的理论。]]></description>
-      <guid>https://t.me/hn_summary/76354</guid>
-      <pubDate>Tue, 27 Feb 2024 04:31:21 GMT</pubDate>
+      <title>[媒体]大型语言模型 (LLM) 在科技界掀起波澜，但火车的成本 [...]</title>
+      <link>https://t.me/hn_summary/76384</link>
+      <description><![CDATA[即使是法学硕士也需要教育——高质量的数据使法学硕士表现出色 
+大型语言模型（LLM）正在科技界掀起波澜，但培训它们的成本可能令人震惊。然而，研究人员发现，较小的模型在特定基准上可以胜过较大的模型，从而产生更具成本效益的解决方案。通过使用有针对性的数据集和高质量数据，法学硕士可以在金融或编码等专业领域表现出色。此外，将法学硕士与检索增强生成（RAG）设置中的信息检索系统配对可以确保响应植根于经过验证的信息。就像人类一样，法学硕士受益于良好的教育，因此为他们提供高质量的数据是他们成功创建令人印象深刻的 GenAI 应用程序的关键。]]></description>
+      <guid>https://t.me/hn_summary/76384</guid>
+      <pubDate>Tue, 27 Feb 2024 11:28:08 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在 PayPal，处理 PB 级数据的 Apache Spark 作业需要可扩展的环境 [...]</title>
-      <link>https://t.me/hn_summary/76353</link>
-      <description><![CDATA[Spark 3 和 GPU 可将云成本降低高达 70%&lt; /a&gt;
-在 PayPal，处理 PB 级数据的 Apache Spark 作业需要可扩展的环境和不断的创新。通过利用 Spark 3 和 NVIDIA 的 GPU，企业可以将大数据管道和人工智能应用程序的云成本降低高达 70%。 Spark RAPIDS 是一种利用 GPU 强大功能的加速器，可以提高大型连接和按函数分组等任务的性能。通过操纵 Spark 作业来处理大型分区并调整 AQE 和 maxPartitionBytes 等参数，可以显着减少运行时间。这种使用 GPU 进行大数据处理的创新方法有可能彻底改变整个行业。]]></description>
-      <guid>https://t.me/hn_summary/76353</guid>
-      <pubDate>Tue, 27 Feb 2024 04:21:14 GMT</pubDate>
+      <title>[媒体] 十五年前，我开始以激进的方式发布开源软件，[...]</title>
+      <link>https://t.me/hn_summary/76383</link>
+      <description><![CDATA[我把我的开源项目变成了全职业务&lt; /a&gt;
+十五年前，我开始以激进的方式发布开源软件，仅使用 MIT 或 BSD 等宽松的许可证。然而，当一家使用我的 Nodemailer 库的初创公司被以 5 亿美元收购时，我意识到我的工作对财务产生了影响，之后我决定将我的新项目 EmailEngine 转变为一项全职业务。通过实施商业许可证、许可证密钥系统和增加订阅费，我能够产生稳定的收入，甚至在不失去客户的情况下提高价格。现在，EmailEngine 每月带来 6100 欧元的经常性收入，使我能够全职从事我的项目。]]></description>
+      <guid>https://t.me/hn_summary/76383</guid>
+      <pubDate>Tue, 27 Feb 2024 11:16:59 GMT</pubDate>
     </item>
     <item>
-      <title>在本文中，作者讨论了编写终结器和外国函数的挑战[...]</title>
-      <link>https://t.me/hn_summary/76352</link>
-      <description><![CDATA[论组合终结器和 FFI 的不可能性
-在本文中，作者讨论了使用 LuaJIT 等语言时编写终结器和外部函数接口 (FFI) 的挑战。作者强调了垃圾收集的问题，可能会在不再需要对象之前收集它们，从而导致内存访问错误。作者还提到了可用的有限解决方法，例如深入了解编译器行为或手动延长可终结对象的生命周期。本文最后建议您随时了解该主题，并参考 Hans Boehm 关于析构函数和终结器的工作以供进一步阅读。]]></description>
-      <guid>https://t.me/hn_summary/76352</guid>
-      <pubDate>Tue, 27 Feb 2024 04:20:09 GMT</pubDate>
+      <title>[媒体] Blender 打开电影。</title>
+      <link>https://t.me/hn_summary/76382</link>
+      <description><![CDATA[搅拌机打开电影。包含所有制作文件、资产和艺术品
+在我们的网站上探索 Blender Open Movies 的世界。深入了解我们标志性电影的幕后花絮，探索创作这些杰作的所有制作文件、资产和艺术品。从概念艺术到最终渲染，您将找到您需要学习的一切，并从我们才华横溢的艺术家团队中获得灵感。不要错过这个独特的机会来观看前所未见的内容并一睹 Blender Open Movies 的创作过程。立即访问我们的网站来探索和下载这些令人惊叹的资源。]]></description>
+      <guid>https://t.me/hn_summary/76382</guid>
+      <pubDate>Tue, 27 Feb 2024 10:51:48 GMT</pubDate>
     </item>
     <item>
-      <title>经历恐慌发作后，我于 2020 年 11 月 10 日停止饮酒，并 [...]</title>
-      <link>https://t.me/hn_summary/76351</link>
-      <description><![CDATA[关于酒精
-经历恐慌发作后，我于 2020 年 11 月 10 日停止饮酒，此后再也没有感到喝醉的冲动。在饮酒是社交活动重要组成部分的文化中长大，我的饮酒量高于平均水平，但并不过分。停下来产生了深远的影响，最初让我感到迷失，没有我的应对机制。然而，18个月后，我的情绪和脾气开始稳定下来。现在，三年多过去了，我感觉始终如一、头脑清醒。虽然我仍然感到焦虑，但我不喝酒就能控制它。我相信戒酒极大地改善了我的健康，但我承认这对每个人来说可能并不相同。]]></description>
-      <guid>https://t.me/hn_summary/76351</guid>
-      <pubDate>Tue, 27 Feb 2024 04:15:03 GMT</pubDate>
+      <title>在一项开创性的研究中，研究人员发现蚂蚁社会中受伤的蚂蚁可以得到治疗 [...]</title>
+      <link>https://t.me/hn_summary/76381</link>
+      <description><![CDATA[蚂蚁在蚂蚁社会中用抗菌化合物治疗受伤的巢友 
+在一项开创性的研究中，研究人员发现，蚂蚁社会中受伤的蚂蚁会被它们的巢友用其后胸膜腺 (MG) 分泌的抗菌化合物进行治疗。这种行为显着降低了受感染蚂蚁的死亡率，凸显了社会免疫在蚁群中的重要性。这项研究在科特迪瓦科莫埃国家公园进行，揭示了蚂蚁社会的复杂机制及其照顾受伤成员的能力。这些发现为社会行为的演变以及抗菌化合物在维持群体健康中的作用提供了宝贵的见解。 （根据 27% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/76381</guid>
+      <pubDate>Tue, 27 Feb 2024 10:26:36 GMT</pubDate>
     </item>
     <item>
-      <title>KKR 将收购 Broadcom 的终端用户计算部门，此举可能会显着 [...]</title>
-      <link>https://t.me/hn_summary/76350</link>
-      <description><![CDATA[KKR 收购 Broadcom (VMware) 的最终用户计算部门
-KKR 将收购博通的终端用户计算部门，此举可能会对该公司未来的业绩产生重大影响。本演示文稿中的前瞻性陈述强调了与收购相关的潜在收益和风险，包括市场波动、业务战略和竞争等因素。 KKR 强调其长期关注并致力于向投资者通报可能影响其财务业绩的任何变化。有关影响 KKR 决策过程的因素的更多信息，感兴趣的各方可以参考该公司向 SEC 提交的文件。请继续关注这一重大收购的最新动态。]]></description>
-      <guid>https://t.me/hn_summary/76350</guid>
-      <pubDate>Tue, 27 Feb 2024 04:05:57 GMT</pubDate>
+      <title>[媒体]奇妙的古代自动机探索古代自动机的迷人历史[...]</title>
+      <link>https://t.me/hn_summary/76380</link>
+      <description><![CDATA[神奇的古代自动机（2018）
+《奇妙的古代自动机》探索了古代自动机的迷人历史，从君士坦丁七世宫殿中精致的特效奇观到伊斯梅尔·贾扎里的异想天开的装置。这些自动机被用来唤起奇迹、娱乐甚至让观众不安，正如马克·安东尼的演讲和黄铜之城的传说中所见。这篇文章深入探讨了自动机对欧洲和中东文化的影响，强调了这些机械奇迹的复杂设计和相互作用。隐藏在地下的失落自动机的故事为这些古老机器的历史增添了神秘而迷人的元素。]]></description>
+      <guid>https://t.me/hn_summary/76380</guid>
+      <pubDate>Tue, 27 Feb 2024 10:21:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
