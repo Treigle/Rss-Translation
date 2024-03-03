@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 03 Mar 2024 03:03:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 Mar 2024 11:56:16 GMT</lastBuildDate>
     <item>
-      <title>[媒体]已针对苹果提出集体诉讼，指控该公司 [...]</title>
-      <link>https://t.me/hn_summary/77288</link>
-      <description><![CDATA[针对 Apple 5GB iCloud 限制和 iOS 备份限制的集体诉讼
-有人对苹果提起集体诉讼，指控该公司不公平地抬高 iCloud 价格，并限制 iOS 备份只能通过 iCloud 进行管理。该诉讼称，苹果的 5GB 免费存储限制对于大多数用户来说不够，迫使他们购买额外的存储计划。原告声称，苹果对设备备份的限制限制了 iCloud 相对于竞争对手云平台的竞争和优势。主要原告由 Hagens Berman 律师事务所代表，该律师事务所因处理之前针对苹果的集体诉讼而闻名。有兴趣加入诉讼的人可以通过 Hagens Berman 网站进行操作。]]></description>
-      <guid>https://t.me/hn_summary/77288</guid>
-      <pubDate>Sun, 03 Mar 2024 03:03:05 GMT</pubDate>
+      <title>[媒体] Hancho 是一个简单而令人愉快的构建系统，由大约 500 行 Python 编写。</title>
+      <link>https://t.me/hn_summary/77320</link>
+      <description><![CDATA[展示 HN：Hancho – 一个简单而令人愉快的构建系统，大约 500 Python 行
+Hancho 是一个简单而令人愉快的构建系统，由大约 500 行 Python 代码编写。它不需要安装，可以轻松集成到您的源代码树中。受到 Ninja 和 Bazel 的启发，Hancho 注重速度和简单性，同时考虑到语法和可扩展性。与 Ninja 不同，Hancho 不需要为每个输出文件调用单独的构建规则。它允许您创建调用任意 Python 代码的构建规则。 Hancho 适用于中小型项目，旨在快速组装和运行命令。它提供了教程和附加文档供参考。]]></description>
+      <guid>https://t.me/hn_summary/77320</guid>
+      <pubDate>Sun, 03 Mar 2024 11:56:16 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]算法思维（第二版）</title>
-      <link>https://t.me/hn_summary/77287</link>
-      <description><![CDATA[算法思维（第二版）
-“《算法思维》（第二版）是面向 C 编程语言学生和软件开发专业人士的全面且用户友好的教学资源。Daniel Zingaro 精选了一系列具有挑战性的编程问题，并对算法和数据结构进行了清晰的解释。这本书受到称赞其详细的分步解决方案和引人入胜的编程竞赛问题选择。关于随机算法的新章节是一个亮点，提供了算法思维的独特视角。行业专业人士和学者的评论强调了这一更新的实践和理论价值。版，使其成为那些希望提高编程技能的人的必读之作。”]]></description>
-      <guid>https://t.me/hn_summary/77287</guid>
-      <pubDate>Sun, 03 Mar 2024 02:59:01 GMT</pubDate>
+      <title>[媒体] 厌倦了浪费时间看长视频？</title>
+      <link>https://t.me/hn_summary/77319</link>
+      <description><![CDATA[显示 HN：利用 Summarize.ing 的丰富内容节省长视频时间摘要
+厌倦了浪费时间观看长视频？ Summarize.ing 就是您的最佳选择！我们最新的摘要提供了丰富的内容摘要，可以节省您的时间并为您提供任何视频的要点。使用我们的创新工具告别无休止的滚动并快速前进。今天就尝试一下，看看如何节省宝贵的时间。 Summarize.ing 正在彻底改变我们消费视频内容的方式。查看我们刚刚发布的最新摘要，立即开始节省时间！]]></description>
+      <guid>https://t.me/hn_summary/77319</guid>
+      <pubDate>Sun, 03 Mar 2024 11:44:10 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 介绍我们的最新创新：使用 GPT-4 技术帮助您购买服装 [...]</title>
-      <link>https://t.me/hn_summary/77286</link>
-      <description><![CDATA[显示 HN：使用 GPT-4 购买我喜欢的电影服装和电视节目
-介绍我们的最新创新：使用 GPT-4 技术帮助您从最喜欢的电影和电视节目中购买您喜欢的服装。借助我们的人工智能工具，您可以轻松复制并购买那些在屏幕上吸引您眼球的时尚外观。只需上传一张图片，然后让我们的技术完成剩下的工作。有疑问或反馈吗？请填写我们网站上的表格，我们将与您联系。告别时尚 FOMO，迎接您的梦想衣橱！立即访问 tryon.trydisto.com 尝试一下。&lt; br/&gt;]]></description>
-      <guid>https://t.me/hn_summary/77286</guid>
-      <pubDate>Sun, 03 Mar 2024 02:33:51 GMT</pubDate>
+      <title>[媒体]AuthWin 是一款适用于 Windows 的桌面身份验证器应用程序，允许用户生成时间 - [...]</title>
+      <link>https://t.me/hn_summary/77318</link>
+      <description><![CDATA[显示 HN：AuthWin – 适用于 Windows 的身份验证器应用&lt; br/&gt;
+AuthWin 是一款适用于 Windows 的桌面身份验证器应用程序，允许用户为网站上的两因素身份验证生成基于时间的一次性密码。与大多数仅适用于手机的身份验证器应用程序不同，AuthWin 提供了在计算机上安装身份验证器的便利。它允许用户从 Google Authenticator 导入帐户、手动添加新帐户以及导出帐户进行备份。该应用程序通过仅将帐户数据存储在用户的计算机上来确保数据安全。用户可以通过导出和导入帐户轻松将 AuthWin 移动到另一台计算机。]]></description>
+      <guid>https://t.me/hn_summary/77318</guid>
+      <pubDate>Sun, 03 Mar 2024 11:39:05 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]世界上最大的机场，位于沙特阿拉伯利雅得的萨勒曼国王国际机场 [...]</title>
-      <link>https://t.me/hn_summary/77285</link>
-      <description><![CDATA[最大机场将于 2030 年开放，拥有 6 条跑道，每年接待 1.2 亿乘客
-世界上最大的机场——位于沙特阿拉伯利雅得的萨勒曼国王国际机场将于 2030 年投入使用，拥有 6 条跑道，每年可容纳 1.2 亿乘客。该机场占地 57 平方公里，设有娱乐设施和零售空间。该机场由福斯特建筑事务所设计，旨在打造一个注重客户体验和创新的“航空大都市”。尽管该地区冲突不断，但前往利雅得的旅行被认为是安全的。此外，波兰和意大利等其他国家也在开发新机场，以增强连通性和旅客增长。]]></description>
-      <guid>https://t.me/hn_summary/77285</guid>
-      <pubDate>Sun, 03 Mar 2024 02:26:45 GMT</pubDate>
+      <title>人工智能聊天机器人很难解决数学问题，因为它们通常根据 [...]</title>
+      <link>https://t.me/hn_summary/77317</link>
+      <description><![CDATA[人工智能聊天机器人显然可以因为最奇怪的原因在数学方面变得更好
+人工智能聊天机器人很难解决数学问题，因为它们通常根据统计数据生成响应，而不是找到正确的答案。然而，VMware 的一项研究发现，当聊天机器人被提示假装身处《星际迷航》中时，它们在数学问题上的表现会更好。这种积极的框架导致了更准确的反应，诸如“船长日志，Stardate 在此处插入日期：”之类的短语产生了最佳结果。研究人员对这种方法的有效性感到惊讶，强调了人工智能语言模型的神秘本质，以及即使专家也很难完全理解其工作原理。这项研究揭示了通过非常规方法改进人工智能的独特方式。]]></description>
+      <guid>https://t.me/hn_summary/77317</guid>
+      <pubDate>Sun, 03 Mar 2024 11:34:01 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：您日常使用什么笔记本电脑来驱动 Linux？</title>
-      <link>https://t.me/hn_summary/77284</link>
-      <description><![CDATA[问HN：你日常使用什么笔记本电脑来驱动Linux？&lt; /a&gt;
-正在寻找一台笔记本电脑来日常运行 Linux？避免像我使用 Dell XPS 15 时那样令人头痛的 Nvidia 显卡问题。许多用户推荐 AMD 笔记本电脑以获得更流畅的 Linux 体验。在 HN 上分享您首选的 Linux 笔记本电脑并加入讨论！]]></description>
-      <guid>https://t.me/hn_summary/77284</guid>
-      <pubDate>Sun, 03 Mar 2024 02:16:39 GMT</pubDate>
+      <title>2005 年，独立绩效顾问 Brendan Gregg 接受了来自 [...]</title>
+      <link>https://t.me/hn_summary/77316</link>
+      <description><![CDATA[令人难以置信的演示
+2005 年，独立性能顾问 Brendan Gregg 接受了来自 Sun Microsystems 的 VIP 的演示，展示了基于 DTrace 的新产品。令 Brendan 惊讶的是，他意识到正在演示的工具实际上是他自己的开源工具，剥夺了他的名字、版权和许可证。这位 VIP 似乎没有意识到这一点，导致了一场有争议的会议，布伦丹在会议上就未经授权使用他的作品与他对峙。这一事件揭示了 Sun 公司的一个文化问题，即外部贡献被低估。尽管如此，Brendan 的工具此后受到了 Apple 和 Oracle 等公司的青睐，凸显了开源中正确归属的重要性。]]></description>
+      <guid>https://t.me/hn_summary/77316</guid>
+      <pubDate>Sun, 03 Mar 2024 11:18:53 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 tylercipriani.com 上的这篇文章中，作者分享了他们对永恒的解决方案 [...]</title>
-      <link>https://t.me/hn_summary/77283</link>
-      <description><![CDATA[永恒的 Bash 历史
-在 tylercipriani.com 上的这篇文章中，作者分享了他们的解决方案历史上丢失重要 bash 命令的永恒斗争。通过将超过 750,000 行 bash 历史记录存储在一个名为 ~/.muhhistory 的 102MB 文件中，他们创建了自 2016 年以来的可搜索存档。他们还引入了一个名为 hist 的命令来搜索这段广泛的历史记录。作者解释了他们如何使用 PROMPTCOMMAND 变量保存历史记录，并讨论了他们系统的权衡和问题，强调了谨慎注意安全性的必要性以及使用 bash 内置历史记录的局限性。他们还提供了对 McFly 和 Atuin 等替代解决方案的见解。]]></description>
-      <guid>https://t.me/hn_summary/77283</guid>
-      <pubDate>Sun, 03 Mar 2024 02:10:36 GMT</pubDate>
+      <title>archive.org 上标题为“Telegram for America (1956)”的网页内容是令人着迷的回顾 [...]</title>
+      <link>https://t.me/hn_summary/77315</link>
+      <description><![CDATA[美国电报 (1956)
+archive.org 上标题为“Telegram for America (1956)”的网页内容）”是对美国电报技术历史的精彩回顾。这部电影突出了塞缪尔·FB·塞缪尔 (Samuel F.B.莫尔斯的发明以及西联汇款如何在 20 世纪 30 年代到 60 年代将其推向新的高度。提到的一个令人惊讶的事实是，1956 年美国人口为 1.5 亿，而 60 年后这一数字已超过 3.2 亿。这部电影还涉及电报的各种用途，包括发送新闻甚至私人电报服务。此外，影片中还有一个颇具争议的时刻，似乎有人从燃烧的建筑物中跳下。总的来说，这是一段引人入胜的历史，揭示了过去的通信技术时代。]]></description>
+      <guid>https://t.me/hn_summary/77315</guid>
+      <pubDate>Sun, 03 Mar 2024 11:09:46 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]本文探讨了使用序列微积分作为编译的中间语言[...]</title>
-      <link>https://t.me/hn_summary/77282</link>
-      <description><![CDATA[作为编译器中间语言的序列微积分 (2016) [pdf]( https://news.ycombinator.com/item?id=39570423)
-本文探讨了序列微积分作为编译器中间语言的使用，并将其与流行的 λ 微积分进行了比较。作者介绍了 Sequent Core，一种基于 Sequent Calculus 的类型化演算，并在 Glasgow Haskell 编译器中实现了它。令人惊讶的是，Sequent Core 在优化方面优于现有的 Core 语言，特别是在处理连接点方面。该语言类似于延续传递风格，为编译器带来控制流和延续，而不妨碍现有的优化。作者希望将顺序微积分引入编译器设计领域，为函数式编程语言和中间表示技术提供新的视角。 （根据故事文本的 9% 进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/77282</guid>
-      <pubDate>Sun, 03 Mar 2024 02:08:32 GMT</pubDate>
+      <title>失明技术先驱戴维·霍拉迪 (David Holladay) 去世，享年 70 岁。</title>
+      <link>https://t.me/hn_summary/77314</link>
+      <description><![CDATA[失明技术先驱 David Holladay 去世，享年 70 岁
+David Holladay 是盲人技术领域的先驱，现已去世，享年 70 岁。他是 Raising DotComputing 的联合创始人，后来加入 Duxbury Systems，致力于扩大全球盲人用户的可访问性。尽管与健康问题作斗争，大卫仍继续热情地工作，直到他的最后一天。他在盲文软件方面的创新工作，包括推出 MegaDots，对盲文社区产生了持久的影响。他的葬礼将在网上直播，供那些希望吊唁的人观看。所有认识大卫的人都会深深怀念大卫对盲文的奉献。]]></description>
+      <guid>https://t.me/hn_summary/77314</guid>
+      <pubDate>Sun, 03 Mar 2024 11:06:41 GMT</pubDate>
     </item>
     <item>
-      <title>在本文中，作者认为初创企业不应回避挑战垄断 [...]</title>
-      <link>https://t.me/hn_summary/77281</link>
-      <description><![CDATA[更多初创公司应该挑战垄断
-在本文中，作者认为初创企业不应回避挑战其行业的垄断地位。作者根据播客和有声读物的个人经验，强调了具有挑战性的老牌玩家如何能够带来创新、市场增长和消费者利益。作者强调，垄断企业通常效率低下，缺乏创新动力，因此很容易被敏捷初创企业颠覆。通过打破垄断所设置的障碍，初创企业可以创造更健康的市场、更好的产品，并最终创造更快乐的消费者。文章鼓励创始人拥抱竞争，不要害怕挑战现状。]]></description>
-      <guid>https://t.me/hn_summary/77281</guid>
-      <pubDate>Sun, 03 Mar 2024 02:07:23 GMT</pubDate>
+      <title>[媒体] Monaspace 是一个创新的字体超家族，专为代码设计，提供 [...]</title>
+      <link>https://t.me/hn_summary/77313</link>
+      <description><![CDATA[Monaspace：代码字体的创新超家族&lt; br/&gt;
+Monaspace 是专为代码设计的创新字体超家族，提供五种相互兼容的可变轴字体。该项目旨在通过提供广泛的连字和字体选项来增强代码的可读性和美观性。 Monaspace 提供可变和静态字体构建，使其现代且方便地适用于不同平台。该项目还包括桌面和 Web 字体安装的说明，以及 Visual Studio Code 的编辑器特定设置。 Monaspace 是 GitHub Next 与 Lettermatic 合作开发的，重点是通过排版改善开发者体验。]]></description>
+      <guid>https://t.me/hn_summary/77313</guid>
+      <pubDate>Sun, 03 Mar 2024 10:56:34 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在一个宣传和阴谋论猖獗的世界里，塞夫顿·德尔默的反 [...]</title>
-      <link>https://t.me/hn_summary/77280</link>
-      <description><![CDATA[从二战中塞夫顿·德尔默的反纳粹宣传中吸取的教训
-在一个宣传和阴谋论猖獗的世界里，塞夫顿·德尔默在二战期间的反纳粹宣传工作提供了宝贵的教训。德尔默的创新策略，包括创建假广播电台和利用心理洞察力，吸引了德国观众并削弱了希特勒政权。通过了解观众的兴趣和需求，德尔默能够有效地突破纳粹的宣传。然而，创造“袜子傀儡”媒体可能会适得其反，正如人们对他的作品的负面反应所示。德尔默与观众世界互动并提供相关信息的方法至今仍然具有现实意义，正如在乌克兰接触俄罗斯观众的努力所体现的那样。最终，理解受众并与受众互动是对抗宣传的关键。 （根据故事文本的 71% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/77280</guid>
-      <pubDate>Sun, 03 Mar 2024 02:06:20 GMT</pubDate>
+      <title>摩托罗拉 6809：最好的 8 位处理器？</title>
+      <link>https://t.me/hn_summary/77312</link>
+      <description><![CDATA[摩托罗拉 6809：最好的 8 位芯片？&lt; br/&gt;
+我们 8 位设计系列的最后一篇文章探讨了 Motorola 6809，它可能是这个时代最先进的设计。在家用电脑市场输给6502后，摩托罗拉重建了团队，并吸引了通用汽车等大客户。 6809 的设计目标是与 6800 源代码兼容，添加了直接页寄存器、“U”堆栈指针和分支相对寻址等功能。 1979 年，6809 在 Byte 杂志上分三部分发布，是向前迈出的重要一步，为微处理器技术的未来进步铺平了道路。 （根据 63% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/77312</guid>
+      <pubDate>Sun, 03 Mar 2024 10:53:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Z世代俚语在不断演变，新术语不断涌现。</title>
-      <link>https://t.me/hn_summary/77279</link>
-      <description><![CDATA[Z世代俚语列表
-Z 世代俚语在不断演变，新术语不断涌现。从“af”到“boujee”再到“drip”，这个列表涵盖了当今年轻人使用的最新俚语。一些术语，如“BDE”和“clapback”，已经广泛流行，而其他术语，如“fanum Tax”，则更为小众。无论您是想跟上最新趋势还是只是想了解孩子们在说什么，此列表都能满足您的需求。因此，下次当您听到有人说“下注”或“额外”时，您就会确切地知道他们的意思。 （根据故事文本的 33% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/77279</guid>
-      <pubDate>Sun, 03 Mar 2024 02:05:17 GMT</pubDate>
+      <title>中国电动汽车制造商正在凭借卓越的技术和 [...]</title>
+      <link>https://t.me/hn_summary/77311</link>
+      <description><![CDATA[“非常好”的中国电动汽车动力领先于劣势的美国竞争对手&lt; /a&gt;
+中国电动汽车制造商正在凭借卓越的技术和设计超越美国竞争对手。这些“简直就是好”的车辆提供了创新的功能和令人印象深刻的性能，让美国公司望尘莫及。通过限时优惠，您可以在标准数字访问优质 FT 新闻时节省高达 40% 的费用，为您提供这个开创性行业的最新动态。不要错过这个了解最新动态并保持领先地位的机会。]]></description>
+      <guid>https://t.me/hn_summary/77311</guid>
+      <pubDate>Sun, 03 Mar 2024 09:25:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
