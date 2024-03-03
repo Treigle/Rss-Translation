@@ -4,20 +4,27 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 03 Mar 2024 00:44:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 Mar 2024 03:12:02 GMT</lastBuildDate>
+    <item>
+      <title>Bouncy Ball - 比较网页动画技术</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b56pnx/bouncy_ball_compare_web_animation_techniques/</link>
+      <description><![CDATA[      由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b56pnx/bouncy_ball_compare_web_animation_techniques/</guid>
+      <pubDate>Sun, 03 Mar 2024 03:05:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何免费部署 Node.js Web 应用程序。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b55cuj/how_to_deploy_nodejs_web_application_for_free/</link>
+      <description><![CDATA[大家好，我是一名初学者，正在寻找有关如何部署 Node.js 应用程序的资源。我也想使用 docker，但目前我正在学习如何使用 docker。 谢谢。   由   提交/u/martian1939   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b55cuj/how_to_deploy_nodejs_web_application_for_free/</guid>
+      <pubDate>Sun, 03 Mar 2024 01:57:55 GMT</pubDate>
+    </item>
     <item>
       <title>为了到达现在的位置，你一生付出了多少努力？</title>
       <link>https://www.reddit.com/r/webdev/comments/1b536ha/how_much_have_you_worked_in_your_life_to_get_to/</link>
       <description><![CDATA[我需要知道你在生活中付出了多少努力才达到现在的成就，因为我做得还不够！我无法做到最好... ​   由   提交 /u/CodeSilva   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b536ha/how_much_have_you_worked_in_your_life_to_get_to/</guid>
       <pubDate>Sun, 03 Mar 2024 00:14:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>用我创建的平台制作了我的新投资组合网站！感谢您的反馈！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b535sx/made_my_new_portfolio_website_with_a_platform_i/</link>
-      <description><![CDATA[       由   提交/u/bustingbuster1  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b535sx/made_my_new_portfolio_website_with_a_platform_i/</guid>
-      <pubDate>Sun, 03 Mar 2024 00:14:03 GMT</pubDate>
     </item>
     <item>
       <title>简历审核？</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交/u/Cold_Complex945  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b4ycpm/after_many_users_telling_me_they_get_stuck/</guid>
       <pubDate>Sat, 02 Mar 2024 20:49:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果推翻了在欧盟删除主屏幕网络应用程序的决定 - The Register</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b4y8ez/apple_reverses_decision_to_remove_home_screen_web/</link>
-      <description><![CDATA[       由   提交 /u/overbyte   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b4y8ez/apple_reverses_decision_to_remove_home_screen_web/</guid>
-      <pubDate>Sat, 02 Mar 2024 20:44:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
