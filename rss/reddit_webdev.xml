@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 10 Mar 2024 06:13:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 Mar 2024 09:09:57 GMT</lastBuildDate>
+    <item>
+      <title>尝试建立一个网站，用户可以在其中编写 webd 代码并在其上运行测试，类似于此网站。我在哪里/如何了解有关为“运行测试”按钮创建后端的更多信息。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bb5cv5/trying_to_build_a_website_where_users_can_write/</link>
+      <description><![CDATA[   /u/KUBER144  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bb5cv5/trying_to_build_a_website_where_users_can_write/</guid>
+      <pubDate>Sun, 10 Mar 2024 08:20:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>一些有用的注释2</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bb4usa/some_useful_notes_2/</link>
+      <description><![CDATA[      一些有用的注释第 2 部分   由   提交 /u/Superhero_os   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bb4usa/some_useful_notes_2/</guid>
+      <pubDate>Sun, 10 Mar 2024 07:48:04 GMT</pubDate>
+    </item>
     <item>
       <title>有没有办法完全模仿本地服务器的网站？</title>
       <link>https://www.reddit.com/r/webdev/comments/1bb2dfy/is_there_a_way_to_completely_mimic_a_website_from/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[    /u/_remrem   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1baw6ne/navigating_the_future_of_frontend/</guid>
       <pubDate>Sat, 09 Mar 2024 23:58:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何制作一个在民意调查中投票的机器人？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bavagd/how_to_make_a_bot_that_votes_on_polls/</link>
-      <description><![CDATA[因此，每 2 个月就会有一次针对游戏的民意调查。结果会影响游戏中发生的重新运行事件（最受欢迎的会重新运行）。然而，民意调查持续且明显地被破坏，开发人员拒绝添加任何内容来阻止它。甚至没有任何验证码或任何东西。 因此，如果有人知道如何制作一个对此类事情进行投票的机器人，以尝试抵消这种情况，我有点感兴趣。 网站是Qualtrics 顺便说一句，这是民意调查： https://survey.nintendo.com/jfe/form /SV_1AGA5MiiZOXEEdw   由   提交/u/PaintBrush527  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bavagd/how_to_make_a_bot_that_votes_on_polls/</guid>
-      <pubDate>Sat, 09 Mar 2024 23:18:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>SEO流程和工具？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bav51q/seo_process_and_tools/</link>
-      <description><![CDATA[大家好， 这里是全栈自由 Web 开发人员。我一开始只从事网络开发的编程方面，但现在我希望能够提供一个全面的软件包，我还可以帮助客户建立他们的在线形象。  在 SEO 领域，哪些付费或无付费工具是您不可或缺的。我对各种不同的工具有点迷失。目前仅使用基础知识 Moz 和 Google Analytics。这足以真正扩大他们的影响力吗？   由   提交/u/twolf59  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bav51q/seo_process_and_tools/</guid>
-      <pubDate>Sat, 09 Mar 2024 23:12:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
