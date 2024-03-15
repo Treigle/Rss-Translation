@@ -4,7 +4,7 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 15 Mar 2024 00:42:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2024 03:12:24 GMT</lastBuildDate>
     <item>
       <title>帮助为中风患者创建人工智能程序</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bf0ysd/help_creating_a_ai_program_for_stroke_victims/</link>
@@ -83,11 +83,11 @@
       <pubDate>Thu, 14 Mar 2024 10:56:43 GMT</pubDate>
     </item>
     <item>
-      <title>需要本地法学硕士。有一些关于代码生成的状态和培训的问题。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bei2hw/need_a_local_llm_got_some_questions_regarding/</link>
-      <description><![CDATA[人工智能很棒，但人工智能也很糟糕，至少是我希望能够使用它的方式，即生成代码。  我的主要问题是内存中的无状态模型，这意味着我必须为每个 API 查询提供大量的上下文信息，据我所知。 一个令人讨厌的例子是当询问时，例如chatgpt 如果它能够生成 RFC3501 的 C 实现。它高兴地说“是的，我能做到”，但拒绝真正去做。这就是我在使用在线人工智能时遇到的问题。在线人工智能的代码审查也是如此。它只是拒绝审查代码，即使代码库很小（34KLOC）。即使是 1059 行 C 的一小部分也不能为 gpt-4 所接受。 （我认为它的配置方式是为了减少服务器负载？） 为了解决这些问题，我想运行本地 LLM 并自己训练它，以便它按照我想要的方式运行。例如，我想给它提供一次编码标准，以便生成的所有代码都遵守该标准。 在花费数千美元购买 GPU 之前，我希望得到反馈。 * 这个计划现实吗？ * 一台带有 24GB VRAM 的 RTX 3090 够用吗？ * 培训过程需要多长时间？我可以继续给它喂C代码吗？那里有经过预培训的法学硕士吗？ * 美洲驼似乎很有前途。有更好的选择吗？ * 我对人工智能模型几乎一无所知，但确实有能力在需要时修改代码。 对所有反馈和评论感到高兴。   由   提交/u/zwischen3und20   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bei2hw/need_a_local_llm_got_some_questions_regarding/</guid>
-      <pubDate>Thu, 14 Mar 2024 10:29:06 GMT</pubDate>
+      <title>是否有任何像样的视频可以让人工智能领域的真正聪明人谈论经济将如何应对大规模失业？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bee2as/are_there_any_decent_videos_where_actual_smart/</link>
+      <description><![CDATA[只是好奇，因为这是我对人工智能的主要抱怨，我想看看支持人工智能的人认为社会会如何妥协有了它   由   提交/u/daway8899  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bee2as/are_there_any_decent_videos_where_actual_smart/</guid>
+      <pubDate>Thu, 14 Mar 2024 05:45:36 GMT</pubDate>
     </item>
     <item>
       <title>预测：人工智能将在 2026 年之前破译已知最早的三种人类语言中的最后一种。有赌注吗？</title>
