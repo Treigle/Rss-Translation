@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 18 Mar 2024 12:14:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2024 21:04:57 GMT</lastBuildDate>
     <item>
-      <title>[媒体]Cranelift 是 WebAssembly 的代码生成后端，已作为 [...] 集成到 Rust 中</title>
-      <link>https://t.me/hn_summary/79993</link>
-      <description><![CDATA[Rust 提供 Cranelift 代码生成
-Cranelift 是 WebAssembly 的代码生成后端，已作为其夜间工具链中的可选组件集成到 Rust 中。 Cranelift 专为快速代码生成而设计，使用等式图进行优化，为编译器设计提供了独特的方法。虽然它的目标是解决 Rust 中的编译时间问题，但其与 LLVM 和自定义 JIT 编译器相比的性能仍在评估中。 Cranelift 由 Rust 编译器团队成员开发，现已可在 Rust 项目中进行测试，展示了编译器优化和代码生成的不同视角。]]></description>
-      <guid>https://t.me/hn_summary/79993</guid>
-      <pubDate>Mon, 18 Mar 2024 12:14:21 GMT</pubDate>
+      <title>[媒体] Tuix 是一个用于管理屏幕的 TUI（文本用户界面），用 Rust 编写。</title>
+      <link>https://t.me/hn_summary/80091</link>
+      <description><![CDATA[显示 HN：Tuix – 用于管理屏幕的 TUI，用 Rust 编写&lt; /a&gt;
+Tuix 是一个用于管理屏幕的 TUI（文本用户界面），用 Rust 编写。它允许用户使用键盘快捷键轻松移动和重新排列屏幕。该项目仍在进行中，具有启用/禁用显示器、保存/恢复布局、处理多个外部显示器以及在待办事项列表中支持 Wayland 等功能。一个已知问题是切换外部显示器的位置可能会导致分辨率未使用。该项目已获得 GPLv3 许可。]]></description>
+      <guid>https://t.me/hn_summary/80091</guid>
+      <pubDate>Mon, 18 Mar 2024 21:04:57 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Cognition 的人工智能软件工程师 Devin 以其创新引起了我的注意 [...]</title>
-      <link>https://t.me/hn_summary/79992</link>
-      <description><![CDATA[人工智能软件工程师 Devin 的热门观点&lt; br /&gt;
-Cognition 的人工智能软件工程师 Devin 以其创新的用户体验设计引起了我的注意，这种设计让人感觉像是对未来的一瞥。然而，我不禁想知道它的竞争优势有多深。经过仔细检查，SWE 基准测试中的性能改进似乎可以归因于提示技术的转变，类似于 Google DeepMind 的 Self-Discover 方法。将 Cyborg AI 风格集成到现有 IDE 中的概念很有趣，其暂停和步骤按钮等功能让人想起策略游戏。如果提示继续推动人工智能技术的进步，DX 的未来看起来很有希望。]]></description>
-      <guid>https://t.me/hn_summary/79992</guid>
-      <pubDate>Mon, 18 Mar 2024 12:04:12 GMT</pubDate>
+      <title>[媒体]您是否厌倦了打开新标签时的干扰？</title>
+      <link>https://t.me/hn_summary/80090</link>
+      <description><![CDATA[显示 HN：将您的 Chrome 新标签页变成干净、无干扰记事本
+当您打开新标签时，您是否厌倦了干扰？借助新标签页注释，您可以将 Chrome 新标签页变成干净、无干扰的记事本。您的笔记由浏览器安全保存和同步，无需帐户。使用 Markdown 和键盘快捷键享受富文本格式，并轻松跨设备同步和自动保存笔记。从网站复制文本并对其进行整齐的格式化，并以 Markdown、HTML 或纯文本等多种格式保存笔记。自定义字体、调整缩放首选项以及在深色和浅色主题之间切换。另外，在键入时使用类似 Markdown 的语法进行无缝格式化。安装后打开新选项卡时，不要忘记单击“保留”按钮。]]></description>
+      <guid>https://t.me/hn_summary/80090</guid>
+      <pubDate>Mon, 18 Mar 2024 21:00:54 GMT</pubDate>
     </item>
     <item>
-      <title>在发现 Firebase 中的一个漏洞后，该漏洞容易导致 securi 配置错误 [...]</title>
-      <link>https://t.me/hn_summary/79991</link>
-      <description><![CDATA[900 个站点、1.25 亿个帐户、1 个漏洞
-在发现 Firebase 中容易导致安全规则配置错误的漏洞后，我们的团队扫描了互联网，发现 900 个网站泄露了总计 1.25 亿条用户记录，包括明文密码和敏感的账单信息。尽管最初遇到了内存泄漏的挑战，但我们开发了一个扫描仪并识别了受影响最严重的网站，例如一个带有被操纵的旋转和轻浮的客户支持的在线赌博网络。在通知网站所有者后，只有 24% 的网站修复了该问题，只有 0.2% 的网站提供了错误赏金。此事件凸显了适当的安全措施在保护用户数据方面的重要性。]]></description>
-      <guid>https://t.me/hn_summary/79991</guid>
-      <pubDate>Mon, 18 Mar 2024 11:54:06 GMT</pubDate>
+      <title>隆重推出 DisDos，该平台可让您轻松创建自己的在线社区 [...]</title>
+      <link>https://t.me/hn_summary/80089</link>
+      <description><![CDATA[展示 HN：DisDos – 为您的受众打造在线社区
+隆重推出 DisDos，该平台可让您轻松为受众创建自己的在线社区。通过创建多个社区（每个社区都有自己的类别和论坛板）的能力，您可以完全控制主题发布权限，甚至可以支持文本和链接主题。帖子和评论是嵌套的，以便于导航，并且该平台对 SEO 友好。最好的部分？它完全免费使用。立即加入 DisDos，开始为您的关注者建立一个蓬勃发展的在线社区。]]></description>
+      <guid>https://t.me/hn_summary/80089</guid>
+      <pubDate>Mon, 18 Mar 2024 20:56:50 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Yagrad是一个基于micrograd的标量autograd引擎，具有sup [...]的独特功能</title>
-      <link>https://t.me/hn_summary/79990</link>
-      <description><![CDATA[Yagrad – 具有复数和固定 DAG 的 100 SLOC autograd 引擎
-Yagrad是一个基于micrograd的标量自动梯度引擎，其独特之处在于支持复数进行梯度计算，并利用固定的有向无环图（DAG）来避免训练过程中的对象分配。该项目旨在提供一个简单且具有教育意义的工具来理解自动微分。 Yagrad 只有 100 行代码，与其他 autograd 引擎的区别在于它注重简单性和效率。无需安装，用户可以通过执行“python train.py 来运行项目”在终端中。灵感来源于 micrograd、tinygrad、picograd 和 nanograd。]]></description>
-      <guid>https://t.me/hn_summary/79990</guid>
-      <pubDate>Mon, 18 Mar 2024 11:50:02 GMT</pubDate>
+      <title>[媒体] 向傻瓜们介绍情书生成器！</title>
+      <link>https://t.me/hn_summary/80088</link>
+      <description><![CDATA[展示 HN：傻瓜情书生成器
+向傻瓜们介绍情书生成器！借助文字的力量，瞬间创作一封真挚的、个性化的情书。使用一个积分即可免费试用，相当于一封情书。在定价页面上购买更多积分以保持浪漫。用一封独特而巧妙的情书给您所爱的人带来惊喜，触动他们的心。请访问 www.lovelettergenerator.co 立即开始。&lt; br/&gt;]]></description>
+      <guid>https://t.me/hn_summary/80088</guid>
+      <pubDate>Mon, 18 Mar 2024 20:52:45 GMT</pubDate>
     </item>
     <item>
-      <title>设计网站的另一种观点——event.preventDeault();</title>
-      <link>https://t.me/hn_summary/79989</link>
-      <description><![CDATA[设计网站的另一种观点 – event.preventDeault();
-在 Maximilian Kiepe 的《设计网站的另一种观点》中，作者深入探讨了 2019 年网页设计的通用性和非个人化本质，并将其与早期网络时代的创意实验进行了对比。探索了网页设计的历史，从浏览器的引入到响应式设计的出现。争议在于主导网络景观的通用模板设计的盛行，作者批评过分强调可用性和搜索引擎优化。内容的独特之处在于作者呼吁探索网页设计中除可用性之外的其他品质，强调创造力和个性的重要性。 （根据 19% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/79989</guid>
-      <pubDate>Mon, 18 Mar 2024 11:45:59 GMT</pubDate>
+      <title>在这篇发人深省的文章中，作者反思了他们对 K 船长不断变化的看法 [...]</title>
+      <link>https://t.me/hn_summary/80087</link>
+      <description><![CDATA[我不再爱柯克船长了
+在这篇发人深省的文章中，作者反思了他们对《星际迷航》中柯克船长的看法的变化，柯克船长曾经是儿时的英雄，现在却让人想起虐待的老板。作者深入研究了柯克在原著系列中不一致的形象，突出了该角色的黑暗和脆弱的一面。作者将柯克与现实生活中的老板进行了比较，探讨了有毒领导力对他们对这一标志性人物的看法的影响。这篇文章还谈到了庆祝欺凌作为领导力的复兴，以及辞掉一份糟糕工作的变革力量。一个令人惊讶的转折是 1980 年代 R&amp;B 歌曲“Kiss”的排名，为内容增添了有趣和意想不到的元素。]]></description>
+      <guid>https://t.me/hn_summary/80087</guid>
+      <pubDate>Mon, 18 Mar 2024 20:48:42 GMT</pubDate>
     </item>
     <item>
-      <title>在最近的一条推文中，Paul Graham 质疑 cookie 横幅的必要性，指出 [...]</title>
-      <link>https://t.me/hn_summary/79988</link>
-      <description><![CDATA[亲爱的 Paul Graham，没有 Cookie 横幅法 
-在最近的一条推文中，Paul Graham 质疑 cookie 横幅的必要性，并表示没有法律要求这样做。事实是，欧盟并不强制要求使用 cookie 横幅，但公司却强制要求。公司可以简单地避免完全跟踪或提供更用户友好的同意选项，而不是用侵入性横幅轰炸用户。 Stephan 是一位经验丰富的首席技术官和开发人员，他强调了 cookie 横幅带来的不必要的不​​便，并提出了更透明和用户友好的替代方案。最终，实施 cookie 横幅的选择权在于公司，而不是法律要求。现在是采取更加以用户为中心的数据隐私方法的时候了。]]></description>
-      <guid>https://t.me/hn_summary/79988</guid>
-      <pubDate>Mon, 18 Mar 2024 11:39:53 GMT</pubDate>
+      <title>英伟达宣布推出最强大的人工智能芯片，寻求成为一家平台公司。</title>
+      <link>https://t.me/hn_summary/80086</link>
+      <description><![CDATA[Nvidia 宣布其最强大的 AI 芯片，寻求成为一个平台
+英伟达宣布推出新一代人工智能芯片Blackwell系列，首款芯片是GB200 Grace Blackwell Superchip。这款新芯片为AI公司带来了显着的性能升级，与之前的H100芯片相比，AI性能提高了20 petaflops。 Blackwell GPU 包含一个专为基于 Transformer 的 AI（例如 ChatGPT）而设计的 Transformer 引擎。 Nvidia 还推出了名为 NIM 的创收软件，以便更轻松地在旧版 Nvidia GPU 上部署人工智能。该公司的目标是成为像微软或苹果一样的平台提供商，供其他公司构建软件。]]></description>
+      <guid>https://t.me/hn_summary/80086</guid>
+      <pubDate>Mon, 18 Mar 2024 20:44:38 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]随着大型语言模型的兴起，软件开发的未来正在不断发展[...]</title>
-      <link>https://t.me/hn_summary/79987</link>
-      <description><![CDATA[对软件开发未来的思考
-随着可以生成图像、文本和代码的大型语言模型 (LLM) 的兴起，软件开发的未来正在不断发展。虽然最初因错误而受到欢迎，但这些模型正在稳步改进。由于缺乏创造力而反对自动化任务的争论正在减弱。软件开发能力水平的框架强调了除编码之外涉及的各种任务。人工智能编码员最终可能会达到完全自动化的水平，但目前他们只是协助开发人员。内部监督的必要性仍然至关重要。商业用户可能会使用人工智能编码工具，但复杂的问题仍然需要熟练的软件开发人员。解决业务问题的市场巨大，确保了对软件开发人员的持续需求。正式的业务逻辑定义仍然至关重要，使软件开发人员能够适应不断发展的环境。]]></description>
-      <guid>https://t.me/hn_summary/79987</guid>
-      <pubDate>Mon, 18 Mar 2024 11:33:49 GMT</pubDate>
+      <title>令人惊讶的是，一项针对 20,000 多名成年人的研究发现，经过 8 小时的休息 [...]</title>
+      <link>https://t.me/hn_summary/80085</link>
+      <description><![CDATA[间歇性禁食会使心血管死亡风险增加 91%
+令人惊讶的是，一项针对 20,000 多名成年人的研究发现，遵循 8 小时限时饮食计划（一种间歇性禁食形式）与心血管死亡风险增加 91% 相关。这违背了人们普遍认为限时饮食可以改善心脏健康的观点。研究还发现，患有心脏病或癌症的人心血管死亡的风险增加。研究结果挑战了“较短的进食时间从长远来看有益”的观点，强调需要根据个人健康状况提出个性化饮食建议。该研究的局限性包括依赖自我报告的饮食信息并排除其他健康因素。]]></description>
+      <guid>https://t.me/hn_summary/80085</guid>
+      <pubDate>Mon, 18 Mar 2024 20:40:34 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 72 岁的 Louie 在 old.reddit.com 上分享了 32 条宝贵的人生教训。</title>
-      <link>https://t.me/hn_summary/79986</link>
-      <description><![CDATA[我今天72岁了
-72 岁时，Louie 在 old.reddit 上分享了 32 条宝贵的人生教训。 com。他强调善良比正确更重要，努力工作的价值以及感恩的力量。 Louie 鼓励终身学习、追求激情项目并选择自己的道路。他提醒读者放下嫉妒，进行自我反省，并优先考虑经验而不是物质财富。路易的智慧提醒人们，年龄会带来清晰和洞察力，他鼓励其他人找到自己的激情和人生目标。路易的话可以作为应对生活挑战和寻找成就感的指南。]]></description>
-      <guid>https://t.me/hn_summary/79986</guid>
-      <pubDate>Mon, 18 Mar 2024 11:22:43 GMT</pubDate>
+      <title>[媒体]以色列敦促国际法院不要下令采取新措施来解决 [...]</title>
+      <link>https://t.me/hn_summary/80084</link>
+      <description><![CDATA[以色列要求国际法院不要针对加沙迫在眉睫的饥荒下令采取新措施&lt; /a&gt;
+以色列敦促国际法院不要下令采取新措施来解决加沙迫在眉睫的饥荒，并以“道德上令人反感”为由驳回南非的请求。以色列否认故意在加沙造成人道主义苦难，并指责南非滥用程序，毫无根据地指控种族灭绝。救援机构报告称，对加沙 230 万人的援助受到严格限制，世界粮食计划署警告饥荒迫在眉睫。欧盟最高外交官谴责这场人为危机，称饥饿正在被用作战争武器。南非多次要求对以色列采取措施，但遭到抵制。]]></description>
+      <guid>https://t.me/hn_summary/80084</guid>
+      <pubDate>Mon, 18 Mar 2024 20:36:30 GMT</pubDate>
     </item>
     <item>
-      <title>通用汽车和本田等汽车的驾驶员报告保险费率上涨 [...]</title>
-      <link>https://t.me/hn_summary/79985</link>
-      <description><![CDATA[汽车正在监视您，导致保险费率更高
-通用汽车和本田等汽车的司机报告称，在他们的驾驶数据在他们不知情的情况下与保险公司共享后，他们的保险费率增加了。例如，在通用汽车的 OnStar 智能驾驶员系统收集了 Kenn Dahl 的驾驶习惯数据后，他的保险费用增加了 21%。这些数据包括行程时间、距离以及超速或紧急制动情况等详细信息。这种有争议的做法导致一些司机考虑提起诉讼或出售他们的汽车，斯巴鲁和起亚等其他汽车公司也在收集和共享司机数据。这个问题引发了人们对联网车辆时代隐私和同意的担忧。]]></description>
-      <guid>https://t.me/hn_summary/79985</guid>
-      <pubDate>Mon, 18 Mar 2024 11:02:32 GMT</pubDate>
+      <title>俄罗斯是如何制造导弹的？</title>
+      <link>https://t.me/hn_summary/80083</link>
+      <description><![CDATA[俄罗斯如何制造导弹？
+在我们的网站上了解俄罗斯导弹生产背后的秘密。我们的使命是发现隐藏的来源并将复杂的信息翻译成易于理解的语言。请继续关注即将发布的有关俄罗斯核能力、陆军武器、飞机生产和机床工业的报告。订阅我们的时事通讯以获取最新更新。探索俄罗斯导弹制造过程背后的争议和惊喜。]]></description>
+      <guid>https://t.me/hn_summary/80083</guid>
+      <pubDate>Mon, 18 Mar 2024 20:32:26 GMT</pubDate>
     </item>
     <item>
-      <title>在《哈佛商业评论》这篇发人深省的文章中，鼓励读者拥有自己的[...]</title>
-      <link>https://t.me/hn_summary/79984</link>
-      <description><![CDATA[掌控未来的自己
-在《哈佛商业评论》这篇发人深省的文章中，鼓励读者掌控自己的未来。关键是要承认过去、现在和未来的自己之间的差异，然后设定明确而具体的目标，成为你最想成为的人。发展与您想要的自我一致的身份叙述至关重要，因为您的身份驱动您的行为并最终塑造您的个性。通过表现出最好的自己并与他人分享您的故事，您可以积极塑造自己的未来。这一鼓舞人心的信息挑战读者积极努力成为理想的自己。]]></description>
-      <guid>https://t.me/hn_summary/79984</guid>
-      <pubDate>Mon, 18 Mar 2024 10:58:27 GMT</pubDate>
+      <title>[媒体]最高法院面临着关于政府干预界限的关键决定 [...]</title>
+      <link>https://t.me/hn_summary/80082</link>
+      <description><![CDATA[最高法院社交媒体案件涉及针对审查制度的虚假信息&lt; br /&gt;
+最高法院正面临关于政府干预社交媒体界限的关键决定，该案涉及虚假信息与审查制度。拜登政府推动消除有关 COVID-19 疫苗的错误信息引发了争议，批评者指责政府压制其不喜欢的观点。此案可能对公共卫生、选举公正和言论自由产生重大影响。保守派对审查制度的担忧引发了法律挑战，下级法院对政府与社交媒体平台的互动施加限制。最高法院现在必须澄清数字时代允许的说服与不允许的强制之间的界限。]]></description>
+      <guid>https://t.me/hn_summary/80082</guid>
+      <pubDate>Mon, 18 Mar 2024 20:28:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
