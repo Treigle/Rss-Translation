@@ -4,7 +4,7 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Wed, 20 Mar 2024 00:42:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2024 03:12:20 GMT</lastBuildDate>
     <item>
       <title>录音速度必须设置为 99.99%，才能阻止摄像机之间的不同步</title>
       <link>https://www.reddit.com/r/editors/comments/1bj01th/voice_recordings_have_to_be_set_to_9999_speed_to/</link>
@@ -64,7 +64,7 @@
     <item>
       <title>Adobe 库存预览消失</title>
       <link>https://www.reddit.com/r/editors/comments/1bip19q/disappearing_adobe_stock_previews/</link>
-      <description><![CDATA[我拿起了客户在 Resolve 中开始剪辑的纪录片，并且客户提供了一堆 Adob​​e Stock 预览图像，尽管它们不断消失已经下载了好几次了。预览是否有某种时间限制或其他因素在起作用？我从未在 Premiere 之外使用过 Adob​​e Stock，这实在是太奇怪了   由   提交/u/24framespersec   [链接] [评论]]]></description>
+      <description><![CDATA[我拿起了客户在 Resolve 中开始剪辑的一部纪录片，客户提供了一堆 Adob​​e Stock 预览图像，尽管它们不断消失已下载多次。预览是否有某种时间限制或其他因素在起作用？我从未在 Premiere 之外使用过 Adob​​e Stock，这实在是太奇怪了   由   提交/u/24framespersec   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1bip19q/disappearing_adobe_stock_previews/</guid>
       <pubDate>Tue, 19 Mar 2024 16:52:48 GMT</pubDate>
     </item>
@@ -85,7 +85,7 @@
     <item>
       <title>4 盘位 Thunderbolt NAS？</title>
       <link>https://www.reddit.com/r/editors/comments/1binxx8/4bay_thunderbolt_nas/</link>
-      <description><![CDATA[大家好！正在寻找 4 槽 Thunderbolt 3 NAS 设置。我找到了 QNAP 的 Thunderbolt 6 和 8 盘位选项，但想知道是否有 4 盘位选项。只有 4 个带有“pro”的托架，这有点奇怪的价值主张。诸如 TB3 + 10GBE 之类的功能，但想知道我是否找错了区域。 TIA！！！   由   提交/u/UnivitedSam   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！正在寻找 4 槽 Thunderbolt 3 NAS 设置。我找到了 QNAP 的 Thunderbolt 6 和 8 盘位选项，但想知道是否有 4 盘位选项。只有 4 个带有“pro”的托架，这有点奇怪的价值主张。诸如 TB3 + 10GBE 之类的功能，但想知道我是否找错了区域。 TIA!!!   由   提交/u/UnivitedSam   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1binxx8/4bay_thunderbolt_nas/</guid>
       <pubDate>Tue, 19 Mar 2024 16:09:02 GMT</pubDate>
     </item>
@@ -99,7 +99,7 @@
     <item>
       <title>OWC Thunderbay 4 到非托管网络 切换到以太网 可能吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1bimy7u/owc_thunderbay_4_to_umanaged_network_switch_to/</link>
-      <description><![CDATA[嗨！ 我正在使用 OWC Thunderbay 4 驱动器编辑一个大型项目，该驱动器通过 USB 连接到 M1 MacBook Pro具有千兆以太网端口的超级坞站。我还拥有一个 OWC 10gig 以太网转 Thunderbolt 4 适配器。  Thunderbay 驱动器放在我编辑的办公桌上，声音很大且分散注意力。所以想知道如果我把它带到另一个房间并将其连接到我的一个以太网插座是否会起作用？我有一个非托管网络交换机，可以在我家周围发送 6 类以太网。该交换机还有 2 个 10gig 端口，因此我可以将驱动器直接连接到交换机。 我刚刚使用从驱动器到以太网电缆到 OWC 的廉价以太网转 USB-C 适配器进行了测试以太网到 Thunderbolt 4 并且驱动器甚至无法打开，因此想知道是否是因为驱动器需要更快的连接，或者这种设置根本不起作用？ 有没有办法使这个工作？如果有必要，我想避免购买第二个以太网到 Thunderbolt 4 适配器，但如果这是唯一的方法并且它肯定有效，我会受到影响。 谢谢！   由   提交 /u/Kid_Shit_Kicker   [链接] [评论]]]></description>
+      <description><![CDATA[嗨！ 我正在使用 OWC Thunderbay 4 驱动器编辑一个大型项目，该驱动器通过 USB 连接到 M1 MacBook Pro具有千兆以太网端口的超级坞站。我还拥有一个 OWC 10gig 以太网转 Thunderbolt 4 适配器。  Thunderbay 驱动器放在我编辑的办公桌上，声音很大且分散注意力。所以想知道如果我把它带到另一个房间并将其连接到我的一个以太网插座是否会起作用？我有一个非托管网络交换机，可以在我家周围发送 6 类以太网。该交换机还有 2 个 10gig 端口，因此我可以将驱动器直接连接到交换机。 我刚刚使用从驱动器到以太网电缆到 OWC 的廉价以太网转 USB-C 适配器进行了测试以太网到 Thunderbolt 4 并且驱动器甚至无法打开，因此想知道是否是因为驱动器需要更快的连接，或者这种设置根本不起作用？ 有没有办法使这个工作？如果有必要，我想避免购买第二个以太网到 Thunderbolt 4 适配器，但如果这是唯一的方法并且它肯定有效，我可能会受到影响。 谢谢!!   由   提交 /u/Kid_Shit_Kicker   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1bimy7u/owc_thunderbay_4_to_umanaged_network_switch_to/</guid>
       <pubDate>Tue, 19 Mar 2024 15:28:17 GMT</pubDate>
     </item>
