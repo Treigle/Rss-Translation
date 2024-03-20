@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 20 Mar 2024 08:56:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2024 21:11:01 GMT</lastBuildDate>
     <item>
-      <title>庆祝 Curl 成立 26 周年，作者回顾了过去一年的改进和翻新 [...]</title>
-      <link>https://t.me/hn_summary/80355</link>
-      <description><![CDATA[Curl 今天 26 岁了
-庆祝curl成立26周年，作者回顾了过去一年为保持互联网传输基础的牢固而进行的改进和翻新。他们幽默地拿安装数量开玩笑，开玩笑地暗示安装数量为 80 亿，但也承认存在不确定性。作者重点介绍了 Curl 正在进行的工作以及对其持续成功的奉献精神，为又一年的进步举杯。]]></description>
-      <guid>https://t.me/hn_summary/80355</guid>
-      <pubDate>Wed, 20 Mar 2024 08:56:21 GMT</pubDate>
+      <title>[媒体]气候抗议的看法如何影响对气候行动的支持？</title>
+      <link>https://t.me/hn_summary/80472</link>
+      <description><![CDATA[气候抗议的看法如何影响对气候行动的支持？
+一项针对 400 名美国人进行的研究发现，针对化石燃料公司等应对气候变化负责的实体的非暴力公民不服从 (NVCD) 行动被认为比针对不相关实体的行动更合适。民主党人普遍认为这些行动比共和党人更合适，但两个团体都同意某些形式的公民不服从。后续实验表明，向美国人提供他们认为适当的 NVCD 形式会带来对气候运动的更大支持。该研究表明，了解人们如何看待不同的抗议行动对于为气候运动建立广泛的支持者基础至关重要。需要进一步研究来探索人口差异以及不同策略在气候运动中的有效性。]]></description>
+      <guid>https://t.me/hn_summary/80472</guid>
+      <pubDate>Wed, 20 Mar 2024 21:11:01 GMT</pubDate>
     </item>
     <item>
-      <title>在 jmduke.com 上的这篇文章中，作者讨论了捕获隐性知识的挑战 [...]</title>
-      <link>https://t.me/hn_summary/80354</link>
-      <description><![CDATA[使用奇怪的测试来捕获隐性知识
-在 jmduke.com 上的这篇文章中，作者讨论了在像 Buttondown 这样的复杂代码库中捕获隐性知识。他们强调了传统文档的局限性，并建议使用测试来捕获重要的步骤和约束。作者提供了如何将此方法应用于添加新 Django 模块和记录枚举值等任务的示例。他们强调测试驱动的不变量的自记录性质，并鼓励读者考虑测试是否可以在代码审查中发现问题。这种在代码中记录和执行规范的独特方法既实用又富有洞察力。]]></description>
-      <guid>https://t.me/hn_summary/80354</guid>
-      <pubDate>Wed, 20 Mar 2024 08:42:15 GMT</pubDate>
+      <title>[媒体]美国司法部正在考虑允许朱利安·阿桑奇认罪 [...]</title>
+      <link>https://t.me/hn_summary/80471</link>
+      <description><![CDATA[阿桑奇可能会根据认罪协议逍遥法外：报告
+美国司法部正在考虑允许朱利安·阿桑奇认罪，减少对机密信息处理不当的指控，这可能会让他无需前往美国即可获得自由。这项协议可能会结束他因 2010 年公布美国机密军事记录和外交电报而被英国引渡的长期法律斗争。阿桑奇的律师和司法部官员已经就可能的认罪协议进行了初步讨论，这为他提供了一线希望充满争议的维基解密创始人的希望。]]></description>
+      <guid>https://t.me/hn_summary/80471</guid>
+      <pubDate>Wed, 20 Mar 2024 21:09:54 GMT</pubDate>
     </item>
     <item>
-      <title>在 sethmlarson.dev 上的这篇文章中，我讨论了正则表达式字符“[...]</title>
-      <link>https://t.me/hn_summary/80353</link>
-      <description><![CDATA[正则表达式字符“$”并不意味着“end-of-”字符串”
-在这篇关于 sethmlarson.dev 的文章中，我讨论了Python 正则表达式模块中的正则表达式字符“$”。虽然“^”通常表示“字符串开头”，但“$”并不总是如预期的那样表示“字符串结尾”。在 Python 中，禁用多行模式后，“$”可以匹配字符串末尾或字符串末尾之前的尾随换行符。要在 Python 中匹配没有换行符的字符串末尾，可以使用“\z”或“\Z”而不是“$”。本文对不同平台如何处理此行为进行了比较，并提供了有效使用正则表达式的见解。]]></description>
-      <guid>https://t.me/hn_summary/80353</guid>
-      <pubDate>Wed, 20 Mar 2024 08:32:09 GMT</pubDate>
+      <title>[媒体]亚马逊表示其塑料包装可以回收。</title>
+      <link>https://t.me/hn_summary/80470</link>
+      <description><![CDATA[亚马逊表示其塑料包装可以回收。我们发现通常不是
+亚马逊的塑料包装声称可以通过商店回收计划进行回收，但美国环境部和美国 PIRG 的一项调查显示，大部分塑料包装最终都被扔进了垃圾填埋场、焚化炉或海外。该系统因持续生产一次性塑料并逃避责任而受到批评。像亿滋这样的公司正在逐步淘汰具有误导性的商店送货标签，而亚马逊在这个问题上保持沉默。尽管在减少塑料使用方面取得了一些进展，但环保倡导者敦促亚马逊采取更多措施来解决其每年产生的数亿磅一次性塑料废物。加州立法可能很快就会限制商店送货标签的使用，除非证明有效。]]></description>
+      <guid>https://t.me/hn_summary/80470</guid>
+      <pubDate>Wed, 20 Mar 2024 21:08:50 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]构建系统在开发领域经常被忽视，但它们是必不可少的[...]</title>
-      <link>https://t.me/hn_summary/80352</link>
-      <description><![CDATA[点菜构建系统：理论与实践（2020）
-构建系统在开发领域经常被忽视，但它们是每个开发人员使用的基本工具。在本文中，我们提出了一个用于开发和比较构建系统的独特框架，使我们能够通过组合现有组件来创建新系统。此修订版包含更多细节和关于实际应用的新部分。提供的可执行代码允许读者探索和实现这些概念。深入构建系统的世界，发现软件开发这一关键方面的新视角。]]></description>
-      <guid>https://t.me/hn_summary/80352</guid>
-      <pubDate>Wed, 20 Mar 2024 08:28:05 GMT</pubDate>
+      <title>[媒体]星舰还是独木舟：我们未来的适应将在哪里？</title>
+      <link>https://t.me/hn_summary/80469</link>
+      <description><![CDATA[星舰还是独木舟：我们未来的适应将在哪里？&lt; /a&gt;
+2015年，天文学家发现了TRAPPIST-1系统，其中有七颗地球大小的行星绕着一颗超冷矮星运行。这一发现引发了人们对《星舰与独木舟》一书的重新审视，该书比较了两艘船和两个人，弗里曼·戴森和他的儿子乔治，他们对未来有着截然不同的看法。著名的天体物理学家弗里曼设想了探索银河系的星际飞船，而热爱大自然的乔治则建造了皮划艇并住在树屋里。他们独特的视角和冒险突显了我们未来的适应将把我们引向何处的问题——通往星星还是自然世界。 （根据故事文本的 33% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/80469</guid>
+      <pubDate>Wed, 20 Mar 2024 21:07:45 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]世界气象组织在一份令人震惊的报告中透露，所有主要行业 [...]</title>
-      <link>https://t.me/hn_summary/80351</link>
-      <description><![CDATA[WMO警告称，随着主要指标突破图表，气候变化加速
-世界气象组织在一份令人震惊的报告中透露，气候变化的所有主要指标都达到了前所未有的水平，其中一些指标上升得如此之快，以至于“破纪录”。气候变化加剧的自然灾害给数百万人的生命造成了严重破坏，导致全球数十亿美元的经济损失。 WMO 2023 年全球气候状况报告描绘了气候变化步伐加快的严峻景象，强调迫切需要采取行动减轻其破坏性影响。]]></description>
-      <guid>https://t.me/hn_summary/80351</guid>
-      <pubDate>Wed, 20 Mar 2024 07:28:46 GMT</pubDate>
+      <title>Debian 13 和 Ubuntu 24.04 的官方 apt 存储库现在支持安装 r [...]</title>
+      <link>https://t.me/hn_summary/80468</link>
+      <description><![CDATA[官方 apt 存储库中的 rustup：从 Debian 13 和 Ubuntu 24.04 开始&lt; /a&gt;
+Debian 13 和 Ubuntu 24.04 的官方 apt 存储库现在支持使用命令“sudo apt install rustup”安装 rustup。对于 Windows 用户，安装过程涉及运行 rustup-init.exe，而 Unix 用户可以使用命令“curl --proto &#39;=https&#39; --tlsv1.2 -sSf https://sh.rustup.rs | sh。&quot;此外，用户可以通过将参数传递给 rustup-init 来自定义安装。需要注意的是，rustup 项目不维护安装过程中提到的任何软件包。对于那些喜欢手动安装的人，可以从 Rust 网站下载 rustup-init。]]></description>
+      <guid>https://t.me/hn_summary/80468</guid>
+      <pubDate>Wed, 20 Mar 2024 21:02:40 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]微软宣布将阻止俄罗斯公司使用其云服务 [...]</title>
-      <link>https://t.me/hn_summary/80350</link>
-      <description><![CDATA[微软现在阻止俄罗斯公司使用其云服务
-微软宣布，作为对该国制裁的一部分，它将阻止俄罗斯公司使用其云服务。预计亚马逊和谷歌也将效仿这一举措。俄罗斯公司被敦促转向当地服务提供商。这一决定并不令人意外，因为俄罗斯自入侵乌克兰以来一直面临经济制裁。继俄罗斯被从 SWIFT 金融交易处理系统中删除以及 Visa 和 MasterCard 退出后，这一最新发展被视为对俄罗斯市场的重大破坏。]]></description>
-      <guid>https://t.me/hn_summary/80350</guid>
-      <pubDate>Wed, 20 Mar 2024 07:06:38 GMT</pubDate>
+      <title>[媒体]苹果可能面临核心技术费和安全警告的麻烦 [...]</title>
+      <link>https://t.me/hn_summary/80467</link>
+      <description><![CDATA[Apple 可能因安全警告以及核心技术而陷入麻烦费用
+欧盟反垄断负责人表示，苹果可能因核心技术费和替代应用商店的安全警告而面临麻烦。核心技术费要求开发者每年每次安装向苹果支付 50 欧分，这可能会让流行应用程序的独立开发者破产。此外，苹果发出的阻止用户使用第三方应用商店的安全警告也被欧盟批评为“不明智”。玛格丽特·维斯塔格警告不要贬低竞争对手，并表示欧盟将调查这些做法。围绕苹果收费和警告的争议可能会导致监管机构进一步审查。]]></description>
+      <guid>https://t.me/hn_summary/80467</guid>
+      <pubDate>Wed, 20 Mar 2024 20:53:35 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]加入 Ashby，Y Combinator 2019 年冬季初创公司，因为我们目前正在招聘工程师 [...]</title>
-      <link>https://t.me/hn_summary/80349</link>
-      <description><![CDATA[Ashby (YC W19) 正在欧洲、中东和非洲地区招聘工程经理
-加入 Y Combinator 2019 年冬季初创公司 Ashby，因为我们目前正在 EMEA 地区招聘工程经理。我们的团队致力于突破界限并提供一流的工作。如果您是一位对技术和创新充满热情的才华横溢的领导者，这可能是您的绝佳机会。立即申请并成为令人兴奋和开创性的事物的一部分。加入我们 Ashby，成为塑造技术未来的团队的一员。立即前往 www.ashbyhq.com 申请。]]></description>
-      <guid>https://t.me/hn_summary/80349</guid>
-      <pubDate>Wed, 20 Mar 2024 07:02:34 GMT</pubDate>
+      <title>Micrograd-CUDA 是一个将 Andrej Karpathy 的小型自动微分引擎改编为 GPU 加速器的项目 [...]</title>
+      <link>https://t.me/hn_summary/80466</link>
+      <description><![CDATA[Micrograd-CUDA：调整 Karpathy 的微型自动差分引擎以实现 GPU 加速
+Micrograd-CUDA 是一个项目，它采用 Andrej Karpathy 的小型自动微分引擎，使用 CUDA 进行 GPU 加速。它旨在通过构建受 micrograd 启发的 GPU 加速的基于张量的自动差分来教授基本 CUDA。除了Python的标准库和CUDA之外，该项目没有任何依赖项。它的独特之处在于提供了一种在 GPU 上加速基于张量的自动差分的简单方法。该项目包括一个基本的 MLP 模型，带有用于矩阵乘法、批处理和未来优化计划的 CUDA 内核。该代码库正在开发中，但存在一些困难，特别是在 CUDA Tensor 数据操作和复制方面。]]></description>
+      <guid>https://t.me/hn_summary/80466</guid>
+      <pubDate>Wed, 20 Mar 2024 20:50:31 GMT</pubDate>
     </item>
     <item>
-      <title>联想宣布推出最新的商务笔记本电脑 ThinkPad L 系列和 Thin [...]</title>
-      <link>https://t.me/hn_summary/80348</link>
-      <description><![CDATA[联想宣布推出 ThinkPad，以实现“更好的可持续性和更长的可修复性”
-联想宣布推出最新商务笔记本电脑ThinkPad L系列和ThinkPad X13系列，展现创新和可持续发展。这些新型号具有增强的可修复性、更多的回收材料、高效的电源管理以及具有内置安全性的强大处理能力。这些笔记本电脑提供各种外形尺寸，包括 13 英寸或 13 英寸二合一、14 英寸，并在 ThinkPad L16 中引入了新的 16 英寸显示屏。这些笔记本电脑配备可选的更高分辨率摄像头、改进的散热性能以及对 Wi-Fi 7 和 4G LTE 或 5G 的支持，有望增强用户体验。此外，联想致力于可持续发展和可访问性，具有改进的可修复性、显示亮度的新技术以及包容性的触觉标记等功能。这些笔记本电脑中包含英特尔酷睿 Ultra 处理器和 AMD 锐龙 PRO 7030 系列处理器，可提供增强的人工智能功能，从而提高性能和效率。联想致力于可持续发展、可修复性和尖端技术，使其在行业中脱颖而出。 （根据 59% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/80348</guid>
-      <pubDate>Wed, 20 Mar 2024 06:58:31 GMT</pubDate>
+      <title>[媒体]该项目提供了包含 AI 生成内容的庞大网站黑名单（约 850 个）[...]</title>
+      <link>https://t.me/hn_summary/80465</link>
+      <description><![CDATA[包含 AI 为 uBlock Origin 和 uBlacklist 生成的内容的黑名单
+该项目提供了包含 AI 生成内容的巨大网站黑名单（约 850 个），用于使用 uBlock Origin 或 uBlacklist 清理 Google Search、DuckDuckGo 和 Bing 等图像搜索引擎。作者为这两个扩展提供了简单的安装说明，并包括一个主阻止列表和一个单独的“核”列表，用于包含真实图像和人工智能生成图像的网站。作者还提供了将网站列入白名单的技巧，并解释了 uBlock Origin 和 uBlacklist 实现之间的技术差异。此外，作者还提供了用于进一步定制和清理互联网的资源。]]></description>
+      <guid>https://t.me/hn_summary/80465</guid>
+      <pubDate>Wed, 20 Mar 2024 20:49:27 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]专利流氓是我们经济的主要威胁，造成数十亿美元的损失和潜在的损失 [...]</title>
-      <link>https://t.me/hn_summary/80347</link>
-      <description><![CDATA[EFF：告诉国会：我们不能再承受更多不良专利&lt; /a&gt;
-专利流氓是对我们经济的主要威胁，造成数十亿美元的损失，并可能因其侵权要求而毁掉小公司。 2014 年，最高法院的一项裁决开创了打击专利流氓的先例，但现在 PERA 和 PREVAIL 两项法案威胁要撤销这些保护。参议员汤姆·蒂利斯和克里斯·库恩斯正在推动这些法案，但我们需要您的帮助来阻止它们。和我们一起告诉国会，我们不能再承受更多的不良专利。]]></description>
-      <guid>https://t.me/hn_summary/80347</guid>
-      <pubDate>Wed, 20 Mar 2024 06:54:25 GMT</pubDate>
+      <title>[媒体] 准备好使用乐高全新龙与地下城套装“红龙的 [...]</title>
+      <link>https://t.me/hn_summary/80464</link>
+      <description><![CDATA[乐高 3,745 块 D&amp;D 套装带有自己的可玩冒险
+准备好使用乐高全新龙与地下城套装“红龙的故事”来一场史诗般的冒险吧，该套装包含 3,745 块积木和六名小人仔冒险家，将对抗可怕的龙“灰嚎”。该套装包括标志性的 D&amp;D 怪物，如眼魔、猫头鹰和凝胶立方体，以及供您的小人仔探索的酒馆、塔楼和地牢。真正独特的是，乐高正在发布一本可以与该套装一起玩的冒险书，乐高内部人士将于 4 月 1 日发售，其他所有人将于 4 月 4 日发售。另外，如果这本书不是您的风格，您可以使用该套件进行您自己的自制活动。如果您在 4 月 1 日至 7 日期间订购，请不要错过获得免费乐高模仿骰子盒的机会。]]></description>
+      <guid>https://t.me/hn_summary/80464</guid>
+      <pubDate>Wed, 20 Mar 2024 20:25:17 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Open Salamander 是一款适用于 Windows 的两面板文件管理器，最初是 [...]</title>
-      <link>https://t.me/hn_summary/80346</link>
-      <description><![CDATA[Open Salamander 是一款快速可靠的 Windows 两面板文件管理器
-Open Salamander 是一款适用于 Windows 的两面板文件管理器，最初由 Petr Šolín 于 1997 年开发，名为 Servant Salamander。该项目后来更名为 Altap Salamander，并最终于 2023 年作为 Open Salamander 5.0 开源。该项目的独特之处在于它是一个纯WinAPI应用程序，不使用任何MFC等框架。它欢迎贡献并提供各种功能和插件，尽管某些插件可能需要更新或替换。 Open Salamander 根据 GPLv2 及更高版本获得许可。]]></description>
-      <guid>https://t.me/hn_summary/80346</guid>
-      <pubDate>Wed, 20 Mar 2024 05:20:58 GMT</pubDate>
+      <title>[媒体]Nvidia 推出了 Blackwell GPU 架构，旨在巩固其 [...]</title>
+      <link>https://t.me/hn_summary/80463</link>
+      <description><![CDATA[Nvidia 通过 1,200W Blackwell GPU 掀起 AI 热潮
+Nvidia 推出了 Blackwell GPU 架构，旨在巩固其在人工智能基础设施领域的领导者地位。新芯片承诺显着提高性能，顶级规格的 Blackwell 芯片比前代芯片快 5 倍。 Blackwell GPU 采用创新技术，两个受十字线限制的计算芯片通过高带宽接口进行通信。这些 GPU 的功率和散热要求很高，能够在 700W 到 1,200W 之间运行，具体取决于 SKU 和冷却方法。 Nvidia 的 GB200 Superchip 将 72 核 CPU 与两个 Blackwell GPU 结合在一起，提供令人印象深刻的性能和内存容量。 AI基础设施市场的竞争非常激烈，英特尔、AMD以及Cerebras等初创公司都在争夺市场份额。尽管英伟达占据主导地位，但快速发展的人工智能加速器领域仍然面临挑战。 （根据 91% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/80463</guid>
+      <pubDate>Wed, 20 Mar 2024 20:14:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
