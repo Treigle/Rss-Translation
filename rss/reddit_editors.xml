@@ -4,7 +4,28 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Fri, 22 Mar 2024 15:10:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Mar 2024 18:13:32 GMT</lastBuildDate>
+    <item>
+      <title>职位名称</title>
+      <link>https://www.reddit.com/r/editors/comments/1bl3yid/position_title/</link>
+      <description><![CDATA[我作为视频制作人在我的公司工作了 4 年。我现在的职位名称是视频设计师，我负责视频编辑和动态图形创作。但在过去 3 年里，我制作的动态图形比传统视频编辑器要多得多，完全在 After Effects 中制作 2-3 分钟的视频动画。我的问题是：什么职位名称适合我的工作？我仍然在 Premiere Pro 中进行大量编辑，但我想说现在 70-80% 是动态图形。动画设计师还在做视频编辑吗？我感觉自己是万事通，因为我是这家公司唯一的视频制作人，所以我不确定我所做的事情是否有一个更通用的标题。任何和所有的想法都有帮助，谢谢！！   由   提交/u/gretty1738  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1bl3yid/position_title/</guid>
+      <pubDate>Fri, 22 Mar 2024 16:51:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>PAR 2.0 4k 导出问题</title>
+      <link>https://www.reddit.com/r/editors/comments/1bl31d8/par_20_4k_export_problems/</link>
+      <description><![CDATA[大家好，我们最新的短片遇到了一个问题。 该影片以 2.0 变形像素长宽比拍摄，并且我用 DOP 想要的框架编辑了这个。一切都很顺利，编辑完成，颜色分级和视觉效果完成，我拿起素材并再次复制所有变换，现在导出最终副本。 分辨率是 4096x1716 DCP Scope 格式，我尝试了两者Premiere 中的 PAR 1.0 Square Pixels 导出设置以及 PAR 1.33 变形设置和 2.0 设置。导出后在经典媒体播放器上看起来不错。 那么问题出在哪里？问题是当我将视频上传到 vimeo 或 google Drive 时。当您暂停或快进或快退时，帧会发生移动，有时还会闪烁（请参见示例）。这很奇怪，因为以前未分级的镜头从来没有出现过问题。我查看了原始素材和编辑后的素材的属性，但设置是相同的（我将素材作为具有源分辨率和源设置的源分辨率的单个剪辑拾取）。 你们中有人遇到过此类问题吗？前？我正在考虑使用与我的框架相匹配的信箱导出影片。我不知道这是否是正确的方法。 系统规格： Ryzen 9 5600x、3060 RTX 12 GB、64 GB Ram 软件：  Adob​​e Premiere pro 用于编辑，Davinci Resolve 用于调色 素材规格： Apple Prores 4444、Anamorphic 2.0、4K &lt;!-- SC_ON - -&gt;  由   提交 /u/RavacholHenry   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1bl31d8/par_20_4k_export_problems/</guid>
+      <pubDate>Fri, 22 Mar 2024 16:12:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>AVID - 如何从右到左调整叠加？</title>
+      <link>https://www.reddit.com/r/editors/comments/1bl2rfz/avid_how_to_justify_overlays_right_to_left/</link>
+      <description><![CDATA[正在处理一些纪录片的交付工作，后期制作公司要求在屏幕右侧叠加源剪辑名称和源时间码。 我似乎不知道如何让它工作，特别是源剪辑名称的长度根据剪辑而变化。在时间码生成器效果中，我可以移动源剪辑名称叠加的位置，使其与屏幕右侧对齐，但对于每个新剪辑，文本仍然从左到右填充，因此如果下一个剪辑名称较长则它会向右滚出屏幕，如果较短则它会漂浮在帧的中心。 是否有一种方法可以将显示设置为向右对齐，以便每个新剪辑都会填充空间从右侧，而不是从左侧？ 系统规格： Apple M2 Max • 64GB RAM • Sonoma 14.0 运行 Avid MC 2023.8.2  在 DNxHRLB 离线编解码器中处理各种不同的素材类型 ​  &amp;# 32；由   提交 /u/NapoleonsPocket   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1bl2rfz/avid_how_to_justify_overlays_right_to_left/</guid>
+      <pubDate>Fri, 22 Mar 2024 16:01:38 GMT</pubDate>
+    </item>
     <item>
       <title>Izotope Trash 可以在 Pr 或任何其他 NLE 上工作吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1bl10xb/will_izotope_trash_work_on_pr_or_any_other_nle/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[大家好。几周前，我作为一家公司营销部门的内容创建者的职位结束了。我花了近 4 个月的时间为 Instagram、TikTok 和他们想要的一些视频课程制作了材料，所以我不希望在一段时间内为他们工作。 所以，当我寻找另一个职位时，我正在考虑创建一个 Fiverr 帐户并提供一些编辑服务。 值得吗？我想听听使用该网站或类似网站的人的经验，因为我有点担心内容质量、市场、定价等。 您能分享您的看法吗？谢谢！   由   提交 /u/Danimally   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1bkiuav/thinking_about_creating_a_fiverr_page_is_it_worth/</guid>
       <pubDate>Thu, 21 Mar 2024 22:01:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么我的镜头看起来像垃圾</title>
-      <link>https://www.reddit.com/r/editors/comments/1bkednw/why_does_my_footage_look_like_crap/</link>
-      <description><![CDATA[最近用我的 FX6 在 PGA 赛事中拍摄。那是一个寒冷多云的日子，但我认为我的色温和曝光设置正确。使用 SmallHD 显示器通过 Mark Bone 的 Canon Cinema LUT 进行预览。当我尝试编辑时，我的所有颜色要么浑浊，要么褪色。看起来我并没有曝光过度（尽管天空在镜头中被吹掉了）。任何有关下次如何拍摄或评分的建议将不胜感激。 TIA。 这是一些片段。 JPG ​ Final Cut Pro X 10.7.1 Sony FX-6 S-Log3 SmallHD 显示器 Mark Bone Cinema LUT Apple MacBook Pro M1 Sonoma 14.4 ​   由   提交 /u/bayoyong   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1bkednw/why_does_my_footage_look_like_crap/</guid>
-      <pubDate>Thu, 21 Mar 2024 19:00:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们专业人士的定期 Mod 请求：请签到并向在“询问任何事情”和“职业”主题上发帖的人员提供建议。</title>
-      <link>https://www.reddit.com/r/editors/comments/1bkbfi5/regular_mod_request_of_our_professionals_please/</link>
-      <description><![CDATA[我们有大量专业人士访问此 Reddit 子版块 - 还有许多人试图成为该领域的专业人士。 p&gt; 我们要求我们的专业人员每周一次检查我们的“询问任何问题”和“职业”线程，并提供帮助！ 这些可以在新 Reddit 子版块的菜单区域或通过官方客户端找到。 需要明确的是 - 我们正在谈论子顶部的每周链接。 https://i.imgur.com/I19zmc2.png  这个想法是，你进去并为以下方面提供有用的建议：  “问任何问题”人群 寻求职业建议的人。  谢谢（不在这里，请那些帖子！） ​ 询问任何话题 职业主题&lt; /p&gt;   由   提交 /u/AutoModerator   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1bkbfi5/regular_mod_request_of_our_professionals_please/</guid>
-      <pubDate>Thu, 21 Mar 2024 17:00:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>LUT 的首映性能问题：应用方法重要吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/1bkaqr0/premiere_performance_issues_with_luts_does/</link>
-      <description><![CDATA[试图弄清楚这是否是一个错误与某些技术差异。 我有 1920x1080p 序列的 6K BRaw 素材。 BRaw 素材连接到 1080p ProRes 代理媒体。我正在运行超过 10 GbE 的服务器，读取/写入速度约为 600-700。 iMac Pro。 Premiere 2023 当我将 LUT 作为 Lumetri Color 的效果应用到剪辑本身时，我遇到了性能播放问题（我想使用 Global FX Mute 打开/关闭）。它会导致实时播放时出现大量丢帧，在某些情况下不实用。例如，如果我打开了某些窗口，例如颜色和范围，则播放效果会很糟糕。 但是，将 LUT 应用于素材上方的调整图层到目前为止问题为零。在任何情况下，视频播放效果都很好。  这是一个故障吗？或者 LUT 在这些情况下的应用是否有所不同？尽管将其作为剪辑效果，但我可以看到它以某种方式在 6K 帧大小上应用了该效果，并且有点多。当调整层刚刚应用超过 1080p 序列帧大小时。   由   提交 /u/FrankPapageorgio   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1bkaqr0/premiere_performance_issues_with_luts_does/</guid>
-      <pubDate>Thu, 21 Mar 2024 16:31:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
