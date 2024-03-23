@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 23 Mar 2024 03:13:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Mar 2024 06:17:31 GMT</lastBuildDate>
     <item>
       <title>使用本地 API 的 GUI 有声读物/TTS 生成器（基于 XTTS）</title>
       <link>https://www.reddit.com/r/opensource/comments/1blg1f7/a_gui_audiobook_tts_generator_working_with_local/</link>
@@ -85,7 +85,7 @@
     <item>
       <title>创建商业产品的开源版本的合法性</title>
       <link>https://www.reddit.com/r/opensource/comments/1bkbbde/legality_of_creating_open_source_version_of_a/</link>
-      <description><![CDATA[我的一个想法引发了一些问题。这是我的“垃圾机器人”这让我想起了这一点，所以我在这里用它作为例子。 Litter Robot 拥有筛选猫砂（旋转浴缸）方法的专利。 现在显然我可以我不会出售以任何方式使用它的产品，但做一些建模、3D 打印零件以及使用 arduino 之类的东西来控制电路会相当容易。 如果我只这样做的话对于我自己来说，没有人会知道，但即使公司发现了，也可能不会有任何法律挑战，因为没有造成金钱损失。 如果在我制作模型后，我发布了计划作为开源，以便其他人可以便宜地 DIY 吗？ 这会被视为侵犯他们的专利吗？ 自从开源项目以来，Litter Robot 会对我提起民事诉讼吗？可能会让他们失去客户吗？   由   提交 /u/loadnurmom   [链接] [评论]]]></description>
+      <description><![CDATA[我的一个想法引发了一些问题。这是我的“垃圾机器人”这让我想起了这一点，所以我在这里用它作为例子。 Litter Robot 拥有筛选猫砂（旋转浴缸）方法的专利。 现在显然我可以我不会出售以任何方式使用它的产品，但做一些建模、3D 打印零件以及使用 arduino 之类的东西来控制电路会相当容易。 如果我只这样做的话对于我自己来说，没有人会知道，但即使公司发现了，也可能不会有任何法律挑战，因为没有造成金钱损失。 如果在我制作模型后，我发布了计划作为开源，以便其他人可以便宜地 DIY 吗？ 这会被视为侵犯他们的专利吗？ 自从开源项目以来，Litter Robot 会对我提起民事诉讼吗？可能会失去客户？   由   提交 /u/loadnurmom   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bkbbde/legality_of_creating_open_source_version_of_a/</guid>
       <pubDate>Thu, 21 Mar 2024 16:55:37 GMT</pubDate>
     </item>
@@ -104,11 +104,11 @@
       <pubDate>Thu, 21 Mar 2024 07:42:28 GMT</pubDate>
     </item>
     <item>
-      <title>Redis 采用双源可用许可 |雷迪斯</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bjx7fk/redis_adopts_dual_sourceavailable_licensing_redis/</link>
-      <description><![CDATA[       由   提交 /u/rnmkrmn   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bjx7fk/redis_adopts_dual_sourceavailable_licensing_redis/</guid>
-      <pubDate>Thu, 21 Mar 2024 03:37:21 GMT</pubDate>
+      <title>推荐开源会计和税务软件？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bjwc4a/recommend_opensource_accounting_tax_software/</link>
+      <description><![CDATA[嗨！ 有人能为小型企业（公司）推荐一款像样的开源/Linux 会计软件吗？可以是本地/基于云的。似乎大多数开源会计软件都缺乏税务报告和强大的工资单。主要需求是：  不同项目的时间跟踪功能 工资功能 直接存款可选，不是必需的 &lt; /li&gt; 不同项目的费用跟踪 税务报告（吐出 940/941/1120s 等表格，无需我手动填写这些表格） 能够生成财务报表（损益表、资产负债表、现金流量表） 能够生成通用文件格式，以便将来导入到其他软件中，例如 QB  我简要地了解了但乍一看似乎都不符合标准：Frappe、GnuCash、OpenMiracle、LedgerSMB、GNUHata、iDempiere、Apache OFBiz、Akaunting、GoDBLedger 谢谢！   由   提交/u/_lOOOl_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bjwc4a/recommend_opensource_accounting_tax_software/</guid>
+      <pubDate>Thu, 21 Mar 2024 02:53:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
