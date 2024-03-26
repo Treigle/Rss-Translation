@@ -4,9 +4,30 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Tue, 26 Mar 2024 10:57:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Mar 2024 12:18:41 GMT</lastBuildDate>
     <item>
-      <title></title>
+      <title>安全使用区块链帐户密码的提示</title>
+      <link>https://www.reddit.com/r/programming/comments/1bo5x65/tips_to_safely_use_a_passphrase_for_a_blockchain/</link>
+      <description><![CDATA[ 由   提交/u/chloecarney10   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bo5x65/tips_to_safely_use_a_passphrase_for_a_blockchain/</guid>
+      <pubDate>Tue, 26 Mar 2024 11:49:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>程序员预防背痛的 10 项基本练习</title>
+      <link>https://www.reddit.com/r/programming/comments/1bo54ch/10_essential_exercises_for_programmers_to_prevent/</link>
+      <description><![CDATA[ 由   提交/u/pinkpen_net  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bo54ch/10_essential_exercises_for_programmers_to_prevent/</guid>
+      <pubDate>Tue, 26 Mar 2024 11:03:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>onecodecamp.com</title>
+      <link>https://www.reddit.com/r/programming/comments/1bo4w8j/onecodecampcom/</link>
+      <description><![CDATA[ 由   提交 /u/Initial-Syllabub-867   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bo4w8j/onecodecampcom/</guid>
+      <pubDate>Tue, 26 Mar 2024 10:50:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>从哪里开始？</title>
       <link>https://www.reddit.com/r/programming/comments/1bo4jyv/where_to_begin/</link>
       <description><![CDATA[我一直想学习编程/webdev，但我不知道从哪里开始。我知道网上并不缺乏资源，但资源的数量实在是太多了，每种说法都从不同的地方开始。谁能指出我正确的方向吗？   由   提交/u/papayaboy66  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1bo4jyv/where_to_begin/</guid>
@@ -76,7 +97,7 @@
       <pubDate>Tue, 26 Mar 2024 07:51:47 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>技术负责人讲解 Godot 源代码 02：内存管理</title>
       <link>https://www.reddit.com/r/programming/comments/1bo26kh/godot_source_code_explained_by_technical_lead_02/</link>
       <description><![CDATA[ 由   提交/u/mariuz  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1bo26kh/godot_source_code_explained_by_technical_lead_02/</guid>
@@ -88,27 +109,6 @@
       <description><![CDATA[ 由   提交 /u/Ragulram   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1bo1sdc/mastering_full_stack_development_roadmap_to/</guid>
       <pubDate>Tue, 26 Mar 2024 07:19:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么不告诉人们“简单地”使用 pyenv、poetry 或 anaconda</title>
-      <link>https://www.reddit.com/r/programming/comments/1bo1ikc/why_not_tell_people_to_simply_use_pyenv_poetry_or/</link>
-      <description><![CDATA[ 由   提交 /u/Alexander_Selkirk   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bo1ikc/why_not_tell_people_to_simply_use_pyenv_poetry_or/</guid>
-      <pubDate>Tue, 26 Mar 2024 07:01:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>减轻 Python 打包之痛</title>
-      <link>https://www.reddit.com/r/programming/comments/1bo1eig/relieving_your_python_packaging_pain/</link>
-      <description><![CDATA[ 由   提交 /u/Alexander_Selkirk   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bo1eig/relieving_your_python_packaging_pain/</guid>
-      <pubDate>Tue, 26 Mar 2024 06:54:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么我们在 SwissBorg 押注 Scala</title>
-      <link>https://www.reddit.com/r/programming/comments/1bo0jdm/why_we_bet_on_scala_at_swissborg/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bo0jdm/why_we_bet_on_scala_at_swissborg/</guid>
-      <pubDate>Tue, 26 Mar 2024 05:56:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
