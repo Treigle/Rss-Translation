@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 31 Mar 2024 21:04:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 09:11:32 GMT</lastBuildDate>
     <item>
-      <title>[媒体]Ocrs 是一个 Rust 库和 CLI 工具，设计用于使用 Opt [...]</title>
-      <link>https://t.me/hn_summary/82250</link>
-      <description><![CDATA[Ocrs：用于从图像中提取文本的 Rust 库和 CLI 工具
-Ocrs 是一个 Rust 库和 CLI 工具，设计用于使用光学字符识别 (OCR) 从图像中提取文本。该项目旨在创建一个现代 OCR 引擎，该引擎能够以最少的预处理在各种类型的图像上运行良好，易于在不同平台上编译和运行，并在开放数据集上进行训练。它的与众不同之处在于，它在管道中广泛使用机器学习，使用在 PyTorch 中训练并使用 RTen 引擎执行的神经网络模型。该项目目前支持拉丁字母，计划将来增加对更多语言的支持。该项目处于早期预览阶段，与商业 OCR 引擎相比，预计会出现更多错误。]]></description>
-      <guid>https://t.me/hn_summary/82250</guid>
-      <pubDate>Sun, 31 Mar 2024 21:04:34 GMT</pubDate>
+      <title>标题驱动的发展</title>
+      <link>https://t.me/hn_summary/82320</link>
+      <description><![CDATA[标题驱动开发
+www.spakhm.com 上的“头条驱动开发”介绍交付软件项目的独特方法。通过将项目分解为简洁的标题并积极努力在每个标题的最后期限内完成任务，团队可以有效地确定优先顺序并传达进展情况。这种方法利用人类处理变化的方式和截止日期效应来简化开发和交付。通过一次只关注一个标题并削减不必要的功能，团队可以有效地交付项目，而不需要传统的敏捷方法。这种有争议但有效的方法挑战了现状，并为项目管理提供了新的视角。]]></description>
+      <guid>https://t.me/hn_summary/82320</guid>
+      <pubDate>Mon, 01 Apr 2024 09:11:32 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 欢迎来到 Taws - Amiga 工作台！</title>
-      <link>https://t.me/hn_summary/82249</link>
-      <description><![CDATA[Taws – Amiga 工作台
-欢迎来到 Taws - Amiga 工作台！该网站致力于 Amiga 的所有内容，重点关注标志性的 Workbench 操作系统。探索 Amiga Workbench 的历史、特性和功能，并了解它如何彻底改变计算世界。从可定制的界面到强大的多任务处理功能，Amiga Workbench 仍然是复古计算爱好者喜爱的平台。加入我们，深入探索 Amiga 的世界，庆祝这一突破性操作系统的遗产。无论您是经验丰富的 Amiga 用户还是新手，这里都能满足每个人的需求。立即探索 Taws，体验 Amiga Workbench 的魔力！]]></description>
-      <guid>https://t.me/hn_summary/82249</guid>
-      <pubDate>Sun, 31 Mar 2024 20:53:29 GMT</pubDate>
+      <title>[媒体]先生，别那么快。</title>
+      <link>https://t.me/hn_summary/82319</link>
+      <description><![CDATA[别那么快，傅立叶先生
+离散傅里叶变换 (DFT) 是现代计算中的关键算法，用于图像和音频处理、机器学习和数据压缩等各种应用。然而，它往往没有得到很好的解释，让许多人感到困惑。在本文中，作者旨在通过以简单易懂的方式分解 DFT 的工作原理来揭开 DFT 的神秘面纱。作者通过旋转手臂绘制形状和动画等类比，解释了DFT如何将时域波形转换为频域数据。文章还深入探讨了 DFT 的局限性，例如奈奎斯特频率和频率分离问题。总的来说，本文对 DFT 算法提供了清晰而富有洞察力的解释。 （根据 49% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/82319</guid>
+      <pubDate>Mon, 01 Apr 2024 08:56:25 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Mistral-7B-Instruct-v0.2 大型语言模型 (LLM) 是一个经过微调的指令 [...]</title>
-      <link>https://t.me/hn_summary/82248</link>
-      <description><![CDATA[米斯特拉尔 7B v0.2
-Mistral-7B-Instruct-v0.2 大语言模型 (LLM) 是 Mistral-7B-v0.2 的指令微调版本，具有 32k 上下文窗口、1e6 的绳索 -theta，并且无滑动窗口注意。要利用指令微调，提示应包含在 INST 和 /INST 标记中。该模型展示了令人印象深刻的性能，但缺乏调节机制，促使团队寻求社区的意见来实施护栏以实现更受控制的输出。 Mistral AI 团队由一群致力于推进语言模型的多元化人员组成。为了排除故障，可能需要从源头安装变压器。]]></description>
-      <guid>https://t.me/hn_summary/82248</guid>
-      <pubDate>Sun, 31 Mar 2024 20:48:24 GMT</pubDate>
+      <title>现在，德国 18 岁以上成年人吸食大麻是合法的，允许持有最多 25 克大麻 [...]</title>
+      <link>https://t.me/hn_summary/82318</link>
+      <description><![CDATA[吸食大麻现在在德国合法
+现在，德国 18 岁以上成年人吸食大麻是合法的，允许拥有最多 25 克干大麻并在家中种植最多三种植物。新法律旨在打击隐藏市场并保护年轻人免受受污染的大麻的侵害。然而，批评者担心，更容易获得大麻将使青少年的大麻使用正常化并增加。政府计划对年轻人进行风险教育，但一些人怀疑媒体宣传的有效性。随着德国在大麻合法化这一有争议的领域中前进，世界各地的观察家将密切关注德国新立法的影响。]]></description>
+      <guid>https://t.me/hn_summary/82318</guid>
+      <pubDate>Mon, 01 Apr 2024 08:51:20 GMT</pubDate>
     </item>
     <item>
-      <title>厌倦了被 RSS 源淹没？</title>
-      <link>https://t.me/hn_summary/82247</link>
-      <description><![CDATA[显示 HN：RSS 过滤器
-厌倦了被 RSS 源淹没？隆重推出 rssfilter，这是一种使用机器学习根据您阅读的内容推荐文章的工具。只需上传您的 OPML 文件并让它完成过滤噪音的工作。告别无休止的滚动，迎接更加个性化的阅读体验。请访问 rssfilter.sgn.space 并开始享受今天有一个更精心策划的提要。欢迎提供反馈，因此如有任何问题或建议，请随时与我们联系。]]></description>
-      <guid>https://t.me/hn_summary/82247</guid>
-      <pubDate>Sun, 31 Mar 2024 20:44:20 GMT</pubDate>
+      <title>本文深入研究了超级任天堂的硬件组件，重点关注 [...]</title>
+      <link>https://t.me/hn_summary/82317</link>
+      <description><![CDATA[超级任天堂之心
+本文深入研究了超级任天堂的硬件组件，重点关注 CLK 发生器在设定系统中各种处理器的速度方面的重要性。作者探讨了文档中有关振荡器数量和频率的差异，发现了调节 CPU/PPU 频率的可变电容器。本文还讨论了使用分频器创建新时钟以及 SYS-CLK 系列在允许盒式磁带嵌入增强芯片方面的重要性。有关 StarFox 和 Megaman 2 等特定游戏的琐事为技术分析增添了独特的触感。]]></description>
+      <guid>https://t.me/hn_summary/82317</guid>
+      <pubDate>Mon, 01 Apr 2024 08:14:06 GMT</pubDate>
     </item>
     <item>
-      <title>在数字时代，身份和隐私是必须受到保护的基本人权。</title>
-      <link>https://t.me/hn_summary/82246</link>
-      <description><![CDATA[保护身份和隐私：数字时代的基本人权
-在数字时代，身份和隐私是必须受到保护的基本人权。在联合国人权日 75 周年即将到来之际，反思这些权利的重要性至关重要。身份对于自我表达和参与社会至关重要，而隐私则确保对个人信息的控制。保护这些权利是一项巨大的挑战，需要倡导、透明度和强有力的数据保护法。作者 Hannah Sutor 是数字身份和隐私的热情倡导者，她邀请其他人与她一起为所有人创造一个更安全的数字环境。]]></description>
-      <guid>https://t.me/hn_summary/82246</guid>
-      <pubDate>Sun, 31 Mar 2024 20:38:17 GMT</pubDate>
+      <title>[媒体] 研究人员最近发现了 xz Utils 中的后门，这是一种广泛使用的数据压缩 [...]</title>
+      <link>https://t.me/hn_summary/82316</link>
+      <description><![CDATA[我们对几乎感染全世界的 xz Utils 后门了解多少&lt; /a&gt;
+研究人员最近发现了 xz Utils 中的后门，xz Utils 是 Linux 和类 Unix 系统中广泛使用的数据压缩实用程序。该后门几乎被合并到主要的 Linux 发行版中，允许使用 root 权限进行远程访问。攻击者使用用户名 JiaT575，随着时间的推移进行了微妙的更改以引入后门。这次攻击非常复杂，针对特定系统并使用巧妙的技术来隐藏自己。贾坦的身份仍然是个谜，引发了人们对开源软件安全性的担忧。此事件凸显了供应链攻击的潜在风险以及彻底的代码审查流程的重要性。]]></description>
+      <guid>https://t.me/hn_summary/82316</guid>
+      <pubDate>Mon, 01 Apr 2024 08:08:01 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌找到了一种方法来破坏 Invidious，一个流行的 YouTube 前端，导致视频播放 [...]</title>
-      <link>https://t.me/hn_summary/82245</link>
-      <description><![CDATA[YouTube：Google 找到了破解 Invidious 的方法 
-谷歌找到了一种方法来破坏流行的 YouTube 前端 Invidious，从而导致用户出现视频播放问题。该错误已被确认，但尚未修复。谷歌此举被视为增加收入并锁定替代品的尝试，这些替代品因其无广告和无跟踪的体验而受到注重隐私的用户的青睐。通过替代前端访问 YouTube 的未来仍不确定，谷歌可能会进一步限制。请继续关注这一事态发展的最新动态。]]></description>
-      <guid>https://t.me/hn_summary/82245</guid>
-      <pubDate>Sun, 31 Mar 2024 20:34:13 GMT</pubDate>
+      <title>韦诺之战 1.18：龙族入侵更新带来了撕裂 [...]</title>
+      <link>https://t.me/hn_summary/82315</link>
+      <description><![CDATA[韦诺之战1.18：龙族入侵更新&lt; br /&gt;
+韦诺之战 1.18：龙之入侵更新带来了渲染的重大改进、派系平衡更新以及命运之风和改进的东方入侵等新战役。多人游戏功能包括比赛历史视图和更新的山丘之王地图。内容创建者现在可以添加成就并从升级的场景和地图编辑器中受益。该游戏继续由多元化的国际志愿者团队开发，为玩家提供了多种贡献和参与的方式。此次更新展示了韦诺社区的奉献精神和创造力。]]></description>
+      <guid>https://t.me/hn_summary/82315</guid>
+      <pubDate>Mon, 01 Apr 2024 07:46:53 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在缓步动物（也称为水熊虫）中发现的蛋白质在缓慢 [...]</title>
-      <link>https://t.me/hn_summary/82244</link>
-      <description><![CDATA[小细胞研究发现缓步动物蛋白可以减缓人类衰老
-在缓步动物（也称为水熊虫）中发现的蛋白质已显示出减缓人类细胞衰老过程的潜力。这些蛋白质可以将人类细胞转变为假死状态，类似于缓步动物在极端条件下的生存方式。该研究表明，这一发现可能会带来减缓衰老、改进细胞疗法和增强储存方法的新技术。研究人员还发现，这个过程是可逆的，一旦压力缓解，细胞就会恢复正常的新陈代谢。这项开创性的研究为理解和操纵人类衰老过程开辟了新的可能性。]]></description>
-      <guid>https://t.me/hn_summary/82244</guid>
-      <pubDate>Sun, 31 Mar 2024 20:30:09 GMT</pubDate>
+      <title>我们。</title>
+      <link>https://t.me/hn_summary/82314</link>
+      <description><![CDATA[美国奶牛禽流感检测呈阳性
+令人惊讶的是，美国奶牛首次检测出禽流感阳性，引发了人们对病毒传播到至少五个州的担忧。此次疫情爆发引发了人们对商业乳制品供应安全的质疑，但联邦官员向消费者保证，乳制品几乎没有受到影响。监管机构和农民正在努力遏制病毒的传播，并采取措施确保进入市场的牛奶安全。尽管情况令人担忧，但官员们认为公众面临的风险仍然很低，并正在采取措施防止进一步传播。]]></description>
+      <guid>https://t.me/hn_summary/82314</guid>
+      <pubDate>Mon, 01 Apr 2024 07:35:45 GMT</pubDate>
     </item>
     <item>
-      <title>希望快速过滤数据？</title>
-      <link>https://t.me/hn_summary/82243</link>
-      <description><![CDATA[Python 中快速简洁的概率过滤器
-希望快速过滤数据？考虑使用概率滤波器，例如二元熔丝滤波器，它比布隆滤波器更小、更快。 Python 中的 pyxorfilter 模块提供了这些过滤器的实现，其中 Fuse8 使用 Fuse16 一半的内存。通过查询随机输入，您可以估计误报率并确保过滤器的准确性。虽然 pyxorfilter 仍处于早期阶段，并且可能在 macOS 和 Windows 上存在安装问题，但经验丰富的 Python 黑客可以帮助解决这些问题。如果您不喜欢 Python，那么其他语言（如 Go、C、C++、Zig 和 Rust）也提供异或和二进制熔丝过滤器。]]></description>
-      <guid>https://t.me/hn_summary/82243</guid>
-      <pubDate>Sun, 31 Mar 2024 20:26:04 GMT</pubDate>
+      <title>[媒体] 全球范围内的 SSH 后门尝试失败是偶然发现的，这要感谢 [...]</title>
+      <link>https://t.me/hn_summary/82313</link>
+      <description><![CDATA[全局 SSH 后门尝试失败 – 被偶然捕获&lt; /a&gt;
+这次在全球范围内设置 SSH 后门的失败尝试是偶然发现的，这要归功于 Andres 在进行微基准测试时发现该问题的辛勤努力。后门企图背后的威胁行为者展示了先进的知识和技术，多年来在 Github 上进行了更改。虽然后门设计得很好，但由于安德烈斯的努力，它最终避免了广泛部署。该问题凸显了软件开发中的内部威胁风险，特别是在开源项目中。加强 systemd 等核心 Linux 依赖项的安全性以及改进 Linux 系统上的 EDR 检测至关重要。该事件为网络安全敲响了警钟，强调了在应对此类威胁时保持警惕和协作的重要性。]]></description>
+      <guid>https://t.me/hn_summary/82313</guid>
+      <pubDate>Mon, 01 Apr 2024 07:34:41 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Google 开发人员发现，使用 Rust 使他们的工作效率是 C++ 的两倍。</title>
-      <link>https://t.me/hn_summary/82242</link>
-      <description><![CDATA[Google 的 Rust 开发人员的工作效率是 C++ 团队的两倍
-Google 开发人员发现，使用 Rust 的效率是 C++ 的两倍。尽管最初对该语言的可靠性和安全性存有疑虑，但由于对软件安全性的重大影响，向 Rust 等内存安全语言的转变正在获得动力。尽管 C++ 拥护者有所反对，但采用 Rust 的好处在减少内存使用、降低缺陷率和提高正确性方面是显而易见的。 Google 的经验表明，从 C++ 过渡到 Rust 可以将构建和维护服务所需的工作量减少 2 倍以上，从而使 Rust 成为大型代码库的一个令人信服的选择。]]></description>
-      <guid>https://t.me/hn_summary/82242</guid>
-      <pubDate>Sun, 31 Mar 2024 20:22:00 GMT</pubDate>
+      <title>[媒体]在最近的一篇文章中，我深入研究了远程代码执行的令人震惊的发现 [...]</title>
+      <link>https://t.me/hn_summary/82312</link>
+      <description><![CDATA[OSS 后门：简单修复的愚蠢之处&lt; br /&gt;
+在最近的一篇文章中，我深入研究了 liblzma 压缩库中远程代码执行后门的令人震惊的发现，强调了对开源社区的攻击的复杂性和大胆性。虽然有些人指责维护者缺乏资金，但我认为问题在于基础 OSS 库的性质，这些库并不意味着要进行重大改变。科技公司现在正在推动更严格的项目治理，但我认为责任不应该仅仅落在维护人员身上。现在是公司投资审查和监控关键依赖项以保护我们的关键基础设施免受潜在威胁的时候了。该解决方案需要全面的方法，而不仅仅是依赖于个人维护人员。]]></description>
+      <guid>https://t.me/hn_summary/82312</guid>
+      <pubDate>Mon, 01 Apr 2024 07:33:36 GMT</pubDate>
     </item>
     <item>
-      <title>【媒体】互联网发展的关键人物丹·林奇去世了。</title>
-      <link>https://t.me/hn_summary/82241</link>
-      <description><![CDATA[丹·林奇去世（SRI、阿帕网、互联网）
-互联网发展的关键人物丹·林奇去世了。林奇以其才智和独立精神而闻名，他在推动 TCP/IP 协议在全球的采用和推动互联网的商业成功方面发挥了至关重要的作用。从他的军事生涯到他在 SRI 的工作以及首届 INTEROP 会议的创建，林奇对互联网的影响是不可否认的。尽管在商业上遇到了一些挫折，但他的遗产在现代互联网的无缝运行和他培养的无数技术专家中得以延续。丹·林奇独特的技术和商业方法在数字世界留下了持久的印记。]]></description>
-      <guid>https://t.me/hn_summary/82241</guid>
-      <pubDate>Sun, 31 Mar 2024 20:10:54 GMT</pubDate>
+      <title>我通过在 Linux 服务器上设置虚拟机，设法在 MS-DOS 上托管一个公共网站。</title>
+      <link>https://t.me/hn_summary/82311</link>
+      <description><![CDATA[在 MS-DOS 上托管公共网站
+我通过在 Linux 服务器上设置虚拟机，设法在 MS-DOS 上托管一个公共网站。虽然可以使用 QuickBASIC 创建动态网站，但它不如使用 PHP 方便。 DOS 文件名限制可能会很麻烦，而服务器的安全性则归因于它的模糊性。然而，它可能会引起黑客的注意。 DOS Web 服务器对并发请求有限制，导致潜在的文件损坏。设置服务器涉及获取 DOS 软盘映像和配置虚拟机。这种独特的设置允许通过 SSH 与 MS-DOS 命令行交互，使其成为运行旧版软件的经济高效的解决方案。 （根据故事文本的 51% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/82311</guid>
+      <pubDate>Mon, 01 Apr 2024 07:32:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
