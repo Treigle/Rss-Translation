@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 02 Apr 2024 06:14:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Apr 2024 09:11:55 GMT</lastBuildDate>
+    <item>
+      <title>SpiceDB Playground 现已开源</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bttoni/spicedb_playground_is_now_open_source/</link>
+      <description><![CDATA[   /u/pmac881  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bttoni/spicedb_playground_is_now_open_source/</guid>
+      <pubDate>Tue, 02 Apr 2024 08:40:17 GMT</pubDate>
+    </item>
     <item>
       <title>为非营利项目寻求更新的跨平台应用程序模板</title>
       <link>https://www.reddit.com/r/opensource/comments/1btpr07/seeking_updated_crossplatform_app_template_for/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[您好！想知道是否有人对开源设计有任何建议，供一些编码人员参考和构建组件/屏幕/ui。  类似于 https://www.uidesigndaily.com/ 的东西将是完美的。或者也许是一个由设计师组成的中心，他们有一些 Figma 设计，他们希望自愿成为程序员练习的参考？  提前感谢您的任何建议   由   提交 /u/EDICOdesigns   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bt1sco/open_source_ui_designs/</guid>
       <pubDate>Mon, 01 Apr 2024 11:57:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于开源项目的成功来说，哪些因素很重要？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bsz88c/what_things_are_important_for_an_open_source/</link>
-      <description><![CDATA[我怀疑我的应用程序除非开源否则无法获得用户，但目前它还处于实验阶段。我只会因其质量而感到尴尬。我可以忍受尴尬，但我宁愿避免它。我正在做一个项目，我想把我的精力集中在开源时更容易理解。 这个项目是一个副项目，所以我选择削减我能想到的每一个角落它到它所在的地方。这意味着有糟糕的文档，代码效率低下，等等。我可以做得更好，但我并不总是有时间从事该项目。 我并不期望人们从我的那一刻起就做出贡献在 github 上开源。我想知道您在开源方面的经验。获取反馈有何不同。 （缺少许多功能和错误修复）。我的期望是，如果我现在开源我的工作，它将被视为糟糕的低努力代码（可以理解），人们不会喜欢它，因为它会附带一个学习曲线来理解它是如何工作的（并且文档是坏/不存在）。   由   提交 /u/Accurate-Screen8774    reddit.com/r/opensource/comments/1bsz88c/what_things_are_important_for_an_open_source/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bsz88c/what_things_are_important_for_an_open_source/</guid>
-      <pubDate>Mon, 01 Apr 2024 09:34:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
