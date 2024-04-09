@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 09 Apr 2024 12:15:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Apr 2024 18:05:27 GMT</lastBuildDate>
     <item>
-      <title>在 Ollama，我们支持嵌入模型，使您能够创建检索增强生成 [...]</title>
-      <link>https://t.me/hn_summary/83670</link>
-      <description><![CDATA[Ollama：嵌入模型
-在 Ollama，我们支持嵌入模型，允许您通过将文本提示与现有文档或数据相结合来创建检索增强生成 (RAG) 应用程序。这些模型生成向量嵌入，它们是表示文本序列语义的数字数组。您可以轻松提取模型，使用 REST API、Python 或 JavaScript 库生成嵌入，并与 LangChain 和 LlamaIndex 等工具集成。我们的示例演示了如何使用 Ollama 和嵌入模型构建 RAG 应用程序来检索和生成相关信息。请继续关注即将推出的功能，例如批量嵌入、OpenAI API 兼容性以及对各种嵌入模型架构的支持。]]></description>
-      <guid>https://t.me/hn_summary/83670</guid>
-      <pubDate>Tue, 09 Apr 2024 12:15:58 GMT</pubDate>
+      <title>[媒体] 佐治亚州沃格特尔工厂，美国第一家工厂所在地</title>
+      <link>https://t.me/hn_summary/83737</link>
+      <description><![CDATA[佐治亚州的沃格特尔工厂可能预示着一个新的开始或结束核时代
+佐治亚州的沃格特尔核电站是美国数十年来建造的第一座核反应堆的所在地，这是一项耗资巨大且具有挑战性的工作。尽管出现延误和预算超支，拜登政府仍将其视为核复兴的关键一步。 3 号和 4 号机组的竣工为未来的项目提供了宝贵的经验教训，有望实现更便宜、更高效的建设。然而，美国核能的未来仍然不确定，公用事业公司对投资新反应堆犹豫不决。关于核电是否是满足日益增长的电力需求同时减少碳排放的最佳解决方案的争论仍在继续。]]></description>
+      <guid>https://t.me/hn_summary/83737</guid>
+      <pubDate>Tue, 09 Apr 2024 18:05:27 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]我很高兴地宣布创建 Girl Generator，这是一个生成 ima 的人工智能工具 [...]</title>
-      <link>https://t.me/hn_summary/83669</link>
-      <description><![CDATA[Show HN：我创建了一个女孩生成器 AI 工具 
-我很高兴地宣布创建 Girl Generator，这是一个生成女孩图像的人工智能工具。虽然该网站仍在开发中，但我致力于改进其功能、页面布局和图像存储。一个有争议的方面是所有生成的图像目前都是公开的，但我计划添加注册和私人图像选项。此外，我承认当前的布局需要改进，并欢迎任何改进建议。令人惊讶的是，图像存储很快就会转移到 CloudFlare，以提高安全性和永久存储。更多更新请持续关注，感谢您的支持！]]></description>
-      <guid>https://t.me/hn_summary/83669</guid>
-      <pubDate>Tue, 09 Apr 2024 12:10:54 GMT</pubDate>
+      <title>[媒体]英国 Spotify 用户将在 5 月份看到价格上涨，并推出新的基本订阅 [...]</title>
+      <link>https://t.me/hn_summary/83736</link>
+      <description><![CDATA[Spotify 将于 5 月份提高英国订阅价格
+英国的 Spotify 用户将在 5 月份看到价格上涨，新的基本订阅选项不带有声读物，原始高级个人套餐价格为 10.99 英镑。不过，发送给客户的电子邮件并未提及这一变化。关于潜在的超高级级别的传言四起，可以获得更高质量的音频。请继续关注这家瑞典公司有关这些变化的更多更新。]]></description>
+      <guid>https://t.me/hn_summary/83736</guid>
+      <pubDate>Tue, 09 Apr 2024 18:02:53 GMT</pubDate>
     </item>
     <item>
-      <title>在本文中，我们探讨了使用大型语言模型进行社交技能训练的潜力。</title>
-      <link>https://t.me/hn_summary/83668</link>
-      <description><![CDATA[大语言模型社交技能训练
-在本文中，我们探讨了使用大型语言模型进行社交技能训练的潜力。通过利用这些模型的功能，我们的目标是增强个人的沟通和人际交往能力。通过一系列实验和案例研究，我们证明了这种方法在改善社交互动和关系方面的有效性。我们的研究结果表明，大型语言模型有可能彻底改变社交技能培训计划，并为增强社交技能提供独特且创新的解决方案。这项研究为在社交技能发展领域利用人工智能开辟了新的可能性。]]></description>
-      <guid>https://t.me/hn_summary/83668</guid>
-      <pubDate>Tue, 09 Apr 2024 12:01:47 GMT</pubDate>
+      <title>[媒体] 日本计划中的子弹头列车，线性中央新干线，因其 [...]</title>
+      <link>https://t.me/hn_summary/83735</link>
+      <description><![CDATA[日本子弹头列车的真实成本：成本和环境退化
+日本计划中的子弹头列车——线性中央新干线，因其高速度和经济效益而被大肆宣传，但真正的成本开始显现出来。纳税人承担了该项目的大部分成本，预计国内利润微乎其微。环境影响巨大，产生大量土壤废物，并引发供水和山体滑坡。建筑工人死亡和居民被迫搬迁，人力成本也在增加。尽管遭到民众反对，该项目仍在继续推进，让许多人意识到真正的成本，直到为时已晚。]]></description>
+      <guid>https://t.me/hn_summary/83735</guid>
+      <pubDate>Tue, 09 Apr 2024 18:00:18 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]2024年4月8日发生的日全食给墨西哥带来了兴奋，[...]</title>
-      <link>https://t.me/hn_summary/83667</link>
-      <description><![CDATA[互联网全食：墨西哥、美国的流量影响和加拿大
-2024 年 4 月 8 日发生的日全食给墨西哥、美国和加拿大带来了兴奋，数百万人聚集在一起见证这一罕见的事件。 Cloudflare 的数据显示对互联网流量产生了明显的影响，在日食期间交付的字节数和请求流量显着下降。佛蒙特州和阿肯色州等全食路径上的州的交通流量下降了 40% 以上。在日食到达美国之前，墨西哥的交通量明显下降，而加拿大的爱德华王子岛受到的影响最为严重。此事件强调了人类和自然相关事件如何显着影响互联网流量，类似于黑色星期五和海底电缆故障。]]></description>
-      <guid>https://t.me/hn_summary/83667</guid>
-      <pubDate>Tue, 09 Apr 2024 11:59:13 GMT</pubDate>
+      <title>牛磁铁是农民和兽医预防牛硬件病的重要工具。</title>
+      <link>https://t.me/hn_summary/83734</link>
+      <description><![CDATA[牛磁铁
+牛磁铁是农民和兽医预防牛硬件病的重要工具。通过给动物使用牛磁铁可以预防因摄入锋利的金属物体而引起的硬件病。这些磁铁会吸引金属物体并防止它们对动物组织造成伤害。斯坦福磁铁公司提供各种牛磁铁，包括采用稀土磁铁以提高效率的新型设计。通过在烙印时给每头小牛喂食磁铁，农民可以保护他们的牛群免受硬件疾病的侵害。请访问斯坦福磁铁公司，了解有关磁铁及其用途的更多信息。]]></description>
+      <guid>https://t.me/hn_summary/83734</guid>
+      <pubDate>Tue, 09 Apr 2024 17:57:43 GMT</pubDate>
     </item>
     <item>
-      <title>比亚迪正准备推出下一代 Blade 电动汽车电池，承诺以更低的成本提供更大的续航里程。</title>
-      <link>https://t.me/hn_summary/83666</link>
-      <description><![CDATA[比亚迪正在推出下一代 Blade EV 电池 – 续航里程更长、续航里程更长、成本更低
-比亚迪正准备推出下一代 Blade 电动汽车电池，承诺以更低的成本提供更大的续航里程。革命性的刀片电池为主要汽车制造商的流行电动汽车提供动力，是比亚迪成功的关键因素。新电池预计更小、更轻、更节能，续航里程可能超过 621 英里。凭借比亚迪积极的定价策略和全球扩张计划，该公司已准备好撼动电动汽车市场并挑战汽油动力汽车。即将发布的下一代刀片电池备受期待，将进一步巩固比亚迪在行业中的地位。]]></description>
-      <guid>https://t.me/hn_summary/83666</guid>
-      <pubDate>Tue, 09 Apr 2024 11:54:08 GMT</pubDate>
+      <title>[媒体] pikuma.com 上的 PS1 编程课程提供有关 MIPS 汇编的深入指导 [...]</title>
+      <link>https://t.me/hn_summary/83733</link>
+      <description><![CDATA[MIPS 汇编和 C 的 PS1 编程课程
+我们位于 pikuma.com 的 PS1 编程课程提供了以下方面的深入指导： MIPS 汇编和 C 编程语言。令人惊讶的是，73% 的学生返回参加额外课程，这证明了我们的教学质量。我们为不提供课程折扣而感到自豪，因为我们相信我们的内容的价值和学生获得的技能。加入我们，在充满挑战但回报丰厚的环境中掌握 PS1 编程并提高您的技能。]]></description>
+      <guid>https://t.me/hn_summary/83733</guid>
+      <pubDate>Tue, 09 Apr 2024 17:55:08 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 所有 Telegram 用户请注意！</title>
-      <link>https://t.me/hn_summary/83665</link>
-      <description><![CDATA[Telegram 远程代码利用
-所有 Telegram 用户请注意！已发现远程代码漏洞可能会危及您的安全。此漏洞允许攻击者在您不知情的情况下在您的设备上执行恶意代码。将 Telegram 应用程序更新到最新版本对于保护自己免受此漏洞的影响至关重要。确保安全并随时了解情况。 #SecurityAlert #StayProtected。]]></description>
-      <guid>https://t.me/hn_summary/83665</guid>
-      <pubDate>Tue, 09 Apr 2024 11:51:35 GMT</pubDate>
+      <title>在 zed.dev 上的新系列“Zed Decoded”的第一篇文章中，作者深入研究了美国 [...]</title>
+      <link>https://t.me/hn_summary/83732</link>
+      <description><![CDATA[Zed 解码：异步 Rust
+在 zed.dev，作者深入研究了异步 Rust 在高性能原生应用程序 Zed 中的使用。通过对 Zed 联合创始人之一 Antonio 的采访，作者探讨了如何在 Zed 代码库中利用异步 Rust。本文包含一段代码，展示了 .spawn、异步移动和等待等异步元素。令人惊讶的是，Zed 使用 macOS 的 Grand Central Dispatch (GCD) 作为其异步运行时，而不是 tokio 等流行的选择。本文深入介绍了 Zed 对异步 Rust 的使用及其实现的复杂性，揭示了应用程序的内部工作原理。 （根据 45% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/83732</guid>
+      <pubDate>Tue, 09 Apr 2024 17:52:31 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] AutoCodeRover 是一种自主程序改进工具，它将法学硕士与 [...]</title>
-      <link>https://t.me/hn_summary/83664</link>
-      <description><![CDATA[AutoCodeRover 解决了 SWE-bench 中 22% 的实际 GitHub 问题精简版
-AutoCodeRover 是一款自主程序改进工具，它使用 LLM 结合分析和调试功能来自动解决 GitHub 问题，例如错误修复和功能添加。它可以优先考虑补丁位置并生成补丁，解决 SWE-bench lite 中大约 22% 的实际 GitHub 问题。 AutoCodeRover 的与众不同之处在于它使用程序结构感知代码搜索 API 以及利用测试用例获得更高修复率的能力。该项目提供了有关在 Docker 容器中设置和运行 AutoCodeRover 以及复制实验的详细说明。如有疑问，用户可以联系作者或在 GitHub 上提出问题。]]></description>
-      <guid>https://t.me/hn_summary/83664</guid>
-      <pubDate>Tue, 09 Apr 2024 11:47:01 GMT</pubDate>
+      <title>[媒体]阿姆斯特丹运输公司 GVB 已决定停止使用 X 作为通信工具 [...]</title>
+      <link>https://t.me/hn_summary/83731</link>
+      <description><![CDATA[阿姆斯特丹公共交通因持续发布仇恨信息而放弃了马斯克的 X 
+由于仇恨信息源源不断且缺乏业主的监督，阿姆斯特丹运输公司 GVB 决定停止使用 X 作为沟通渠道。相反，GVB 将依靠自己的沟通渠道（例如其网站和 Gappie 应用程序）来获取旅行信息。这一决定是在 X 已从对话平台转变为两极分化信息场所之际做出的，这与 GVB 的价值观不符。此举旨在确保每个人在与公共交通公司的互动中感到受欢迎、安全和重视。]]></description>
+      <guid>https://t.me/hn_summary/83731</guid>
+      <pubDate>Tue, 09 Apr 2024 17:46:55 GMT</pubDate>
     </item>
     <item>
-      <title>我们来计算一下！</title>
-      <link>https://t.me/hn_summary/83663</link>
-      <description><![CDATA[让我们计算一下 - 第 1 至 12 期（1990-1991）
-我们来计算一下！是一本英国杂志，涵盖各种计算机平台，包括 Electron、BBC Micro、Commodore、Atari ST、Spectrum、Archimedes 和 Amstrad CPC。尽管一开始没有 Amstrad CPC 内容，但最终从第 2 期开始包含了它。该杂志售价 99 便士，从 1990 年 8 月到 1991 年 7 月只发行了 12 期。由德里克·米金 (Derek Meakin) 管理，提供游戏评论、新闻、漫画、读者问题以及针对不同平台的输入。最后两期由 Europress Publications 出版。该杂志的内容多种多样，旨在迎合广大计算机爱好者的需求。]]></description>
-      <guid>https://t.me/hn_summary/83663</guid>
-      <pubDate>Tue, 09 Apr 2024 11:32:23 GMT</pubDate>
+      <title>[媒体] 本文讨论了使用 Wolfram 语言计算日食的能力，显示 [...]</title>
+      <link>https://t.me/hn_summary/83730</link>
+      <description><![CDATA[计算日食：用 Wolfram 语言进行天文学&lt; br/&gt;
+本文讨论了使用 Wolfram 语言计算日食的能力，展示了 SolarEclipse 函数，该函数提供了有关即将发生的日食的详细信息。它深入研究了日食的模式，例如沙罗系列和 inex 系列，并解释了如何根据天文计算来预测日食。作者还分享了他们目睹 2017 年日食的经历，并提供了该事件的数据和视觉效果。总体而言，本文强调了 Wolfram 语言在天文学领域的先进计算能力。 （根据故事文本的 64% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/83730</guid>
+      <pubDate>Tue, 09 Apr 2024 17:44:21 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在这篇文章中，作者反思了亚伦·布什 (Aaron Bushn) 悲惨的最后抗议行为 [...]</title>
-      <link>https://t.me/hn_summary/83662</link>
-      <description><![CDATA[这次大火：亚伦·布什内尔和所有人内心燃烧的愤怒美国
-在本文中，作者反思了 25 岁的美国空军成员亚伦·布什内尔 (Aaron Bushnell) 在以色列驻华盛顿大使馆前自焚的最后悲剧性抗议行为。作者深入探讨了布什内尔做出这一极端行为的愧疚和绝望，强调了他所承担的种族灭绝和共谋的重担。作者探讨了布什内尔行为的痛苦和复杂性，强调他的抗议是面对加沙持续发生的暴行而绝望地呼吁采取行动。这篇文章深刻地提醒我们，许多人在面对此类暴行时所感受到的根深蒂固的愤怒和绝望。]]></description>
-      <guid>https://t.me/hn_summary/83662</guid>
-      <pubDate>Tue, 09 Apr 2024 11:30:19 GMT</pubDate>
+      <title>我们的项目 ScreenAI 专注于开发 UI 和视觉定位语言的视觉法学硕士 [...]</title>
+      <link>https://t.me/hn_summary/83729</link>
+      <description><![CDATA[ScreenAI：用于 UI 和视觉情境语言理解的视觉法学硕士&lt; /a&gt;
+我们的项目 ScreenAI 专注于开发用于 UI 和视觉场景语言理解的视觉法学硕士。我们与才华横溢的团队合作，不懈努力，将这项创新技术变为现实。我们感谢同事和导师的反馈和支持，以及数据准备方面的帮助。特别感谢 Tom Small 对本文动画的贡献。与我们一起踏上这段旅程，探索 ScreenAI 令人兴奋的可能性。]]></description>
+      <guid>https://t.me/hn_summary/83729</guid>
+      <pubDate>Tue, 09 Apr 2024 17:38:46 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]欧洲法院作出开创性裁决，认定人权受到侵犯 [...]</title>
-      <link>https://t.me/hn_summary/83661</link>
-      <description><![CDATA[欧洲法院裁定气候不作为侵犯人权&lt; br/&gt;
-欧洲法院做出了一项开创性的裁决，认定人权因气候不作为而受到侵犯。这一决定让包括罗斯玛丽·怀德勒-瓦尔蒂在内的许多人感到难以置信和敬畏。涉案的瑞士女性仍在思考这次胜利的意义，她们的律师确认这是她们所希望的最好结果。这项裁决标志着向政府追究其在应对气候变化方面缺乏行动的责任迈出了重要一步。]]></description>
-      <guid>https://t.me/hn_summary/83661</guid>
-      <pubDate>Tue, 09 Apr 2024 10:48:31 GMT</pubDate>
+      <title>[媒体]对王企鹅的新研究揭示了有机卤素污染物，包括 PFAS、af [...]</title>
+      <link>https://t.me/hn_summary/83728</link>
+      <description><![CDATA[监测王企鹅体内的 PFAS 污染物
+对王企鹅的新研究揭示了有机卤素污染物（包括 PFAS）如何影响不同的组织类型。这些持久性化合物在全球范围内都有发现，并且可以在食物链中生物累积。由爱丽丝·卡拉维耶里 (Alice Carravieri) 领导的一个团队分析了南印度洋禁食企鹅的血液样本，发现污染物浓度在 25 天禁食期间翻了一番。全氟辛烷磺酸是最突出的污染物，在繁殖和换羽过程中血浆中的一些化合物会增加。人们对这些污染物的毒性感到担忧，敦促进一步研究它们对海鸟生理的影响，特别是在禁食期间。]]></description>
+      <guid>https://t.me/hn_summary/83728</guid>
+      <pubDate>Tue, 09 Apr 2024 17:34:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
