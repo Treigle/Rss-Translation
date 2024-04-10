@@ -4,87 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 10 Apr 2024 12:18:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2024 18:07:31 GMT</lastBuildDate>
     <item>
-      <title>[媒体]在本文中，我们介绍了 Griffin，这是一种结合了门控线性递归 [...]</title>
-      <link>https://t.me/hn_summary/83848</link>
-      <description><![CDATA[Griffin：将门控线性递归与局部注意力混合以实现高效的 LM
-在本文中，我们介绍了 Griffin，这是一种将门控线性递归与局部注意机制相结合来创建高效语言模型的新颖方法。通过利用这两种技术的优势，Griffin 在性能和计算效率方面取得了令人印象深刻的成果。我们的实验证明了这种混合模型在各种自然语言处理任务中的有效性。门控线性递归和局部注意力的独特组合使 Griffin 有别于传统语言模型，使其成为提高语言处理系统效率的有前途的解决方案。这种创新方法有可能彻底改变自然语言处理领域。]]></description>
-      <guid>https://t.me/hn_summary/83848</guid>
-      <pubDate>Wed, 10 Apr 2024 12:18:33 GMT</pubDate>
+      <title>[媒体]估值 50 亿美元的背景筛查平台 Checkr 已削减 32% 的员工 [...]</title>
+      <link>https://t.me/hn_summary/83910</link>
+      <description><![CDATA[估值 5B 美元的后台筛选平台 Checkr 削减 32占劳动力的百分比
+Checkr 是一个价值 50 亿美元的背景筛查平台，由于经济状况影响招聘，该平台已裁员 32%。此次裁员涉及各部门、各层级，共计382名员工。此前，Checkr 以 4 亿美元收购了 Inflection，并将业务扩展到硅谷以外的地区。尽管裁员，该公司仍在为受影响的员工提供遣散费、健康保险和支持。 Checkr 在知名投资者的支持下，为 Uber 和 Netflix 等公司提供背景调查。该初创公司并未透露其融资计划，迄今为止已筹集 6.79 亿美元。]]></description>
+      <guid>https://t.me/hn_summary/83910</guid>
+      <pubDate>Wed, 10 Apr 2024 18:07:31 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]我为 csvbase 编写了一个客户端库，没有 API，仅使用 HTTP。</title>
-      <link>https://t.me/hn_summary/83847</link>
-      <description><![CDATA[客户端库没有 API 会更好&lt; br/&gt;
-我为 csvbase 编写了一个客户端库，它没有 API，仅使用 HTTP。您可以使用 Pandas、Polars 或 Dask 从 csvbase 中提取数据帧，而无需 API。该库利用标准文件系统接口 fsspec 与各种数据帧库无缝集成。尽管 fsspec 很受欢迎，但它的知名度并不高，但它的使用却很广泛。您可以在自己的程序中轻松使用 fsspec 进行多功能文件操作。此外，还有一个用于 csvbase 的 cli 工具，可以简化数据检索和操作。总的来说，该库提供了一种独特的方法来访问 csvbase 数据，而不需要传统的 API。 （根据 96% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/83847</guid>
-      <pubDate>Wed, 10 Apr 2024 12:13:59 GMT</pubDate>
+      <title>[媒体]宜家家具制造商正在从欧洲仅存的古老木材采购木材 [...]</title>
+      <link>https://t.me/hn_summary/83909</link>
+      <description><![CDATA[宜家家具毁坏了欧洲仅存的一些古老森林 
+根据绿色和平组织的一份报告，宜家家具制造商正在从欧洲仅存的罗马尼亚喀尔巴阡山脉（包括保护区）的原始森林采购木材。 INGOLF 椅子和 SNIGLAR 婴儿床等产品与高保护价值森林的破坏有关。宜家被敦促清理其供应链并保护自然。喀尔巴阡山脉是多种野生动物的家园，但罗马尼亚只有 2.4% 的森林受到保护。宜家必须在生物多样性保护方面发挥带头作用。绿色和平组织呼吁采取具有法律约束力的措施来保护欧洲的森林。宜家对调查结果没有异议。]]></description>
+      <guid>https://t.me/hn_summary/83909</guid>
+      <pubDate>Wed, 10 Apr 2024 17:58:55 GMT</pubDate>
     </item>
     <item>
-      <title>Rust 101 是 Rust 编程语言的综合指南，突出了其现代德 [...]</title>
-      <link>https://t.me/hn_summary/83846</link>
-      <description><![CDATA[Rust 101
-Rust 101 是 Rust 编程语言的综合指南，强调其现代设计和可与 C 和 C++ 相媲美的快速性能。本文解释了 Rust 的内存安全功能、所有权规则和借用机制，这些功能可以防止 C 和 C++ 等低级语言中的常见错误。它还涵盖了自定义数据类型、使用特征、枚举、模式匹配的多态性，以及用于错误处理和可选值的 Rust 结果和选项类型。还讨论了 Rust 对函数式编程中闭包和迭代器的使用，使其成为开发人员的多功能且强大的语言。 （根据 66% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/83846</guid>
-      <pubDate>Wed, 10 Apr 2024 11:59:22 GMT</pubDate>
+      <title>[媒体] SFMTA 的软盘列车系统；</title>
+      <link>https://t.me/hn_summary/83908</link>
+      <description><![CDATA[SFMTA 的列车系统在软盘上运行；城市担心“灾难性失败”
+旧金山的火车系统由 SFMTA 运营，自 1998 年起仍在软盘上运行，引发了人们对潜在“灾难性故障”的担忧。尽管身处硅谷，但过时的技术却是该系统的重要组成部分。 SFMTA 计划升级为无线系统，但这需要十年时间并耗资数亿美元。主管 Jeffrey Tumlin 强调需要进行升级以提高可靠性和效率。该项目的资金预计将来自州和联邦拨款以及内部资源。对软盘的独特依赖凸显了城市交通基础设施现代化的需求。]]></description>
+      <guid>https://t.me/hn_summary/83908</guid>
+      <pubDate>Wed, 10 Apr 2024 17:46:18 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Onego Bio 是一家总部位于芬兰的食品生物技术公司，正在另类产品领域掀起波澜 [...]</title>
-      <link>https://t.me/hn_summary/83845</link>
-      <description><![CDATA[无动物源鸡蛋蛋白初创公司 Onego Bio 更接近破解鸡蛋市场
-Onego Bio 是一家总部位于芬兰的食品生物技术公司，凭借其名为 Bioalbumen 的无动物蛋白替代品，在替代蛋白质市场掀起了波澜。该公司采用专利真菌发酵技术，能够生产出与传统蛋清生物相同的高蛋白、环保产品。 Onego Bio 计划在北美推出并向全球扩张，最近获得了 4000 万美元的 A 轮融资，使其成为北欧最大的 A 轮融资之一。该公司的创新方法和颠覆 3300 亿美元鸡蛋市场的潜力让投资者和行业专家对其未来感到兴奋。]]></description>
-      <guid>https://t.me/hn_summary/83845</guid>
-      <pubDate>Wed, 10 Apr 2024 11:56:45 GMT</pubDate>
+      <title>[媒体]CHIPS 法案本应为建筑业带来超过千亿美元的补贴 [...]</title>
+      <link>https://t.me/hn_summary/83907</link>
+      <description><![CDATA[CHIPS 法案 DEI 疯狂
+《CHIPS 法案》本应为美国建设芯片工厂提供超过千亿美元的补贴，以保障国家安全。然而，严格的 DEI 要求，例如 40% 的女性建筑工人以及全额付费的儿童保育和医疗保健，导致英特尔、台积电和三星等主要芯片制造商拒绝补贴。晶圆厂工人的专业性和合格申请人的缺乏使得满足这些要求几乎是不可能的。英特尔的一个部门甚至不得不免除 DEI 要求，以避免失败。因此，美国不会再建新晶圆厂，影响国家安全和创造就业。]]></description>
+      <guid>https://t.me/hn_summary/83907</guid>
+      <pubDate>Wed, 10 Apr 2024 17:40:42 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]AzerothCore 是一个开源游戏服务器应用程序和框架，专为主机设计 [...]</title>
-      <link>https://t.me/hn_summary/83844</link>
-      <description><![CDATA[AzerothCore：自托管魔兽世界 3.3.5a 服务器
-AzerothCore 是一款开源游戏服务器应用程序和框架，专为托管 MMORPG 而设计，专门重现 3.3.5a 补丁中的《魔兽世界》游戏体验。它专注于稳定性、精彩内容和定制，拥有强大的开发者和贡献者社区。 AzerothCore 是高度模块化的，允许定制和独特的游戏体验。它为有兴趣了解 WoW 服务器和游戏服务器模拟器的开发人员提供了学习资源。 AzerothCore 不隶属于暴雪娱乐，也不支持非法公共服务器。该项目在 GNU AGPL v3 和 GNU GPL v2 许可证下发布。]]></description>
-      <guid>https://t.me/hn_summary/83844</guid>
-      <pubDate>Wed, 10 Apr 2024 11:53:10 GMT</pubDate>
+      <title>[媒体]你拟合高斯曲线还是它拟合你？</title>
+      <link>https://t.me/hn_summary/83906</link>
+      <description><![CDATA[你适合高斯曲线还是它适合你？
+本文探讨了数学和灵性中拟合高斯曲线的概念，强调了在生活中找到平衡的重要性。虽然平衡可以成为理解数据模式和应对生活复杂性的有力起点，但作者认为，过分强调平衡可能会限制我们的潜力。作者建议不要遵循平均标准，而是找到你想要擅长的领域，并愿意为实现伟大而做出牺牲。通过拥抱不平衡并付出最终的牺牲，人们可以最大限度地获得生活的满足感和成就感。]]></description>
+      <guid>https://t.me/hn_summary/83906</guid>
+      <pubDate>Wed, 10 Apr 2024 17:38:08 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]国际象棋治疗是一种独特的心理治疗形式，它在治疗者之间使用国际象棋游戏 [...]</title>
-      <link>https://t.me/hn_summary/83843</link>
-      <description><![CDATA[国际象棋疗法
-国际象棋治疗是一种独特的心理治疗形式，它利用治疗师和客户之间的国际象棋游戏来形成更牢固的联系并帮助治疗。国际象棋疗法起源于波斯博学者雷兹所使用的战术和策略，已被证明可以帮助患者控制自己的感受并掌控自己的情绪。通过国际象棋游戏，个人可以探索自己的心理困扰，并努力实现个人的胜利和发展。研究表明，国际象棋可以提高学生的学习成绩和社交技能，使其成为一种有价值的教育工具。总体而言，国际象棋疗法为情绪治疗和个人成长提供了一种创造性且有效的方法。]]></description>
-      <guid>https://t.me/hn_summary/83843</guid>
-      <pubDate>Wed, 10 Apr 2024 11:50:37 GMT</pubDate>
+      <title>[媒体]Enhance WASM 是一个突破性的工具，允许 Web Com 的服务器端渲染 [...]</title>
+      <link>https://t.me/hn_summary/83905</link>
+      <description><![CDATA[增强 WASM：Web 组件的后端不可知 SSR 
+增强 WASM 是一个突破性的工具，允许跨任何后端运行时在服务器端渲染 Web 组件。这意味着您可以编写一次标准 Web 组件并在任何地方渲染它们，而不受传统客户端渲染的限制。凭借无缝集成、更好的开发人员体验和优化的性能，Enhance WASM 正在彻底改变前端开发。该开源项目支持广泛的后端运行时，并欢迎社区参与。虽然有些人可能建议使用 Lit 进行客户端交互，但Enhance 鼓励将服务器端渲染作为主要焦点，并将客户端升级作为渐进增强。尝试一下增强 WASM，帮助塑造 Web 开发的未来！]]></description>
+      <guid>https://t.me/hn_summary/83905</guid>
+      <pubDate>Wed, 10 Apr 2024 17:35:34 GMT</pubDate>
     </item>
     <item>
-      <title>根据我作为在无数设备上运行代码的开发人员的经验，我面临着压力 [...]</title>
-      <link>https://t.me/hn_summary/83842</link>
-      <description><![CDATA[如何保持理智
-根据我作为一名在无数设备上运行代码的开发人员的经验，我面临着错误的压力、苛刻的用户以及不断发布的压力。为了解决这个问题，我强调彻底测试、在出现错误时保持冷静以及冷静地处理激进用户的重要性。我相信开放式沟通，禁止不尊重的用户，并在现实生活中休息一下以充电并获得新的视角。通过平衡编码和个人生活之间的时间，我能够保持理智并在开源世界中继续创新。]]></description>
-      <guid>https://t.me/hn_summary/83842</guid>
-      <pubDate>Wed, 10 Apr 2024 11:41:02 GMT</pubDate>
+      <title>[媒体]加拿大央行决定将主要利率维持在 5% [...]</title>
+      <link>https://t.me/hn_summary/83904</link>
+      <description><![CDATA[加拿大央行维持5%的主要利率 
+加拿大央行决定连续第六次将主要利率维持在 5%，理由是在考虑降息之前需要有通胀放缓的持续证据。行长蒂夫·麦克莱姆强调核心通胀指标呈下降趋势的重要性，同时承认六月份降息的可能性。罗伊斯·门德斯 (Royce Mendes) 等经济学家认为，降息即将到来，预计从 6 月份开始逐步降息。加拿大央行的谨慎态度与美联储形成鲜明对比，美联储对通胀的担忧正在将降息预期推至今年进一步。]]></description>
+      <guid>https://t.me/hn_summary/83904</guid>
+      <pubDate>Wed, 10 Apr 2024 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Canonical 宣布与高通合作，将 Ubuntu 和 Ubuntu Core 引入 [...]</title>
-      <link>https://t.me/hn_summary/83841</link>
-      <description><![CDATA[Canonical 与 Qualcom 合作开发 Snapdragon X
-Canonical 宣布与高通建立合作伙伴关系，将 Ubuntu 和 Ubuntu Core 引入搭载高通处理器的设备。此次合作旨在针对高通平台优化 Ubuntu，重点是加快上市时间并优先考虑安全性。即将推出的 Snapdragon X Elite 笔记本电脑处理器具有令人印象深刻的规格，如 12 个 Oryon 核心和 Adreno 显卡，预计将与 Apple Silicon 设备竞争。此次合作可能会改善 Ubuntu 对高通笔记本电脑的支持，为寻求高性能 ARM 笔记本电脑的用户提供一个有趣的替代方案。]]></description>
-      <guid>https://t.me/hn_summary/83841</guid>
-      <pubDate>Wed, 10 Apr 2024 11:38:28 GMT</pubDate>
+      <title>[媒体]ProtonMail 背后的专注于隐私的公司 Proton 已收购 Standard Notes，这是一家 [...]</title>
+      <link>https://t.me/hn_summary/83903</link>
+      <description><![CDATA[Proton 选择 Standard Notes 来深化其支持隐私的产品组合
+ProtonMail 背后的专注于隐私的公司 Proton 收购了 Standard Notes，这是一款以其强大的隐私功能而闻名的笔记应用程序。两家公司都致力于端到端加密和开源技术，而不依赖风险投资。通过将 Standard Notes 添加到其产品组合中，Proton 旨在加深其在支持隐私的用户社区中的影响力，并扩展其应用程序生态系统。此次收购凸显了在以隐私为中心的商业模式中长期思考的重要性，尤其是在与大型科技公司竞争时。将标准票据集成到 Proton 的生态系统中将进一步推进他们的共同使命，即构建一个默认隐私的更好互联网。]]></description>
+      <guid>https://t.me/hn_summary/83903</guid>
+      <pubDate>Wed, 10 Apr 2024 17:30:25 GMT</pubDate>
     </item>
     <item>
-      <title>作者分享了他们的会计之旅，强调了理解 [...]</title>
-      <link>https://t.me/hn_summary/83840</link>
-      <description><![CDATA[复式记账作为有向图
-摘要：
-作者分享了他们的会计之旅，强调了理解所涉及词汇和概念的重要性。它们简化了会计概念，介绍了无需分类帐的​​簿记基础知识，展示了如何跟踪一段时间内的财务变化。然后，本文深入研究了单式记账账本，解释了如何系统地记录交易。作者强调了账本数据的不变性和保存交易历史的重要性。通过使用示例和定义，他们的目标是使会计对读者来说更加直观和现代。 （根据 29% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/83840</guid>
-      <pubDate>Wed, 10 Apr 2024 11:31:53 GMT</pubDate>
+      <title>[媒体]内容创作者 Pelumi Nubi 独自驾车从伦敦前往拉各斯 [...]</title>
+      <link>https://t.me/hn_summary/83902</link>
+      <description><![CDATA[独自旅行者开着一辆小车从伦敦开车到拉各斯
+内容创作者 Pelumi Nubi 驾驶着她的紫色标致 107，独自驾车从伦敦前往拉各斯，成为第一位尝试这一旅程的黑人女性。尽管发生了可怕的车祸和边境延误，她在穿越 17 个国家后抵达拉各斯时受到了英雄式的欢迎。 Nubi 旨在向人们展示，对于像她这样的黑人女性独行旅行者来说，旅行既轻松又安全。为了一万公里的旅程，她改装了自己的汽车，增加了床和厨房。努比的旅程记录在社交媒体上，旨在改变有关西非的叙述并激励其他人探索该地区。]]></description>
+      <guid>https://t.me/hn_summary/83902</guid>
+      <pubDate>Wed, 10 Apr 2024 17:27:52 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]布鲁斯·佩伦斯 (Bruce Perens) 是开源世界的先驱，他呼吁重新构想“p [...]</title>
-      <link>https://t.me/hn_summary/83839</link>
-      <description><![CDATA[开源先驱 Perens 表示，是时候思考后开放世界了
-开源世界的先驱布鲁斯·佩伦斯 (Bruce Perens) 呼吁重新构想“后开放”的未来，批评当前的系统让开发人员和用户失败。他提出了一种新的范例，可以公平地补偿开发人员并简化合规性。这种“开放后”方法将涉及单一许可证和支付系统，资金直接流向开发商。虽然 Peter Zaitsev 等人认为这是对传统开源的彻底背离，但 Perens 认为这对于软件开发的发展是必要的。尽管面临潜在的挑战，他决心实现这一愿景，造福子孙后代。]]></description>
-      <guid>https://t.me/hn_summary/83839</guid>
-      <pubDate>Wed, 10 Apr 2024 11:24:49 GMT</pubDate>
+      <title>[媒体]在 Google Cloud Next 上，Chrome Enterprise Premium 被推出，作为 e [...]</title>
+      <link>https://t.me/hn_summary/83901</link>
+      <description><![CDATA[Chrome Enterprise Premium：端点安全的未来&lt; br /&gt;
+Google Cloud Next 推出了 Chrome Enterprise Premium，作为端点安全的未来。随着浏览器成为企业活动的主要平台，对强大端点安全性的需求比以往任何时候都更加重要。 Chrome Enterprise Premium 提供先进的安全功能，例如沙箱、漏洞缓解和人工智能支持的实时网站检查，以保护用户免受复杂的攻击。这一新产品建立在值得信赖的 Chrome Enterprise 浏览器的基础上，为组织的员工提供安全可靠的解决方案。随着行业向混合工作环境转变，Chrome Enterprise Premium 旨在简化和加强全球企业用户的端点安全性。]]></description>
+      <guid>https://t.me/hn_summary/83901</guid>
+      <pubDate>Wed, 10 Apr 2024 17:25:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
