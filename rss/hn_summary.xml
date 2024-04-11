@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 11 Apr 2024 15:04:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 21:10:09 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 像汉斯·朱利亚诺 (Hans Juliano) 这样的年轻科技工作者正涌向台湾攻读科学领域的研究生 [...]</title>
-      <link>https://t.me/hn_summary/84032</link>
-      <description><![CDATA[芯片梦想：年轻科技工作者涌向台湾 
-像汉斯·朱利亚诺这样的年轻科技工作者受到蓬勃发展的半导体行业的奖学金和机会的吸引，纷纷涌向台湾攻读半导体研究生课程。被称为硅谷的台湾面临着严重的人才短缺，因为世界上大部分尖端半导体芯片都是由台湾公司生产的。政府正在从东南亚招募人才，提供有吸引力的薪水和工作机会。尽管文化相似，但语言障碍和就业竞争仍然对该地区的学生构成挑战。然而，对于 Juliano 来说，学习普通话已经让他在毕业前就获得了台湾一家美国芯片制造商的工作机会。]]></description>
-      <guid>https://t.me/hn_summary/84032</guid>
-      <pubDate>Thu, 11 Apr 2024 15:04:00 GMT</pubDate>
+      <title>GitHub 上的项目“Show HN：生成 Docker Artifacts to $PWD”提供了一个 Docker 脚本，[...]</title>
+      <link>https://t.me/hn_summary/84092</link>
+      <description><![CDATA[显示 HN：生成 Docker 工件到 $PWD&lt; br/&gt;
+GitHub 上的项目“Show HN：Generate Docker Artifacts to $PWD”提供了一个 Docker 脚本，允许用户从 Dockerfile 生成构建工件，而无需创建容器。该项目旨在简化从 Docker 镜像中提取特定工件的过程。通过向 Dockerfile 添加标签，指定所需工件的路径，用户可以轻松构建 Dockerfile 并自动提取编译后的程序。该项目的独特之处在于专注于生成工件而不是容器，为用户提供更高效的工作流程。]]></description>
+      <guid>https://t.me/hn_summary/84092</guid>
+      <pubDate>Thu, 11 Apr 2024 21:10:09 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Adob​​e公司</title>
-      <link>https://t.me/hn_summary/84031</link>
-      <description><![CDATA[Adobe 以每分钟 3 美元的价格购买视频来构建 AI 模型
-Adobe Inc. 以每分钟 3 美元的价格购买视频来开发其文本到视频生成器，从而在人工智能领域掀起了波澜。为了跟上 OpenAI 等竞争对手的步伐，Adobe 向摄影师和艺术家提供 120 美元的奖励，用于拍摄日常生活场景中的人物视频。这一备受争议的举措旨在为人工智能培训寻找资源，展示 Adob​​e 对科技行业创新的承诺。这种独特的方法凸显了公司致力于在人工智能开发领域保持领先地位的决心。]]></description>
-      <guid>https://t.me/hn_summary/84031</guid>
-      <pubDate>Thu, 11 Apr 2024 14:47:53 GMT</pubDate>
+      <title>[媒体]苹果的高级数据保护功能受到来自研究的质疑 [...]</title>
+      <link>https://t.me/hn_summary/84091</link>
+      <description><![CDATA[报告称苹果收集用户数据的行为难以阻止 
+阿尔托大学的研究对苹果的高级数据保护功能提出了质疑，该大学声称，即使用户试图禁用它们，苹果的默认应用程序也会收集用户数据。这使得用户几乎不可能阻止他们的数据被收集。研究发现，苹果自己的应用程序，如 Safari、Siri 和 iMessage，可以向苹果反馈大量数据，而阻止这种数据收集的过程复杂且令人困惑。尽管 Apple 制定了隐私政策，但该研究强调了用户在保护其数据时面临的挑战。]]></description>
+      <guid>https://t.me/hn_summary/84091</guid>
+      <pubDate>Thu, 11 Apr 2024 21:06:05 GMT</pubDate>
     </item>
     <item>
-      <title>打印机所有者将惠普告上法庭，声称该公司强迫他们只购买惠普墨水 [...]</title>
-      <link>https://t.me/hn_summary/84030</link>
-      <description><![CDATA[打印机所有者表示，我们从未同意只购买惠普墨水
-打印机所有者将惠普告上法庭，声称该公司迫使他们只能通过固件更新购买惠普墨水，固件更新禁止他们的打印机使用第三方墨盒。惠普辩称，它正在实施“动态安全”措施，以防止使用假冒墨盒。该诉讼指控惠普违反了反竞争法规，并要求赔偿目前无用的第三方墨盒的成本。惠普首席执行官恩里克·洛雷斯（Enrique Lores）表示希望将客户转向印刷版订阅模式。争议在于惠普的行为是否合理，或者是否不公平地限制了消费者的选择。案件正在审理中。]]></description>
-      <guid>https://t.me/hn_summary/84030</guid>
-      <pubDate>Thu, 11 Apr 2024 14:33:47 GMT</pubDate>
+      <title>[媒体] 加入旧金山的 Etleap，担任客户经理，并成为领先数据公司的一部分 [...]</title>
+      <link>https://t.me/hn_summary/84090</link>
+      <description><![CDATA[Etleap (YC W13) 正在旧金山招聘一名客户经理&lt; /a&gt;
+加入旧金山的 Etleap，担任客户经理，并成为领先的数据集成解决方案提供商的一员。在顶级投资者的支持下，我们帮助组织集中、转换和管理其数据，以增强分析能力。随着我们的扩张，我们正在寻找充满活力的客户经理来发掘潜在客户、培养关系并达成交易。如果您拥有 5 年以上 B2B 软件销售经验，善于沟通，并在以团队为中心的文化中茁壮成长，我们将提供有竞争力的薪资、不封顶的佣金、股权、福利和职业发展机会。与我们一起重新定义数据分析并产生重大影响。立即申请！]]></description>
+      <guid>https://t.me/hn_summary/84090</guid>
+      <pubDate>Thu, 11 Apr 2024 21:02:01 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]从今天开始，美国的 ISP 必须显示包含价格、速度和 [...]</title>
-      <link>https://t.me/hn_summary/84029</link>
-      <description><![CDATA[从今天开始，ISP 必须显示包含价格、速度和数据的标签帽子
-从今天开始，美国的 ISP 必须显示包含定价、速度和数据上限的消费者标签。 FCC 要求家庭和移动宽带计划贴上标签，大型提供商需要立即遵守规定，小型提供商则需要在 2024 年 10 月之前遵守规定。标签必须包括费用、速度和数据流量，以便消费者更轻松地比较服务。尽管遭到 ISP 的投诉，FCC 仍然执行了这些规则，康卡斯特、AT&amp;T 和 Verizon 等主要提供商已经展示了标签。此举旨在提高透明度，帮助消费者在选择互联网服务时做出明智的选择。]]></description>
-      <guid>https://t.me/hn_summary/84029</guid>
-      <pubDate>Thu, 11 Apr 2024 14:29:41 GMT</pubDate>
+      <title>在一个充满无尽技术选择的世界中，对平台的关注似乎已经消失。</title>
+      <link>https://t.me/hn_summary/84089</link>
+      <description><![CDATA[Kubernetes 不是重点
+在一个充满无尽技术选择的世界中，对平台的关注似乎已经消失。对新组件的兴奋导致了实验和创新的狂热，为最终用户创造了复杂的选择环境。 “工程主导”或创新的压力迫使许多 IT 组织拼凑自己的平台，从而导致生命周期和集成管理的负担。内部开发者平台的回归带来了简化、用户友好体验的理念。问题仍然是：我们是为了构建而构建，还是真正专注于改进业务计划和应用程序结果？]]></description>
+      <guid>https://t.me/hn_summary/84089</guid>
+      <pubDate>Thu, 11 Apr 2024 20:27:49 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 作者讨论了在线编程帮助社区的演变，从 [...]</title>
-      <link>https://t.me/hn_summary/84028</link>
-      <description><![CDATA[Stack Overflow 是文档，而不是问答，这很糟糕&lt; /a&gt;
-作者讨论了在线编程帮助社区的演变，从充满敌意的 Perl usenet 新闻组到更有帮助的 php.net 站点并最终到达 Stack Overflow。虽然 Stack Overflow 最初为提问和回答问题提供了一个更积极的环境，但作者认为，它现在变得更加注重文档而不是问答。这种转变对于问答网站来说可能是不可避免的，但作者认为重复答案对于程序员的成长和发展很重要。作者主张在初学者学习提问、老手写答案和超级老手调节社区之间保持健康的平衡。]]></description>
-      <guid>https://t.me/hn_summary/84028</guid>
-      <pubDate>Thu, 11 Apr 2024 14:20:35 GMT</pubDate>
+      <title>[媒体] 经过漫长的等待，OpenZiti 1.0 终于来了，展示了它提供安全 [...]</title>
+      <link>https://t.me/hn_summary/84088</link>
+      <description><![CDATA[OpenZiti 1.0
+经过漫长的等待，OpenZiti 1.0 终于面世，展示了其大规模提供安全连接的能力。该平台以其零信任网络原则而闻名，已广泛应用于关键任务应用程序，包括财富 50 强环境。 1.0版本的发布标志着对未来分布式应用程序质量、稳定性和兼容性的承诺，并将安全性作为重中之重。 zrok（一款点对点共享应用程序）的推出作为第一个 ziti 原生应用程序展示了该平台的潜力。 OpenZiti 提供强大的身份、端口扫描保护、最小特权访问、持续授权、端到端加密、可见性等，使安全网络作为软件成为现实。]]></description>
+      <guid>https://t.me/hn_summary/84088</guid>
+      <pubDate>Thu, 11 Apr 2024 20:20:43 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] AT&T：数据泄露影响 7300 万或 5100 万客户。</title>
-      <link>https://t.me/hn_summary/84027</link>
-      <description><![CDATA[AT&amp;T：数据泄露影响了 7300 万或 5100 万客户。不，我们不会解释
-AT&amp;T 遭遇数据泄露，影响了 7300 万或 5100 万客户，泄露的数据包括姓名、地址和社会安全号码等个人信息。该公司尚未对数字差异做出明确解释。令人惊讶的是，密码以易于解密的格式存储。颇具争议的是，AT&amp;T 最初否认这些数据属于其客户，直到进一步确认后才承认。尽管泄露造成的潜在损失很小，但客户仍应对诈骗保持警惕，并利用 AT&amp;T 提供的免费身份盗窃保护。]]></description>
-      <guid>https://t.me/hn_summary/84027</guid>
-      <pubDate>Thu, 11 Apr 2024 14:16:30 GMT</pubDate>
+      <title>[媒体] 隆重推出 Aarde，这是一个通过自我复制模拟进化的突破性程序 [...]</title>
+      <link>https://t.me/hn_summary/84087</link>
+      <description><![CDATA[显示 HN：Aarde – 自我复制程序
+隆重推出 Aarde，这是一个突破性的程序，通过自我复制程序来模拟进化。使用 S、E、F、C 和 J 等命令的独特组合，Aarde 能够快速复制和进化。这个创新项目由 Koen van Gilst 创建，可在 GitHub 上供那些有兴趣探索自我复制程序可能性的人使用。与 Aarde 一起体验观看节目实时演变和适应的兴奋感。在 aarde 上探索这项尖端技术的潜在争议和令人惊讶的结果。 koenvangilst.nl。]]></description>
+      <guid>https://t.me/hn_summary/84087</guid>
+      <pubDate>Thu, 11 Apr 2024 20:16:39 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]还记得Lore Harp吗？</title>
-      <link>https://t.me/hn_summary/84026</link>
-      <description><![CDATA[矢量图形的兴衰（1985） 
-还记得洛尔竖琴吗？她与他人共同创立的 Vector Graphic 公司的兴衰是计算机行业成功与失败的警示故事。由于管理失误和 IBM 的竞争，Vector Graphic 从一家销售额 3620 万美元的蓬勃发展公司变成了一个由风险资本家控制的萎缩实体。 Lore 和 Bob Harp 曾经是 Vector 的代言人，现在已经离婚并开始寻求其他事业。该公司为利用税收损失而提出的合并计划已被推迟，这使得 Vector 的未来充满不确定性。尽管它的衰落，Vector 的故事仍然是雄心勃勃的企业家所面临的挑战的一个引人入胜的例子。]]></description>
-      <guid>https://t.me/hn_summary/84026</guid>
-      <pubDate>Thu, 11 Apr 2024 14:04:24 GMT</pubDate>
+      <title>[媒体]英特尔和联想硬件被发现包含一个漏洞，该漏洞已经消失[...]</title>
+      <link>https://t.me/hn_summary/84086</link>
+      <description><![CDATA[可破解的英特尔和联想硬件五年来未被发现 
+英特尔和联想的硬件被发现包含一个五年来未被发现的漏洞，允许黑客远程利用它。该问题源于涉及多个制造商的开源软件和硬件的供应链错误。该漏洞影响 AMI 和 AETN 制造的基板管理控制器，这些控制器用于服务器中以实现远程管理。 lighttpd 软件中的缺陷可被利用来泄露敏感信息并绕过安全机制。虽然 Supermicro 正在为受影响的产品提供修复程序，但英特尔和联想没有计划为其硬件发布补丁。]]></description>
+      <guid>https://t.me/hn_summary/84086</guid>
+      <pubDate>Thu, 11 Apr 2024 20:12:34 GMT</pubDate>
     </item>
     <item>
-      <title>任何人都可以联系 OpenAI。</title>
-      <link>https://t.me/hn_summary/84025</link>
-      <description><![CDATA[任何人都有 OpenAI 的联系方式。他们有蜘蛛问题
-作者 John Levine 正在就其内容农场网站上由 GPTBot 引起的蜘蛛问题寻求帮助。该机器人已获取超过 300 万个页面，由于网站的独特结构而导致出现问题。尽管页面相似，机器人仍然继续获取它们，这导致了挫败感。作者之前在亚马逊的蜘蛛上遇到过类似的问题，但能够解决它。令人惊讶的元素是提及 OpenAI 并请求联系以解决当前的蜘蛛问题。作者还暗示使用 GPT-5 进行训练。]]></description>
-      <guid>https://t.me/hn_summary/84025</guid>
-      <pubDate>Thu, 11 Apr 2024 13:56:18 GMT</pubDate>
+      <title>[媒体]“向 JavaScript 添加信号的提案”项目旨在引入一个标准 [...]</title>
+      <link>https://t.me/hn_summary/84085</link>
+      <description><![CDATA[向 JavaScript 添加信号的提案
+“向 JavaScript 添加信号的提案”项目旨在引入 JavaScript 中的信号标准，类似于 Promises/A+ 的工作。信号旨在帮助以反应方式管理应用程序状态，使开发人员能够专注于业务逻辑而不是重复的细节。与 Promises/A+ 不同，该提案侧重于信号图的核心语义，而不是面向开发人员的 API。该项目涉及各个框架作者的合作，如果信号被证明跨多个框架有益，则旨在标准化信号。该提案包括自动依赖跟踪、惰性评估和记忆功能，以提高性能和内存使用率。 （根据故事文本的 21% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/84085</guid>
+      <pubDate>Thu, 11 Apr 2024 20:04:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Kobo 电子阅读器的 Plato 文档阅读器是一个提供文档阅读器的项目 [...]</title>
-      <link>https://t.me/hn_summary/84024</link>
-      <description><![CDATA[Kobo 电子阅读器的 Plato 文档阅读器
-Plato Document Reader for Kobo E-Readers 是一个为各种 Kobo 电子阅读器设备提供文档阅读器的项目，支持多种固件和格式，包括 PDF、CBZ、FB2、MOBI 等。该阅读器提供边距裁剪、缩放模式、屏幕旋转、对比度调整、词典定义、注释和在线文章检索等功能。该项目因其与各种 Kobo 设备和格式的兼容性以及支持进一步开发的捐赠选项而脱颖而出。]]></description>
-      <guid>https://t.me/hn_summary/84024</guid>
-      <pubDate>Thu, 11 Apr 2024 13:52:13 GMT</pubDate>
+      <title>[媒体]华为宣布推出首款人工智能PC，该PC将由I [...]</title>
+      <link>https://t.me/hn_summary/84084</link>
+      <description><![CDATA[华为表示将开始销售搭载英特尔人工智能芯片的个人电脑
+华为宣布推出首款人工智能PC，该PC将采用英特尔最新芯片组并运行自己的操作系统。此举是在美国对该公司进行打压、限制其获取美国技术之际采取的。华为这一大胆举措展现了他们面对争议时对创新和独立的承诺。]]></description>
+      <guid>https://t.me/hn_summary/84084</guid>
+      <pubDate>Thu, 11 Apr 2024 19:59:25 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]华为刚刚发布了新款 MateBook X Pro，采用革命性的鲨鱼鳍设计 [...]</title>
-      <link>https://t.me/hn_summary/84023</link>
-      <description><![CDATA[华为发布Ultra 9 MateBook X Pro，40W TDP，980g
-华为刚刚发布了新款MateBook X Pro，采用革命性的鲨鱼鳍散热系统，搭配AI设计的流线型涡轮风扇。创新的双出风口和四路进风设计，确保高效散热和强力降噪。这款超轻笔记本电脑仅重 980 克，让您能够完全沉浸在高性能任务中，不受任何干扰。使用华为 MateBook X Pro 保持冷静、专注。]]></description>
-      <guid>https://t.me/hn_summary/84023</guid>
-      <pubDate>Thu, 11 Apr 2024 13:46:09 GMT</pubDate>
+      <title>[媒体]美国</title>
+      <link>https://t.me/hn_summary/84083</link>
+      <description><![CDATA[美国称俄罗斯黑客在微软网络攻击期间窃取了政府电子邮件 
+美国网络安全和基础设施安全局 (CISA) 已证实，被称为“午夜暴雪”或 APT29 的俄罗斯黑客在针对微软的网络攻击中窃取了多个美国联邦机构的政府电子邮件。微软最初于 1 月份披露了这次攻击，促使 CISA 发布了一项紧急指令，命令民间政府机构保护其电子邮件帐户的安全。此举正值微软面临安全漏洞审查之际，其中包括针对微软以外其他组织的俄罗斯黑客。美国网络安全审查委员会还指责微软在 2023 年中国支持的黑客攻击事件中造成安全失败。]]></description>
+      <guid>https://t.me/hn_summary/84083</guid>
+      <pubDate>Thu, 11 Apr 2024 19:47:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
