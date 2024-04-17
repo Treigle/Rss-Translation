@@ -4,18 +4,11 @@
     <title>最新提交：GPT3</title>
     <link>https://www.reddit.com/r/GPT3/new</link>
     <description>AI 文本生成技术的 Reddit 子版块</description>
-    <lastBuildDate>Wed, 17 Apr 2024 09:10:16 GMT</lastBuildDate>
-    <item>
-      <title>人工智能任务管理器</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1c5yrs6/ai_task_manager/</link>
-      <description><![CDATA[大家好。这里有点新，但我会尝试一下。 我有一个想法，但找不到任何非常适合这个想法的东西。而且 Android 自带的日历并不兼容所有的东西。  是否有可能创建一个人工智能，可以按照您设置的任何时间间隔扫描您的应用程序以创建待办事项列表？  示例：我是一名大学生，一直有很多作业要交，因此它会扫描 Canvas 日历/待办事项列表，并将待办事项列表从那里放入应用程序中。然后它会扫描我的谷歌日历并执行相同的操作。然后是 Outlook、账单跟踪应用程序等等。  你们的想法是什么？   由   提交/u/Strange_Draw_7165   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1c5yrs6/ai_task_manager/</guid>
-      <pubDate>Wed, 17 Apr 2024 02:36:56 GMT</pubDate>
-    </item>
+    <lastBuildDate>Wed, 17 Apr 2024 12:17:44 GMT</lastBuildDate>
     <item>
       <title>我想我稍微破坏了 GPT</title>
       <link>https://www.reddit.com/r/GPT3/comments/1c5oanf/i_think_i_broke_gpt_a_little/</link>
-      <description><![CDATA[       正在写一些诗句，这些词在我的脑海中留下了很酷的流畅感。所以它满足了我的要求。   由   提交/u/No_Atmosphere_5485   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[      当时我正在写一些诗句，突然脑子里浮现出这些词句的美妙旋律。所以它满足了我的要求。    提交人    /u/No_Atmosphere_5485   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1c5oanf/i_think_i_broke_gpt_a_little/</guid>
       <pubDate>Tue, 16 Apr 2024 19:02:26 GMT</pubDate>
     </item>
@@ -43,7 +36,7 @@
     <item>
       <title>具有极其复杂架构的文本到 SQL</title>
       <link>https://www.reddit.com/r/GPT3/comments/1c3vub1/texttosql_with_extremely_complex_schema/</link>
-      <description><![CDATA[我正在使用 llms 和 sql server 开发一个文本到 sql 项目。用户将用自然语言提出问题，llms 将编写 sql 查询，在我的数据库上运行它，然后以自然语言给出结果。问题是数据库的模式很大，表名、列名不言自明。大多数时候，两个表需要在多个列上连接，并且在其中条件下，我始终希望有一些条件，并且日期范围条件也非常重要，因为如果没有日期条件，用户可能会获得他不希望访问的数据到。有什么办法可以解决这个问题吗？我尝试过使用视图，但这在计算上非常昂贵，并且执行起来也需要大量时间。还有其他办法吗？   由   提交 /u/CategoryHoliday9210   [链接] [评论]]]></description>
+      <description><![CDATA[我正在使用 llms 和 sql server 开发一个文本到 sql 项目。其中用户将以自然语言提问，llms 将编写 sql 查询，在我的数据库上运行它，然后以自然语言返回结果。问题是数据库的模式非常庞大，表名和列名都不是自解释的。大多数时候，两个表需要在多个列上进行连接，并且在 where 条件中我始终希望有一些条件，并且日期范围条件也非常重要，因为如果没有日期条件，用户可能会获得他本不应访问的数据。有什么办法可以解决这个问题吗？我尝试过使用视图，但这在计算上很昂贵，并且执行起来也需要很长时间。还有其他办法吗？    提交人    /u/CategoryHoliday9210   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1c3vub1/texttosql_with_extremely_complex_schema/</guid>
       <pubDate>Sun, 14 Apr 2024 15:13:11 GMT</pubDate>
     </item>
@@ -109,6 +102,13 @@
       <description><![CDATA[   /u/Sharp_Philosopher   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1bwsbqp/enhanced_osint_with_darkgpt_a_tool_to_detect/</guid>
       <pubDate>Fri, 05 Apr 2024 20:34:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nvidia 按产品线划分的收入</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1bv5uni/nvidias_revenue_by_product_line/</link>
+      <description><![CDATA[     &lt; td&gt; 计算在人工智能和数据中发挥着关键作用吗？ &lt;!-- SC_ON - -&gt;  由   提交 /u/FarPercentage6591   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1bv5uni/nvidias_revenue_by_product_line/</guid>
+      <pubDate>Wed, 03 Apr 2024 22:06:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
