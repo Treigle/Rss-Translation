@@ -4,86 +4,88 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 17 Apr 2024 15:11:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 21:08:37 GMT</lastBuildDate>
     <item>
-      <title>[媒体] GitHub 项目“antirez/zx2040：RP2040 ZX Spectrum 模拟器”是 ZX S 的端口 [...]</title>
-      <link>https://t.me/hn_summary/84999</link>
-      <description><![CDATA[GitHub – antirez/zx2040：RP2040 ZX Spectrum 模拟器 
-GitHub 项目“antirez/zx2040：RP2040 ZX Spectrum 模拟器”是 ZX Spectrum 模拟器到 Raspberry Pico RP2040 的端口，旨在无需键盘即可轻松进行游戏选择和按键映射。它包括 Pico -&gt; Spectrum 键映射、最小 ST77xx 显示驱动程序、视频实时放大/缩小以及疯狂超频以获得更快性能等功能。该项目修改了原始模拟器，以针对 Pico 有限的 RAM 和性能要求进行优化。作者的动机包括对 ZX Spectrum 的怀念和探索 Pico SDK。该项目已获得 MIT 许可，可用于商业用途，但其中包含的版权游戏请谨慎使用。]]></description>
-      <guid>https://t.me/hn_summary/84999</guid>
-      <pubDate>Wed, 17 Apr 2024 15:11:35 GMT</pubDate>
+      <title>[媒体]MCC 的 Cyc 项目是构建单一智能代理的开创性努力 [...]</title>
+      <link>https://t.me/hn_summary/85062</link>
+      <description><![CDATA[Cyc：历史被遗忘的人工智能项目
+MCC 的 Cyc 项目是一项开创性的工作，旨在构建一个具有丰富的专家系统和机器学习知识库的智能代理。尽管取得了令人瞩目的成就，Cyc 却被较新的机器学习算法所掩盖。该项目由 Doug Lenat 领导，旨在创建一个共享常识知识库，以增强推理能力。 Cyc 的知识库包括 2500 万条规则和 150 万个概念，并配有专门的推理引擎。虽然 Cyc 并没有像人们希望的那样彻底改变人工智能，但它仍然是一个在面对不断变化的技术时付出巨大努力的警示故事。集成 Cyc-LLM 系统的潜力为未来提供了新的可能性。 （根据 78% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/85062</guid>
+      <pubDate>Wed, 17 Apr 2024 21:08:37 GMT</pubDate>
     </item>
     <item>
-      <title>在计算机科学领域，图表在表示关系方面发挥着至关重要的作用 [...]</title>
-      <link>https://t.me/hn_summary/84998</link>
-      <description><![CDATA[解决无向图的最小割问题
-在计算机科学领域，图在表示对象之间的关系方面发挥着至关重要的作用。最小割问题，也称为“最小割”，是图论中的一个基本问题，旨在找到最具成本效益的方式来断开网络。该问题在计算机视觉和网络分析等领域有着广泛的应用。在 research.google，我们开发了一种突破性的确定性近线性模型用于解决加权图中最小割问题的算法，在著名的 SODA2024 会议上获得认可。该算法不仅保证了正确答案，而且适用于一般图，标志着算法图论的重大进步。]]></description>
-      <guid>https://t.me/hn_summary/84998</guid>
-      <pubDate>Wed, 17 Apr 2024 15:05:29 GMT</pubDate>
+      <title>[媒体] NPR 高级商业编辑 Uri Berliner 辞去 NPR 职务，理由是新的回应 [...]</title>
+      <link>https://t.me/hn_summary/85061</link>
+      <description><![CDATA[NPR 编辑 Uri Berliner 因新任首席执行官的猛烈辞职 
+NPR 高级商业编辑 Uri Berliner 从 NPR 辞职，理由是新任首席执行官凯瑟琳·马赫 (Katherine Maher) 对他指责 NPR 失去公众信任的文章的回应。柏林纳的批评在网络内引发了争议，一些同事表达了愤怒和沮丧，而另一些同事则私下承认他的担忧是真实的。马赫的言论和柏林纳的辞职引发了要求马赫下台和取消对 NPR 的资助的呼声，尽管柏林本人并不支持此类呼吁。这种情况促使 NPR 宣布每月对报道的公平性和多样性进行审查，包括观点的多样性。]]></description>
+      <guid>https://t.me/hn_summary/85061</guid>
+      <pubDate>Wed, 17 Apr 2024 20:52:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 隆重推出 Mixtral 8x22B，我们最新的开放模型通过 [...]</title>
-      <link>https://t.me/hn_summary/84997</link>
-      <description><![CDATA[Mixtral 8x22B
-隆重推出 Mixtral 8x22B，这是我们最新的开放模型，以无与伦比的性能和效率彻底改变了 AI 社区。这种稀疏的专家混合模型在 141B 中只有 39B 个有效参数，提供了无与伦比的成本效率。 Mixtral 8x22B 精通多种语言，拥有强大的数学和编码能力，是真正开放的，根据 Apache 2.0 许可证发布，可广泛分发和协作。其多语言功能、优化的推理以及在编码和数学任务中的卓越性能使其有别于其他开放模型。加入 Mistral 社区，探索 La Plateforme 上 Mixtral 8x22B 的无限可能性。]]></description>
-      <guid>https://t.me/hn_summary/84997</guid>
-      <pubDate>Wed, 17 Apr 2024 14:44:19 GMT</pubDate>
+      <title>[媒体] Gecko Robotics 由 Jake Loosararian 创立，最初是一个大学项目，其灵感来自 [...]</title>
+      <link>https://t.me/hn_summary/85060</link>
+      <description><![CDATA[Gecko Robotics 通过一个大学项目创建了一家价值 6 亿美元的公司
+Gecko Robotics 由 Jake Loosararian 创立，最初是一个大学项目，灵感来自于他在哥斯达黎加看到的一只壁虎。该公司目前价值超过 6 亿美元，生产爬墙机器人，用于检查基础设施是否存在生锈和腐蚀等缺陷。 Gecko 最近筹集了 1 亿美元来扩大其国防技术业务。尽管面临挑战并几乎放弃，卢萨瑞安的坚持得到了回报。 Gecko 的机器人有助于防止结构发生灾难性故障，重点是预测性维护。该公司的成功故事凸显了在基础设施问题成为重大问题之前解决它们的重要性。 （根据 84% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/85060</guid>
+      <pubDate>Wed, 17 Apr 2024 20:49:25 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]领先的芯片制造设备制造商 ASML 因 [...]</title>
-      <link>https://t.me/hn_summary/84996</link>
-      <description><![CDATA[芯片制造工具订单减少，ASML 利润暴跌 40%
-领先的芯片制造设备制造商ASML因订单减少而利润下降40%，一季度中国市场几乎占其销售额的一半。新的出口限制影响了对中国的销售，但 ASML 对未来仍持乐观态度，特别是随着新芯片制造厂在全球范围内的推出。该公司预计下半年业绩将更加强劲，并为 2025 年的成功做好准备。尽管存在潜在的出口限制，但在芯片技术进步和行业趋势的推动下，ASML 预计到 2025 年年收入将达到 423 亿美元。]]></description>
-      <guid>https://t.me/hn_summary/84996</guid>
-      <pubDate>Wed, 17 Apr 2024 14:43:15 GMT</pubDate>
+      <title>[媒体]在《自然》杂志最近发表的一项研究中，研究人员发现 cl 的经济成本 [...]</title>
+      <link>https://t.me/hn_summary/85059</link>
+      <description><![CDATA[到 2050 年，气候损失将是限制变暖成本的 6 倍2°
+在最近发表在《自然》杂志上的一项研究中，研究人员发现，到 2050 年，气候损害的经济成本将比将升温限制在 2°C 的估计成本高出六倍。这种实证方法分析了全球 1,600 多个地区在 2050 年的经济表现。过去 40 年，将气温变化和极端降雨等气候事件与经济影响联系起来。该研究强调，迫切需要采取行动减缓气候变化，因为全球经济已经致力于导致严重变暖，这将产生不利影响。这项研究对当前关于应对气候变化的成本和效益的争论提出了挑战，强调了立即采取行动的重要性。]]></description>
+      <guid>https://t.me/hn_summary/85059</guid>
+      <pubDate>Wed, 17 Apr 2024 20:48:21 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Tiron 是一款开源自动化工具，旨在成为快速且易于使用的替代工具 [...]</title>
-      <link>https://t.me/hn_summary/84995</link>
-      <description><![CDATA[显示 HN：一种新的开源自动化工具，作为替代品Ansible/盐
-Tiron 是一款开源自动化工具，旨在成为 Ansible 和 Salt 的快速且易于使用的替代品。它是无代理的，使用 SSH 连接到远程计算机，并具有用于任务输出的 TUI。 Tiron 使用 HCL 而不是 YAML 进行配置，预先验证 Runbook 文件的正确性，并通过预先填充任务数据来优化速度。此外，它还提供语言服务器协议 (LSP) 服务器，用于语法突出显示、linting 等。该项目提供了用于安装的快速入门脚本和详细的使用文档。 Tiron 根据 Apache 2.0 许可证获得许可。]]></description>
-      <guid>https://t.me/hn_summary/84995</guid>
-      <pubDate>Wed, 17 Apr 2024 14:41:10 GMT</pubDate>
+      <title>[媒体]Tik Tok 用户@captian.ad 的 Tesla Cyber​​truck 在一次事件后遇到了一些意想不到的麻烦 [...]</title>
+      <link>https://t.me/hn_summary/85058</link>
+      <description><![CDATA[特斯拉 Cyber​​truck 不适合洗车
+Tik Tok 用户 @captian.ad 的 Tesla Cyber​​truck 在去洗车店后遇到了一些意想不到的麻烦。卡车神秘地停止工作，给车主留下黑屏和无反应的控制装置。在联系特斯拉并等待了五个多小时后，卡车终于重新启动并恢复了大部分功能。目前尚不清楚是什么原因导致了这个问题，但车主确实提到了遵循手册说明的重要性，包括使用“洗车模式”以避免损坏。这一事件对 Cyber​​truck 车主来说是一个警示——也许先不要洗你的卡车，直到你确定它不会让你滞留几个小时。]]></description>
+      <guid>https://t.me/hn_summary/85058</guid>
+      <pubDate>Wed, 17 Apr 2024 20:34:13 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 我们的最新版本 Stable Diffusion 3 API 现已在 stable.ai 上提供。</title>
-      <link>https://t.me/hn_summary/84994</link>
-      <description><![CDATA[稳定的 Diffusion 3 API 现已推出
-我们的最新版本 Stable Diffusion 3 API 现已在 stability.ai。我们与 Fireworks AI 合作，为您带来 Stable Diffusion 3 和 Stable Diffusion 3 Turbo，确保顶级性能和可靠性。我们注重安全和负责任的人工智能实践，致力于防止滥用，并与专家合作诚信创新。我们的企业级 API 解决方案可保证 99.9% 的服务可用性，使其成为关键任务操作的理想选择。与我们一起通过稳定扩散 3 释放创造力并激活人类潜力。]]></description>
-      <guid>https://t.me/hn_summary/84994</guid>
-      <pubDate>Wed, 17 Apr 2024 14:38:05 GMT</pubDate>
+      <title>高速贸易公司 Jane Street 的利润大幅增长，达到 44 亿美元 [...]</title>
+      <link>https://t.me/hn_summary/85057</link>
+      <description><![CDATA[高速交易员 Jane Street 在 2024 年初赚了 4.4B 美元
+高速交易公司 Jane Street 的利润大幅增长，到 2024 年初就达到了 44 亿美元。该公司的成功凸显了当今市场高频交易的利润丰厚的本质。凭借专家分析和行业领先的新闻报道，《金融时报》提供了对金融和商业世界的独家见解。立即订阅以获取完整的数字访问权限，并随时了解全球新闻、专家意见、专题报道等。不要错过通过预付一年的优质内容来节省 20% 的机会。]]></description>
+      <guid>https://t.me/hn_summary/85057</guid>
+      <pubDate>Wed, 17 Apr 2024 20:18:06 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Svalboard 是 Datahand 风格键盘的现代版本，设计坚固、简单 [...]</title>
-      <link>https://t.me/hn_summary/84993</link>
-      <description><![CDATA[带有轨迹球和轨迹点的现代 Datahand 风格键盘&lt; br/&gt;
-Svalboard 是 Datahand 风格键盘的现代版本，设计坚固、易于清洁且可维修。与 Datahand 不同，Svalboard 是完全模块化的，使维修和修改变得轻而易举。按键可轻松拆卸进行清洁，您甚至可以在业余爱好级 3D 打印机上制作自己的替换零件或定制零件。这一创新功能使 Svalboard 脱颖而出，为用户提供独特且可定制的体验。]]></description>
-      <guid>https://t.me/hn_summary/84993</guid>
-      <pubDate>Wed, 17 Apr 2024 14:33:56 GMT</pubDate>
+      <title>[媒体]北京动力机械研究所和大连大学的中国科学家[...]</title>
+      <link>https://t.me/hn_summary/85056</link>
+      <description><![CDATA[科技战争：中国科学家操纵低成本人工智能芯片来供电高超音速武器
+来自北京动力机械研究所和大连理工大学的中国科学家已经装配了低成本的 Nvidia 人工智能芯片 TX2i，为高超音速武器提供动力。该芯片成本仅为数百美元，可显着提高高超音速飞行器的航程和稳定性，同时降低研发成本。该团队的创新 CPU 加 GPU 架构可实现顺序并行计算，这是以前认为低端 AI 芯片不可能完成的任务。虽然由于国内芯片制造商的原因，TX2i用于中国高超音速导弹的可能性较低，但该实验证明了将廉价的人工智能芯片用于高超音速武器的可行性。高超音速武器技术的扩散，包括在朝鲜和伊朗等国家的扩散，引起了美国的重大担忧，并可能改变全球军事力量平衡。]]></description>
+      <guid>https://t.me/hn_summary/85056</guid>
+      <pubDate>Wed, 17 Apr 2024 20:01:57 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Mixtral-8x22B-Instruct-v0.1 大型语言模型是 Mi [...]</title>
-      <link>https://t.me/hn_summary/84992</link>
-      <description><![CDATA[Mixtral-8x22B-Instruct-v0.1&lt; br/&gt;
-Mixtral-8x22B-Instruct-v0.1 大型语言模型是 Mixtral-8x22B-v0.1 的微调版本。它包括一个 Instruct tokenizer，带有用于函数调用的特殊标记。该模型可以使用 MistralTokenizer 和 AutoModelForCausalLM 运行。该版本还将 HuggingFace 标记器与 Mistral 的标记器进行了比较。 Mistral AI 团队由多元化的人员组成，致力于该项目。争议在于标记器的比较，而独特之处在于包含用于函数调用的特殊标记。]]></description>
-      <guid>https://t.me/hn_summary/84992</guid>
-      <pubDate>Wed, 17 Apr 2024 14:17:45 GMT</pubDate>
+      <title>[媒体]在一项开创性的研究中，研究人员观察到细菌中的机械螺旋波[...]</title>
+      <link>https://t.me/hn_summary/85055</link>
+      <description><![CDATA[螺旋式见解：科学家观察细菌群落中的机械波 
+在一项开创性的研究中，研究人员首次观察到细菌群落中的机械螺旋波。这些波通常出现在自然和人工系统（如心脏）中，但被发现是由铜绿假单胞菌中的菌毛马达产生的。研究人员使用荧光蛋白标记和数学模型来研究这些波，这些波是自我维持且稳定的。这一发现揭示了生物膜的形成、扩散以及控制其他生命系统中螺旋波的潜力。这项研究为理解细菌种群及其他群体的集体行为开辟了新的可能性。]]></description>
+      <guid>https://t.me/hn_summary/85055</guid>
+      <pubDate>Wed, 17 Apr 2024 19:59:51 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]告诉美国</title>
-      <link>https://t.me/hn_summary/84991</link>
-      <description><![CDATA[告诉美国参议院：停止 Risaa 的 FISA 大规模监控扩张&lt; /a&gt;
-美国参议院必须终止 FISA 大规模监控扩张计划 Risaa。第 702 条允许政府监视在美国的外国人，但无辜美国人的通讯却常常陷入交火之中。政府可以在没有搜查令的情况下搜查这些通信，从而导致潜在的滥用行为。 2021 年，FBI 使用第 702 条数据进行了数百万次无证搜查。在国会更新第 702 条之前，必须堵住这一漏洞。立即采取行动，保护您的隐私并阻止政府越权。]]></description>
-      <guid>https://t.me/hn_summary/84991</guid>
-      <pubDate>Wed, 17 Apr 2024 14:11:40 GMT</pubDate>
+      <title>[媒体]标题：美国工人接受新工作的最低工资飙升</title>
+      <link>https://t.me/hn_summary/85054</link>
+      <description><![CDATA[美国工人接受新工作的最低工资飙升
+标题：美国工人接受新工作的最低工资猛增
+
+据纽约联邦储备银行称，现在求职者要求换工作的薪酬是多年来最高的，平均超过 81,800 美元。与几个月前相比，这一数字显着增加，当时工人们愿意以减少约 10,000 美元的价格换工作。该调查强调了通胀压力对求职者的影响以及劳动力市场动态的变化。这一趋势标志着当前经济环境下工人的期望和需求发生了转变。]]></description>
+      <guid>https://t.me/hn_summary/85054</guid>
+      <pubDate>Wed, 17 Apr 2024 19:56:46 GMT</pubDate>
     </item>
     <item>
-      <title>我们。</title>
-      <link>https://t.me/hn_summary/84990</link>
-      <description><![CDATA[美国到 2050 年，地热容量将增长 1,900%
-世界各国政府正在投资包括地热能在内的清洁能源，以减少对化石燃料的依赖。美国政府已拨款开发地热潜力，解锁增强型地热系统 (EGS) 等新技术，以获取地下深处的热量。雪佛龙、Fervo Energy 和 Mazama Energy 是扩大地热产能的领先项目，预计将使美国地热能产量翻一番。随着地热技术的进步和资金的增加，到 2050 年，地热发电可提供高达 10% 的美国电力，为零排放基荷电力提供了一个有前景的解决方案。可再生能源令人兴奋的发展即将到来。]]></description>
-      <guid>https://t.me/hn_summary/84990</guid>
-      <pubDate>Wed, 17 Apr 2024 13:56:30 GMT</pubDate>
+      <title>[媒体] 下料问题是运筹学中的一个数学优化问题 [...]</title>
+      <link>https://t.me/hn_summary/85053</link>
+      <description><![CDATA[切割库存问题
+切割库存问题是运筹学中的一个数学优化问题，涉及将标准尺寸的库存材料切割成指定尺寸，同时最大限度地减少浪费。这是一个NP难问题，可以简化为背包问题。该问题可以表述为整数线性规划问题。该问题在纸张、塑料薄膜和金属生产等行业中有多种应用。下料问题根据维数有不同的分类，其中一维和二维问题最为常见。该问题的历史可以追溯到 1939 年，并且已经开发了各种解决方法，包括列生成方法。 （根据故事文本的 59% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/85053</guid>
+      <pubDate>Wed, 17 Apr 2024 19:52:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
