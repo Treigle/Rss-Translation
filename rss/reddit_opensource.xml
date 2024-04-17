@@ -4,11 +4,11 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 17 Apr 2024 00:44:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 03:11:49 GMT</lastBuildDate>
     <item>
       <title>开源轻量级 PDF 阅读器</title>
       <link>https://www.reddit.com/r/opensource/comments/1c5qbsv/opensource_lightweight_pdf_reader/</link>
-      <description><![CDATA[问题 我讨厌 Adob​​e Reader！它速度慢且体积过大，而且它就是 Adob​​e。然而，我阅读了大量 PDF 并对其进行了注释，并且希望在每个设备上拥有具有相同注释的相同库。只有 Adob​​e Reader 提供此功能。 解决方案 所以：我为此创建了一个小型（~1MB！）开源 Web 应用程序！目前没有（正在运行的）后端服务用于同步，但我已经有了它的代码。如果有人对此感兴趣或有反馈，请联系我们！ GitHub - 演示   由   提交 /u/Alexswak   [链接] [评论]]]></description>
+      <description><![CDATA[问题 我讨厌 Adob​​e Reader！它很慢，体积大得不必要，而且它是 Adob​​e 的。但是，我阅读了很多 PDF 并对其进行了注释，并且希望在每台设备上都有相同的库和相同的注释。只有 Adob​​e Reader 能提供这种功能。 解决方案 因此：我为此创建了一个小型（~1MB！）开源 Web 应用程序！目前没有（正在运行的）用于同步的后端服务，但我已经有了它的代码。如果有人有兴趣就此合作或有反馈，请联系我们！ GitHub - 演示    提交人    /u/Alexswak   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c5qbsv/opensource_lightweight_pdf_reader/</guid>
       <pubDate>Tue, 16 Apr 2024 20:24:36 GMT</pubDate>
     </item>
@@ -36,7 +36,7 @@
     <item>
       <title>本地发送新手</title>
       <link>https://www.reddit.com/r/opensource/comments/1c5h4rh/new_to_localsend/</link>
-      <description><![CDATA[我今天收到通知，HP Quickdrop 将于 5 月底停止。我发现了 LocalSend，但在 Windows 和我的三星手机之间共享文件时遇到问题。我旅馆的 wifi 只允许每个用户帐户一个连接，因此我不能让两台设备共享同一个 wifi。如何使用 LocalSend 共享文件？或者有 LocalSend 的替代方案吗？   由   提交/u/Admirable-Echidna-37   [链接] [评论]]]></description>
+      <description><![CDATA[我今天收到通知，HP Quickdrop 将于 5 月底停止。我发现了 LocalSend，但在 Windows 和我的三星手机之间共享文件时遇到问题。我宿舍的 wifi 只允许每个用户帐户一个连接，因此我不能让两台设备共享同一个 wifi。如何使用 LocalSend 共享文件？或者有 LocalSend 的替代方案吗？   由   提交/u/Admirable-Echidna-37   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c5h4rh/new_to_localsend/</guid>
       <pubDate>Tue, 16 Apr 2024 14:12:57 GMT</pubDate>
     </item>
