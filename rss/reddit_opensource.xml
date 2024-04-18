@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 17 Apr 2024 21:12:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 00:43:47 GMT</lastBuildDate>
+    <item>
+      <title>APC UPS 用户，这里有一个简单的 bash 脚本，可以显示 Linux 台式 PC 的能耗。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1c6ofd8/apc_ups_users_heres_a_simple_bash_script_that/</link>
+      <description><![CDATA[在大多数笔记本电脑上，您可以看到您使用了多少能量（以“瓦”为单位）。我搜索了一段时间如何在台式电脑上做到这一点，但除了 CPU 和 GPU 特定功耗之外，找不到可靠的方法。  由于我使用 APC 品牌的 UPS 电池，因此我可以访问 APCUPSD 程序，该程序允许您从电池获取所有类型的信息。我制作了一个使用 APCUPSD 并将“电池百分比”值转换为“瓦特”的小脚本。  我在这里发帖是希望能够帮助其他想要在台式电脑上获得相当准确的能耗计量表的人。享受吧！ 源代码：https://gitlab.com/GameFeverOnline/apcupsd-watts&lt; /p&gt;   由   提交 /u/GameFeverOnline   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1c6ofd8/apc_ups_users_heres_a_simple_bash_script_that/</guid>
+      <pubDate>Wed, 17 Apr 2024 23:20:30 GMT</pubDate>
+    </item>
     <item>
       <title>宣布勤奋证明 (PoD) 算法：一种在开源生态系统中对信任和可维护性进行建模的方法</title>
       <link>https://www.reddit.com/r/opensource/comments/1c6kifn/announcing_the_proofofdiligence_pod_algorithm_a/</link>
@@ -92,7 +99,7 @@
     <item>
       <title>宣布推出 Paige（由 Team HERMES 开发），这是一个用 C 语言编写的跨平台富文本显示/编辑引擎</title>
       <link>https://www.reddit.com/r/opensource/comments/1c50jzs/announcing_paige_by_team_hermes_a_crossplatform/</link>
-      <description><![CDATA[HERMES 团队很自豪地重新推出 Paige，这是一款久经考验的跨平台专业级解决方案，用于构建具有长格式样式文本查看和操作功能的应用程序。这是一个非常松散的问题（涵盖从电子邮件消息编写到 HTML 创作的所有内容）；因此，这个库的功能非常齐全。此外，官方的 841 页 OpenPaige 用户指南 中已经仔细记录了这些功能中的每一个。 Paige 是通过一次知识产权收购来到我们这里的，当时是作为行业典型的“牦牛剃须”的一部分为一个不相关的项目进行的；人员方面的考虑与其进一步发展的可能性相纠结，无论使用得多么广泛，将合格人员从应用程序转移到单纯的库是否明智，都是有争议的。 为了避免无论如何都会出现的难题，我们已着手采取第三种行动：在 GNU 宽通用公共许可证下发布完整的 C 源代码，使其像言论和啤酒一样免费。事实上，如果您具备相关知识并且熟悉 Git，我们欢迎您的贡献。 该项目托管在 Github 上 https://github.com/nmatavka/HERMES-Paige 和 SourceForge 上 https://sourceforge.net/p/hermes-paige    提交人    /u/Advocatus-Honestus   [链接] [评论]]]></description>
+      <description><![CDATA[HERMES 团队很自豪地重新推出 Paige，这是一个经过时间考验的跨平台专业级解决方案，用于构建具有长格式样式文本的应用程序查看和操作能力。这是一个限制非常宽松的问题（包括从电子邮件撰写到 HTML 创作的所有内容）；因此，这个库的功能令人难以置信齐全。此外，我们在 841 页的官方 OpenPaige 用户指南中精心记录了每一项功能。 Paige 通过 I.P. 找到我们。此次收购是行业典型的“牦牛剃毛”行动的一部分。对于不相关的项目；人员方面的考虑与其进一步发展的可能性有关，而将合格的员工从应用程序转移到单纯的库（无论使用多么广泛）是否明智，是有争议的。 希望避免为了解决无论哪种方式都会出现的难题，我们已经开始了第三个行动方案：在 GNU 宽通用公共许可证下发布完整的 C 源代码，使其像言论一样自由，像啤酒一样自由。事实上，如果您拥有相关知识并且熟悉 Git，我们欢迎您做出贡献。 该项目托管在 Github 上，网址为 https://github.com/nmatavka/HERMES-Paige 以及 SourceForge 上的 https:// sourceforge.net/p/hermes-paige   由   提交 /u/Advocatus-Honestus   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c50jzs/announcing_paige_by_team_hermes_a_crossplatform/</guid>
       <pubDate>Mon, 15 Apr 2024 23:07:25 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好！我刚刚发布了一个新的 Python 包，notion2pandas，它允许您仅用一行代码将 Notion 数据库导入 pandas 数据帧，并仅用一行代码从 pandas 数据帧更新 Notion 数据库。&lt;无论您是数据科学家、数据工程师、Python 爱好者，还是只是好奇，从终端“pip install notion2pandas”，按照 README 中的教程进行操作，祝您编码愉快！  ​ https://gitlab.com/Jaeger87/notion2pandas   由   提交/u/Jaeger1987   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c4w5ef/notion2pandas/</guid>
       <pubDate>Mon, 15 Apr 2024 20:09:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源 AI 定义 – 4 月 15 日每周更新</title>
-      <link>https://www.reddit.com/r/opensource/comments/1c4qudz/open_source_ai_definition_weekly_update_april_15/</link>
-      <description><![CDATA[       由   提交 /u/opensourceinitiative   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1c4qudz/open_source_ai_definition_weekly_update_april_15/</guid>
-      <pubDate>Mon, 15 Apr 2024 16:41:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
