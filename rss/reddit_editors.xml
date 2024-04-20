@@ -4,9 +4,9 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Sat, 20 Apr 2024 06:12:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2024 09:10:30 GMT</lastBuildDate>
     <item>
-      <title>关于 Davinci Resolve Studio 新 Linux 机器的建议</title>
+      <title>关于 Davinci Resolve Studio 的新 Linux 机器的建议</title>
       <link>https://www.reddit.com/r/editors/comments/1c8h88j/advice_on_new_linux_machine_for_davinci_resolve/</link>
       <description><![CDATA[嗨， 我是一名长期 Mac 用户，主要用于视频和一些照片编辑。我仍在运行配备 intel i9、16GB RAM、1TB SSD、Radeon 5500M 4GB 型号的 Macbook pro 16 (2019)。我的机器最近也显得有些老化了。我最近通过 Thunderbolt 3 从外部 NVME 编辑了 4TB LongGOP、10 位、4:2:2 文件，在 Davinci Resolve 中制作了一部 30 分钟的纪录片，它出现了很多卡顿（15-20fps 播放）。我必须在代理生成器中创建代理以缓解口吃。我意识到我的机器对于 DR 18.6 来说可能太旧了 由于缺乏可升级性，我不想投资新的 Mac，并想构建一台 PC。但我不想运行Windows，我只是不想处理它的问题。我已经运行 Linux 来管理我的家庭和财务，并且我相信 Linux 是完美的选择。  所以我的问题是：  我不想使用推荐的 Rocky Linux，debian、ubuntu、linux mint 或 fedora 是否兼容？ 该发行版有任何教程吗？ 您会推荐哪些 PC 部件/硬件？ CPU、GPU 和主板。 Linux 中的 DR 支持 intel Arc GPU 吗？  谢谢 &lt;!-- SC_ON - -&gt;  由   提交 /u/brenebon   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1c8h88j/advice_on_new_linux_machine_for_davinci_resolve/</guid>
