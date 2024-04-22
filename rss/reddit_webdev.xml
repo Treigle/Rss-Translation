@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 22 Apr 2024 03:12:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 06:14:32 GMT</lastBuildDate>
+    <item>
+      <title>需要有关反应 MUI Datepicker 的帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ca2cwz/need_help_with_react_mui_datepicker/</link>
+      <description><![CDATA[需要一些帮助： https://stackoverflow.com/questions/78330794/formik-mui-localization-provider-not-working-with- luxon-adapter-for-gb-format   由   提交/u/grimfate123  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ca2cwz/need_help_with_react_mui_datepicker/</guid>
+      <pubDate>Mon, 22 Apr 2024 05:00:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>初学者在这里</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ca25la/beginner_here/</link>
+      <description><![CDATA[我目前是 BTech 的第一年，我的期末考试将在一个月内完成，随后将有 2 个月的暑假，我想做一些富有成效的事情那段时间除了我一直在做的DSA 我无法决定我应该做什么？ Web 开发无疑名列前茅，但现在这样做真的有好处吗？我真的需要一些指导 请忽略我对这些问题的无知并给出一些真诚的建议，谢谢。    由   提交/u/Curiosity_144p   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ca25la/beginner_here/</guid>
+      <pubDate>Mon, 22 Apr 2024 04:48:50 GMT</pubDate>
+    </item>
     <item>
       <title>发展忧虑</title>
       <link>https://www.reddit.com/r/webdev/comments/1c9xf1a/anxieties_about_development/</link>
@@ -64,7 +78,7 @@
     <item>
       <title>是否可以将静态 html 页面加载到 WordPress 网站？</title>
       <link>https://www.reddit.com/r/webdev/comments/1c9tsa5/is_it_possible_to_ipload_static_html_pages_to_a/</link>
-      <description><![CDATA[我一直在绞尽脑汁如何做到这一点......  有人有这样做的经验吗？&lt; /p&gt;   由   提交 /u/cool-beans-yeah   [链接] [评论]]]></description>
+      <description><![CDATA[我一直在绞尽脑汁想如何做到这一点....  有人有这样做的经验吗？    提交人    /u/cool-beans-yeah   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1c9tsa5/is_it_possible_to_ipload_static_html_pages_to_a/</guid>
       <pubDate>Sun, 21 Apr 2024 21:50:09 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[您好， 我是网络开发新手，一直在为一家公司开发网站。  首先，我在 Porkbun 上拥有域名，并计划在 Knownhost 上进行虚拟主机。我还打算使用该域名设置一个电子邮件地址用于公务。我在 Reddit 子版块上读到，有些人建议我使用 Cloudflare 电子邮件路由，因为它免费且易于设置。所以我的想法是设置一个 Gmail 帐户，然后转到 Cloudflare 路由，这样我就可以让电子邮件显示为 [email@whatever.com ](mailto:email@whatever.com) 供用户发送电子邮件。我还将使用 Gmail 来发送邮件，因此电子邮件会以 email@whatever.com 的形式发送。  我的问题是在设置名称服务器时开始的。据我了解，要指向 Web 主机，您需要将名称服务器包含在注册商 DNS 名称服务器部分中。 Cloudlfare 还指出，在向其网站添加域名时，您需要将其名称服务器包含在您的注册商中。这样您就可以继续设置电子邮件路由。  话虽如此，是否可以将 Coudlfare 的用于电子邮件路由的域名服务器和 Knownhost 的域名服务器包含在注册商域名服务器的同一部分中？这会搞砸什么吗？我尝试搜索此信息，但似乎找不到答案。 例如。 cloudflare.nameserver cloudflare.nameserver Knowhost.nameserver&lt; br /&gt; Knowhost.nameserver 感谢您的帮助！   由   提交/u/Graspingcard56   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1c9r9kj/email_routing_and_dns_nameserver_question/</guid>
       <pubDate>Sun, 21 Apr 2024 20:05:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>你们正在做什么副业项目？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c9r8rm/what_side_project_are_you_guys_are_working_on/</link>
-      <description><![CDATA[在工作/学校之外，我对其他人作为开发人员所做的很酷的事情感兴趣。   由   提交/u/Perezident14  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c9r8rm/what_side_project_are_you_guys_are_working_on/</guid>
-      <pubDate>Sun, 21 Apr 2024 20:04:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>大学俱乐部最好的免费网站建设者？ （零到低成本优先）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c9r248/best_free_website_builder_for_college_club_zero/</link>
-      <description><![CDATA[嗨，我正在为我最近加入/成为技术设计负责人的大学俱乐部制作一个网站。我想知道制作网站的最佳零成本平台是什么。具有用户友好/简单界面的平台也是首选，因为我以前从未制作过网站。   由   提交/u/acuteang1e  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c9r248/best_free_website_builder_for_college_club_zero/</guid>
-      <pubDate>Sun, 21 Apr 2024 19:57:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
