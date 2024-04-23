@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 23 Apr 2024 03:12:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 06:14:34 GMT</lastBuildDate>
+    <item>
+      <title>如何在 adminbro/adminjs 中处理复合主键？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1caw5g8/how_to_handle_a_composite_primary_key_in/</link>
+      <description><![CDATA[       由   提交/u/PrestigiousZombie531   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1caw5g8/how_to_handle_a_composite_primary_key_in/</guid>
+      <pubDate>Tue, 23 Apr 2024 04:53:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>将 Laravel 8 部署到 NameCheap 托管</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cavvk2/deploy_laravel_8_to_namecheap_hosting/</link>
+      <description><![CDATA[为什么将 Laravel 项目上传到 NameCheap 这么困难？？？ 我一直在使用教程、博客和他们的官方文档，而且，我还没有找到上传它的方法，到目前为止，我只能部署一些将​​ php 代码显示为文本的 HTML，并且没有 CSS，如果我按任何内容就会崩溃。 有谁有正确执行此操作的指南吗？  我已经连续 6 个小时处理这个了:(    提交者    /u/Comfortable_Guide210   [链接]  [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cavvk2/deploy_laravel_8_to_namecheap_hosting/</guid>
+      <pubDate>Tue, 23 Apr 2024 04:37:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Saas订阅支付平台，有推荐吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cauaya/subscription_payment_platform_for_saas/</link>
+      <description><![CDATA[我们正在寻找一家支付提供商来处理基于 Web 的 SaaS 的 B2C 订阅服务。我们的总部位于澳大利亚，客户遍及世界各地。用户每月将被收取 AU$5 至 AU$9 加上销售税（按月计算）。 理想情况下，支付提供商将处理付款的所有方面，即入职和离职、发票、征税、付款、欺诈检测等。 我们已将列表范围缩小到（但仍愿意接受建议）：  Stripe Recurly Zuora Chargebee  有这些方面的实际经验吗？ Stripe 将是我们的第一选择，但他们的定价结构对我们来说似乎并不理想，因为我们将有许多小额国际付款。   由   提交 /u/leinadsey   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cauaya/subscription_payment_platform_for_saas/</guid>
+      <pubDate>Tue, 23 Apr 2024 03:12:20 GMT</pubDate>
+    </item>
     <item>
       <title>我正在构建一堆图像格式转换工具（webp 到 jpeg、avif 到 png 等）</title>
       <link>https://www.reddit.com/r/webdev/comments/1cauahl/im_building_a_bunch_of_image_format_conversion/</link>
@@ -48,7 +69,7 @@
       <pubDate>Mon, 22 Apr 2024 23:58:17 GMT</pubDate>
     </item>
     <item>
-      <title>想要创建一个基于浏览器的模拟 RPG 游戏！</title>
+      <title>想要创建一款基于浏览器的模拟角色扮演游戏！</title>
       <link>https://www.reddit.com/r/webdev/comments/1caoupx/wanting_to_create_a_browser_based_simulation_rpg/</link>
       <description><![CDATA[您好，从这些游戏中汲取灵感：Lioden、Wolvden、Xanje、Neopets、Flight Rising、Felvargs 希望这是正确的 reddit如果不告诉我，请发帖告诉我 我希望它成为一款冒险文本游戏，用户可以在其中收集、创建、战斗他们的生物！ 我开始并有一个很棒的开始网站但保持它运行的成本约为 70 美元/年，而且我的编码知识很少。我参加了一些免费课程来学习基础知识，并且想参加高级付费课程。  此外，我还使用聊天 gpt 来帮助我学习和编写整个网站的代码，哈哈，结果还不错，但一旦我开始让用户注册并输入电子邮件，我就被机器人淹没了所以这也是我需要努力的事情。  开始我遇到的主要问题： -想知道如何设置使用设置的“设计”上传的图像与 Xanje 类似，可以随机化 - 编辑和创建这些生物的能力。 我从其他人那里购买了线条艺术，他们同意我将其用于此类用途。 - 登录/退出并保存用户信息等并拥有它，以便必须验证电子邮件，如果未在规定时间内验证电子邮件，它将被擦除 任何想法和支持都非常受欢迎和赞赏。任何你认为最适合我参加的课程，同样，如果有任何浏览器构建器类型的东西可供我查看，我愿意。    由   提交 /u/RoutineSingle9577   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1caoupx/wanting_to_create_a_browser_based_simulation_rpg/</guid>
@@ -88,27 +109,6 @@
       <description><![CDATA[从 14 岁起，我就一直使用 3 个屏幕来设置我的办公桌。当然，这让我进入 Web 开发领域变得非常容易。我可以在左侧显示器上显示 chrome 工具，在中间显示 VS Code，在右侧显示我的网站。我想转换回只使用 1 个屏幕，特别是我的笔记本电脑，这样我就可以在床上或沙发上编码，但在使用 3 个屏幕这么长时间后，这似乎相当困难。  有什么好的建议吗？是我想多了吗？我是否只需要熟练使用 alt tab 键即可？   由   提交/u/FLSOC  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1caktln/for_those_who_only_use_1_monitor_or_their_laptop/</guid>
       <pubDate>Mon, 22 Apr 2024 20:08:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>知道为什么我的 Flexbox 布局中有这些巨大的间隙吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cak7jn/any_idea_why_i_have_these_huge_gaps_in_my_flexbox/</link>
-      <description><![CDATA[       由   提交/u/Jutboy  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cak7jn/any_idea_why_i_have_these_huge_gaps_in_my_flexbox/</guid>
-      <pubDate>Mon, 22 Apr 2024 19:44:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>[咆哮] Reddit.com 移动体验是####。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cak1n8/rant_redditcom_mobile_experience_is/</link>
-      <description><![CDATA[而且我没有安装一个该死的应用程序来阅读页面上的文本。   由   提交 /u/GroundPepper   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cak1n8/rant_redditcom_mobile_experience_is/</guid>
-      <pubDate>Mon, 22 Apr 2024 19:38:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>eBay API 项目？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1caji7d/ebay_api_project/</link>
-      <description><![CDATA[嘿，伙计们，我考虑探索 eBay API，看看是否可以用它做点什么。我的目标是从 eBay 提取数据，创建可视化/图表，并根据图表执行分析/做出决策。但我认为我陷入了第一步，比如从 eBay API 检索哪些数据。 目前，我已经设置了 findItemsByKeywords 方法，该方法允许我使用关键字查询在 eBay 上搜索项目。但我不确定这个方法到底能做什么。例如，如果我搜索“iPhone”，我想确定哪种 iPhone 型号是最受欢迎的列表。但是，我收到的数据可能包括各种 iPhone 型号的列表，范围从 iPhone 7 到 iPhone 14。我应该按型号对这些列表进行分组，还是应该对每个型号（例如 iPhone 7、iPhone 8 等）进行单独搜索。 ）？如果有人熟悉 eBay API 或有任何想法，我将不胜感激。    由   提交/u/KartaMemory  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1caji7d/ebay_api_project/</guid>
-      <pubDate>Mon, 22 Apr 2024 19:17:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
