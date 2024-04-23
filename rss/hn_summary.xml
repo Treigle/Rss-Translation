@@ -1,89 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>HN 摘要</title>
+    <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 23 Apr 2024 12:18:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 18:10:11 GMT</lastBuildDate>
     <item>
-      <title>[媒体]微软推出了迄今为止最小的人工智能模型 Phi-3 Mini，拥有 38 亿个参数 [...]</title>
-      <link>https://t.me/hn_summary/85962</link>
-      <description><![CDATA[微软推出迄今为止最小的人工智能模型 Phi-3
-微软推出了 Phi-3 Mini，这是迄今为止最小的人工智能模型，拥有 38 亿个参数，与 GPT-4 等较大模型相比，它在较小的数据集上进行训练。该公司还计划发布 Phi-3 Small 和 Phi-3 Medium。 Phi-3 Mini 可在 Azure、Hugging Face 和 Ollama 上使用。微软的 Eric Boyd 声称 Phi-3 的功能与 GPT-3.5 等较大型号一样，但外形较小。该公司还开发了 Orca-Math 来解决数学问题。像 Phi-3 这样的小型人工智能模型运行起来更便宜，并且在个人设备上表现良好。 Boyd 解释说，Phi-3 的培训“课程”受到儿童学习方式的启发。]]></description>
-      <guid>https://t.me/hn_summary/85962</guid>
-      <pubDate>Tue, 23 Apr 2024 12:18:23 GMT</pubDate>
+      <title>[媒体] 在 Huggingface.co 上发现优化的 Phi-3 Mini-128K-Instruct ONNX 模型，designe [...]</title>
+      <link>https://t.me/hn_summary/86027</link>
+      <description><![CDATA[具有 128k 上下文的 Microsoft Phi-3 3.8B 模型 
+在 huggingface.co&lt; 上探索优化的 Phi-3 Mini-128K-Instruct ONNX 模型/a&gt;，专为使用 ONNX 运行时加速推理而设计。这种最先进的模型是 Phi-3 系列的一部分，提供高质量、推理密集的数据，重点关注精确的指令遵守和强大的安全措施。凭借对各种平台和设备（包括 Windows、Linux、Mac 和移动 CPU）的支持，开发人员可以利用 DirectML 在 Windows 设备上进行硬件加速。与 PyTorch 相比，性能指标显示出显着的速度改进，使 Phi-3 Mini 成为生成式 AI 推理的强大工具。请继续关注即将推出的更多更新和优化。]]></description>
+      <guid>https://t.me/hn_summary/86027</guid>
+      <pubDate>Tue, 23 Apr 2024 18:10:11 GMT</pubDate>
     </item>
     <item>
-      <title>在这项开创性的研究中，研究人员开发了一种新的翻译系统 Claude 3，t [...]</title>
-      <link>https://t.me/hn_summary/85961</link>
-      <description><![CDATA[Claude 3 击败 Google 翻译
-在这项开创性的研究中，研究人员开发了一种新的翻译系统 Claude 3，它在准确性和效率方面优于谷歌翻译。通过利用先进的机器学习算法和庞大的语言数据数据库，Claude 3 能够在很短的时间内提供更准确的翻译。这一创新系统有可能彻底改变我们跨语言交流的方式，为满足翻译需求提供更可靠、更精确的工具。争议在于对谷歌翻译及其市场主导地位的影响，因为克劳德 3 对其当前地位构成了严重挑战。]]></description>
-      <guid>https://t.me/hn_summary/85961</guid>
-      <pubDate>Tue, 23 Apr 2024 12:15:48 GMT</pubDate>
+      <title>[媒体] 隆重推出 Thermonator，这是一款配备火焰喷射器的突破性机器狗。</title>
+      <link>https://t.me/hn_summary/86026</link>
+      <description><![CDATA[“Thermonator 是有史以来第一个挥舞火焰喷射器的机器狗”&lt; /a&gt;
+隆重推出 Thermonator，这是一款配备火焰喷射器的突破性机器狗。这一创新产品与 ARC 火焰喷射器相结合，让用户可以按照自己的命令释放火焰。 Thermonator 是一项独一无二的发明，它结合了尖端技术和一丝危险。准备好与这个热情无畏的伙伴一起见证机器人技术的未来。]]></description>
+      <guid>https://t.me/hn_summary/86026</guid>
+      <pubDate>Tue, 23 Apr 2024 18:09:06 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在一封从基辅写给西方左派的衷心信中，作者分享了他们的个人[...]</title>
-      <link>https://t.me/hn_summary/85960</link>
-      <description><![CDATA[基辅致西方左派的一封信（2022）
-在一封从基辅写给西方左派的衷心信中，作者分享了他们在顿巴斯战争中的个人经历以及战争对他们家庭的影响。尽管他们自己的家庭内部存在不同的政治观点，但作者强调对话和理解的重要性。作者强调了从民族主义到左派的历程，因为他们表达了为人类而不仅仅是为他们的国家争取更美好未来的愿望。作者呼吁俄罗斯人民推翻普京政权，强调乌克兰需要和平与正义。]]></description>
-      <guid>https://t.me/hn_summary/85960</guid>
-      <pubDate>Tue, 23 Apr 2024 12:13:44 GMT</pubDate>
+      <title>[媒体]苹果公司对 CarPlay 的冒险赌注探讨了苹果公司 CarPlay 系统的演变以及 [...]</title>
+      <link>https://t.me/hn_summary/86025</link>
+      <description><![CDATA[苹果对 CarPlay 的冒险赌注
+苹果对 CarPlay 的冒险赌注探讨了苹果 CarPlay 系统的演变及其在汽车行业面临的挑战。虽然驾驶员喜欢 CarPlay 与 iPhone 的无缝集成，但新的 CarPlay 2 版本面临着一些汽车制造商的抵制，他们认为这对其品牌差异化和收入来源构成了威胁。苹果平衡汽车制造商定制与保持对用户体验的控制的策略是一种冒险的策略，但他们有机会通过更多的 UI 定制和第三方集成来说服犹豫不决的汽车制造商。随着苹果公司在汽车行业的复杂格局中前行，CarPlay 的未来仍然不确定。 （根据故事文本的 76% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/86025</guid>
+      <pubDate>Tue, 23 Apr 2024 18:08:01 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]大量使用含有外国部件的制导炸弹正在推动俄罗斯的进步 [...]</title>
-      <link>https://t.me/hn_summary/85959</link>
-      <description><![CDATA[乌克兰表示，大规模使用制导炸弹推动俄罗斯前进
-乌克兰政府分析称，大量使用含有外国部件的制导炸弹正在推动俄罗斯在乌克兰取得进展，每周发射多达 500 枚。这些配备 UMPC 制导系统的炸弹在俄罗斯最近取得的成果（包括摧毁阿夫迪夫卡）中发挥了关键作用。通过添加廉价的机翼和卫星导航系统，这些炸弹可以很容易地转变为制导炸弹，从而使它们能够在乌克兰防空系统的攻击范围之外发射。这些武器成功的根源在于乌克兰缺乏防空武器，部分原因是援助计划的延迟。尽管受到制裁，俄罗斯仍然依赖进口的外国制造零部件，这引起了华盛顿越来越多的担忧。]]></description>
-      <guid>https://t.me/hn_summary/85959</guid>
-      <pubDate>Tue, 23 Apr 2024 12:08:38 GMT</pubDate>
+      <title>[媒体] Fallout 社区版项目是原始 Fallout g 的重新实现 [...]</title>
+      <link>https://t.me/hn_summary/86024</link>
+      <description><![CDATA[Fallout1-ce：现代操作系统的 Fallout&lt; br /&gt;
+《辐射》社区版项目是对原始《辐射》游戏的重新实现，修复了错误并提高了生活质量，使其与现代操作系统兼容。它可以安装在 Windows、Linux、macOS、Android 和 iOS 上，并为每个平台提供了具体说明。该项目旨在保持原始游戏玩法，同时提供增强功能和错误修复。作者鼓励贡献更新到 1.2 版本并向后移植 Fallout 2 的功能。该项目根据可持续使用许可证获得许可，这与其他项目不同。]]></description>
+      <guid>https://t.me/hn_summary/86024</guid>
+      <pubDate>Tue, 23 Apr 2024 18:05:56 GMT</pubDate>
     </item>
     <item>
-      <title>C 不是宿醉；</title>
-      <link>https://t.me/hn_summary/85958</link>
-      <description><![CDATA[C 不是宿醉；生锈并不能治愈宿醉
-在本文中，作者深入探讨了编程语言中有关内存安全的争论，特别关注 C 和 C++。作者认为，虽然安全很重要，但放弃这些语言的决定并不像某些人想象的那么简单。他们强调了过渡到 Rust 等新语言所涉及的复杂性，并强调必须考虑的经济因素。作者还讨论了内存安全风险的变化以及 C 和 C++ 代码中可利用性的演变性质。总体而言，本文挑战了内存安全问题与以前一样严重的观念，并鼓励在软件开发中采用更细致的语言选择方法。 （根据故事文本的 13% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/85958</guid>
-      <pubDate>Tue, 23 Apr 2024 12:05:33 GMT</pubDate>
+      <title>[媒体] 两名新泽西州司机起诉通用汽车公司，称其共享驾驶数据 [...]</title>
+      <link>https://t.me/hn_summary/86023</link>
+      <description><![CDATA[诉讼指控通用汽车未经同意与保险公司共享驾驶员数据
+新泽西州两名司机起诉通用汽车，称其未经同意与保险公司分享驾驶数据，导致保险费增加。该诉讼称，通用汽车的安吉星应用程序未经许可收集并向第三方传输驾驶员行为数据。原告辩称，这种未经授权的入侵导致隐私泄露、保险成本增加以及难以在其他地方获得合理的保费。该诉讼还引用了 Mozilla 基金会和《纽约时报》的调查，这些调查揭露了汽车行业普遍存在的隐私侵犯行为。该诉讼提出了关于解释和使用驾驶数据来确定保险费的背景的问题。]]></description>
+      <guid>https://t.me/hn_summary/86023</guid>
+      <pubDate>Tue, 23 Apr 2024 17:49:48 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 1build 是一家风险投资支持的技术公司，正在寻找营销主管以帮助推动 [...]</title>
-      <link>https://t.me/hn_summary/85957</link>
-      <description><![CDATA[1build (YC W20) 正在招聘营销主管 
-1build 是一家风险投资支持的技术公司，正在寻找营销主管，以帮助推动其创新的 Handoff 应用程序的销售线索快速增长。 Handoff 使用生成式人工智能技术，为改建承包商提供快速、准确的施工成本估算。营销主管将负责发现有利可图的获取渠道、优化营销工作以及开发搜索引擎优化和社交媒体等免费渠道。理想的候选人具有产品意识、精通技术并且热衷于成为创业环境的一部分。加入来自苹果和特斯拉等公司的行业专家团队，彻底改变改建承包商市场。]]></description>
-      <guid>https://t.me/hn_summary/85957</guid>
-      <pubDate>Tue, 23 Apr 2024 12:01:28 GMT</pubDate>
+      <title>[媒体]Erlang 的调度程序是实现容错和高并发的关键组件 [...]</title>
+      <link>https://t.me/hn_summary/86022</link>
+      <description><![CDATA[深入了解 Erlang 调度程序
+Erlang 的调度程序是实现应用程序容错和高并发的关键组件。这篇文章深入研究了调度程序的内部工作原理，解释了它如何有效地管理进程、资源和并发性。通过利用基于减少而不是时间片的抢占式调度，Erlang 确保了进程之间的公平执行，并最大限度地减少了阻塞操作的影响。这篇文章还强调了进程优先级的重要性，并提供了通过调度程序参数优化性能的技巧。了解 Erlang 调度程序可以使开发人员能够创建可扩展且有弹性的分布式应用程序。如需更多见解，请查看推荐资源并快乐编码！]]></description>
+      <guid>https://t.me/hn_summary/86022</guid>
+      <pubDate>Tue, 23 Apr 2024 17:45:43 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Zig 的 Comptime 是什么？</title>
-      <link>https://t.me/hn_summary/85956</link>
-      <description><![CDATA[Zig 的 Comptime 是什么？
-Zig 的 comptime 功能允许在编译时执行代码，从而实现强大的优化和功能。与宏或代码生成等传统编译时执行方法不同，Zig 的编译时提供了新水平的灵活性和控制。通过在编译时运行代码，Zig 可以执行确定数组长度、优化函数和解析控制流表达式等任务。这一独特的功能使 Zig 成为一种有前景的高效、高性能编程语言。通过展示编译时函数调用、块、代码省略和泛型的示例，Zig 展示了其高级编译时操作的潜力。访问 https://ziglang.org 探索 Zig 的 comptime 的可能性。 （根据故事文本的 52% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/85956</guid>
-      <pubDate>Tue, 23 Apr 2024 11:45:19 GMT</pubDate>
+      <title>[媒体]苹果公司做出了令人惊讶的决定，将 Vision Pro 的出货量削减一半，原因是……</title>
+      <link>https://t.me/hn_summary/86021</link>
+      <description><![CDATA[由于需求下降“严重超出预期”，苹果削减了 Vision Pro 出货量&lt; /a&gt;
+由于需求大幅下滑，苹果做出了将 Vision Pro 出货量削减一半的令人惊讶的决定，美国分析师郭明錤表示，需求大幅下滑可能会影响该公司的耳机产品路线图，但不会影响该公司的耳机产品路线图。新的 Vision Pro 型号预计将于 2025 年推出。Apple 正在努力解决应用程序、价格和舒适度等关键问题，以改善用户体验。此外，该公司已停止生产 FineWoven 配件，并可能改用其他材料。文章中还重点介绍了即将推出的 iOS 17.5 更新和 Apple 特别活动。]]></description>
+      <guid>https://t.me/hn_summary/86021</guid>
+      <pubDate>Tue, 23 Apr 2024 17:41:37 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在令人震惊的事件中，德国极右翼选择党的一位亲密助手被 [...]</title>
-      <link>https://t.me/hn_summary/85955</link>
-      <description><![CDATA[德国逮捕为中国从事间谍活动的极右党助手
-令人震惊的事件发生了，德国极右翼选择党的一名亲密助手因涉嫌为中国从事间谍活动而被捕。据联邦检察官称，嫌疑人名叫Jian G.，据信一直为中国特工部门工作。这一有争议的事件引发了人们对外国对德国政治影响力的担忧，特别是在该国为欧洲议会选举做准备之际。这次逮捕凸显了全球大国之间日益紧张的关系以及间谍活动构成的潜在威胁。]]></description>
-      <guid>https://t.me/hn_summary/85955</guid>
-      <pubDate>Tue, 23 Apr 2024 11:44:14 GMT</pubDate>
+      <title>[媒体] 标题：从归零地到生产：Go 在 Google 的旅程</title>
+      <link>https://t.me/hn_summary/86020</link>
+      <description><![CDATA[从零开始到生产：Go 在 Google 的历程 
+标题：从归零地到生产：Go 在 Google 的旅程
+
+在本文中，作者分享了他们作为 Google 的 SRE、框架开发人员和 Go 早期采用者的观点。他们讨论了 Go 编程简介、构建用于身份验证和 RPC 的低级库所面临的挑战，以及面向用户的服务（例如用于监控 Google+ Bigtable 服务器的服务）的开发。作者还强调了全局主选择和执行 Bigtable 引流的重要性，以及在生产中部署 JID 代理服务所获得的见解。这篇文章揭示了 Go 在 Google 的演变，从早期到成为流行的编程语言。 （根据故事文本的 52% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/86020</guid>
+      <pubDate>Tue, 23 Apr 2024 17:40:33 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]布鲁斯认为他已经在台积电找到了他梦想的工作，台积电是全球领先的制造商[...]</title>
-      <link>https://t.me/hn_summary/85954</link>
-      <description><![CDATA[台积电在沙漠中的惨败：错过最后期限和同事之间的紧张关系
-布鲁斯认为他已经在全球领先的先进芯片制造商台积电找到了自己梦想的工作。然而，当他深入半导体工程领域时，他面临着语言障碍、长时间工作和严格的等级制度等挑战。亚利桑那州工厂原定于 2024 年开业，但进度落后于计划，导致同事之间关系紧张。该公司试图将其台湾工作文化输出到美国的尝试遭到质疑，担心其能否复制其亚洲工厂的成功。尽管面临这些挑战，台积电在亚利桑那州的投资反映了半导体行业格局的变化和地缘政治考虑。 （根据故事文本的 39% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/85954</guid>
-      <pubDate>Tue, 23 Apr 2024 11:42:10 GMT</pubDate>
+      <title>[媒体] 数学家们对四维拓扑的复杂世界着迷 [...]</title>
+      <link>https://t.me/hn_summary/86019</link>
+      <description><![CDATA[数学家惊叹于“疯狂”的四个维度切割 
+几十年来，数学家们一直对四维拓扑的复杂世界着迷。最近，Ruberman 和 Hughes 取得了突破，用简单连通补集构造了四维流形，这是研究人员近 30 年来一直未能实现的壮举。通过将鲁伯曼的几何专业知识与休斯的群论知识相结合，他们在短短一周内就解决了这个问题。证明中群论的使用使得结果有些争议，但它在四维拓扑领域开辟了新的可能性。这一发现凸显了研究四维流形所带来的持续挑战和惊喜。]]></description>
+      <guid>https://t.me/hn_summary/86019</guid>
+      <pubDate>Tue, 23 Apr 2024 17:38:28 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]西格尔定律由圣地亚哥联盟于 1930 年创造，幽默地强调了 [...]</title>
-      <link>https://t.me/hn_summary/85953</link>
-      <description><![CDATA[西格尔定律
-圣地亚哥联盟于 1930 年创造的西格尔定律幽默地强调了信息来源冲突所产生的不确定性。虽然表面上它似乎强调一致性的重要性，但潜在的信息是质疑那些只依赖一种来源的人的确定性。这句格言提醒我们要对信息持批评态度，不要盲目相信单一来源，因为只有一只手表的人无法识别错误或不确定性。这句话的历史及其错误归因为其意义增添了一层有趣的色彩。]]></description>
-      <guid>https://t.me/hn_summary/85953</guid>
-      <pubDate>Tue, 23 Apr 2024 11:35:04 GMT</pubDate>
+      <title>[媒体]苹果公司降低了 Vision Pro 耳机的出货量预期，分析师 Ming [...]</title>
+      <link>https://t.me/hn_summary/86018</link>
+      <description><![CDATA[苹果削减 Vision Pro 出货量，现在正在“审查和调整”耳机策略
+苹果降低了 Vision Pro 耳机的出货量预期，分析师 Ming-Chi Kuo 报告称，今年的目标为 40 万至 45 万台，低于最初预期的 70 万至 80 万台。美国需求的下降导致苹果重新考虑其国际发布策略。郭还表示，苹果正在重新评估其整体耳机业务战略，这可能会影响 2025 年第二代 Vision Pro 的发布。这些变化是否准确，或者苹果是否一直计划降低出货量，还有待观察。事态的进一步发展值得关注。]]></description>
+      <guid>https://t.me/hn_summary/86018</guid>
+      <pubDate>Tue, 23 Apr 2024 17:32:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
