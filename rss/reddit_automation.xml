@@ -3,12 +3,12 @@
   <channel>
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
-    <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Fri, 26 Apr 2024 18:11:58 GMT</lastBuildDate>
+    <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感到好奇？别再找了！我们充满活力的 Reddit 社区是像您这样的爱好者的理想中心。作为我们社区的一员，您将获得丰富的资源，包括：🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。🌟 对最新进展和行业新闻的独家见解</description>
+    <lastBuildDate>Fri, 26 Apr 2024 21:08:51 GMT</lastBuildDate>
     <item>
       <title>每天在 12 小时内自动处理 70,000 份手写患者记录</title>
       <link>https://www.reddit.com/r/automation/comments/1cdnuzz/automating_the_processing_of_70k_handwritten/</link>
-      <description><![CDATA[嗨r/automation，我的名字我是来自 Bot Nirvana 的 Nandan，我在那里做播客并分享智能自动化故事。以下是我对 Jaison Varghese 的采访，了解他如何利用 RPA、IDP 和集成技术解决日常患者记录的处理问题。 他的任务是每天在严格的 12 小时内处理 70,000 份手写患者记录Jaison Varghese 需要一个创新的解决方案。每条记录都包含重要的健康信息，必须提取、针对十个不同的应用程序进行验证，然后上传到不同的平台——所有这些都在两分钟内完成。 为了应对这一挑战，Jaison 采用了多种切割组合：边缘自动化和集成技术。他选择了 UiPath 文档理解模型，因为它们具有处理不同手写风格的高级功能。 考虑到需要跨多个系统交叉引用数据，集成是关键。 Jaison 实施了 MuleSoft 工作流程，以确保所涉及的不同数据库、大型机、遗留系统和第三方应用程序之间的数据传输和验证过程顺利进行。 为了有效管理海量数据，Jaison 为他的系统配备了12个GPU副本，实现快速数据提取。他添加了 300 多个专用 RPA 机器人，全天候工作以保持工作流程的连续性。认识到对巨大计算能力的需求，他还从 UiPath 获得了 2500 万个人工智能单元，以根据需要扩展基础设施。 结果 结果令人震惊的是：硬性节省了 60 个 FTE，节省后生产率提高了 70%，客户满意度达到 100%。该项目不仅展示了医疗保健行业数字化转型的潜力，还为高效处理和集成大量复杂数据设立了新标准。 使用的工具 – UiPath 文档理解：准确提取手写数据。 – UiPath RPA：自动执行重复任务和数据处理。 – MuleSoft：集成不同的系统和应用程序。  – Rest API：实现不同软件系统之间的通信。 ---- 机器人涅槃  &amp; #32；由   提交/u/new-mark  /u/new-mark  reddit.com/r/automation/comments/1cdnuzz/automating_the_processing_of_70k_handwriting/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[嗨r/automation，我的名字我是来自 Bot Nirvana 的 Nandan，我在那里做播客并分享智能自动化故事。以下是我对 Jaison Varghese 的采访，了解他如何利用 RPA、IDP 和集成技术解决日常患者记录的处理问题。 他的任务是每天在严格的 12 小时内处理 70,000 份手写患者记录Jaison Varghese 需要一个创新的解决方案。每条记录都包含重要的健康信息，必须提取、针对十个不同的应用程序进行验证，然后上传到不同的平台——所有这些都在两分钟内完成。 为了应对这一挑战，Jaison 采用了多种切割组合：边缘自动化和集成技术。他选择了 UiPath 文档理解模型，因为它们具有处理不同手写风格的高级功能。 考虑到需要跨多个系统交叉引用数据，集成是关键。 Jaison 实施了 MuleSoft 工作流程，以确保所涉及的不同数据库、大型机、遗留系统和第三方应用程序之间的数据传输和验证过程顺利进行。 为了有效管理海量数据，Jaison 为他的系统配备了12个GPU副本，实现快速数据提取。他添加了 300 多个专用 RPA 机器人，全天候工作以保持工作流程的连续性。认识到对巨大计算能力的需求，他还从 UiPath 获得了 2500 万个人工智能单元，以根据需要扩展基础设施。 结果 结果令人震惊的是：硬性节省了 60 个 FTE，节省后生产力提高了 70%，客户满意度为 100%。该项目不仅展示了医疗保健行业数字化转型的潜力，还为高效处理和集成大量复杂数据设立了新标准。 使用的工具 – UiPath 文档理解：准确提取手写数据。 – UiPath RPA：自动执行重复任务和数据处理。 – MuleSoft：集成不同的系统和应用程序。  – Rest API：实现不同软件系统之间的通信。 ---- 机器人涅槃  &amp; #32；由   提交/u/new-mark  /u/new-mark  reddit.com/r/automation/comments/1cdnuzz/automating_the_processing_of_70k_handwriting/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cdnuzz/automating_the_processing_of_70k_handwritten/</guid>
       <pubDate>Fri, 26 Apr 2024 15:10:15 GMT</pubDate>
     </item>
@@ -29,7 +29,7 @@
     <item>
       <title>关于气动原理图的问题。</title>
       <link>https://www.reddit.com/r/automation/comments/1cd7uy2/question_about_pneumatic_schematics/</link>
-      <description><![CDATA[      我今天对这些 Fesco 气阀进行了大量的学习，学到了很多东西。还有一些具体的事情我找不到太多信息，如果有人能帮助我，那就太好了。我不确定左上角的这个“12”是什么意思。我知道它是一个双向制动器，但十二是什么意思？另外，我不确定制动器上方的“I”是什么。（我不知道它是 L、i 还是一条线。我猜它只是一条线。）    提交人    /u/xTreated   [link] [评论] ]]></description>
+      <description><![CDATA[     &lt; td&gt; 今天我对这些 Fesco 空气阀进行了相当多的学习，并且学到了很多东西。还有一些具体的事情我找不到太多信息，如果有人能帮助我那就太棒了。我不确定这个“12”是什么意思左上角的意思是。我知道它是一个 2 路制动装置，但是这 12 路是什么意思？我也不确定“我”是什么。位于制动装置上方。 （不知道它是 L,i 还是只是一条线。我假设它只是一条线。）   由   提交/u/xTreated  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cd7uy2/question_about_pneumatic_schematics/</guid>
       <pubDate>Fri, 26 Apr 2024 00:42:34 GMT</pubDate>
     </item>
