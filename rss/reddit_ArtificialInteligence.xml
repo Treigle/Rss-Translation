@@ -4,7 +4,28 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 26 Apr 2024 12:17:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 15:10:48 GMT</lastBuildDate>
+    <item>
+      <title>GPT4 提示 Dalle-3：深度图像创建</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cdnc7u/gpt4_prompts_for_dalle3_deep_image_creation/</link>
+      <description><![CDATA[ 由   提交/u/No-Transition3372   /u/No-Transition3372 reddit.com/gallery/1cdnbsl&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cdnc7u/gpt4_prompts_for_dalle3_deep_image_creation/</guid>
+      <pubDate>Fri, 26 Apr 2024 14:49:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>针对 GPT-Teams 和 GPT Enterprise 的新 GPT4 提示</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cdma0t/new_gpt4_prompts_for_gptteams_and_gpt_enterprise/</link>
+      <description><![CDATA[ 由   提交/u/No-Transition3372   /u/No-Transition3372 reddit.com/gallery/1cdm9et&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cdma0t/new_gpt4_prompts_for_gptteams_and_gpt_enterprise/</guid>
+      <pubDate>Fri, 26 Apr 2024 14:05:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>AD用AI克隆boss的声音</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cdk1bw/ad_used_ai_to_clone_bosss_voice/</link>
+      <description><![CDATA[这个故事太疯狂了。我认为我们将继续看到这样的事情。作为一名 IT 人员，如果这种情况发生在我们的高管身上，我不确定我该如何为他们做好准备。  https://www.thebaltimorebanner.com/education/k-12-schools/eric-eiswert-ai-audio-baltimore-county-YBJNJAS6OZEE5OQVF5LFOFYN6M/     提交人    /u/baconisgooder   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cdk1bw/ad_used_ai_to_clone_bosss_voice/</guid>
+      <pubDate>Fri, 26 Apr 2024 12:24:19 GMT</pubDate>
+    </item>
     <item>
       <title>使用 Kinesis Video Streams 和 SageMaker 进行实时对象检测</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cdi3k2/realtime_object_detection_with_kinesis_video/</link>
@@ -13,25 +34,11 @@
       <pubDate>Fri, 26 Apr 2024 10:39:03 GMT</pubDate>
     </item>
     <item>
-      <title>NLP 平台对决：Google、AWS、IBM、Azure</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cdi1je/nlp_platform_showdown_google_vs_aws_vs_ibm_vs/</link>
-      <description><![CDATA[需要将文本转化为见解？顶级云平台提供 NLP 工具，但哪个才是至高无上的？以下是一个快速比较：  Google Cloud：尖端人工智能，非常适合高性能项目。 AWS Comprehend：易于使用的套件，非常适合初学者. Azure 文本分析：与其他 Azure 服务完美集成。 IBM Watson：为特定行业提供专门的解决方案。  考虑您的项目选择您的冠军的需求、预算和云偏好。请记住，这只是一个起点！ https： //www.seaflux.tech/blogs/where-to-build-your-own-AI-assistant   由   提交/u/krunal_bhimani_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cdi1je/nlp_platform_showdown_google_vs_aws_vs_ibm_vs/</guid>
-      <pubDate>Fri, 26 Apr 2024 10:35:27 GMT</pubDate>
-    </item>
-    <item>
       <title>中国人工智能进展</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cdhw4t/ai_advancement_in_china/</link>
       <description><![CDATA[摘自@rowancheung at X ———- 没有人在谈论这位来自中国的法学硕士。 2天前，商汤科技推出了SenseNova 5.0，根据报告（中文翻译）：  在几乎所有基准测试中击败GPT-4T  200k 上下文窗口 接受超过 10TB 代币的训练 在知识、数学、推理和编码能力方面取得重大进步  疯狂中国的人工智能领域正在发生多少完全不为人知的事情。   由   提交/u/Equivalent-Net-7496   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cdhw4t/ai_advancement_in_china/</guid>
       <pubDate>Fri, 26 Apr 2024 10:25:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>BrainChat AI - 一个适合所有法学硕士聊天的单曲 - 第一个产品演示</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cdgfqf/brainchat_ai_one_single_for_all_your_llms_chats/</link>
-      <description><![CDATA[嘿，我正在构建 BrainChat.ai，以便人们可以使用来自单个帐户的 ChatGPT、Claude、Gemini、Mistral 和其他法学硕士。 这是第一个产品演示。我希望您喜欢它:)  请告诉我您的想法以及您是否有任何反馈或功能请求。下周我将分享更多演示。  https://app.usebubbles.com/fCevH4y8jYirG7j88DgSWm/brain -chat-ai-first-product-demo ​ 想要获得下一个视频产品演示吗？在 BrainChat 网站上免费注册。    由   提交 /u/ramst   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cdgfqf/brainchat_ai_one_single_for_all_your_llms_chats/</guid>
-      <pubDate>Fri, 26 Apr 2024 08:46:58 GMT</pubDate>
     </item>
     <item>
       <title>埃隆·马斯克 (Elon Musk) 希望将特斯拉的车队转变为人工智能 AWS——这可行吗？</title>
@@ -55,14 +62,7 @@
       <pubDate>Fri, 26 Apr 2024 06:54:14 GMT</pubDate>
     </item>
     <item>
-      <title>每日一分钟人工智能新闻 4/25/2024</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cdcdwh/oneminute_daily_ai_news_4252024/</link>
-      <description><![CDATA[ Nvidia CEO 再次向 OpenAI 亲手交付世界上最快的人工智能系统 —第一个 DGX H200 授予 Sam Altman 和 Greg Brockman。[1] JP Morgan AI Research 推出 FlowMind：A新颖的机器学习方法，利用 GPT 等法学硕士的能力来创建自动工作流程生成系统。[2] Microsoft Corp. 和 Google所有者 Alphabet Inc. 周四向投资者发出了明确的信息：我们在人工智能和云计算方面的支出正在获得回报。[3] Sanctuary 的新型人形机器人学习速度更快，成本更低。[4] 周四上午，一名前高中体育主任因涉嫌在一段包含种族主义和反犹太主义的录音中使用人工智能冒充学校校长而被捕对学校个人的评论。[5] 来源包括：https： //bushaicave.com/2024/04/25/4-25-2024/    由   提交 /u/Excellent-Target-847   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cdcdwh/oneminute_daily_ai_news_4252024/</guid>
-      <pubDate>Fri, 26 Apr 2024 04:28:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么 Copilot 比 ChatGPT 4 本身产生的幻觉要少得多，并且遵循指令的精确度要高得多？</title>
+      <title>为什么 Copilot 产生的幻觉比 ChatGPT 4 本身少得多，而且执行指令的精确度却高得多？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cd9t4i/why_does_copilot_hallucinate_so_much_less_and/</link>
       <description><![CDATA[我创建了一个自定义 GPT，为其提供了包含 267 个术语的 PDF。我花了几个小时创建自定义指令，只是为了让它在不产生幻觉的情况下向我询问有关术语的多项选择问题。尽管如此，它仍然不会读取 PDF，而是自信地向我提供虚假信息并编造一些内容。 使用 copilot 5 分钟后，它会直接访问我提供的 PDF，为我提供了超级准确的信息，并结合了上下文它与更多的外部信息，按照我告诉它的合理方式增加其难度，并且只是一个非常精确的法学硕士。 我真的很好奇为什么会这样？    由   提交 /u/NJGabagool   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cd9t4i/why_does_copilot_hallucinate_so_much_less_and/</guid>
