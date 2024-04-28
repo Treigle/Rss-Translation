@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 28 Apr 2024 18:12:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 21:11:26 GMT</lastBuildDate>
+    <item>
+      <title>如果我有指向未经修改的托管版本的超链接，是否违反 AGPLv3？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cfdsoi/do_i_violate_agplv3_if_i_have_a_hyperlink_to_a/</link>
+      <description><![CDATA[标题总结了这一点。我有一个在后端运行的 AGPLv3 软件。这是完全未经修改的。在我的应用程序中，我只提供了该应用程序的链接。我的应用程序现在也必须是 AGPLv3 吗？   由   提交 /u/thehazarika   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cfdsoi/do_i_violate_agplv3_if_i_have_a_hyperlink_to_a/</guid>
+      <pubDate>Sun, 28 Apr 2024 18:50:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果我有指向未经修改的托管版本的超链接，是否违反 AGPLv3？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cfdsm3/do_i_violate_agplv3_if_i_have_a_hyperlink_to_a/</link>
+      <description><![CDATA[标题总结了一切。我有一个在后端运行的 AGPLv3 软件。它完全没有修改。在我的应用程序中，我只提供了一个指向该应用程序的链接。我的应用程序现在也必须是 AGPLv3 吗？    提交人    /u/thehazarika   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cfdsm3/do_i_violate_agplv3_if_i_have_a_hyperlink_to_a/</guid>
+      <pubDate>Sun, 28 Apr 2024 18:50:25 GMT</pubDate>
+    </item>
     <item>
       <title>为什么公司要为开源做出贡献？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cfbxbh/why_do_companies_contribute_to_open_source/</link>
@@ -20,9 +34,9 @@
       <pubDate>Sun, 28 Apr 2024 11:59:12 GMT</pubDate>
     </item>
     <item>
-      <title>Naticord - 用 Python 编写的原生 Discord 客户端。</title>
+      <title>Naticord - 用 Python 制作的原生 Discord 客户端。</title>
       <link>https://www.reddit.com/r/opensource/comments/1ces8zg/naticord_a_native_discord_client_made_in_python/</link>
-      <description><![CDATA[嘿。我很无聊，所以决定用 Python 制作一个 Discord 客户端，并使用 PyQt5 中的 UI。 https://github. com/n1d3v/naticord 希望大家喜欢！我将不断解决问题。   由   提交 /u/xyqnn   [链接] [评论]]]></description>
+      <description><![CDATA[嘿。我很无聊，所以决定用 Python 制作一个 Discord 客户端，并使用 PyQt5 中的 UI。 https://github。 com/n1d3v/naticord 希望大家喜欢！我将不断解决问题。   由   提交 /u/xyqnn   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ces8zg/naticord_a_native_discord_client_made_in_python/</guid>
       <pubDate>Sat, 27 Apr 2024 23:33:34 GMT</pubDate>
     </item>
@@ -41,7 +55,7 @@
       <pubDate>Sat, 27 Apr 2024 17:16:16 GMT</pubDate>
     </item>
     <item>
-      <title>hdd OS 和第二个 hdd+外部便携式 hdd+VeraCrypt？</title>
+      <title>硬盘操作系统和第二个硬盘+外部便携式硬盘+VeraCrypt？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cedufk/hdd_os_and_second_hddexternal_portable/</link>
       <description><![CDATA[我有硬盘操作系统和第二个硬盘+外部便携式硬盘。如果我要加密硬盘操作系统，第二个硬盘会自动加密吗？如果我将加密硬盘操作系统和第二个硬盘+外部便携式硬盘，毕竟我将取消\提取便携式硬盘，会发生什么？如果没有便携式硬盘，我将无法解密硬盘操作系统和第二个硬盘？   由   提交 /u/DotaFSS   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cedufk/hdd_os_and_second_hddexternal_portable/</guid>
@@ -62,28 +76,28 @@
       <pubDate>Sat, 27 Apr 2024 08:58:58 GMT</pubDate>
     </item>
     <item>
-      <title>Windows 的 AudioSharing RTSP 替代方案？</title>
+      <title>Windows 的 AudioSharing RTSP 替代品？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ce9j6v/audiosharing_rtsp_alternative_for_windows/</link>
       <description><![CDATA[https://apps.gnome.org/ fr/AudioSharing/ 我真的很喜欢这个应用程序，并且想知道 Windows 是否有可行的替代方案。我通常在 VLC 媒体播放器上观看视频，我想将声音直接传输到我的手机（声音更好）。    由   提交/u/clara59000  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ce9j6v/audiosharing_rtsp_alternative_for_windows/</guid>
       <pubDate>Sat, 27 Apr 2024 08:23:44 GMT</pubDate>
     </item>
     <item>
-      <title>florisboard 抛光支持 ?</title>
+      <title>florisboard 抛光支持吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ce5ktq/florisboard_polish_support/</link>
-      <description><![CDATA[我正在查看 github 页面 https://github .com/florisboard/florisboard/wiki 但没有有关语言支持的信息。也尝试通过 fdroid 应用程序搜索但没有信息。表示 persion 和希伯来语。   由   提交/u/444rj44  [链接] [评论]]]></description>
+      <description><![CDATA[我正在查看 github 页面 https://github.com/florisboard/florisboard/wiki 但没有关于语言支持的信息。也尝试通过 fdroid 应用程序搜索，但没有信息。说 persion 和 hebrew。    提交人    /u/444rj44   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ce5ktq/florisboard_polish_support/</guid>
       <pubDate>Sat, 27 Apr 2024 04:16:39 GMT</pubDate>
     </item>
     <item>
       <title>时期应用程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1ce0qcr/period_apps/</link>
-      <description><![CDATA[嗨！我正在寻找一款可以与我的伴侣使用并分享的经期应用程序？我目前使用的是星尘，关心这个东西的不是我，而是我的搭档（尽管我正在努力学习），所以我正在尝试进行切换，以便他们也可以使用它。拥有一个共享日历对我们很有帮助，所以我希望有任何建议，那就太棒了！    由   提交 /u/moldypizzaghee   [链接] [评论]]]></description>
+      <description><![CDATA[嗨！我在找一个可以和伴侣一起使用和分享的月经应用程序？我目前使用的是 stardust，关心这些事情的不是我，而是我的伴侣（虽然我正在努力学习），所以我正在尝试更换，这样他们也可以使用它。共享日历对我们很有帮助，所以如果有任何建议，那就太棒了！     提交人    /u/moldypizzaghee   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ce0qcr/period_apps/</guid>
       <pubDate>Sat, 27 Apr 2024 00:06:39 GMT</pubDate>
     </item>
     <item>
-      <title>开源CDN服务器？</title>
+      <title>开源 CDN 服务器？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cdsxgj/open_source_cdn_server/</link>
       <description><![CDATA[是否存在？人们自己建造这些东西吗？只有我觉得这很有用吗？ 快速的 Google 搜索并没有透露太多信息，但我可能错过了:)   由   提交 /u/supportingthedogs   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cdsxgj/open_source_cdn_server/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[       由   提交/u/auv1107  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cdmjfc/just_opensourced_appupdater_a_mac_app_silent/</guid>
       <pubDate>Fri, 26 Apr 2024 14:15:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源 MS-DOS 4.0 - 微软开源博客</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cdkblv/open_sourcing_msdos_40_microsoft_open_source_blog/</link>
-      <description><![CDATA[       由   提交/u/hells_itch  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cdkblv/open_sourcing_msdos_40_microsoft_open_source_blog/</guid>
-      <pubDate>Fri, 26 Apr 2024 12:37:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>公开共享</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cdjm3k/openly_shared/</link>
-      <description><![CDATA[   一个&gt;   由   提交 /u/opensourceinitiative   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cdjm3k/openly_shared/</guid>
-      <pubDate>Fri, 26 Apr 2024 12:03:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
