@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 28 Apr 2024 03:13:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 06:14:18 GMT</lastBuildDate>
     <item>
       <title>Naticord - 用 Python 制作的原生 Discord 客户端。</title>
       <link>https://www.reddit.com/r/opensource/comments/1ces8zg/naticord_a_native_discord_client_made_in_python/</link>
@@ -34,7 +34,7 @@
       <pubDate>Sat, 27 Apr 2024 12:53:19 GMT</pubDate>
     </item>
     <item>
-      <title>一种命令行方式，可以从 Kindle 中提取所有要点（包括不是从 Jeff 那里购买的文档中的要点）</title>
+      <title>通过命令行方式从 Kindle 中提取所有突出显示内容（包括不是从 Jeff 那里买来的文档中的突出显示内容）</title>
       <link>https://www.reddit.com/r/opensource/comments/1ceawcw/a_commandline_way_to_pull_all_your_highlights_off/</link>
       <description><![CDATA[       由   提交/u/edwardianpug  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ceawcw/a_commandline_way_to_pull_all_your_highlights_off/</guid>
@@ -55,9 +55,9 @@
       <pubDate>Sat, 27 Apr 2024 08:23:44 GMT</pubDate>
     </item>
     <item>
-      <title>florisboard 抛光支持吗？</title>
+      <title>florisboard 抛光支持 ?</title>
       <link>https://www.reddit.com/r/opensource/comments/1ce5ktq/florisboard_polish_support/</link>
-      <description><![CDATA[我正在查看 github 页面 https://github .com/florisboard/florisboard/wiki 但没有有关语言支持的信息。也尝试通过 fdroid 应用程序搜索但没有信息。表示 persion 和希伯来语。   由   提交/u/444rj44  [链接] [评论]]]></description>
+      <description><![CDATA[我正在查看 github 页面 https://github.com/florisboard/florisboard/wiki 但没有关于语言支持的信息。也尝试通过 fdroid 应用程序搜索，但没有信息。说 persion 和 hebrew。    提交人    /u/444rj44   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ce5ktq/florisboard_polish_support/</guid>
       <pubDate>Sat, 27 Apr 2024 04:16:39 GMT</pubDate>
     </item>

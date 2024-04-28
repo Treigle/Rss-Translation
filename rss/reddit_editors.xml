@@ -3,21 +3,21 @@
   <channel>
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
-    <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Sun, 28 Apr 2024 03:12:48 GMT</lastBuildDate>
+    <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
+    <lastBuildDate>Sun, 28 Apr 2024 06:13:38 GMT</lastBuildDate>
+    <item>
+      <title>这些愚蠢的问题已经失控了</title>
+      <link>https://www.reddit.com/r/editors/comments/1ceyotr/the_dumb_ass_questions_are_getting_out_of_hand/</link>
+      <description><![CDATA[“我需要什么笔记本电脑来编辑 4K” “如何着色和编辑” “1 美元拍一部故事片是不是太少了？” 不知道解决办法是什么，但最近尤其困难。    由   提交/u/dmizz  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ceyotr/the_dumb_ass_questions_are_getting_out_of_hand/</guid>
+      <pubDate>Sun, 28 Apr 2024 05:22:58 GMT</pubDate>
+    </item>
     <item>
       <title>设置为渐进式 29.97 FPS 的（旧）Canon Vixia 相机是否真的以渐进式进行拍摄？</title>
       <link>https://www.reddit.com/r/editors/comments/1cevcoj/do_old_canon_vixia_cameras_set_to_progressive/</link>
       <description><![CDATA[我有 5 个。我读到他们只是将文件错误地指定为上场优先 (UFF)。更改编辑器中的解释...一切都好吗？不...我真的认为他们捕捉 UFF 和相机 UI 是 B.S. 如果有人拥有 Canon Vixia 并且一直在拍摄渐进式，我很想听听您的想法和经验。我有图像并且可以共享视频文件。但我真的不知道如何正确地“检查”  我认为 VLC 和 QuickTime 可以完美解决这个问题。 （他们根据元数据进行美化。）是否有任何分析工具可以忽略元数据，只分析视频来告诉我它是诚实的 UFF 还是渐进式？ 何时我使用 Premiere Pro 或 Davinci Resolve，静态镜头通常看起来更好地解释为渐进式。但任何运动看起来都比 UFF 更好。这一切（据说）都是在 29.97 Progressive 中拍摄的。   由   提交 /u/gordonmcdowell   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cevcoj/do_old_canon_vixia_cameras_set_to_progressive/</guid>
       <pubDate>Sun, 28 Apr 2024 02:09:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>人们对《沙丘》获得最佳剪辑有何看法？</title>
-      <link>https://www.reddit.com/r/editors/comments/1ceuoi4/what_are_peoples_thoughts_on_dune_winning_best/</link>
-      <description><![CDATA[我不像这里的许多人那样精通电影剪辑，但就我个人而言，我发现《沙丘》和《沙丘 II》是最差的两个剪辑过我看过的主流电影。在没有读过原著的情况下进入第一部，感觉就像电影只是让你直接进入其中，并期望你已经了解了一切的背景，并且已经关心角色，而实际上没有做任何事情来鼓励这一点。会有各种各样的时刻，比如当他们即将前往阿拉基斯时，取景显然希望场景具有戏剧性，但角色没有现有的背景，所以你会坐在那里想知道为什么你是这样的。应该关心这一切或者为什么它应该是一件大事。场景中的节奏也让人感觉很糟糕——很多场景都慢得令人痛苦，虽然我认为格雷格·弗雷泽的摄影很棒，但感觉这部电影花了太多时间只是盯着它看，这让节奏陷入了这样的感觉痛苦的爬行（顺便说一句，我对《曼达洛人》也有同样的批评，感觉就像这部剧突然被告知要从 20 分钟变成 40 分钟，所以他们只是选择在每个镜头中增加 5 秒）。 第二部电影感觉同样糟糕，甚至更糟。角色方面稍微好一些，因为从第一部电影中走出来，你至少知道人们是谁以及为什么你应该关心。有些动作片也很不错，尤其是开场场景，我认为电影摄影和声音设计都很棒。然而，影片的其余部分感觉剪辑得令人难以置信地断断续续，场景被随意剪切，零解释和一堆毫无进展的情节。节奏也很奇怪，有些场景有某种强调，感觉不合时宜，整部电影感觉没有明确的方向。这让我感觉这部电影一开始只是一部略显平庸的 Netflix/亚马逊大预算剧，然后被分解并粗略地拼接成一些粉丝最喜欢的场景的精彩片段，很少考虑整体情节。  然而，我到处都看到人们对它赞不绝口，虽然我没有看到任何直接解释剪辑的内容，但它不仅获得了奥斯卡奖的提名，而且实际上还获奖了。与其他人相比，我不是最精通的，所以想得到一些专业人士的意见。我缺少什么吗？您认为《沙丘》值得提名和/或获奖吗？   由   提交 /u/CombaticusWombaticus   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1ceuoi4/what_are_peoples_thoughts_on_dune_winning_best/</guid>
-      <pubDate>Sun, 28 Apr 2024 01:33:44 GMT</pubDate>
     </item>
     <item>
       <title>关于中间人这份工作的建议</title>
@@ -43,7 +43,7 @@
     <item>
       <title>寻找有关预算/中档超宽显示器的建议</title>
       <link>https://www.reddit.com/r/editors/comments/1ceheyv/looking_for_recommendations_on_a_budgetmidrange/</link>
-      <description><![CDATA[我正在升级到 Mac Studio，因此将更换我当前的显示器（将 27 英寸 iMac 更换为 22 英寸显示器），并且我有兴趣获得超广角以获得更干净的设置。我更喜欢 34 英寸，而不是弯曲的，因为我听说它会对编辑的图像质量产生负面影响。我的预算是600块钱。有什么建议么？我一直在做一些研究，似乎有一些选择，只是不确定哪个品牌推出了最好的硬件。   由   提交/u/zprewitt  [链接] [评论]]]></description>
+      <description><![CDATA[我要升级到 Mac Studio，因此将更换我当前的显示器（27 英寸 iMac 换成 22 英寸显示器），并且想要获得超宽屏幕以获得更清晰的设置。我更喜欢 34 英寸的，而不是曲面的，因为我听说曲面的会对编辑图像质量产生负面影响。我的预算是 600 美元。有什么建议吗？我一直在做一些研究，似乎有一些选择，只是不确定哪个品牌推出了最好的硬件。    提交人    /u/zprewitt   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ceheyv/looking_for_recommendations_on_a_budgetmidrange/</guid>
       <pubDate>Sat, 27 Apr 2024 15:40:13 GMT</pubDate>
     </item>
@@ -71,7 +71,7 @@
     <item>
       <title>白色闪光过渡发生了什么？</title>
       <link>https://www.reddit.com/r/editors/comments/1ceaoml/what_happened_to_the_white_flash_transition/</link>
-      <description><![CDATA[特别是在新闻发布会的提要中，大多数人习惯于使用短暂的白色闪光过渡来代替跳切。 我再也没有见过这种情况，发生了什么？这不是我最喜欢的过渡，但仍然比跳切更好，也比“变形”过渡更好。 你怎么看？    提交人    /u/Embarrassed-Gain-236   [link] [评论]]]></description>
+      <description><![CDATA[大多数人习惯使用短暂的白色闪光过渡，而不是跳切，尤其是在新闻发布会中。 我已经再也没有见过这个，发生了什么？不是我最喜欢的过渡，但仍然比跳切更好，比“变形”更好过渡也是如此。 你觉得怎么样？   由   提交 /u/Embarrassed-Gain-236   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ceaoml/what_happened_to_the_white_flash_transition/</guid>
       <pubDate>Sat, 27 Apr 2024 09:42:34 GMT</pubDate>
     </item>
@@ -83,7 +83,7 @@
       <pubDate>Sat, 27 Apr 2024 05:16:41 GMT</pubDate>
     </item>
     <item>
-      <title>政治季编辑</title>
+      <title>政治季节编辑</title>
       <link>https://www.reddit.com/r/editors/comments/1ce5dg1/political_season_editing/</link>
       <description><![CDATA[我正在就选举旺季期间为期 1 个月的潜在编辑/动态图形工作进行谈判。  预计深夜和周末。我是一名优秀的编辑，具有中级动态图形技能。  好奇是否有人有任何建议？    由   提交/u/Charkattack23  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ce5dg1/political_season_editing/</guid>
