@@ -4,86 +4,88 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 29 Apr 2024 18:11:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 00:17:18 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 公寓和普通公寓现可使用电动汽车快速充电，让住宿变得更容易 [...]</title>
-      <link>https://t.me/hn_summary/87040</link>
-      <description><![CDATA[公寓和公寓配备电动汽车快速充电&lt; br/&gt;
-电动汽车快速充电现已适用于公寓和公寓，使多户住宅开发区的居民更容易改用电动汽车。虽然安装单独的 2 级充电器成本高昂且具有挑战性，但电池缓冲直流快速充电器提供了更高效且节省空间的解决方案。迈阿密的 Marina Palms 公寓开发项目最近安装了 ADS-TEC 的 ChargeBox，使居民能够快速为他们的电动汽车充电，而无需进行大量的电力基础设施升级。这一创新解决方案可以作为美国其他大型公寓和公寓大楼的典范，有助于在全国范围内为电动汽车建立可靠的充电基础设施。]]></description>
-      <guid>https://t.me/hn_summary/87040</guid>
-      <pubDate>Mon, 29 Apr 2024 18:11:46 GMT</pubDate>
+      <title>[媒体] 如果您在为 OpenBSD 转换 wg-quick VPN 文件时遇到困难，请不要再犹豫了。</title>
+      <link>https://t.me/hn_summary/87090</link>
+      <description><![CDATA[用于转换 wg-quick VPN 文件的 OpenBSD 脚本&lt; br/&gt;
+如果您正在努力将 wg-quick VPN 文件转换为 OpenBSD，请不要再犹豫了。 dataswamp.org 上提供的脚本通过将配置转换为用于无缝集成的 hostname.if 文件。这非常适合一致的 VPN 连接。此外，了解如何防止泄漏并优化您的设置以获得最大的安全性。借助这些脚本和技巧，在 OpenBSD 上使用商业 VPN 从未如此简单。不要错过这个巧妙的解决方案来简化您的 VPN 配置过程。]]></description>
+      <guid>https://t.me/hn_summary/87090</guid>
+      <pubDate>Tue, 30 Apr 2024 00:17:18 GMT</pubDate>
     </item>
     <item>
-      <title>英国《金融时报》与 OpenAI 合作提供内容许可协议，该协议提供 [...]</title>
-      <link>https://t.me/hn_summary/87039</link>
-      <description><![CDATA[英国《金融时报》与 OpenAI 达成内容许可协议&lt; br/&gt;
-英国《金融时报》与 OpenAI 合作提供内容许可协议，通过行业领导者的专家分析，提供对优质新闻的完整数字访问。订阅者可以通过预先支付一年的访问费用来节省 20%，其中包括全球新闻和分析、专家意见、专题、视频、播客和独家 FT 分析。该交易还包括访问 Android 和 iOS 版《金融时报》应用程序、高级时事通讯以及每月 10 篇礼品文章。英国《金融时报》和 OpenAI 之间的合作提供了一个独特的机会，可以通过一个综合包获取一流的新闻报道和专家见解。]]></description>
-      <guid>https://t.me/hn_summary/87039</guid>
-      <pubDate>Mon, 29 Apr 2024 18:10:41 GMT</pubDate>
+      <title>[媒体]人工智能经济将实现零失业率</title>
+      <link>https://t.me/hn_summary/87089</link>
+      <description><![CDATA[人工智能经济将实现零失业率
+人工智能经济将实现零失业率
+
+作为一名人工智能开发人员和顾问，在 OpenAI 发布能够生成影院级视频的人工智能 Sora 后，我看到了来自娱乐行业和投资公司的迫切需求。人工智能造成的破坏甚至在那些认为自己是破坏者的人中也引起了焦虑。然而，持续的破坏将导致前所未有的经济增长和历史最低的失业率。人工智能和机器人技术将增加对人类劳动力的需求，创造有意义且报酬丰厚的职业。尽管有些人担心人工智能会让人类劳动变得无关紧要，但历史和经济学却表明事实并非如此。未来的经济规模将会更大，新的就业机会将以意想不到的方式出现。工作再培训可能不会大规模发挥作用，但个人可以成功地转换职业并学习新技能。未来比我们想象的更广阔、更有希望。 （根据故事文本的 67% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/87089</guid>
+      <pubDate>Tue, 30 Apr 2024 00:08:12 GMT</pubDate>
     </item>
     <item>
-      <title>Aux.computer 通过独特的方法提供了 Nix 生态系统的替代方案。</title>
-      <link>https://t.me/hn_summary/87038</link>
-      <description><![CDATA[Aux.computer：Nix 生态系统的替代品 
-Aux.computer 提供了 Nix 生态系统的替代方案，具有独特的功能方法。该项目将从软分叉阶段开始，贡献者将在分叉 Nix 和 NixPkgs 之前与项目的价值观和目标保持一致。硬分叉阶段将看到该项目与原始项目进一步分歧，采用新的管理结构并引入 aux CLI 以简化包和系统管理。该项目旨在创建一个可持续的、独立的 Nix 生态系统分支，具有治理轮换、完善的文档和稳定的版本。这种创新方法肯定会撼动整个生态系统。]]></description>
-      <guid>https://t.me/hn_summary/87038</guid>
-      <pubDate>Mon, 29 Apr 2024 18:02:33 GMT</pubDate>
+      <title>[媒体]此内容探讨了外国宣传对选举和舆论的影响[...]</title>
+      <link>https://t.me/hn_summary/87088</link>
+      <description><![CDATA[对外宣传的局限性和有效应对的基础
+本内容探讨了外国宣传对选举和舆论的影响，重点介绍了俄罗斯和中国复杂的虚假信息宣传活动。它深入探讨了有效打击错误信息的挑战以及数字技术在塑造认知方面的作用。还讨论了围绕社交媒体对政治两极分化和虚假信息影响的争议。令人惊讶的是，研究表明错误信息可能并不像人们担心的那么强大，这引发了人们对假新闻真正影响的质疑。总体而言，内容强调了在数字时代对外国宣传做出战略反应的必要性。 （根据故事文本的 26% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/87088</guid>
+      <pubDate>Tue, 30 Apr 2024 00:05:04 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]英特尔对高端酷睿 i9 和酷睿 i7 处理器故障的调查表明 [...]</title>
-      <link>https://t.me/hn_summary/87037</link>
-      <description><![CDATA[主板制造商显然对高端英特尔酷睿 i9 CPU 故障负有责任
-英特尔对高端酷睿 i9 和酷睿 i7 处理器故障的调查将责任归咎于发烧友主板制造商，他们正在推动功率限制并禁用额外性能的保护措施。 Igor 实验室获得的英特尔声明强调了导致问题的特定设置，并建议 BIOS 更新以使用英特尔的默认设置。受影响的 CPU 包括 i9-13900K 和 i9-14900K，i7-13700K 和 i7-14700K 也有问题报告。这些芯片已经达到了极限，几乎没有超频的空间。英特尔计划于 2024 年 5 月发布一份包含建议设置的公开声明，旨在解决围绕这些高端处理器的争议。]]></description>
-      <guid>https://t.me/hn_summary/87037</guid>
-      <pubDate>Mon, 29 Apr 2024 17:51:23 GMT</pubDate>
+      <title>[媒体]我参加了新人工智能设备 Rabbit R1 的发布会，期待一睹 [...]</title>
+      <link>https://t.me/hn_summary/87087</link>
+      <description><![CDATA[我见证了人工智能的未来，它是一个坏掉的玩具
+我参加了人工智能新品兔子R1的发布会，期待一睹人工智能技术的未来。然而，该设备没有达到预期。尽管 R1 的设计很可爱，功能也很有前景，比如解读手写表格和点餐，但它在完成呼叫 Uber 或准确回答问题等基本任务时却遇到了困难。 R1 背后的公司 Rabbit 因过度宣传其功能且未能兑现承诺的功能而面临批评。此次发布会凸显了硅谷快节奏的创新与消费者对优质产品的期望之间的差距。最终，R1 对将先进人工智能技术引入消费市场所面临的挑战起到了警示作用。]]></description>
+      <guid>https://t.me/hn_summary/87087</guid>
+      <pubDate>Tue, 30 Apr 2024 00:04:00 GMT</pubDate>
     </item>
     <item>
-      <title>早餐前的珍珠：一位伟大的音乐家能否消除高峰时段的迷雾？</title>
-      <link>https://t.me/hn_summary/87036</link>
-      <description><![CDATA[早餐前的珍珠：伟大的音乐家能否消除高峰时段的迷雾？ （2007）
-2007年，《华盛顿邮报》进行了一项社会实验，世界著名小提琴家约书亚·贝尔在高峰时段在繁忙的华盛顿地铁站演奏。尽管贝尔才华横溢，而且演奏的是一把罕见的斯特拉迪瓦里小提琴，但他基本上没有被赶着上班的通勤者注意到。该实验提出了关于快节奏城市环境中的感知、美感和优先事项的问题。尽管贝尔拥有名人身份，但他愿意参与这项实验，这表明了他的谦逊和对自己技艺的奉献精神。贝尔表演的故事对艺术的本质、认可以及日常生活中美的价值进行了发人深省的评论。 （根据 26% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/87036</guid>
-      <pubDate>Mon, 29 Apr 2024 17:46:16 GMT</pubDate>
+      <title>t2sde.org 上的 Epic T2 Linux 24.5 版本拥有令人印象深刻的 5140 个变更集，其中更新 [...]</title>
+      <link>https://t.me/hn_summary/87086</link>
+      <description><![CDATA[针对 24 种架构和 IA-64 Itanium 发布 Epic T2 Linux 24.5&lt; /a&gt;
+t2sde.org 上发布的 Epic T2 Linux 24.5 拥有令人印象深刻的 5140变更集，更新了 5314 个软件包，修复了 564 个问题，添加了 317 个新软件包或功能。显着的改进包括 GCC 13、GNOME 46.1 以及默认切换到 pipeline。令人惊讶的是，该版本包含 200 多个新软件包，使总数超过 5000 个。开发人员将欣赏缓存依赖项自动标记为可选的功能以及针对不同字节序的交叉构建的修补程序。但是，存在一些已知问题，即默认情况下未安装 gobject-introspection，并且需要在本地重建某些软件包以实现高级 gnome-desktop 功能。]]></description>
+      <guid>https://t.me/hn_summary/87086</guid>
+      <pubDate>Tue, 30 Apr 2024 00:02:26 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在这项针对台湾 190 万名参与者的全国性队列研究中，发现 [...]</title>
-      <link>https://t.me/hn_summary/87035</link>
-      <description><![CDATA[儿童和青少年的身体健康和精神障碍风险
-这项针对台湾190万参与者的全国性队列研究发现，体能水平较高的儿童和青少年，焦虑症、抑郁症和注意力缺陷/多动症的发病率较低。值得注意的是，即使考虑了其他因素，心肺健康、肌肉耐力和肌肉力量也与精神障碍风险降低独立相关。该研究表明，改善身体素质可以作为年轻人预防精神障碍的保护因素。这凸显了探索身体健康计划作为儿童和青少年心理健康问题预防措施的重要性。]]></description>
-      <guid>https://t.me/hn_summary/87035</guid>
-      <pubDate>Mon, 29 Apr 2024 17:45:01 GMT</pubDate>
+      <title>[媒体]欧洲议会正在制定新的立法目标打击足球欺诈 [...]</title>
+      <link>https://t.me/hn_summary/87085</link>
+      <description><![CDATA[针对足球欺诈的新法案将犯罪分子和寡头纳入欧盟视线
+欧洲议会正在通过新立法打击足球欺诈行为，打击参与这项运动中洗钱和腐败的犯罪分子和寡头。新规则将要求俱乐部和经纪人核实身份、监控交易并向金融机构报告可疑活动。尽管该立法被视为打击腐败的关键一步，但批评人士认为，该立法是在没有经过适当评估的情况下仓促通过的。尽管欧足联和欧洲俱乐部协会等利益相关者表示担忧，但新措施仍将实施，其中小型俱乐部将获得豁免，并重点协调整个欧洲的反腐败工作。对于那些参与足球界非法活动的人来说，时间已经过去了。]]></description>
+      <guid>https://t.me/hn_summary/87085</guid>
+      <pubDate>Mon, 29 Apr 2024 23:58:20 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]GitHub 推出了 Copilot Workspace，这是一个人工智能驱动的开发环境，旨在协助 [...]</title>
-      <link>https://t.me/hn_summary/87034</link>
-      <description><![CDATA[Copilot Workspace 是 GitHub 对人工智能驱动的软件工程的诠释
-GitHub 推出了 Copilot Workspace，这是一个人工智能驱动的开发环境，旨在帮助开发人员使用自然语言进行集思广益、规划、构建、测试和运行代码。 GitHub Copilot 编码助手的这一演变提供了与人工智能的思想合作，以简化开发人员的任务。虽然 Copilot 拥有庞大的用户群，但它面临着盈利挑战，一些客户每月花费 GitHub 高达 80 美元。尽管担心人工智能生成的代码会引入错误和安全问题，但开发人员仍在拥抱人工智能工具。 Workspace 希望通过强调人工审核来应对这些挑战并提供卓越的开发人员体验。]]></description>
-      <guid>https://t.me/hn_summary/87034</guid>
-      <pubDate>Mon, 29 Apr 2024 17:40:56 GMT</pubDate>
+      <title>[媒体] 显示 HN：Web 3D 框架。</title>
+      <link>https://t.me/hn_summary/87084</link>
+      <description><![CDATA[显示 HN：Web 3D 框架。基于 Svelte 和 Three.js 构建
+Threlte.xyz 引入了一个 Web 3D 框架，结合了 Svelte 和三.js。它提供了顶级物理引擎 Rapier、用于动画的 Theatre.js 以及用于将 GLTF 文件转换为 Threlte 组件的 @threlte/gltf 的集成。此外，@threlte/extras 提供了一系列组件和实用程序来启动您的项目。该文档展示了一些示例，例如使用自动碰撞器创建刚体以及使用阴影和缩放渲染 GLTF 模型。 Threlte.xyz 是一款综合工具，用于在web，使其成为希望通过交互式和动态元素增强其项目的开发人员的宝贵资源。]]></description>
+      <guid>https://t.me/hn_summary/87084</guid>
+      <pubDate>Mon, 29 Apr 2024 23:56:17 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 加州参议院旨在打击 OpenAI 竞争对手的法案已快速通过 [...]</title>
-      <link>https://t.me/hn_summary/87033</link>
-      <description><![CDATA[加州参议院粉碎 OpenAI 竞争对手的法案正在快速投票
-加州参议院旨在压制 OpenAI 竞争对手的法案已进入快速投票阶段。这一颇具争议的举动引发了科技业内人士和人工智能爱好者的争论。该法案旨在保护 OpenAI 在市场上的主导地位，但批评者认为它扼杀了创新和竞争。这一发展凸显了人工智能公司在科技行业中日益增长的实力和影响力。请继续关注这个正在展开的故事的更新。]]></description>
-      <guid>https://t.me/hn_summary/87033</guid>
-      <pubDate>Mon, 29 Apr 2024 17:38:52 GMT</pubDate>
+      <title>[媒体]程“查理”Saephan 是一名来自老挝的移民，正在与癌症作斗争，他是幸运儿之一 [...]</title>
+      <link>https://t.me/hn_summary/87083</link>
+      <description><![CDATA[$1.3B 强力球大奖得主是一位患有癌症的老挝移民
+Cheng “Charlie” Saephan 是一名来自老挝的移民，正在与癌症作斗争，他是 13 亿美元强力球大奖的幸运获奖者之一。他们将与他的妻子和一位朋友一起平分奖金，一次性获得税后 4.22 亿美元的奖金。 Saephan 是 Iu Mien 族人，在波特兰生活了 30 年，担任机械师。他面对疾病和逆境时充满希望和坚持的故事俘获了人们的心，使他成为许多人的真正灵感。这个谦虚的人的命运的惊人转折给他的家人和社区带来了欢乐和宽慰。]]></description>
+      <guid>https://t.me/hn_summary/87083</guid>
+      <pubDate>Mon, 29 Apr 2024 23:48:12 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 隐私活动团体 noyb 已对 OpenAI 提出投诉，声称 Ch [...]</title>
-      <link>https://t.me/hn_summary/87032</link>
-      <description><![CDATA[OpenAI GDPR 投诉
-隐私维权组织 noyb 已对 OpenAI 提出投诉，声称 ChatGPT 服务不允许纠正不准确的信息，违反了 GDPR 规则。投诉称，ChatGPT 推断了一位公众人物的错误出生日期，并且无法纠正该错误。这引起了人们对 ChatGPT 等人工智能模型准确性和透明度的担忧。意大利早些时候的限制以及 OpenAI 可能面临的罚款凸显了 AI 在遵守隐私法方面面临的持续挑战。该投诉可能会导致 OpenAI 受到制裁或责令其遵守访问请求，并根据全球营业额处以罚款。]]></description>
-      <guid>https://t.me/hn_summary/87032</guid>
-      <pubDate>Mon, 29 Apr 2024 17:32:47 GMT</pubDate>
+      <title>[媒体]通用银河是一家悄然崛起的新初创公司，旨在降低电子产品的价格[...]</title>
+      <link>https://t.me/hn_summary/87082</link>
+      <description><![CDATA[通用银河公司从隐形中出现，从二氧化碳中制造甲烷
+General Galicate 是一家悄然崛起的新创公司，旨在通过内部设计和制造关键部件来降低电子燃料的价格。联合创始人海伦·马蒂森 (Halen Mattison) 曾是 SpaceX 的员工，在离开公司后受到启发，创建了一个利用二氧化碳生产甲烷的系统。该初创公司已筹集 190 万美元资金，专注于利用可再生能源生产甲烷。 General Gactic 的综合方法使其有别于该领域的其他公司，其目标是使甲烷生产比从地面提取更便宜。该公司面临工程挑战，但决心在可持续燃料市场取得成功。]]></description>
+      <guid>https://t.me/hn_summary/87082</guid>
+      <pubDate>Mon, 29 Apr 2024 23:47:08 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 一切都卷曲</title>
-      <link>https://t.me/hn_summary/87031</link>
-      <description><![CDATA[一切卷曲
-《Everything Curl》是一本全面的指南，涵盖了curl项目的各个方面，从它的起源到它当前的实用性。这本开源书籍由curl 创始人 Daniel Stenberg 撰写，可免费下载和贡献。读者可以根据自己的兴趣挑选章节，本书将随着curl项目的发展而不断更新。该书可在线获取，有 PDF 版本和 ePUB 版本，内容托管在 GitHub 上。贡献者因帮助本书取得成功而受到认可和赞扬。这种动态且不断发展的资源是普通读者和经验丰富的开发人员的必读之作。]]></description>
-      <guid>https://t.me/hn_summary/87031</guid>
-      <pubDate>Mon, 29 Apr 2024 17:29:42 GMT</pubDate>
+      <title>美国。</title>
+      <link>https://t.me/hn_summary/87081</link>
+      <description><![CDATA[美国经济的大问题是什么？人们忘记了“正常”是什么样子
+美国经济经历了奇迹般的一年，通胀大幅下降、就业增加、增长加速。尽管出现了积极的指标，但人们仍然对经济持悲观态度，尽管他们继续在消费品上投入巨资。这种脱节表明，在经历了几年的动荡之后，许多人已经忘记了“正常”是什么样子。经济回归接近正常状态引发了消费繁荣和股市上涨，这令专家们感到惊讶，他们认为如果没有大范围裁员和经济低迷，这种进步就不可能实现。争议在于公众认知与经济现实之间的差异。]]></description>
+      <guid>https://t.me/hn_summary/87081</guid>
+      <pubDate>Mon, 29 Apr 2024 23:44:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
