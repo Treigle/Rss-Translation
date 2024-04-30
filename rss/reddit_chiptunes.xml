@@ -3,12 +3,19 @@
   <channel>
     <title>最新提交：chiptunes</title>
     <link>https://www.reddit.com/r/chiptunes/new</link>
-    <description>一个致力于用最少的资源实现最大效果的音乐社区。音乐风格类似老游戏，例如 C64、Atari、NES、Gameboy、Sega Genesis、Adlib、OPM、MOD 等。</description>
-    <lastBuildDate>Tue, 30 Apr 2024 09:12:14 GMT</lastBuildDate>
+    <description>一个致力于音乐的社区，从最少的事情中获得最大的收益。老游戏风格的音乐，例如C64、Atari、NES、Gameboy、Sega Genesis、Adlib、OPM、MOD等。</description>
+    <lastBuildDate>Tue, 30 Apr 2024 12:17:50 GMT</lastBuildDate>
+    <item>
+      <title>最好的chiptune/bitpop mac 插件？</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1cgq507/best_mac_plugins_for_chiptunebitpop/</link>
+      <description><![CDATA[我知道这是一个初学者的问题，但我喜欢使用 Serum 和 Magical 8bit 插件    提交人    /u/Emergency_Order8279   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1cgq507/best_mac_plugins_for_chiptunebitpop/</guid>
+      <pubDate>Tue, 30 Apr 2024 11:06:49 GMT</pubDate>
+    </item>
     <item>
       <title>纯数据中的chiptune/breakcore/glitch补丁</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1cg5jb4/chiptunebreakcoreglitch_patch_in_pure_data/</link>
-      <description><![CDATA[        提交人    /u/4r7i0_   [链接] [评论] ]]></description>
+      <description><![CDATA[   /u/4r7i0_  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1cg5jb4/chiptunebreakcoreglitch_patch_in_pure_data/</guid>
       <pubDate>Mon, 29 Apr 2024 17:52:06 GMT</pubDate>
     </item>
@@ -48,7 +55,7 @@
       <pubDate>Sun, 28 Apr 2024 21:29:34 GMT</pubDate>
     </item>
     <item>
-      <title>如果《星之卡比大冒险》的作曲家为《超级马里奥兄弟》创作音乐</title>
+      <title>如果卡比冒险的作曲家为超级马里奥兄弟创作音乐</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1cfeaw9/if_the_composer_of_kirbys_adventure_composed_the/</link>
       <description><![CDATA[   /u/notbugberry202  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1cfeaw9/if_the_composer_of_kirbys_adventure_composed_the/</guid>
@@ -57,7 +64,7 @@
     <item>
       <title>STR8 位中级紧急（翻拍）</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1cfdwap/str8_bit_mid_level_urgency_remake/</link>
-      <description><![CDATA[        提交人    /u/FiberSauce   [链接] [评论] ]]></description>
+      <description><![CDATA[    &lt; /a&gt;   由   提交 /u/FiberSauce   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1cfdwap/str8_bit_mid_level_urgency_remake/</guid>
       <pubDate>Sun, 28 Apr 2024 18:54:26 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[   /u/megadrivemusic  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1cego3l/sega_mega_drive_sonic_the_hedgehog_spinball_ost/</guid>
       <pubDate>Sat, 27 Apr 2024 15:07:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>我尝试创作bgm</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1ceenzp/i_try_to_compose_bgm/</link>
-      <description><![CDATA[     &lt; /td&gt; 我是一名钢琴家，对作曲了解不多。这是我从 Musescore 制作的一首小曲目。我不知道如何使用合成软件，所以一切都只是它的注释方式:b   由   提交 /u/PeanutCurryWurst   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1ceenzp/i_try_to_compose_bgm/</guid>
-      <pubDate>Sat, 27 Apr 2024 13:34:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
