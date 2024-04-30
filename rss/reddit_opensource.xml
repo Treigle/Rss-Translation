@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 30 Apr 2024 00:44:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 03:12:10 GMT</lastBuildDate>
     <item>
       <title>上周的 FOSS：Gentoo 禁止 AI 代码、GNOME 资金困境、Ubuntu 24.04、Fedora 40 和其他新闻</title>
       <link>https://www.reddit.com/r/opensource/comments/1cg4sue/last_week_in_foss_gentoo_bans_ai_code_gnome/</link>
@@ -22,14 +22,14 @@
     <item>
       <title>为 FOSS 运行 Bug Bounty？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cg29wy/running_bug_bounty_for_foss/</link>
-      <description><![CDATA[嗨，我们经营一家小公司，主要使用专门的 FOSS 软件，该软件在客户的设备上运行，可能对安全至关重要。 我们希望推动这个项目的发展，为所有用户和客户的安全做出贡献。因此，我们正在考虑为该软件及其一些核心依赖项运行一个小型漏洞赏金计划。 我想知道您关于如何最好地做到这一点的选择，因为我们不是这些项目/依赖项的维护者。 我们担心以某种方式冒犯核心维护者或给他们带来不必要的错误报告。他们花时间不知感恩地维护软件，我们害怕给某个向他们提交错误报告并使他们工作的随机人员奖励金钱，而他们一直在修复数千个错误，很难因此而获得奖励。 我们显然会尝试事先联系他们，但在我们对一个愚蠢的想法大惊小怪之前，我想听听你的一些意见。    提交人    /u/Refinery73   [link] [评论]]]></description>
+      <description><![CDATA[您好，我们经营一家小公司，主要使用专门的 FOSS 软件，该软件在我们客户的设备上运行，可能对安全至关重要。&lt; /p&gt; 我们希望推动该项目并为其所有用户和客户的安全做出贡献。因此，我们正在考虑为该软件及其一些核心依赖项运行一个小错误赏金计划。 我想知道您对如何最好地做到这一点的选择，因为我们不是这些项目/依赖项的维护者。 我们担心以某种方式冒犯核心维护者或向他们加载不需要的错误报告。他们花时间毫无意义地维护软件，我们害怕向一些向他们提交错误报告并让他们工作的随机人奖励金钱，而他们一直修复数千个错误，并且很难为此获得奖励。&lt; /p&gt; 我们显然会尝试事先联系他们，但在我们对一个愚蠢的想法大惊小怪之前，我想从你那里得到一些意见。   由   提交/u/Refinery73  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cg29wy/running_bug_bounty_for_foss/</guid>
       <pubDate>Mon, 29 Apr 2024 15:41:03 GMT</pubDate>
     </item>
     <item>
       <title>适用于企业应用程序的元搜索引擎</title>
       <link>https://www.reddit.com/r/opensource/comments/1cg24g8/a_metasearchengine_for_enterprise_applications/</link>
-      <description><![CDATA[Ethanol 旨在成为一个搜索聚合器，能够查询多个应用程序并返回聚合结果。它就像一个元搜索引擎，但适用于 Jira、MediaWiki、Check_MK 等应用程序... https://github .com/areYouLazy/ethanol   由   提交/u/gixo89  [链接] [评论]]]></description>
+      <description><![CDATA[Ethanol 旨在成为一个搜索聚合器，能够查询多个应用程序并返回聚合结果。它就像一个元搜索引擎，但适用于 Jira、MediaWiki、Check_MK 等应用程序... https://github.com/areYouLazy/ethanol    提交人    /u/gixo89   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cg24g8/a_metasearchengine_for_enterprise_applications/</guid>
       <pubDate>Mon, 29 Apr 2024 15:34:45 GMT</pubDate>
     </item>
@@ -83,9 +83,9 @@
       <pubDate>Sun, 28 Apr 2024 18:50:29 GMT</pubDate>
     </item>
     <item>
-      <title>如果我有指向未经修改的托管版本的超链接，是否违反 AGPLv3？</title>
+      <title>如果我有一个指向未修改托管版本的超链接，我是否违反了 AGPLv3？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cfdsm3/do_i_violate_agplv3_if_i_have_a_hyperlink_to_a/</link>
-      <description><![CDATA[标题总结了这一点。我有一个在后端运行的 AGPLv3 软件。这是完全未经修改的。在我的应用程序中，我只提供了该应用程序的链接。我的应用程序现在也必须是 AGPLv3 吗？   由   提交 /u/thehazarika   [链接] [评论]]]></description>
+      <description><![CDATA[标题总结了一切。我有一个在后端运行的 AGPLv3 软件。它完全没有修改。在我的应用程序中，我只提供了一个指向该应用程序的链接。我的应用程序现在也必须是 AGPLv3 吗？    提交人    /u/thehazarika   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cfdsm3/do_i_violate_agplv3_if_i_have_a_hyperlink_to_a/</guid>
       <pubDate>Sun, 28 Apr 2024 18:50:25 GMT</pubDate>
     </item>
