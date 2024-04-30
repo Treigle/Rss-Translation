@@ -4,11 +4,25 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 30 Apr 2024 03:12:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 06:14:27 GMT</lastBuildDate>
+    <item>
+      <title>Photoshop 如何解决处理超出内存容量的文件的问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cgkqr5/how_photoshop_solved_working_with_files_larger/</link>
+      <description><![CDATA[   /u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cgkqr5/how_photoshop_solved_working_with_files_larger/</guid>
+      <pubDate>Tue, 30 Apr 2024 05:06:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在寻求一些简短的技术指导，了解可以使用哪些工具将 LLM 与非营利 WordPress 网站上的 Web 表单集成。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cgjiml/im_seeking_some_brief_technical_guidance_on_what/</link>
+      <description><![CDATA[TL;DR：寻求有关将 LLM 与 Web 表单集成以生成纯文本响应以在我构建的网站上演示的技术建议。 项目概述： 我是一名文案撰稿人，使用 Elementor 和 Wordpress 构建一个非营利网站，以帮助我父母所在社区的老年人。这个易于阅读、易于使用的网站具有一个表格（使用 Formidable Forms 构建），老年人可以匿名填写，无需交换或请求私人信息。我想将表单数据（仅限文本响应）直接提交给法学硕士，让法学硕士生成文本响应，然后将响应发送回我的网站以在我构建的窗口中显示。 需要的技术建议： 如何在按下“提交”按钮后将收集到的表格数据发送给法学硕士。按钮，以及如何从 LLM 接收文本回复并插入我为回复构建的窗口，用户可以在其中阅读回复，并下载或打印它。 我只是寻找用于此集成的推荐工具或 WordPress 插件的名称（例如 Webhooks？），以及相关教程或资源的名称/标题，以便像我这样的非技术人员学习如何做到这一点。 上下文：我已经构建了完整的网站和表单，但我不熟悉后端开发或 API 集成。我研究过聊天机器人，但这个项目不涉及与法学硕士的直接用户交互。 任何建议或指导将不胜感激。即使是简单的一句话“使用工具A来做这件事，插件B做这件事，然后用工具C完成”也可以。会帮助我前进，我会从那里弄清楚。 我已经做了一百万次“弄清楚”。之前的项目，我只是在这个项目上有点困难，因为现在有大量关于人工智能的废话。 非常感谢您提供的任何建议！&lt; /p&gt; （编辑：可能会使用 Claude 或 Meta。我觉得两者通常都比 ChatGPT 提供更好的人类对话响应）   由   提交 /u/hawkweasel   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cgjiml/im_seeking_some_brief_technical_guidance_on_what/</guid>
+      <pubDate>Tue, 30 Apr 2024 03:58:42 GMT</pubDate>
+    </item>
     <item>
       <title>暗网站是如何制作的？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cghzl3/how_dark_web_sites_are_made/</link>
-      <description><![CDATA[我真的很好奇暗网网站是如何创建的。它是否遵循与表面网络类似的过程？洋葱网站使用哪些编码语言，以及使用哪些软件进行设计和开发？我渴望了解设计和构建这些网站的复杂性以及所涉及的挑战。如果有人对此主题有见解，请分享 - 我真诚地有兴趣了解更多相关信息。   由   提交/u/12A5H3FE  [链接] [评论]]]></description>
+      <description><![CDATA[我真的很好奇暗网网站是如何创建的。它是否遵循与表面网络类似的过程？洋葱网站使用什么编码语言，以及用于设计和开发它们的软件是什么？我很想了解设计和构建这些网站的复杂性以及所涉及的挑战。如果有人对这个话题有见解，请分享 - 我真的有兴趣了解更多信息。    提交人    /u/12A5H3FE   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cghzl3/how_dark_web_sites_are_made/</guid>
       <pubDate>Tue, 30 Apr 2024 02:39:14 GMT</pubDate>
     </item>
@@ -50,14 +64,14 @@
     <item>
       <title>预算（或免费）网站，需要使用动态网络表单收集客户信息。我应该用什么。</title>
       <link>https://www.reddit.com/r/webdev/comments/1cgf24c/budget_or_free_website_and_need_to_collect_client/</link>
-      <description><![CDATA[我需要通过网络表单收集信息，什么是最好的工具？ 我使用过 Google 网站/表单和Microsoft Sharepoint/形成一堆。两者都还好，充其量。但缺乏基本的东西。 我需要收集具有一定逻辑的用户响应，例如“如果他们在问题 X 上选择了“是”，则向他们显示问题 Y” - 或 - “如果他们对问题 Y 选择否，则不显示问题 Z” - 或 - “允许用户向表中添加更多行” 将他们的响应输出为完整的 PDF（而不仅仅是纯 CSV）是至关重要的。我希望能够将 PDF 提交给其他人，而无需我进行任何手动编辑或更改。 某种形式的验证码/身份验证/机器人预防是必不可少的（它将是公开可用的形式） . 电子签名会很好，但不是必需的。 我的第一个想法是继续使用 Google Site 或 Microsoft Sharepoint 并嵌入 Adob​​e 或 Foxit 的某些内容。但是，我想知道是否有人有更好的起点？ 谢谢   由   提交/u/chiababy6969   [链接] [评论]]]></description>
+      <description><![CDATA[我需要通过 Web 表单收集信息，哪个工具最好？ 我使用过很多次 Google Site/Forms 和 Microsoft Sharepoint/Forms。两者都还不错，但缺少一些基本的东西。 我需要收集具有某些逻辑的用户响应，例如“如果他们在问题 X 上选择了是，则向他们显示问题 Y” - 或 - “如果他们在问题 Y 上选择了否，则不显示问题 Z” - 或 - “允许用户在表中添加更多行” 将他们的响应输出为完整的 PDF（而不仅仅是纯 CSV）至关重要。我希望能够将 PDF 提交给其他人，而无需我进行任何手动编辑或更改。 某种形式的验证码/身份验证/机器人预防是必不可少的（它将是一种公开可用的表格）。 电子签名会很好，但不是必需的。 我的第一个想法是继续使用 Google Site 或 Microsoft Sharepoint 并嵌入一些来自 Adob​​e 或 Foxit 的内容。但是，我想知道是否有人有更好的起点？ 谢谢    提交人    /u/chiababy6969   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cgf24c/budget_or_free_website_and_need_to_collect_client/</guid>
       <pubDate>Tue, 30 Apr 2024 00:19:30 GMT</pubDate>
     </item>
     <item>
       <title>静态网站页面和工作流程建议</title>
       <link>https://www.reddit.com/r/webdev/comments/1cgcbln/static_site_pages_and_workflow_advice/</link>
-      <description><![CDATA[由于内部安全、知识产权和人员问题，我正在寻找（最好是）静态站点生成器工作流程来维护和服务我们的内部知识库。  我们有以下要求：  使用提供文本搜索功能的模板[我想这很容易] 将静态网站托管在我们自己的内部 IIS Web 服务器（没有 GitHub、没有 Netlify 等），只需将静态生成器输出复制到正确的文件夹，而不添加/安装其他软件 使用某种类型的离线更新和添加内容用户友好的 WYSIWYG CMS（更新将由管理助理进行） 离线生成站点，然后将更新的文件复制（或 sftp）到 IIS Web 服务器文件夹（这将由管理员完成）管理助理）  如果使用静态站点生成器不是正确的方法，欢迎您提供替代想法的帮助！谢谢！   由   提交 /u/LoopVariant   [链接] [评论]]]></description>
+      <description><![CDATA[由于内部安全、知识产权和人事问题，我正在寻找 - 最好 - 静态站点生成器工作流程来维护和服务我们的内部知识库。 我们有以下要求：  使用提供文本搜索功能的模板 [我想这很容易] 在我们自己的内部 IIS 网络服务器上托管静态网站（没有 GitHub，没有 Netlify 等），只需将静态生成器输出复制到正确的文件夹，而不添加/安装其他软件 使用某种类型的用户友好的 WYSIWYG CMS 离线更新和添加内容（更新将由管理助理完成） 离线生成站点，然后将更新的文件复制（或 sftp）到 IIS 网络服务器文件夹（这将由管理助理完成）  如果使用静态站点生成器不是正确的方法，您的帮助欢迎提出替代方案！谢谢！    提交人    /u/LoopVariant   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cgcbln/static_site_pages_and_workflow_advice/</guid>
       <pubDate>Mon, 29 Apr 2024 22:19:57 GMT</pubDate>
     </item>
@@ -90,25 +104,11 @@
       <pubDate>Mon, 29 Apr 2024 21:05:25 GMT</pubDate>
     </item>
     <item>
-      <title>业余爱好者和行业常用哪些后端框架/语言？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cga031/which_backend_frameworkslanguages_are_used/</link>
-      <description><![CDATA[一般来说，我大多数时候听到的是，如果你想获得高薪，你应该学习 Java 之类的东西，如果你想要任何语言，你只是为了好玩而编程。我很好奇人们是否经常使用某种语言来实现这两个目的？当然，第二点肯定是主观的，但我认为在最喜欢的后端框架方面有一个非常突出的趋势（我从未见过有人使用过 Spring Boot 并喜欢它，至少与其他框架相比） 。哪些语言在业界报酬很高，但也受到业余开发者的喜爱（如果有的话）？ 我很想知道你们的想法:)   由   提交/u/7turtlereddit   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cga031/which_backend_frameworkslanguages_are_used/</guid>
-      <pubDate>Mon, 29 Apr 2024 20:48:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于这个长期客户来说，每小时的费率调整多少合适？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cg9lzp/what_would_be_an_adequate_hourly_rate_adjustment/</link>
-      <description><![CDATA[我在 2019 年为客户建立了一个内部网站，当我还是一名学生（我的第一个客户）时，该网站从根本上改变了他们的业务运营。我向他们收取了 25 美元/小时的费用。现在已经 5 年过去了，我还没有提高价格，每小时 25 美元的工作费用几乎不再值得我花时间了。 我最近刚刚向客户收取了每小时 120 美元的费用。项目，所以我想将我的费率提高到 70 美元/小时，这相当于过去 5 年每年增加 9 美元/小时。这公平吗？这些天我几乎没有为他们做任何工作，但他们时常会伸手寻求一些东西。   由   提交 /u/RugerHD   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cg9lzp/what_would_be_an_adequate_hourly_rate_adjustment/</guid>
-      <pubDate>Mon, 29 Apr 2024 20:32:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>制作了一个用手指打鼓的人工智能工具 https://handstrument.netlify.app/</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cg8ufi/made_an_ai_tool_to_play_drums_with_your_fingers/</link>
-      <description><![CDATA[       由   提交/u/curryboi99  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cg8ufi/made_an_ai_tool_to_play_drums_with_your_fingers/</guid>
-      <pubDate>Mon, 29 Apr 2024 20:02:59 GMT</pubDate>
+      <title>重建我的组织的网上商店服务的建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cg921d/advice_for_rebuilding_my_organizations_webstore/</link>
+      <description><![CDATA[我将自己描述为初级全栈 Web 开发人员。这可能听起来很奇怪，但这是因为我是我所在组织雇用的第一位开发人员，这里唯一的另一位开发人员的经验比我少。因此，我负责我们需要的任何后端编程，以及更高级的前端内容。我熟悉 HTML、CSS、JS、TS、Node.js、React、Prisma 和简单的关系数据库。 我们做什么？ 除其他事项外，我的组织还销售网上商店。这些基本上是我们为客户建立的小型在线商店，然后客户使用这些商店向自己的客户销售产品。 6 个月前我被聘用时，用于此的过程相当混乱。现在仍然如此。所有网上商店都是在 WordPress 多站点环境中使用 WooCommerce 构建的。所有内容都托管在同一台服务器上。通过复制模板可以创建新的网上商店。每当我们想在网络商店中添加一些自定义功能时，我们基本上都是通过安装大量插件并添加我们在 Google 上找到的 PHP 代码片段来拼凑起来的。随着插件和网络商店数量的增加，性能变得越来越差。 我们要去哪里？ 我们希望继续将我们的网络商店产品扩展到 50、100 甚至更多。我们知道我们目前的方法是不可持续的，作为这里最有经验的开发人员，我很乐意带头彻底改革我们对网络商店的方法。我总是喜欢接受巨大的挑战，这会让我的简历看起来很棒。 但我也只有 1.5 年的网络开发经验，也没有现场高级工程师可以学习。由于我相对缺乏经验，我不想因为这次重建而让我的组织走上错误的道路。 我的直觉是利用无头电子商务和无头 CMS，并构建某种轻量级的全栈应用程序，带有仪表板，管理员可以在其中以非常简化的方式定义新网上商店的数据（不会像我们现在这样复制整个网站）。然后，当用户输入网上商店的 URL 时，似乎会提供一个不同的商店，但实际上它只是一个 React 前端，可以根据后端网上商店的数据动态更改样式并启用/禁用功能。 我在要求什么？ 我不是想让任何人给我所有的答案，或者帮我解决所有问题。我只是在寻找比我更有经验的开发人员的一些意见和总体指导。 如果您有时间，请查看下面的要求，并提出您的任何建议。您可能只是通过阅读这些内容就发现我的知识存在一些差距，因此也请随时指出这些差距。 ​  安全、高性能的托管 电子商务功能（包括运输、退货、税收计算等） 我们需要一个预先构建的解决方案，因为自己构建这个解决方案根本不现实。  能够为不同的商店提供自定义域名（例如，我的应用程序将提供 www 。 clothingstore 。 com 和 www 。 computerstore 。 com ） 灵活地为某些 URL 提供静态页面（HTML / CSS / JS），为其他 URL 提供 React 应用程序 轻量级 CMS 来管理这些静态页面以及商店媒体 我们需要一个预先构建的解决方案，因为我自己构建这个解决方案根本不现实。  配置每个网络商店并定义其数据 可扩展性是必须的  感谢您一直阅读到最后，并感谢您选择提供的任何意见！    提交人    /u/megalogue   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cg921d/advice_for_rebuilding_my_organizations_webstore/</guid>
+      <pubDate>Mon, 29 Apr 2024 20:11:15 GMT</pubDate>
     </item>
     </channel>
 </rss>

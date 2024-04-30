@@ -3,8 +3,22 @@
   <channel>
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
-    <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Tue, 30 Apr 2024 03:11:37 GMT</lastBuildDate>
+    <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
+    <lastBuildDate>Tue, 30 Apr 2024 06:13:59 GMT</lastBuildDate>
+    <item>
+      <title>在使用新软件时，有多少人在使用 Youtube 或任何课程之前先查阅手册？</title>
+      <link>https://www.reddit.com/r/editors/comments/1cgjkt3/how_many_of_you_turn_to_manuals_first_when/</link>
+      <description><![CDATA[我越来越发现 YouTube 只是一个浪费时间的东西，而不是一个很好的学习资源。  手册更容易浏览。它很全面，而且您知道它不仅仅是跳上评论炒作并获取点击次数。   由   提交 /u/T00Human   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cgjkt3/how_many_of_you_turn_to_manuals_first_when/</guid>
+      <pubDate>Tue, 30 Apr 2024 04:01:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>有预告片编辑成功退出该行业吗？你现在做什么？</title>
+      <link>https://www.reddit.com/r/editors/comments/1cgituh/any_trailer_editors_successfully_exit_the/</link>
+      <description><![CDATA[我从事这一行并过着代理生活已经快 10 年了。我赢得了奖项，我完成了大作品，我赚了很多钱，而且……我真的他妈的讨厌我的生活。我试图想象一个没有这些的未来，但这很难，因为这就是我所知道的一切。  这里有预告片编辑者发现自己处于类似的境地吗？假设您已经尝试过其他机构/成为自由职业者，您做了什么才能继续前进？    由   提交/u/Spare_Ad_6776   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cgituh/any_trailer_editors_successfully_exit_the/</guid>
+      <pubDate>Tue, 30 Apr 2024 03:21:39 GMT</pubDate>
+    </item>
     <item>
       <title>Lucid 链接备份策略</title>
       <link>https://www.reddit.com/r/editors/comments/1cgiblc/lucid_link_backup_strategy/</link>
@@ -41,7 +55,7 @@
       <pubDate>Mon, 29 Apr 2024 23:35:32 GMT</pubDate>
     </item>
     <item>
-      <title>Premiere Pro，音频混合剪辑，但单个轨道看起来不错</title>
+      <title>Premiere Pro，音频混合剪辑，但单个音轨看起来不错</title>
       <link>https://www.reddit.com/r/editors/comments/1cgc3wa/premiere_pro_audio_mix_clipping_but_individual/</link>
       <description><![CDATA[您好！我正在准备交付序列并遇到问题。根据音轨混音器，主混音正在剪辑。然而，轨道本身没有被剪辑。事实上，我只播放一个音轨，并且没有子混音、轨道效果或剪辑效果。所有音轨和混音的音量设置为统一。有人见过这个吗？ Premiere Pro 24.3、Macbook Pro M3 [编辑：问题通过系统重新启动修复。提醒您在发帖前尝试基本的故障排除]   由   提交/u/Powerful-Bread5543  /u/Powerful-Bread5543 reddit.com/r/editors/comments/1cgc3wa/premiere_pro_audio_mix_clipping_but_individual/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cgc3wa/premiere_pro_audio_mix_clipping_but_individual/</guid>
@@ -83,7 +97,7 @@
       <pubDate>Mon, 29 Apr 2024 17:58:52 GMT</pubDate>
     </item>
     <item>
-      <title>要不要诚实</title>
+      <title>是或不是……诚实</title>
       <link>https://www.reddit.com/r/editors/comments/1cg3msn/to_be_or_not_to_be_honest/</link>
       <description><![CDATA[当与导演/制片人或任何一般客户会面时，他们询问您对（镜头/剧本/电影等）的诚实意见，您如何处理这个问题？我确实认为诚实是最好的方法，但很多时候，当被问到这个问题时，你并没有建立关系，而且你不知道他们对内容的感受。有时他们会睁大眼睛看到它的缺陷，有时他们会认为它是一件杰作，但实际上它与杰作相去甚远。想法？    由   提交 /u/neederman   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cg3msn/to_be_or_not_to_be_honest/</guid>
@@ -92,23 +106,9 @@
     <item>
       <title>Avid MC 中的音频电平差异</title>
       <link>https://www.reddit.com/r/editors/comments/1cg2tjx/audio_levels_difference_in_avid_mc/</link>
-      <description><![CDATA[嗨，编辑们，我有一个问题让我有点困惑。  设置：Mac 电脑线路输出/耳机输出进入通道 1 进入 Big Knob 混音器  Avid MC 2023 Black Magic 4k Mini 输出进入 Big Knob 混音器上的通道 2 用于音频和广播监视器用于图片  Big Knob 混音器上的通道 1 和 2 都设置为完全相同的级别/设置 Big Knob 混音器到扬声器  问题：音频输出是 Black Magic，来自 Mac 的线路输出差别很大。 可能至少 20dB。 Mac 的音频被调到最大。  因此，如果我在 avid 中启用 HW/SW 按钮，那么它会从 black magic 中出来，音频会很热。但是我关闭了 HW/SW 按钮，因此音频从 Mac 线路输出，音频很低 任何输入都是有价值的。  谢谢！！    提交人    /u/okay-then08   [link] [comments]]]></description>
+      <description><![CDATA[嘿编辑们，我有一个问题让我有点困惑。  设置：Mac 电脑线路输出/耳机输出到 Big Knob 混音器的通道 1  Avid MC 2023 Black Magic 4k Mini 输出到 Big 上的通道 2用于音频的旋钮混音器和用于图像的广播监视器 通道 1 和 2 在大旋钮混音器上设置为完全相同的级别/设置 大旋钮混音器到扬声器 &gt; 问题：音频输出是 Black Magic，与 Mac 的线路输出有很大不同。大概至少20dB。 Mac 的音频调到最大。  因此，如果我在 avid 中启用 HW/SW 按钮，那么它就会摆脱黑​​魔法，音频就会变得很热。但我关闭了 HW/SW 按钮，因此音频从 Mac 线路输出中出来，音频很低 任何输入都是有价值的。  谢谢！！   由   提交/u/okay-then08   /u/okay-then08  reddit.com/r/editors/comments/1cg2tjx/audio_levels_difference_in_avid_mc/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cg2tjx/audio_levels_difference_in_avid_mc/</guid>
       <pubDate>Mon, 29 Apr 2024 16:02:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lucidlink 中断？</title>
-      <link>https://www.reddit.com/r/editors/comments/1cg0m4g/lucidlink_outage/</link>
-      <description><![CDATA[今天早上还有其他人在访问 Lucidlink 时遇到问题吗？我的整个团队都无法访问。    由   提交 /u/Steeviesteve   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cg0m4g/lucidlink_outage/</guid>
-      <pubDate>Mon, 29 Apr 2024 14:32:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是粗略的吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/1cfxz7x/is_this_sketchy/</link>
-      <description><![CDATA[评论中的图片。 我申请了这份工作并收到了这条（可能）自动消息。在采取任何行动之前，我需要第二意见。   由   提交/u/mommymommymolly  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cfxz7x/is_this_sketchy/</guid>
-      <pubDate>Mon, 29 Apr 2024 12:33:02 GMT</pubDate>
     </item>
     </channel>
 </rss>

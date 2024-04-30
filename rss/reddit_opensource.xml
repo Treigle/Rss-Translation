@@ -4,9 +4,9 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 30 Apr 2024 03:12:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 06:14:32 GMT</lastBuildDate>
     <item>
-      <title>上周的 FOSS：Gentoo 禁止 AI 代码、GNOME 资金困境、Ubuntu 24.04、Fedora 40 和其他新闻</title>
+      <title>上周 FOSS 消息：Gentoo 禁止 AI 代码、GNOME 资金困境、Ubuntu 24.04、Fedora 40 及其他新闻</title>
       <link>https://www.reddit.com/r/opensource/comments/1cg4sue/last_week_in_foss_gentoo_bans_ai_code_gnome/</link>
       <description><![CDATA[       由   提交 /u/antsaregay   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cg4sue/last_week_in_foss_gentoo_bans_ai_code_gnome/</guid>
@@ -29,7 +29,7 @@
     <item>
       <title>适用于企业应用程序的元搜索引擎</title>
       <link>https://www.reddit.com/r/opensource/comments/1cg24g8/a_metasearchengine_for_enterprise_applications/</link>
-      <description><![CDATA[Ethanol 旨在成为一个搜索聚合器，能够查询多个应用程序并返回聚合结果。它就像一个元搜索引擎，但适用于 Jira、MediaWiki、Check_MK 等应用程序... https://github.com/areYouLazy/ethanol    提交人    /u/gixo89   [link] [评论]]]></description>
+      <description><![CDATA[Ethanol 旨在成为一个搜索聚合器，能够查询多个应用程序并返回聚合结果。它就像一个元搜索引擎，但适用于 Jira、MediaWiki、Check_MK 等应用程序... https://github .com/areYouLazy/ethanol   由   提交/u/gixo89  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cg24g8/a_metasearchengine_for_enterprise_applications/</guid>
       <pubDate>Mon, 29 Apr 2024 15:34:45 GMT</pubDate>
     </item>
@@ -83,9 +83,9 @@
       <pubDate>Sun, 28 Apr 2024 18:50:29 GMT</pubDate>
     </item>
     <item>
-      <title>如果我有一个指向未修改托管版本的超链接，我是否违反了 AGPLv3？</title>
+      <title>如果我有指向未经修改的托管版本的超链接，是否违反 AGPLv3？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cfdsm3/do_i_violate_agplv3_if_i_have_a_hyperlink_to_a/</link>
-      <description><![CDATA[标题总结了一切。我有一个在后端运行的 AGPLv3 软件。它完全没有修改。在我的应用程序中，我只提供了一个指向该应用程序的链接。我的应用程序现在也必须是 AGPLv3 吗？    提交人    /u/thehazarika   [link] [评论]]]></description>
+      <description><![CDATA[标题总结了这一点。我有一个在后端运行的 AGPLv3 软件。这是完全未经修改的。在我的应用程序中，我只提供了该应用程序的链接。我的应用程序现在也必须是 AGPLv3 吗？   由   提交 /u/thehazarika   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cfdsm3/do_i_violate_agplv3_if_i_have_a_hyperlink_to_a/</guid>
       <pubDate>Sun, 28 Apr 2024 18:50:25 GMT</pubDate>
     </item>
