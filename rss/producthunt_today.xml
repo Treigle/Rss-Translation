@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 01 May 2024 18:14:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 21:10:51 GMT</lastBuildDate>
     <item>
       <title>iOS 版克劳德</title>
       <link>https://www.producthunt.com/posts/claude-for-ios</link>
@@ -48,7 +48,21 @@
       <pubDate>Wed, 01 May 2024 03:11:41 GMT</pubDate>
     </item>
     <item>
-      <title>Windows 版 Arc</title>
+      <title>排序</title>
+      <link>https://www.producthunt.com/posts/rankify</link>
+      <description><![CDATA[
+            即时 AI SEO 关键词研究生成器
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/rankify</guid>
+      <pubDate>Wed, 01 May 2024 01:04:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows 版圆弧</title>
       <link>https://www.producthunt.com/posts/arc-for-windows</link>
       <description><![CDATA[
             您一直在等待的 Chrome 替代品
@@ -62,7 +76,7 @@
       <pubDate>Tue, 30 Apr 2024 19:45:08 GMT</pubDate>
     </item>
     <item>
-      <title>Sprig 反馈</title>
+      <title>小枝反馈</title>
       <link>https://www.producthunt.com/posts/sprig-feedback</link>
       <description><![CDATA[
             在您的产品或网站中捕获持续反馈
@@ -130,20 +144,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/noodle4-ai</guid>
       <pubDate>Tue, 30 Apr 2024 08:27:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>燕尾频道</title>
-      <link>https://www.producthunt.com/posts/channels-by-dovetail</link>
-      <description><![CDATA[
-            将用户反馈转化为实时见解
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/channels-by-dovetail</guid>
-      <pubDate>Tue, 30 Apr 2024 05:11:25 GMT</pubDate>
     </item>
     <item>
       <title>马厩钱</title>
