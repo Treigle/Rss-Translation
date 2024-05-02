@@ -4,7 +4,14 @@
     <title>最新提交：chiptunes</title>
     <link>https://www.reddit.com/r/chiptunes/new</link>
     <description>一个致力于音乐的社区，从最少的事情中获得最大的收益。老游戏风格的音乐，例如C64、Atari、NES、Gameboy、Sega Genesis、Adlib、OPM、MOD等。</description>
-    <lastBuildDate>Thu, 02 May 2024 12:19:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 15:12:43 GMT</lastBuildDate>
+    <item>
+      <title>FamiTracker 中的草图（仅使用 2A03 芯片，因为我永远无法抗拒 VR6 的 3 个额外通道）。</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1ciesba/a_sketch_in_famitracker_using_only_the_2a03_chip/</link>
+      <description><![CDATA[   /u/InnerMotionMusic  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1ciesba/a_sketch_in_famitracker_using_only_the_2a03_chip/</guid>
+      <pubDate>Thu, 02 May 2024 12:46:52 GMT</pubDate>
+    </item>
     <item>
       <title>XCeed 终身（18 分钟）</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1cie2nc/xceed_lifetime_18_mins/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>回到未来第三部分 [MS DOS] IBM PC 扬声器上的一些音乐</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1cid2eq/back_to_the_future_part_iii_ms_dos_some_music_on/</link>
-      <description><![CDATA[       由    /u/JasperTedTale  提交  [链接] [评论] ]]></description>
+      <description><![CDATA[       由   提交/u/JasperTedTale  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1cid2eq/back_to_the_future_part_iii_ms_dos_some_music_on/</guid>
       <pubDate>Thu, 02 May 2024 11:17:02 GMT</pubDate>
     </item>
@@ -43,7 +50,7 @@
     <item>
       <title>在 Furnace Tracker 中混合和匹配声音芯片？</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1chrtwk/mixing_and_matching_soundchips_in_furnace_tracker/</link>
-      <description><![CDATA[我正在做一个向 Kirby 音乐和 Dreamland 系列致敬的项目。我希望能够将 gameboy 脉冲和波表通道与一些 snes 样本通道结合使用。通过浏览文档和基本的谷歌搜索，我没有找到答案，但想问一下，在我仔细阅读手册的每一页或联系支持人员之前，你们中是否有人知道如何做到这一点。我的猜测是，由于 Furnace 致力于模拟特定芯片的功能，因此所有通道都一起处理，这是不可能的，但现在是 2024 年，Furnace 本身的存在就是一个奇迹。后续问题：由于 Kirby snes 游戏总是为音效保留 3 个通道，我只会使用 5 个通道，并且为了获得更清晰的界面，我想消除未使用的通道。有办法吗？   由    /u/knotalie  提交  [链接] [评论]]]></description>
+      <description><![CDATA[我正在开发一个项目，向《星之卡比》音乐尤其是《梦境》系列致敬。我希望能够将 Gameboy 脉冲和波表通道与一些 snes 示例通道结合使用。通过浏览文档和基本的谷歌搜索，我还没有找到答案，但在我浏览手册的每一页或联系支持人员之前，我想问问你们是否知道如何做到这一点。我的猜测是，由于 Furnace 如此致力于模拟特定芯片的功能，因此所有通道都一起处理，这是不可能的，但现在是 2024 年，Furnace 本身的存在就是一个奇迹。后续问题：由于卡比snes游戏总是保留3个声道用于音效，我只会使用5个声道，并且为了更干净的界面，希望消除未使用的声道。有办法做到这一点吗？   由   提交/u/knotalie  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1chrtwk/mixing_and_matching_soundchips_in_furnace_tracker/</guid>
       <pubDate>Wed, 01 May 2024 17:25:26 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>Bit-Crushed Acid（NES/GB Chiptune 风格的 Acid Techno）</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1chhqpk/bitcrushed_acid_acid_techno_in_nesgb_chiptune/</link>
-      <description><![CDATA[       由   提交/u/Walter_Powerbright  [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[        由    /u/Walter_Powerbright 提交   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1chhqpk/bitcrushed_acid_acid_techno_in_nesgb_chiptune/</guid>
       <pubDate>Wed, 01 May 2024 09:20:20 GMT</pubDate>
     </item>
@@ -97,18 +104,11 @@
       <pubDate>Wed, 01 May 2024 04:08:46 GMT</pubDate>
     </item>
     <item>
-      <title>🎵 [NES/GB] 忍者外传“The Amazing Ryu” | 重制版+混音版</title>
+      <title>🎵 [NES/GB] 忍者龙剑传‘神奇龙’|重制+混音</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1ch4i73/nesgb_ninja_gaiden_the_amazing_ryu_remasterremix/</link>
-      <description><![CDATA[    /u/giantassgoddamnsnake 提交   [链接] [评论] ]]></description>
+      <description><![CDATA[    /u/giantassgoddamnsnake   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1ch4i73/nesgb_ninja_gaiden_the_amazing_ryu_remasterremix/</guid>
       <pubDate>Tue, 30 Apr 2024 21:33:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>我希望我把这个贴在这里可以吗？这是我翻唱的 A-Ha 的歌曲《Take on Me》，过去很多 SID 艺人都翻唱过这首歌，但我真的很想自己演绎，赋予这首歌独特的声音。</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1cgvttp/i_hope_its_okay_if_i_post_this_here_its_my_cover/</link>
-      <description><![CDATA[        提交人   ​​ /u/Nordischsound   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1cgvttp/i_hope_its_okay_if_i_post_this_here_its_my_cover/</guid>
-      <pubDate>Tue, 30 Apr 2024 15:35:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
