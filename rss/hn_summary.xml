@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 02 May 2024 02:42:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 09:08:23 GMT</lastBuildDate>
     <item>
-      <title>[媒体]夏威夷大学助理教授诺亚·基库瓦·林肯的使命是</title>
-      <link>https://t.me/hn_summary/87469</link>
-      <description><![CDATA[夏威夷科学家正在与酿酒厂合作拯救本土甘蔗 
-夏威夷大学助理教授诺亚·凯库瓦·林肯 (Noa Kekuewa Lincoln) 的使命是保护夏威夷传统的甘蔗品种，这些品种在几个世纪的种植园单一栽培后被忽视。通过将传统知识与 DNA 分析等现代工具相结合，Lincoln 鉴定出了 25 个夏威夷甘蔗品种，其中包括形状像露兜树的 Halali‘i。 Lincoln 与 Kōloa Rum Company 等酿酒厂合作，帮助恢复用于农业朗姆酒生产的传家宝甘蔗。这一努力不仅保留了夏威夷的特色和文化，还为朗姆酒爱好者提供了独特的风味。传家宝甘蔗的复兴反映了一场更大的运动，旨在恢复夏威夷原住民的耕作方式并促进原住民的观点。]]></description>
-      <guid>https://t.me/hn_summary/87469</guid>
-      <pubDate>Thu, 02 May 2024 02:42:50 GMT</pubDate>
+      <title>[媒体] GitHub 上的“offset-allocator”项目是一个快速、简单、硬实时的分配器，用于 [...]</title>
+      <link>https://t.me/hn_summary/87515</link>
+      <description><![CDATA[快速、简单、硬实时的 Rust 分配器
+GitHub 上的“offset-allocator”项目是一个快速、简单、硬实时的 Rust 分配器，最初由 Sebastian Aaltonen 从 C++ 包移植而来。它专为管理 GPU 资源而设计，旨在用于 Bevy。与传统的 Rust 分配器不同，此分配器不是系统分配器的直接替代品，而是专门为管理 CPU 内存以外的资源（例如 GPU 缓冲区）而定制的。分配器与分配的内容无关，并使用独特的算法来最大限度地减少碎片。Rust 移植由 Patrick Walton 完成，该项目已获得 MIT 许可。]]></description>
+      <guid>https://t.me/hn_summary/87515</guid>
+      <pubDate>Thu, 02 May 2024 09:08:23 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]嘿，我是斯蒂芬·杜布纳。</title>
-      <link>https://t.me/hn_summary/87468</link>
-      <description><![CDATA[如何铺平通往地狱的道路
-嘿，我是斯蒂芬·杜布纳。在我们深入了解今天的节目之前，我们需要您帮助我们制作一个关于指导的特别系列。请通过 radio@freakonomics.com 分享您的故事。现在，我们来谈谈“通往地狱的道路是由善意铺成的”这句话以及经济学家是如何看待这句话的。讨论了三个关于工作场所良好意愿变坏的故事。经济学家能否帮助将良好意愿转化为良好结果？诺贝尔经济学奖获得者乔什·安格里斯特 (Josh Angrist) 深入研究了《美国残疾人法案》等政策的意外后果，揭示了引发争议和进一步研究的令人惊讶的发现。政策意图和结果之间的差距是一个需要考虑的强大力量。 （根据故事文本的 28% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/87468</guid>
-      <pubDate>Thu, 02 May 2024 02:14:39 GMT</pubDate>
+      <title>PhastFT 是一个用 Rust 编写的高性能快速傅里叶变换 (FFT) 库，旨在 [...]</title>
+      <link>https://t.me/hn_summary/87514</link>
+      <description><![CDATA[Rust 中的快速傅立叶变换
+PhastFT 是一个用 Rust 编写的高性能快速傅立叶变换 (FFT) 库，旨在提供一种受量子启发的 FFT 计算方法。它提供了使用 Cooley-Tukey FFT 算法的简单实现，其性能与其他 Rust FFT 实现相当。该库旨在利用现代 CPU 功能（包括 AVX-512），并提供可选并行化以提高速度。 PhastFT 的独特之处在于使用零不安全代码、与其他 Rust FFT 包相比内存使用量更低，并且注重高效的内存访问模式。它需要一个夜间 Rust 编译器，并计划在未来为任意大小的 FFT 实现 Bluestein 算法。]]></description>
+      <guid>https://t.me/hn_summary/87514</guid>
+      <pubDate>Thu, 02 May 2024 09:04:18 GMT</pubDate>
     </item>
     <item>
-      <title>eSpeak NG 项目是一个紧凑的开源文本到语音合成器，支持超过 1 [...]</title>
-      <link>https://t.me/hn_summary/87467</link>
-      <description><![CDATA[ESpeak-ng：支持 100 多种语言和口音的语音合成器
-eSpeak NG 项目是一个紧凑型开源文本转语音合成器，支持 100 多种语言和口音。它使用共振峰合成方法以高速提供清晰的语音，尽管不如大型合成器那么自然。它可以用作命令行程序、共享库或与 Windows 上的屏幕阅读器一起使用。该项目于 2015 年分叉，以清理代码库、添加新功能并改进语言支持。它与 eSpeak 兼容，并包含文档、用户指南和构建指南。该项目根据 GPL 版本 3 或更高版本获得许可。]]></description>
-      <guid>https://t.me/hn_summary/87467</guid>
-      <pubDate>Thu, 02 May 2024 02:13:34 GMT</pubDate>
+      <title>[媒体] 在这篇文章中，我们深入研究 glTF 材质和纹理的世界，探索 [...]</title>
+      <link>https://t.me/hn_summary/87513</link>
+      <description><![CDATA[使用 WebGPU 从 0 到 glTF：基本材质和纹理
+在这篇文章中，我们深入研究 glTF 材质和纹理的世界，探索基于物理的 BRDF 模型，支持金属和粗糙度属性，以及法线、发射和遮挡纹理贴图。作者通过分解 glB 文件中基础 glTF 材质参数和纹理的加载，将其传递给着色器进行颜色渲染，简化了该过程。这篇文章还介绍了加载 glTF 图像、采样器和纹理，提供了对这些元素的结构和功能的深入了解。一个值得注意的亮点是创建了 GLTFSampler 类，该类将 GLTF 采样器参数转换为其 WebGPU 等效参数，从而增强着色器中的纹理采样。 （根据故事文本的 28% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/87513</guid>
+      <pubDate>Thu, 02 May 2024 09:03:13 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]谁害怕东亚管理文化？</title>
-      <link>https://t.me/hn_summary/87466</link>
-      <description><![CDATA[谁害怕东亚管理文化？
-周维奥拉（Viola Zhou）关于亚利桑那州凤凰城台积电工厂文化冲突的调查报告挑战了东亚管理文化优越的观点。虽然“台积电在美国沙漠惨败”的标题可能为时过早，但文章却凸显了台积电与美国工人在职场文化和管理风格上的冲突。台积电紧张、军事化的工作环境，以长时间工作和严格的等级制度为特征，与工作与生活平衡和个人主义的美国价值观形成鲜明对比。台积电的成功归功于经济因素和公司独特的“代工”模式，而不仅仅是台湾文化价值观。 （根据故事文本的 64% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/87466</guid>
-      <pubDate>Thu, 02 May 2024 02:10:29 GMT</pubDate>
+      <title>[媒体] Snapdragon 855 的 Adreno 640 GPU 较前代产品有了显着改进 [...]</title>
+      <link>https://t.me/hn_summary/87512</link>
+      <description><![CDATA[Snapdragon 855 的 iGPU
+Snapdragon 855 的 Adreno 640 GPU 比其前身 Adreno 530 有了显着改进，计算吞吐量更高，并且配备了更现代的内存子系统。高通公司针对宽着色器处理器和矢量执行的创新方法可实现高效计算，同时降低功耗。 GPU 的本地内存和纹理缓存提供高带宽和低延迟，从而增强光栅化任务的性能。然而，Adreno 640 在处理 FluidX3D 等计算密集型工作负载时表现不佳，与 Snapdragon 821 相比，表现出令人惊讶的倒退。总体而言，Snapdragon 855 的 Adreno 640 GPU 在移动 SoC 设计的限制内提供了性能和效率的平衡。 （根据 78% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/87512</guid>
+      <pubDate>Thu, 02 May 2024 08:26:59 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]NocoDB 是 Airtable 的开源替代品，它将 MySQL、PostgreSQL、SQL Ser [...]</title>
-      <link>https://t.me/hn_summary/87465</link>
-      <description><![CDATA[Airtable 的开源替代方案
-NocoDB 是 Airtable 的开源替代品，可将 MySQL、PostgreSQL、SQL Server、SQLite 和 MariaDB 转变为智能电子表格。它提供了丰富的电子表格界面、用于工作流程自动化的应用程序商店、编程访问、同步架构和审核日志等功能。该项目旨在为数据库提供强大的无代码接口，该接口是开源的，可供每个互联网企业访问。 NocoDB 通过提供细粒度的访问控制、多种视图类型以及与 Slack 和 AWS 等流行服务的集成而脱颖而出。该项目已获得 AGPLv3 许可，欢迎社区贡献。]]></description>
-      <guid>https://t.me/hn_summary/87465</guid>
-      <pubDate>Thu, 02 May 2024 02:06:24 GMT</pubDate>
+      <title>[媒体] Dropbox Sign（以前称为 HelloSign）用户请注意！</title>
+      <link>https://t.me/hn_summary/87511</link>
+      <description><![CDATA[Dropbox 标志已被黑客入侵
+Dropbox Sign（以前称为 HelloSign）用户请注意！ 4 月 24 日，我们的生产环境遭到未经授权的访问，导致电子邮件、用户名和哈希密码等客户信息遭到泄露。虽然没有发现未经授权访问帐户内容或付款信息的证据，但我们严肃对待这一事件。我们的安全团队已重置密码、注销用户，并正在协调 API 密钥和 OAuth 令牌轮换。我们对造成的任何影响深表歉意，并正在努力保护我们的用户。如果您是 Sign 客户，请按照我们的分步说明来保护您的数据。随着我们调查的继续，请继续关注最新动态。]]></description>
+      <guid>https://t.me/hn_summary/87511</guid>
+      <pubDate>Thu, 02 May 2024 08:24:55 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] GitHub 上的这个项目提供了完全人类和机器可读的 Germ 版本 [...]</title>
-      <link>https://t.me/hn_summary/87464</link>
-      <description><![CDATA[德国“Grundgesetz”（基本法/宪法）作为 Git 存储库&lt; /a&gt;
-GitHub 上的这个项目提供了德国“Grundgesetz”（基本法/宪法）所有当前可用修订版的完全人类和机器可读版本。它的目标是使人和机器都能轻松访问和使用《基本法》。作者提到该存储库是自动生成的，这使其与可能无法提供相同级别的自动化和可访问性的其他项目区分开来。该项目对于研究人员、开发人员或任何有兴趣以数字格式研究或分析基本原则的人来说可能很有用。]]></description>
-      <guid>https://t.me/hn_summary/87464</guid>
-      <pubDate>Thu, 02 May 2024 01:56:17 GMT</pubDate>
+      <title>特斯拉在开始日期前几周取消了实习机会，这让有抱负的实习生感到震惊，b [...]</title>
+      <link>https://t.me/hn_summary/87510</link>
+      <description><![CDATA[特斯拉大幅削减暑期实习计划
+特斯拉在实习期开始前几周取消了实习邀请，此举令有抱负的实习生感到震惊，并将这一决定归咎于公司内部的大规模裁员。像约书亚·施赖伯这样的学生只能忙着寻找暑假的替代工作，几乎没有空闲的时间。黛安娜·罗森伯格等特斯拉现任员工甚至通过 LinkedIn 联系，帮助安置失业的实习生。埃隆·马斯克 (Elon Musk) 的成本削减措施导致全球员工人数减少 10%，并计划进一步裁员。虽然此举可能不会为特斯拉节省太多资金，但它肯定对该公司的招聘渠道和受影响的学生产生了重大影响。]]></description>
+      <guid>https://t.me/hn_summary/87510</guid>
+      <pubDate>Thu, 02 May 2024 08:23:50 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]前美国宇航局工程师查尔斯·布勒声称已经开发出一种无推进剂驱动器 [...]</title>
-      <link>https://t.me/hn_summary/87463</link>
-      <description><![CDATA[一名工程师称他找到了一种克服地球引力的方法
-前 NASA 工程师 Charles Buhler 声称他开发了一种由“新力量”驱动的无推进剂驱动器，可以克服地球引力，违背已知的物理定律。Buhler 的公司 Exodus Propulsion Technologies 声称他们的静电设计可以实现这一壮举，但需要独立验证。无推进剂驱动器（如 EmDrive）的历史充斥着充满希望的说法，但最终都无法经受住科学审查。虽然 Buhler 的发现很有趣，但它是否经得起严格的测试并在科学界赢得信誉仍有待观察。]]></description>
-      <guid>https://t.me/hn_summary/87463</guid>
-      <pubDate>Thu, 02 May 2024 01:52:12 GMT</pubDate>
+      <title>[媒体]研究人员提出了一种让宇航员在月球上保持健康的独特方法——跑步[...]</title>
+      <link>https://t.me/hn_summary/87509</link>
+      <description><![CDATA[宇航员可以绕“死亡之墙”跑步以在月球上保持健康，科学家说
+研究人员提出了一种让宇航员在月球上保持健康的独特方法——每天绕“月球死亡之墙”跑步多次。这种非常规方法涉及使用巨大的木质圆柱体和弹力绳来产生足够的侧向力，以对抗低重力环境中的骨骼和肌肉浪费。虽然一些专家认为这个想法创新且方便，但其他人质疑其实用性并建议替代锻炼方法，例如血流限制锻炼。当人类准备重返月球时，寻找有效的方法来对抗重力减小对人体的影响仍然是当务之急。]]></description>
+      <guid>https://t.me/hn_summary/87509</guid>
+      <pubDate>Thu, 02 May 2024 08:05:42 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在语法技术的这一突破性探索中，我们深入研究了一种新的反语法[...]</title>
-      <link>https://t.me/hn_summary/87462</link>
-      <description><![CDATA[认知：重新定义元编程的新反语法语言
-在对语法技术的突破性探索中，我们深入研究了一种重新定义元编程的新反语法语言。通过引入初步的前缀转义字符并利用先进的编码技术，我们突破了传统语法的界限，创建了具有真正深度的结构。递归引用、宏和高效扩展方法的使用使该语言与众不同，提供了一种独特的编程方法。虽然复杂性可能令人望而生畏，但创新和创造力的潜力是无限的。加入我们，重新定义认知并释放元编程的真正力量。]]></description>
-      <guid>https://t.me/hn_summary/87462</guid>
-      <pubDate>Thu, 02 May 2024 01:51:08 GMT</pubDate>
+      <title>[媒体] 欧洲议会议员呼吁禁止诸如终结 [...] 之类的成瘾技术。</title>
+      <link>https://t.me/hn_summary/87508</link>
+      <description><![CDATA[欧盟呼吁禁止无休止滚动等令人上瘾的技术&lt; br /&gt;
+欧洲议会的欧洲议会议员呼吁禁止在线平台使用的令人上瘾的技术，例如无休止的滚动，以吸引用户的注意力并将其数据货币化。他们希望通过更安全的替代方案来加强消费者保护，即使社交媒体平台的利润较低。该报告强调需要针对令人上瘾的设计制定新的立法，并敦促公司开发道德和公平的数字产品。对成瘾设计对心理健康影响（尤其是对未成年人）的担忧也得到了解决。欧盟委员会正在评估数字环境中更新消费者保护立法的必要性。]]></description>
+      <guid>https://t.me/hn_summary/87508</guid>
+      <pubDate>Thu, 02 May 2024 08:00:36 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] GitHub 上的 openanimator 项目允许用户从文本生成数学动画 [...]</title>
-      <link>https://t.me/hn_summary/87461</link>
-      <description><![CDATA[显示 HN：从文本创建数学动画
-GitHub 上的 openanimator 项目允许用户使用 AI 技术从文本生成数学动画。前端运行一个具有两个函数调用的 AI SDK：生成 manim 代码和渲染 manim 代码。该项目的与众不同之处在于，它使用少量示例将用户请求转换为 manim 代码，然后将其渲染在简单的 Flask 服务器上。客户端是具有身份验证功能的 Next.js AI SDK 前端，而服务器是呈现 manim 代码的 Python 服务器。作者提出了一些改进建议，例如使用 Claude、将渲染引擎移至 Cloudflare Worker 以及使用 AI SDK 进行改进的工具调用。]]></description>
-      <guid>https://t.me/hn_summary/87461</guid>
-      <pubDate>Thu, 02 May 2024 01:47:03 GMT</pubDate>
+      <title>[媒体] Typewise (Y Combinator S22) 正在寻找一名高级全栈工程师加入他们的行列 [...]</title>
+      <link>https://t.me/hn_summary/87507</link>
+      <description><![CDATA[Typewise (YC S22) 正在招聘一名人工智能全栈工程师写作助理
+Typewise (Y Combinator S22) 正在寻找一名高级全栈工程师加入他们充满激情的国际团队。这家瑞士-美国深度科技公司旨在通过文本预测软件解码人类思想，从而简化日常生活。该角色涉及开发浏览器扩展和基于网络的管理门户，与开发人员、设计师和 AI/ML 专家密切合作。该公司提供远程优先、快节奏的环境，提供具有全球影响力的机会、在令人兴奋的地点定期聚会、灵活的工作时间以及具有股票期权的有竞争力的薪资。候选人必须具备 TypeScript 和 React 的经验，并能获得浏览器扩展开发和多种语言知识等额外技能的加分。加入 Typewise，帮助塑造人工智能写作辅助的未来！]]></description>
+      <guid>https://t.me/hn_summary/87507</guid>
+      <pubDate>Thu, 02 May 2024 07:59:32 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]事态发生令人震惊的转变，当权者正在采取暴力手段镇压[...]</title>
-      <link>https://t.me/hn_summary/87460</link>
-      <description><![CDATA[权力保护自己——国家
-令人震惊的是，当权者正在诉诸暴力手段来镇压大学校园中日益壮大的巴勒斯坦运动。最近哥伦比亚大学和其他学校对学生抗议者的镇压凸显了当权者的恐惧和恐慌。警察使用武力和逮捕和平示威者表明当局将竭尽全力维护现状。然而，学生们并没有气馁，继续推动巴勒斯坦解放，挑战对以色列的传统支持。世界正在发生变化，巴勒斯坦运动比以往任何时候都更加强大。]]></description>
-      <guid>https://t.me/hn_summary/87460</guid>
-      <pubDate>Thu, 02 May 2024 01:46:00 GMT</pubDate>
+      <title>[媒体] Spirit AeroSystems 前员工 Joshua Dean 举报了宽松的标准 [...]</title>
+      <link>https://t.me/hn_summary/87506</link>
+      <description><![CDATA[指控波音供应商忽视缺陷的举报人去世&lt; br /&gt;
+Spirit AeroSystems 前员工约书亚·迪恩 (Joshua Dean) 因突发疾病去世，他曾揭发这家波音供应商松懈的标准。他的家人和律师对他的去世表示哀悼，并强调他捍卫航空业安全和质量的勇气。迪恩的去世引发了人们对举报人待遇的担忧，特别是考虑到另一名波音举报人最近去世。围绕 Spirit AeroSystems 和波音安全标准的争议仍然是调查的主题，迪恩的指控揭示了行业内的潜在问题。]]></description>
+      <guid>https://t.me/hn_summary/87506</guid>
+      <pubDate>Thu, 02 May 2024 07:04:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
