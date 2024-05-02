@@ -4,11 +4,25 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 02 May 2024 00:44:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 03:12:07 GMT</lastBuildDate>
+    <item>
+      <title>PDF提取</title>
+      <link>https://www.reddit.com/r/software/comments/1ci5and/pdf_extraction/</link>
+      <description><![CDATA[我想整理一些软件以便能够读取 pdf，我正在寻找一些懂得如何编写代码来提取 pdf 数据的程序员    提交人    /u/Ethanwc77   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ci5and/pdf_extraction/</guid>
+      <pubDate>Thu, 02 May 2024 03:08:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>有谁知道我该如何制作/是否有准确的宏记录器？</title>
+      <link>https://www.reddit.com/r/software/comments/1ci4iw9/does_anyone_know_how_i_can_make_if_there_is_an/</link>
+      <description><![CDATA[我正在尝试为 Minecraft 寻找/制作一个宏录制器。当然，我可以在 AHK V2 中手动创建自己的宏，但对于我正在做的事情，我相信使用宏记录器会更容易。 我尝试过 Pulover 的 &amp;然而，TinyTask 的鼠标移动速度要慢得多并且“抖动”。与我录制《我的世界》时相比。如果这里有人能为这些程序提供修复程序，我将不胜感激！   由   提交 /u/sand_jpg   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ci4iw9/does_anyone_know_how_i_can_make_if_there_is_an/</guid>
+      <pubDate>Thu, 02 May 2024 02:28:57 GMT</pubDate>
+    </item>
     <item>
       <title>帮助查找 Cisco AIR-CB21AG-A-K9 的 Windows 98 兼容软件</title>
       <link>https://www.reddit.com/r/software/comments/1chzz36/help_finding_windows_98_compatible_software_for/</link>
-      <description><![CDATA[我正在尝试查找适用于 Cisco PCMCIA WLAN 适配器的 Windows 98 兼容驱动程序     由    /u/oof_mastr  提交  [link] [comments]]]></description>
+      <description><![CDATA[我正在尝试查找 Cisco PCMCIA WLAN 适配器的 Windows 98 兼容驱动程序   由   提交/u/oof_mastr  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1chzz36/help_finding_windows_98_compatible_software_for/</guid>
       <pubDate>Wed, 01 May 2024 22:56:16 GMT</pubDate>
     </item>
@@ -22,7 +36,7 @@
     <item>
       <title>有没有可以更改播放设备和打开/关闭屏幕的自动化/宏软件？ (W10)</title>
       <link>https://www.reddit.com/r/software/comments/1chwzco/any_automationmacro_software_that_can_change/</link>
-      <description><![CDATA[嗨！在 Android 上，我们有大量的自动化程序，可以在手机锁定时将音频静音，在手机解锁时取消静音...等等... Windows 有类似的东西吗？具体来说，我正在寻找： 如果屏幕保护程序已打开，则更改音频播放设备。 根据进程 A B 或 C 是​​否处于活动状态，打开第二个监视器。  有什么想法吗？我尝试过一些宏/自动化软件，但大多数似乎无法与这些 Windows 设置交互 谢谢！   由   提交/u/Nightly_Pixels  [链接] [评论]]]></description>
+      <description><![CDATA[嗨！在 Android 上，我们有大量自动化程序，如果手机被锁定，它们可以静音，如果手机被解锁，它们可以取消静音……等等…… Windows 上有类似的东西吗？具体来说，我正在寻找： 如果屏幕保护程序打开，则更改音频播放设备。 根据进程 A、B 或 C 是​​否处于活动状态，打开第二台显示器。 有什么想法吗？我尝试过一些宏/自动化软件，但大多数似乎无法与这些 Windows 设置交互 谢谢！    提交人    /u/Nightly_Pixels   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1chwzco/any_automationmacro_software_that_can_change/</guid>
       <pubDate>Wed, 01 May 2024 20:54:57 GMT</pubDate>
     </item>
@@ -36,7 +50,7 @@
     <item>
       <title>音乐光学识别软件</title>
       <link>https://www.reddit.com/r/software/comments/1chuxv6/music_optical_recognition_software/</link>
-      <description><![CDATA[我决定帮助我的朋友完成一些翻译图像书面笔记的项目（手写但写得很好，有很多文字，因为它是为合唱团准备的）。我做了一些研究，在 github 上找到了一些有这种 Ai 的项目，但由于安装过程非常困难和许多错误，我无法安装。我感到很困惑，不知道在哪里可以找到这种软件。任何建议都表示感谢。     提交人    /u/kikirac_senpai   [link] [评论]]]></description>
+      <description><![CDATA[我决定帮助我的朋友完成一些翻译图像书面笔记的项目（手写但写得很好，有很多文字，因为它是给合唱团的）。我做了一些研究，发现 github 上的一些项目有这种 Ai，但由于安装过程非常困难和很多错误，我无法安装。我感觉很困惑，不知道去哪里可以找到这种软件。任何建议表示赞赏。    由   提交/u/kikirac_senpai   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1chuxv6/music_optical_recognition_software/</guid>
       <pubDate>Wed, 01 May 2024 19:30:22 GMT</pubDate>
     </item>
@@ -57,7 +71,7 @@
     <item>
       <title>我想从特定的 Google 搜索下载所有图像，然后删除重复图像</title>
       <link>https://www.reddit.com/r/software/comments/1chquep/im_wanting_to_download_all_images_from_a_specific/</link>
-      <description><![CDATA[正如标题所说。我正计划归档一些东西，我想要下载整个谷歌图像搜索，并删除重复的图像。我需要一些可以做到这一点的软件。  在 Windows 上    由   提交 /u/robinivy   [链接] [评论]]]></description>
+      <description><![CDATA[正如标题所说。我打算存档一些东西，我想下载整个 Google 图片搜索，删除重复的图片。我需要一些可以做到这一点的软件。  在 Windows 上     提交人    /u/robinivy   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1chquep/im_wanting_to_download_all_images_from_a_specific/</guid>
       <pubDate>Wed, 01 May 2024 16:45:29 GMT</pubDate>
     </item>
@@ -92,23 +106,9 @@
     <item>
       <title>Adobe 是否是一家为竞争设置障碍的垄断企业？</title>
       <link>https://www.reddit.com/r/software/comments/1ch0afe/is_adobe_a_monopoly_that_is_putting_hurdles_in/</link>
-      <description><![CDATA[令人疯狂的是，在 PDF 格式开放几十年后，其他支持 PDF 的文档（包括 MS WORD、LIBREOFFICE 等）似乎都无法打开可以像 Adob​​e 一样用于书写的 PDF 文件吗？ Adobe 是在偏袒还是只是声称开放格式但积极设置障碍以削弱竞争？当您尝试打开 PDF 文件进行编辑时，您会看到这一点。即使是像微软这样的公司也无法做到正确（好吧。哈哈。我知道他们写的东西不多……但我离题了） 好奇是否有任何内部人士的说法Adobe 如何看待 PDF 领域的竞争？   由   提交/u/kasarediff  [链接] [评论]]]></description>
+      <description><![CDATA[PDF 格式开放数十年后，其他支持 PDF 的文档（包括 MS WORD、LIBREOFFICE 等）似乎都无法像 Adob​​e 那样打开 PDF 文件进行书写，这真是太疯狂了？Adobe 是在偏袒谁，还是只是声称格式开放，但却积极设置障碍来削弱竞争？当您尝试打开 PDF 文件进行编辑时，就会看到这一点。即使是像微软这样的公司也做不到这一点（好吧。哈哈。我知道他们不懂得很多东西……但我离题了） 想知道 Adob​​e 是否有任何内部人士对 PDF 领域的竞争有何看法？    提交人    /u/kasarediff   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ch0afe/is_adobe_a_monopoly_that_is_putting_hurdles_in/</guid>
       <pubDate>Tue, 30 Apr 2024 18:41:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找重命名/编辑aax文件的软件</title>
-      <link>https://www.reddit.com/r/software/comments/1cgz6wa/looking_for_software_to_renameedit_aax_files/</link>
-      <description><![CDATA[不知道这是否是提问的正确区域。 重命名打包的 AAX 文件？ 所以我使用 Pro Tools，我使用了一个名为 TransVST 的程序，它将 vst 插件包装到 aax 中。现在，当新的包装插件加载时，它们会在名称末尾加载 [Transvst]，我尝试看看是否可以从插件名称中删除 [Transvst]？ 我的第一个我的想法是导航到我的 aax 文件存储的位置，然后导航到有问题的插件，当我尝试此操作时，令我惊讶的是，专业工具内部名称中显示 [Transvst] 的插件名称中没有任何内容？检查文件的属性，我也没有看到任何内容？ 计算机上肯定有某个地方正在读取将 [Transvst] 添加到插件名称的内容？ 如果有人有任何程序建议或想法可以尝试在哪里查看吗？或者一般的任何东西。   由   提交/u/Worth-Friendship-714   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cgz6wa/looking_for_software_to_renameedit_aax_files/</guid>
-      <pubDate>Tue, 30 Apr 2024 17:57:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>PDF 打印制作软件</title>
-      <link>https://www.reddit.com/r/software/comments/1cgxt77/pdf_print_production_software/</link>
-      <description><![CDATA[正在寻找一个用于打印制作的 pdf 程序，可以显示输出预览、印前检查、编辑对象、转换颜色、拼合预览、设置页面框等。  ​ ​ https://preview.redd.it/dtmv1fmjdnxc1.png?width=231&amp;format=png&amp;auto=webp&amp;s=6ff2f72eeaea116099ee 95a31aa494fc9f7a6736 https://preview.redd.it /6fmulwu2dnxc1.png?width=748&amp;format=png&amp;auto=webp&amp;s=077cd7daea2cc393f0830b6b644fe9de1b527016   由   提交 /u/tbombonator   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cgxt77/pdf_print_production_software/</guid>
-      <pubDate>Tue, 30 Apr 2024 16:58:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
