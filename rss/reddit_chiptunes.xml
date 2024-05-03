@@ -4,7 +4,7 @@
     <title>最新提交：chiptunes</title>
     <link>https://www.reddit.com/r/chiptunes/new</link>
     <description>一个致力于音乐的社区，从最少的事情中获得最大的收益。老游戏风格的音乐，例如C64、Atari、NES、Gameboy、Sega Genesis、Adlib、OPM、MOD等。</description>
-    <lastBuildDate>Fri, 03 May 2024 18:14:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 21:10:41 GMT</lastBuildDate>
     <item>
       <title>我的第一个 GLE -（Fasttracker II）</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1cj2nd1/my_first_gle_fasttracker_ii/</link>
@@ -15,14 +15,14 @@
     <item>
       <title>彼得彼得！</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1cipcxe/pedro_pedro/</link>
-      <description><![CDATA[        提交人    /u/sarthak__gambhir   [链接] [评论] ]]></description>
+      <description><![CDATA[       由   提交/u/sarthak__gambhir   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1cipcxe/pedro_pedro/</guid>
       <pubDate>Thu, 02 May 2024 20:05:09 GMT</pubDate>
     </item>
     <item>
       <title>FamiTracker 中的草图（仅使用 2A03 芯片，因为我永远无法抗拒 VR6 的 3 个额外通道）。</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1ciesba/a_sketch_in_famitracker_using_only_the_2a03_chip/</link>
-      <description><![CDATA[   /u/InnerMotionMusic  [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[        提交者    /u/InnerMotionMusic   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1ciesba/a_sketch_in_famitracker_using_only_the_2a03_chip/</guid>
       <pubDate>Thu, 02 May 2024 12:46:52 GMT</pubDate>
     </item>
@@ -36,7 +36,7 @@
     <item>
       <title>新的 8 位 bop :) 我仍在尝试为这些视频找到明确的风格，所以如果演示文稿到处都是 atm，我深表歉意</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1cidjnq/new_8bit_bop_im_still_trying_to_find_a_definitive/</link>
-      <description><![CDATA[    /u/Ryanondreams   [链接] [评论] ]]></description>
+      <description><![CDATA[      &amp;# 32；由   提交 /u/Ryanondreams   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1cidjnq/new_8bit_bop_im_still_trying_to_find_a_definitive/</guid>
       <pubDate>Thu, 02 May 2024 11:42:58 GMT</pubDate>
     </item>
@@ -64,7 +64,7 @@
     <item>
       <title>在 Furnace Tracker 中混合和匹配声音芯片？</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1chrtwk/mixing_and_matching_soundchips_in_furnace_tracker/</link>
-      <description><![CDATA[我正在开发一个项目，向《星之卡比》音乐尤其是《梦境》系列致敬。我希望能够将 Gameboy 脉冲和波表通道与一些 snes 示例通道结合使用。通过浏览文档和基本的谷歌搜索，我还没有找到答案，但在我浏览手册的每一页或联系支持人员之前，我想问问你们是否知道如何做到这一点。我的猜测是，由于 Furnace 如此致力于模拟特定芯片的功能，因此所有通道都一起处理，这是不可能的，但现在是 2024 年，Furnace 本身的存在就是一个奇迹。后续问题：由于卡比snes游戏总是保留3个声道用于音效，我只会使用5个声道，并且为了更干净的界面，希望消除未使用的声道。有办法做到这一点吗？   由   提交/u/knotalie  [链接] [评论]]]></description>
+      <description><![CDATA[我正在做一个向 Kirby 音乐和 Dreamland 系列致敬的项目。我希望能够将 gameboy 脉冲和波表通道与一些 snes 样本通道结合使用。通过浏览文档和基本的谷歌搜索，我没有找到答案，但想问一下，在我仔细阅读手册的每一页或联系支持人员之前，你们中是否有人知道如何做到这一点。我的猜测是，由于 Furnace 致力于模拟特定芯片的功能，因此所有通道都一起处理，这是不可能的，但现在是 2024 年，Furnace 本身的存在就是一个奇迹。后续问题：由于 Kirby snes 游戏总是为音效保留 3 个通道，我只会使用 5 个通道，并且为了获得更清晰的界面，我想消除未使用的通道。有办法吗？   由    /u/knotalie  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1chrtwk/mixing_and_matching_soundchips_in_furnace_tracker/</guid>
       <pubDate>Wed, 01 May 2024 17:25:26 GMT</pubDate>
     </item>
@@ -92,7 +92,7 @@
     <item>
       <title>[Atari 8 位] 围绕 St. Germain 的“So Fute”创作的芯片音乐</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1chjlf2/atari_8bit_chiptune_created_around_so_flute_by_st/</link>
-      <description><![CDATA[        由    /u/makarybrauner 提交   [链接] [评论] ]]></description>
+      <description><![CDATA[       由   提交/u/makarybrauner  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1chjlf2/atari_8bit_chiptune_created_around_so_flute_by_st/</guid>
       <pubDate>Wed, 01 May 2024 11:16:20 GMT</pubDate>
     </item>
@@ -104,7 +104,7 @@
       <pubDate>Wed, 01 May 2024 09:20:20 GMT</pubDate>
     </item>
     <item>
-      <title>我开始从事的受 Chiptune 启发的项目名为 BitBeast。</title>
+      <title>我开始从事受 Chiptune 启发的项目，名为 BitBeast。</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1chgmy7/chiptuneinspired_project_i_started_working_on/</link>
       <description><![CDATA[       由   提交 /u/Sleepsession   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1chgmy7/chiptuneinspired_project_i_started_working_on/</guid>
