@@ -4,13 +4,20 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Fri, 03 May 2024 15:11:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 18:13:53 GMT</lastBuildDate>
     <item>
-      <title>deadetempovisions 用人工智能制作了很棒的视频，他是如何使用它的？</title>
-      <link>https://www.reddit.com/r/editors/comments/1cjagf1/deadetempovisions_makes_awesome_videos_with_ai/</link>
-      <description><![CDATA[我对创建关于 arte 的哲学辩论不感兴趣，我只是想了解如何制作这样的视频： https://www.instagram.com/reel/C3gnBV6J5zP/?igsh=N3J6dHV1eWtxOWI0 创作者说他只是制作文本，然后 ia 制作视频，制作剪辑，然后将它们组合起来，没有任何后期效果，有评论说他可能使用 Pika、Firefly 或 Midjourney。  对不起，我的英语不是我的母语   由   提交 /u/Friendly-Culture1870    reddit.com/r/editors/comments/1cjagf1/deadetempovisions_makes_awesome_videos_with_ai/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cjagf1/deadetempovisions_makes_awesome_videos_with_ai/</guid>
-      <pubDate>Fri, 03 May 2024 14:45:21 GMT</pubDate>
+      <title>XAVC S 4k 120p 4:2:2 10 位导出无法在 Windows 11 上播放</title>
+      <link>https://www.reddit.com/r/editors/comments/1cjcxed/xavc_s_4k_120p_422_10_bits_export_wont_play_on/</link>
+      <description><![CDATA[大家好， 希望你们一切顺利。最近，我从索尼 a6500 相机过渡到 FX3，我们在我工作的舞蹈工作室拍摄了一些很棒的视频。我很想开始在达芬奇中编辑它们，但不幸的是，我遇到了一些障碍。这些视频根本无法在我的计算机（Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz 2.50 GHz、8,00 GB RAM）上打开，当我尝试将它们导入 Davinci 时，仅出现音频。我正在使用 XAVC S 4k 120p 4:2:2 10 位导出设置。 我联系了一位过去非常有帮助的摄像师朋友，他们告诉我 Windows 不支持不支持这种格式。他们建议在编辑之前使用编码器转换视频，但警告我这可能会导致质量显着下降。他们还提到，如果我切换到 Premiere Pro，我至少可以从那里预览播放，或者考虑切换到 MacBook。 我不喜欢 MacBook；我喜欢 MacBook。我多年来一直是 Windows 用户，而且由于我也使用计算机进行与工作无关的活动，因此我更愿意坚持使用 Windows。我现在也买不起，为了买得起，我必须工作，而为了工作，我需要解决这个问题。虽然我愿意学习 Premiere Pro，但我仍然想继续使用 Davinci，因为它是我最喜欢的应用程序，也是我最熟悉的应用程序。有没有办法使用 Premiere 编辑这种格式的视频，而不牺牲质量或诉诸购买另一台计算机？ 我对此很陌生，所以简单地解释一下，就像我什么都不知道一样有帮助哈哈。非常感谢   由   提交 /u/imatturttle   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cjcxed/xavc_s_4k_120p_422_10_bits_export_wont_play_on/</guid>
+      <pubDate>Fri, 03 May 2024 16:29:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>昨晚我对 DaVinci Resolve 进行了速成培训，并为我的电影俱乐部做了一个宣传！</title>
+      <link>https://www.reddit.com/r/editors/comments/1cjbf89/gave_myself_a_crash_course_in_davinci_resolve/</link>
+      <description><![CDATA[我和几个朋友经营一个小电影俱乐部，今年夏天，我们正在制作一个为期 8 周的跨越人类历史的系列电影。昨晚，我在 DaVinci Resolve 中给自己上了一个速成课程，并整理了这个宣传片与我的朋友们分享。 我觉得在大约 4 个小时的时间里学会了它，效果非常好，想要分享！ https://www.youtube.com/watch?v=7vMz4zxlyh0 我这样做很有趣，并且可以看到自己参与其他类似的项目。   由   提交 /u/DraperyFalls   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cjbf89/gave_myself_a_crash_course_in_davinci_resolve/</guid>
+      <pubDate>Fri, 03 May 2024 15:26:05 GMT</pubDate>
     </item>
     <item>
       <title>有没有什么好的软件可以像Google Drive这样的云服务上传和下载？</title>
@@ -29,14 +36,14 @@
     <item>
       <title>Premire 陷入“创建代理工作”的困境</title>
       <link>https://www.reddit.com/r/editors/comments/1cixnjp/premire_is_stuck_on_creating_proxy_jobs/</link>
-      <description><![CDATA[我试图将一组大约 30 个 4k 分辨率剪辑转换为代理，但每当我按照步骤制作它们时，它就会卡在“”上“创建代理作业”。媒体编码器端似乎也没有发生任何操作 CPU：Intel Core i5 10300H// GPU：NVIDIA GEForce GTX 1650 Ti + RAM：8GB// 软件：Adobe Premier Pro：版本 24.3.0 ( Build 59)// 素材：来自 HDD 的 BRAW   由   提交/u/GreenToad56  [链接] [评论]]]></description>
+      <description><![CDATA[我试图将一组大约 30 个 4k 分辨率剪辑转换为代理，但每当我按照步骤制作它们时，它都会卡在“创建代理作业”上。媒体编码器端似乎也没有发生任何动作 CPU：Intel Core i5 10300H// GPU：NVIDIA GEForce GTX 1650 Ti + RAM：8GB// 软件：Adobe Premier Pro：版本 24.3.0（内部版本 59）// 素材：来自 HDD 的 BRAW    提交人    /u/GreenToad56   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cixnjp/premire_is_stuck_on_creating_proxy_jobs/</guid>
       <pubDate>Fri, 03 May 2024 02:24:21 GMT</pubDate>
     </item>
     <item>
       <title>纪录片的网站娱乐</title>
       <link>https://www.reddit.com/r/editors/comments/1ciwvhz/website_recreations_for_documentaries/</link>
-      <description><![CDATA[大家好，我在许多调查纪录片中看到，他们重新创建一个网站以便为文本等制作动画，我想知道最好的方法是什么，以便在 After Effects 或任何其他软件中轻松制作动画，但仍然易于创建新页面。我知道我的问题可能会有所帮助，但我对这种类型的电影制作还很陌生。 提前谢谢大家。    提交人    /u/alexroumi   [link] [评论]]]></description>
+      <description><![CDATA[大家好，我在很多调查纪录片中看到他们重新创建了一个网站以便为文本等添加动画效果，我想知道什么是执行此操作的最佳方法是为了轻松在 After Effects 或任何其他软件中制作动画，但仍然可以轻松创建新页面。我知道我的问题可能会很愚蠢，但我对这种类型的电影制作还是新手。 提前谢谢大家。  &amp;# 32；由   提交/u/alexroumi  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ciwvhz/website_recreations_for_documentaries/</guid>
       <pubDate>Fri, 03 May 2024 01:45:13 GMT</pubDate>
     </item>
@@ -48,7 +55,7 @@
       <pubDate>Thu, 02 May 2024 19:17:48 GMT</pubDate>
     </item>
     <item>
-      <title>我们专业人士的定期 Mod 请求：请签到并为在“询问任何事情”和“职业”主题上发帖的人提供建议。</title>
+      <title>我们专业人员的常规版主请求：请签到并为在“问任何问题”和“职业”主题上发帖的人提供建议。公告</title>
       <link>https://www.reddit.com/r/editors/comments/1cikt67/regular_mod_request_of_our_professionals_please/</link>
       <description><![CDATA[我们有大量专业人士访问此 Reddit 子版块 - 还有许多人试图成为该领域的专业人士。 p&gt; 我们要求我们的专业人员每周一次检查我们的“询问任何问题”和“职业”线程，并提供帮助！ 这些可以在新 Reddit 子版块的菜单区域或通过官方客户端找到。 需要明确的是 - 我们正在谈论子顶部的每周链接。 https://i.imgur.com/I19zmc2.png  这个想法是你进入那里并为以下方面提供有用的建议：  “问任何问题”人群 寻求职业建议的人。  谢谢（不在这里，请那些帖子！） ​ 询问任何话题 职业主题&lt; /p&gt;   由   提交 /u/AutoModerator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cikt67/regular_mod_request_of_our_professionals_please/</guid>
@@ -57,7 +64,7 @@
     <item>
       <title>创建干净的弗兰肯咬伤的技巧？</title>
       <link>https://www.reddit.com/r/editors/comments/1cihmj5/tips_for_creating_clean_frankenbites/</link>
-      <description><![CDATA[大家好！我一直在为各种项目将音频剪辑编辑成 Frankenbites，并且经常面临拼接之间速度、音调和语调不匹配的挑战。我一直在剪辑之间使用两帧交叉淡入淡出，这有点帮助，但我正在寻找其他可以提高声音无缝度的技术或工具。任何建议或意见，将不胜感激！谢谢！   由   提交 /u/indymoguler   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！我一直在为各种项目将音频剪辑编辑成 frankenbites，并且经常面临拼接之间速度、音高和语调不匹配的挑战。我一直在剪辑之间使用两帧交叉淡入淡出，这有点帮助，但我正在寻找可以改善声音无缝性的其他技术或工具。任何建议或意见都将不胜感激！谢谢！    提交人    /u/indymoguler   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cihmj5/tips_for_creating_clean_frankenbites/</guid>
       <pubDate>Thu, 02 May 2024 14:51:38 GMT</pubDate>
     </item>
@@ -83,7 +90,7 @@
       <pubDate>Thu, 02 May 2024 07:53:25 GMT</pubDate>
     </item>
     <item>
-      <title>Premiere 2024 播放灰色溶解覆盖错误？</title>
+      <title>Premiere 2024 播放灰色溶解叠加错误？</title>
       <link>https://www.reddit.com/r/editors/comments/1ci968q/premiere_2024_playback_grey_dissolve_overlay_bug/</link>
       <description><![CDATA[大家好， 我是 AE，我们最近将所有 Mac 系统更新为最新版本的 Premiere (24.3)，直到几周前一切都很顺利。在所有类型的叠化过程中，一些编辑器的全屏播放中会出现灰色叠加层（请参阅随附的两个视频作为示例）。有趣的是，编辑器导出时不会出现灰色叠加层。虽然我们可以让剪辑师不使用全屏播放，但这在我的工作室中不是一个选项。 文件名为 PremierePro_FadeExample_Export 是几个带有溶解功能的剪辑的简单导出；灰色覆盖层溶解明显不存在。  另一个视频 PremierePro_FadeExample_Recording 是全屏播放期间的录制，灰色覆盖层溶解问题。 到目前为止，我们已经尝试了以下解决方法：  放置黑色遮罩可以解决该问题，但要求编辑人员对每个问题都这样做序列是不可能的。 渲染整个序列似乎可以工作，但不一致。  破坏 Premiere 版本似乎也有效，但问题最终会出现，甚至降到 24.0。  AE 使用的系统是 Mac Mini （规格如下），但编辑们已经充分增强了 Mac Studios。  Mac Mini 系统规格： CPU - 3.2 GHz 6 核 Intel Core i7  Mac Mini 系统规格： CPU - 3.2 GHz 6 核 Intel Core i7 li&gt; GPU - Intel UHD Graphics 630 1536MB RAM - 16GB 2667 MHz DDR4 软件规格：Sonoma 14.4  我们&#39;我已经检查了首映设置，但到目前为止一无所获。如果您有任何帮助，我们将不胜感激。 如果您有任何问题或需要我详细说明，请随时询问。  谢谢！   由   提交 /u/NakedRobots   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ci968q/premiere_2024_playback_grey_dissolve_overlay_bug/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[您好，我在 PC 上的 Premiere Pro 上处理多个项目（和大家一样）。项目保存在不同硬盘驱动器上的文件中（内容和 adobe Premiere 文件项目）。这是一个有点棘手的问题。  客户 1：他们想要源文件和所有媒体。这很好，他们支付了额外的传输费用。 客户端 2：项目包含敏感数据/内容。该项目与所有相关数据保存在完全不同的硬盘驱动器上。 我担心：如果我将整个客户端 1 文件夹（所有数据）传输到云端以供客户端 1 访问，客户端 1 是否能够以某种方式查看/有权访问任何客户端 2 信息？元数据或文件名？ 我紧张的原因是因为其他自动保存的文件夹/缓存等（全部保存到我的 C 驱动器）。另外，当我从直接图标打开 Premiere 时，Premiere 会显示我所从事的项目的历史记录。我总是确保每次打开其他 Premiere 项目之前关闭 Premiere。 总的来说，我只是想确保客户端 1 根本无法访问客户端 2 的数据。 感谢您的聆听。   由   提交 /u/netherlanddwarf   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ci8f8p/premiere_pro_data_privacy_question_im_giving_a/</guid>
       <pubDate>Thu, 02 May 2024 06:08:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年刻录 16:9 DVD</title>
-      <link>https://www.reddit.com/r/editors/comments/1ci5h2s/burning_a_169_dvd_in_2024/</link>
-      <description><![CDATA[我真的不想在车库里安装我的旧 Mac Pro Xenon 塔，用完整的 FCP 7 工作室来刻录视频 DVD。我的日常驾驶是 m3 pro MacBook pro。我有一个 USB 供电的外部 CD/DVD/蓝光刻录机。很确定 Premier 2024（或媒体编码器）可以导出正确的 mpeg2 文件，但我一辈子都不记得如何制作视频 DVD。 Roxio Toast 的 8 个左右版本都无法在基于 Intel 的 MacBook 上运行。我只记得它必须是 ISO XXXX 类型的刻录，并且根目录中需要一个 VIDEO_TS 和一个 AUDIO_TS 文件夹。有什么想法吗？当然，旧塔有 DVD Studio Pro，作为 FCP Studio 的一部分，但是，我真的不想立即将其清空并准备再次运行。更新的硅软件对我来说并非不可能，但我试图保持简单，但为带有内置 DVD 播放器的电视和露营用的便携式 DVD 播放器制作可播放的 DVD。   由   提交/u/Listo4486  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1ci5h2s/burning_a_169_dvd_in_2024/</guid>
-      <pubDate>Thu, 02 May 2024 03:18:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
