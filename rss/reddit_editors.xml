@@ -4,7 +4,7 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Sat, 04 May 2024 12:16:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 15:10:39 GMT</lastBuildDate>
     <item>
       <title>Beauty Box 更擅长让人变得丑陋，而不是让人变得漂亮</title>
       <link>https://www.reddit.com/r/editors/comments/1cjyrog/beauty_box_is_much_better_at_making_people_fugly/</link>
@@ -13,7 +13,7 @@
       <pubDate>Sat, 04 May 2024 12:05:51 GMT</pubDate>
     </item>
     <item>
-      <title>关于 Premiere Pro 中代理的快速问题</title>
+      <title>关于 Premiere Pro 中的代理的快速问题</title>
       <link>https://www.reddit.com/r/editors/comments/1cjth6w/quick_question_re_proxys_in_premiere_pro/</link>
       <description><![CDATA[嗨， 在 Premiere Pro 中编辑。 我是否应该将原始 4K 视频与 .pproj 文件存储在同一个硬盘上，并在单独的驱动器上创建代理，还是反过来？ 目前，我正在考虑将我的 4K 原件存储在我的 NAS 上，并在我的 SSD 上创建代理，其中还有我的项目文件夹，即 .pproj 等。这样可以吗？ 谢谢。    提交人    /u/real2gems   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cjth6w/quick_question_re_proxys_in_premiere_pro/</guid>
@@ -55,7 +55,7 @@
       <pubDate>Fri, 03 May 2024 16:29:18 GMT</pubDate>
     </item>
     <item>
-      <title>有没有什么好的软件可以从 Google Drive 等云服务上传和下载？</title>
+      <title>有没有什么好的软件可以像Google Drive这样的云服务上传和下载？</title>
       <link>https://www.reddit.com/r/editors/comments/1cj4lt9/is_there_any_good_software_to_upload_and_download/</link>
       <description><![CDATA[如果您从 Google Drive 等服务上传或下载大量文件，您可能知道丢失文件、不同的 rar 文件和取消上传的困难，因此我想知道是否有任何程序可以让我直接使用 Google Drive，并暂停上传/下载并稍后继续。有什么建议吗？   由   提交 /u/Zeigerful   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cj4lt9/is_there_any_good_software_to_upload_and_download/</guid>
@@ -76,7 +76,7 @@
       <pubDate>Fri, 03 May 2024 02:24:21 GMT</pubDate>
     </item>
     <item>
-      <title>纪录片的网站娱乐</title>
+      <title>纪录片网站重建</title>
       <link>https://www.reddit.com/r/editors/comments/1ciwvhz/website_recreations_for_documentaries/</link>
       <description><![CDATA[大家好，我在很多调查纪录片中看到他们重新创建了一个网站以便为文本等添加动画效果，我想知道什么是执行此操作的最佳方法是为了轻松在 After Effects 或任何其他软件中制作动画，但仍然可以轻松创建新页面。我知道我的问题可能会很愚蠢，但我对这种类型的电影制作还是新手。 提前谢谢大家。  &amp;# 32；由   提交/u/alexroumi  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ciwvhz/website_recreations_for_documentaries/</guid>
@@ -85,7 +85,7 @@
     <item>
       <title>电视演播室制作中现场抠像的交付规范</title>
       <link>https://www.reddit.com/r/editors/comments/1cio5qs/deliveryspecs_for_live_keying_in_a_tv/</link>
-      <description><![CDATA[我本来打算编辑几个短片，以便在现场电视演播室制作期间播放。在我的制作公司工作流程中，我通常不进行出口和交付。但由于很多同事生病，我这次不得不去。所有剪辑都以与徽标相关的过渡结束，通过实时抠像将我们带回工作室。我本来打算给他们一个 ProRes4444 8bpc+alpha 通道，但制作人告诉我，他们的视频服务器无法将 Fill 和 Key 放在同一个文件中，并要求我单独渲染它们。 Tbh，我知道我应该但我不知道这意味着什么。有人能解释一下吗？ 我为我在这个领域缺乏知识而道歉，我的日常工作有一个完全不同的重点，我从来没有必要做这样的事情。谢谢！ 系统规格：AMD Ryzen 9 7900X 12 核处理器 4.70 GHzCPU、64,0 GB RAM、NVIDIA GeForce RTX 3080 // &lt; strong&gt;软件规格：Adobe Premiere Pro v23.6.5 // 素材规格：希望能找到答案   由   提交 /u/Lyroscop   [链接] [评论]]]></description>
+      <description><![CDATA[我本来要编辑几个短片，以便在电视直播演播室制作期间播放。在我的制作公司工作流程中，我通常不进行导出和交付。但是，由于很多同事生病了，这次我不得不这么做。所有剪辑都以与徽标相关的过渡结束，通过实时抠像将我们带回演播室。我本来要给他们一个 ProRes4444 8bpc+alpha 通道，但制片人告诉我，他们的视频服务器无法在同一个文件中使用填充和键，并要求我单独渲染它们。 说实话，我知道我应该这样做，但我不知道那是什么意思。有人能解释一下吗？ 我为自己在这方面缺乏知识而道歉，我的日常工作重点完全不同，我从来没有做过这样的事情。谢谢！ 系统规格：AMD Ryzen 9 7900X 12 核处理器 4.70 GHzCPU、64、0 GB RAM、NVIDIA GeForce RTX 3080 // 软件规格：Adobe Premiere Pro v23.6.5 // 素材规格：希望能找到    提交人    /u/Lyroscop   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cio5qs/deliveryspecs_for_live_keying_in_a_tv/</guid>
       <pubDate>Thu, 02 May 2024 19:17:48 GMT</pubDate>
     </item>
