@@ -4,9 +4,9 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 05 May 2024 18:12:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 21:09:59 GMT</lastBuildDate>
     <item>
-      <title>开源 Android 应用程序 - 如何双重检查？</title>
+      <title>开源 Android 应用程序 - 如何仔细检查？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ckvi5n/open_source_android_app_how_to_double_check/</link>
       <description><![CDATA[是否有推荐的应用程序或移动网站可用于验证您要下载的开源应用程序是否合法？我通常从 FDroid 获得我的，所以我确信它们没问题，但我希望能够了解要查找的内容和/或在整个过程中添加另一个检查的工具。 此外，什么是很好的应用程序（最好是免费的），我可以学习 Android 编码。谢谢！    由   提交/u/DameWasistlos  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ckvi5n/open_source_android_app_how_to_double_check/</guid>
@@ -20,9 +20,9 @@
       <pubDate>Sun, 05 May 2024 13:58:34 GMT</pubDate>
     </item>
     <item>
-      <title>OSS Weather：适用于 iOS/Android 的开源天气应用</title>
+      <title>OSS Weather：适用于 iOS/Android 的开源天气应用程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1ckqizw/oss_weather_an_open_source_weather_app_for/</link>
-      <description><![CDATA[iOS 应用程序：https://apps.apple.com/fr/app/oss-weather/id1499117252 Android 应用程序：https://play.google.com/store/apps/details?id=com.akylas.weather  源代码：https://github.com/Akylas/oss-weather     提交人    /u/Spirited-Pause   [链接] [评论]]]></description>
+      <description><![CDATA[iOS 应用程序：https： //apps.apple.com/fr/app/oss-weather/id1499117252 Android 应用：https://play.google.com/store/apps/details?id=com.akylas.weather  源代码：https://github.com/Akylas/oss-weather    由   提交 /u/Spirited-Pause   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ckqizw/oss_weather_an_open_source_weather_app_for/</guid>
       <pubDate>Sun, 05 May 2024 12:49:10 GMT</pubDate>
     </item>
@@ -43,7 +43,7 @@
     <item>
       <title>我一直在使用名为 Grapesjs 的开源软件，但是，由于某种原因，一个人无法拖动项目？一个人选择固定位置，但是，一个人无法将前文本框拖动到它的位置..一个人必须将其放在顶部和左侧像素距离..但是，不起作用？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ck1bme/ive_been_using_an_open_source_software_called/</link>
-      <description><![CDATA[一个人无法完成数百件事情，一个人必须能够拖放？    由   提交/u/savant78  [链接] [评论]]]></description>
+      <description><![CDATA[一个人不能用数百种东西做到这一点，一个人必须能够拖放？    提交人    /u/savant78   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ck1bme/ive_been_using_an_open_source_software_called/</guid>
       <pubDate>Sat, 04 May 2024 14:16:04 GMT</pubDate>
     </item>
@@ -57,7 +57,7 @@
     <item>
       <title>一国对数字主权的追求</title>
       <link>https://www.reddit.com/r/opensource/comments/1cji5c8/one_states_quest_for_digital_sovereignty/</link>
-      <description><![CDATA[  由    /u/pmz  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/pmz   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cji5c8/one_states_quest_for_digital_sovereignty/</guid>
       <pubDate>Fri, 03 May 2024 20:25:35 GMT</pubDate>
     </item>
@@ -78,7 +78,7 @@
     <item>
       <title>微软开发者博客搜索工具</title>
       <link>https://www.reddit.com/r/opensource/comments/1ciz1bd/microsoft_developer_blogs_search_tool/</link>
-      <description><![CDATA[    /u/elliotkillick   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[        提交人    /u/elliotkillick   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ciz1bd/microsoft_developer_blogs_search_tool/</guid>
       <pubDate>Fri, 03 May 2024 03:37:53 GMT</pubDate>
     </item>
@@ -97,14 +97,14 @@
       <pubDate>Thu, 02 May 2024 19:59:53 GMT</pubDate>
     </item>
     <item>
-      <title>我一直在寻找一个开源的拖放 GUI/网站构建器，并且，我找到了 2、Grapesjs 和 Vvvebjs，但是，由于某种原因，它们都没有拖放功能，尽管这么说，确实一个人必须首先启用/禁用某些东西？</title>
+      <title>我一直在寻找一个开源的拖放式 GUI/网站构建器，最后我找到了两个，Grapesjs 和 Vvvebjs，但是由于某种原因，它们都没有拖放功能，尽管这么说，但人们是否必须先启用/禁用某些功能？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cio1bb/i_was_looking_for_an_open_source_drag_and_drop/</link>
       <description><![CDATA[两者都使用“block”系统中的元素不是独立存在于页面上而是相互强制的，一个人不能制作 6 个文本框，然后将它们放在页面上的不同位置，它们都必须被压缩..so..它不起作用？   由   提交/u/savant78  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cio1bb/i_was_looking_for_an_open_source_drag_and_drop/</guid>
       <pubDate>Thu, 02 May 2024 19:12:49 GMT</pubDate>
     </item>
     <item>
-      <title>有任何适用于 Android 的开源 Facebook 客户端/包装器吗？</title>
+      <title>有没有适用于 Android 的开源 FaceBook 客户端/包装器？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cik0b5/any_open_source_facebook_client_wrapper_for/</link>
       <description><![CDATA[编辑：标题中有错误。我主要是专门寻找 Facebook Messenger 的包装器。 尝试过 Frost，但这对我不起作用。我尝试登录后它崩溃了。我四处寻找替代方案，但到目前为止一无所获。希望有人能启发我。   由   提交 /u/HiroCode   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cik0b5/any_open_source_facebook_client_wrapper_for/</guid>
