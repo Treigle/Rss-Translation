@@ -3,8 +3,15 @@
   <channel>
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
-    <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 05 May 2024 06:14:02 GMT</lastBuildDate>
+    <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
+    <lastBuildDate>Sun, 05 May 2024 09:12:13 GMT</lastBuildDate>
+    <item>
+      <title>视觉艺术</title>
+      <link>https://www.reddit.com/r/software/comments/1ckn30m/visual_art/</link>
+      <description><![CDATA[ 由   提交/u/whoniikhil   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ckn30m/visual_art/</guid>
+      <pubDate>Sun, 05 May 2024 09:03:13 GMT</pubDate>
+    </item>
     <item>
       <title>支持批量和4K下载的YouTube视频下载器</title>
       <link>https://www.reddit.com/r/software/comments/1ckk68y/youtube_video_downloader_that_supports_bulk_and/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>可以将输入发送到游戏的多个实例的宏？</title>
       <link>https://www.reddit.com/r/software/comments/1ckfhjq/macro_that_can_send_inputs_to_multiple_instances/</link>
-      <description><![CDATA[需要一个可以将按键发送到单个游戏的多个实例的宏，这可能吗？我在网上找到的任何关于如何做到这一点的信息都涉及自己在 ahk 上编写脚本，而我不喜欢这样做    提交人    /u/Former-Bar-6205   [link] [评论]]]></description>
+      <description><![CDATA[需要一个可以将击键发送到单个游戏的多个实例的宏，这可能吗？我在网上能找到的关于执行此操作的任何内容都涉及在 ahk 上自己编写一个脚本，但我不想这样做   由   提交 /u/Former-Bar-6205   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ckfhjq/macro_that_can_send_inputs_to_multiple_instances/</guid>
       <pubDate>Sun, 05 May 2024 01:04:01 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>OneDrive/GDrive/Mega 的便携版？</title>
       <link>https://www.reddit.com/r/software/comments/1cjzj9t/portable_version_of_onedrivegdrivemega/</link>
-      <description><![CDATA[我是一名自由职业者。我非常讨厌安装软件。它们总是隐藏大量文件。与便携版不同，它位于一个文件夹中，不会停留。如果我想删除它，它们不会留下残留文件。 我正在处理多个帐户，通过使用便携版，我可以同时打开云存储帐户并进行管理。    提交者    /u/Juniorzkie   [link] [评论]]]></description>
+      <description><![CDATA[我是一名自由职业者。我真的很讨厌安装软件。他们总是隐藏着大量的文件。与便携式版本不同，它位于一个文件夹中并且不会徘徊。如果我想删除它，它们不会留下残留文件。 我正在处理多个帐户，通过拥有便携式版本，我可以同时打开云存储帐户并进行管理   由   提交 /u/Juniorzkie   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cjzj9t/portable_version_of_onedrivegdrivemega/</guid>
       <pubDate>Sat, 04 May 2024 12:46:46 GMT</pubDate>
     </item>
@@ -99,16 +106,9 @@
     <item>
       <title>用于在活动/短剧中播放背景音乐的软件</title>
       <link>https://www.reddit.com/r/software/comments/1cjypzn/software_for_running_background_music_in/</link>
-      <description><![CDATA[请帮我找到可以帮助我在戏剧中播放背景音乐的软件  &amp; #32；由   提交/u/Huge_Zombie_75   [链接] [评论]]]></description>
+      <description><![CDATA[请帮我找一些可以在戏剧中播放背景音乐的软件    提交人    /u/Huge_Zombie_75   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cjypzn/software_for_running_background_music_in/</guid>
       <pubDate>Sat, 04 May 2024 12:03:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>推荐一款实时显示手语的windows视频播放器</title>
-      <link>https://www.reddit.com/r/software/comments/1cjx03s/recommendation_for_a_windows_video_player_that/</link>
-      <description><![CDATA[寻找 Windows 上视频播放器的推荐，该播放器可以显示我们可以在播放器上播放的任何视频的手语（手语）。    由   提交 /u/usmannaeem   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cjx03s/recommendation_for_a_windows_video_player_that/</guid>
-      <pubDate>Sat, 04 May 2024 10:14:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
