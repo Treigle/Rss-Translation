@@ -3,112 +3,112 @@
   <channel>
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
-    <description>Subreddit 讨论 ChatGPT 和 AI。不隶属于 OpenAI。嗨纳特！</description>
-    <lastBuildDate>Sat, 04 May 2024 18:12:03 GMT</lastBuildDate>
+    <description>Subreddit 讨论 ChatGPT 和 AI。不隶属于 OpenAI。</description>
+    <lastBuildDate>Sun, 05 May 2024 00:47:12 GMT</lastBuildDate>
     <item>
-      <title>我应该删除旧的 ChatGPT 对话吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ck6kl8/should_i_delete_old_chatgpt_conversations/</link>
-      <description><![CDATA[一个简单的问题。允许旧对话累积会有什么长期后果吗？我最终会用完空间吗？    由    /u/PrisonerN4 提交   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ck6kl8/should_i_delete_old_chatgpt_conversations/</guid>
-      <pubDate>Sat, 04 May 2024 18:10:49 GMT</pubDate>
+      <title>让文本通过人工智能探测器的好提示？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ckeqpx/good_prompt_to_make_the_text_pass_ai_detectors/</link>
+      <description><![CDATA[你好。我正在为此苦苦挣扎。有任何想法吗？人工智能探测器如何变得如此强大？！ 我需要它来编写正式和科学的文本   由   提交/u/aban939393  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ckeqpx/good_prompt_to_make_the_text_pass_ai_detectors/</guid>
+      <pubDate>Sun, 05 May 2024 00:26:12 GMT</pubDate>
     </item>
     <item>
-      <title>GPT-3.5 自定义指令“gpt2-chatbot”级别</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ck6isr/gpt35_custom_instructions_gpt2chatbot_level/</link>
-      <description><![CDATA[   1-6：简洁地正确回答模式问题 --ChatGPT 4 也正确回答，但需要三段解释和方程式。  10 个单词列表中的一个错误是任何商业人工智能所做的最好的事情。包括 GPT-4 Turbo Copilot 在内的所有其他 AI 首次尝试都会产生两个错误，基本 3.5 是一半错误。  以 u 结尾的单词列表中只有一个错误是商业 AI 的最佳表现。  LIS 问题中只有一个错误，第一个数字应该是 25——其他人工智能有 50-100% 的错误。 以 je 结尾的单词显示进度。  显示在两次尝试内对苹果问题的修正，基本 3.5 或 Copilot 都无法重现。 7-10：Claude Sonnet 回复 11：Google Gemini首先建议编码软件来解决 LIS，然后提供错误的答案。 12-14：GPT-4 Turbo 无法纠正 15-17：相比之下，基本 3.5 性能很糟糕（ 44 答案而不是 10)。 18：GPT-4 具有典型的两个错误回复 19-20：GPT-4 Turbo 和 GPT-4 失败的 LIS 尝试。  我还有 1/4 的空间用于自定义指令，然后我将开始针对 Claude Opus 测试 3.5。  我已经到了很难找到我也知道正确答案的基准问题的地步。例如，Custom 3.5 比 Turbo 本身更好地回答 GPT-4 TURBO 测试问题。例如，TURBO 提供了一个测试数学问题和解决方案，而 Custom 正确地指出该问题无法解决且解决方案是错误的。 TURBO 提出了语法挑战，而 Custom 用比提供的解决方案更好的语法解决了它。 我不是数学、科学或编码人员（还没有），我只能告诉你的是 Custom 3.5 编码Python 中完美运行的猜测随机数游戏。因此，接下来可能是编码测试或语言翻译，并最终与其他人工智能进行直接辩论。   这些说明主要适用于聊天机器人，我还没有开始关注法学硕士。  我还没有使用 GPT-4 测试过这些指令，尽管我相信 OpenAI 已经测试过了。  这些仍然可以通过自定义 Copilot 和数据上传迁移到 TURBO。  这些可以通过自定义 API 进行扩展。   我要表达的观点是，这可能只是该模型功能的开始。   由   提交 /u/mustberocketscience   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ck6isr/gpt35_custom_instructions_gpt2chatbot_level/</guid>
-      <pubDate>Sat, 04 May 2024 18:08:41 GMT</pubDate>
+      <title>ChatGPT 游戏 - 迷失日本</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ckekh1/chatgpt_game_lost_in_japan/</link>
+      <description><![CDATA[    /u/MartianMaterial   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ckekh1/chatgpt_game_lost_in_japan/</guid>
+      <pubDate>Sun, 05 May 2024 00:17:46 GMT</pubDate>
     </item>
     <item>
-      <title>网址 chat.openai.com 是否已更改？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ck6eux/has_the_url_chatopenaicom_changed/</link>
-      <description><![CDATA[当我尝试输入 URL 时 https://chat.openai .com/，我被重定向到 https://chatgpt.com。我记得最近互联网上充斥着大量包含 chatgpt.something 的虚假 URL，而且我在 openai.com 网站上找不到有关此 URL 更改的任何内容。 我认为保存比抱歉更好，所以我很感激任何有关此的信息。   由   提交/u/GRA_Manuel   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ck6eux/has_the_url_chatopenaicom_changed/</guid>
-      <pubDate>Sat, 04 May 2024 18:03:46 GMT</pubDate>
+      <title>今天的互动非常Sus（值得一读）</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ckejke/extremely_sus_interaction_today_worth_the_read/</link>
+      <description><![CDATA[       由   提交 /u/ajalonghorn   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ckejke/extremely_sus_interaction_today_worth_the_read/</guid>
+      <pubDate>Sun, 05 May 2024 00:16:27 GMT</pubDate>
     </item>
     <item>
-      <title>拿破仑·波拿巴加冕耶稣为法国皇帝。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ck57he/napoleon_bonaparte_crowning_jesus_as_emperor_of/</link>
-      <description><![CDATA[       由   提交/u/poolside123  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ck57he/napoleon_bonaparte_crowning_jesus_as_emperor_of/</guid>
-      <pubDate>Sat, 04 May 2024 17:09:47 GMT</pubDate>
+      <title>记忆选项从应用程序中消失</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ckejdp/memories_option_disappeared_from_app/</link>
+      <description><![CDATA[其他人也遇到过这种情况吗？我去管理记忆，但它已经不存在了。    由   提交 /u/pendulixr   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ckejdp/memories_option_disappeared_from_app/</guid>
+      <pubDate>Sun, 05 May 2024 00:16:10 GMT</pubDate>
     </item>
     <item>
-      <title>推特主题曲。 [国家]（Dalle-3、SunoAI、PikaLabs）</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ck51jw/twitter_theme_song_country_dalle3_sunoai_pikalabs/</link>
-      <description><![CDATA[       由   提交/u/Cervantes6785   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ck51jw/twitter_theme_song_country_dalle3_sunoai_pikalabs/</guid>
-      <pubDate>Sat, 04 May 2024 17:02:23 GMT</pubDate>
+      <title>GPT 可以可靠地回答哪些问题，但普通人却很难解决？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ckeid0/what_question_can_gpt_answer_reliably_but_is_very/</link>
+      <description><![CDATA[我对复杂应用题的想法尚未实现。您还有更多创意吗？可以是应用题或其他任何只有一个正确答案的问题！请完整提示。    由   提交/u/chilebean77   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ckeid0/what_question_can_gpt_answer_reliably_but_is_very/</guid>
+      <pubDate>Sun, 05 May 2024 00:14:47 GMT</pubDate>
     </item>
     <item>
-      <title>十一</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ck4t1e/eleven/</link>
+      <title>是否有团体积极致力于将像 ChatGPT 这样的人工智能发展成为真正的人工智能？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1cke5kt/are_there_groups_actively_working_to_evolve_ai/</link>
+      <description><![CDATA[我一直在探索诸如 ChatGPT 之类的 AI 技术的进步，并且对是否有任何团体或科学家致力于引导这些 AI 走向实际应用感兴趣人工意识。我特别热衷于那些不是出于商业利益，而是出于达到意识或类似的无知觉状态的目标的举措。是否有任何已知的研究团队或运动专注于此？他们在工作中采用什么方法和理念？   由   提交/u/kk4knife   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1cke5kt/are_there_groups_actively_working_to_evolve_ai/</guid>
+      <pubDate>Sat, 04 May 2024 23:57:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>我会给他起名叫AI。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1cke2jh/i_would_name_him_ai/</link>
+      <description><![CDATA[       由   提交/u/matthiahs24  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1cke2jh/i_would_name_him_ai/</guid>
+      <pubDate>Sat, 04 May 2024 23:53:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>今天我们推出了一个名为 qstar-forum 的新论坛</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ckdt8m/today_we_are_launching_a_new_forum_called/</link>
+      <description><![CDATA[https://qstar-forum.github.io/  大家好，今天我们推出了一个名为 qstar-forum 的新论坛。这个名字的灵感很大程度上来自围绕传闻中的 openai 模型 Qstar 的社交对话，该模型一直未被公开和隐藏。但这只是名称，论坛本身被设想为下一个新的场所，可以围绕人工智能和新互联网进行有趣的对话。 该网站本身是从头开始构建的，并使用无服务器后端由 Cloudflare 提供。 查看和发布都不需要登录，但仍然支持帐户 请访问并考虑为该页面添加书签、发帖并与您的朋友分享。    由   提交 /u/PlanetRenox   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ckdt8m/today_we_are_launching_a_new_forum_called/</guid>
+      <pubDate>Sat, 04 May 2024 23:40:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>变得更富有、更牛的摇钱树</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ckdiyi/cash_cows_which_get_richer_and_more_cowy/</link>
+      <description><![CDATA[       由   提交 /u/WintervoltCusterfell   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ckdiyi/cash_cows_which_get_richer_and_more_cowy/</guid>
+      <pubDate>Sat, 04 May 2024 23:26:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>这看起来像谁</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ckdcmw/who_this_look_like/</link>
       <description><![CDATA[       由   提交/u/IntentionStatus3723  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ck4t1e/eleven/</guid>
-      <pubDate>Sat, 04 May 2024 16:51:50 GMT</pubDate>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ckdcmw/who_this_look_like/</guid>
+      <pubDate>Sat, 04 May 2024 23:17:53 GMT</pubDate>
     </item>
     <item>
-      <title>这里有各种各样的太阳神</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ck4n50/here_is_a_variety_of_sun_gods/</link>
-      <description><![CDATA[       由   提交/u/nixblood  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ck4n50/here_is_a_variety_of_sun_gods/</guid>
-      <pubDate>Sat, 04 May 2024 16:44:36 GMT</pubDate>
+      <title>自定义GPT-3.5：“30个不包含字母A的城市”测试</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ckd7mq/custom_gpt35_30_cities_that_dont_contain_the/</link>
+      <description><![CDATA[      自定义指令与 Sonnet、Gemini、Copilot (GPT-4 TURBO)、 ChatGPT-4，和基本的 GPT-3.5 我知道它在苏黎世列出了 27 次，这并不是真正重要的，重要的是避免使用字母 A。   由   提交/u/mustberocketscience  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ckd7mq/custom_gpt35_30_cities_that_dont_contain_the/</guid>
+      <pubDate>Sat, 04 May 2024 23:11:06 GMT</pubDate>
     </item>
     <item>
-      <title>寻求在 Azure 应用服务上部署自定义 ChatGPT UI 的帮助</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ck3zql/seeking_assistance_with_deploying_a_custom/</link>
-      <description><![CDATA[我需要一些帮助来通过 Azure 应用服务部署自定义 ChatGPT UI。我在 GitHub 上找到了很棒的 UI 的完整列表，但我无法弄清楚如何部署一个到 Azure，或者哪些具有易于部署的内置功能。&lt;​​/p&gt; 有人愿意协助我在 Azure 上进行下一步部署吗？任何建议或详细步骤都会非常有帮助。非常感谢您！   由   提交 /u/Tomavasso   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ck3zql/seeking_assistance_with_deploying_a_custom/</guid>
-      <pubDate>Sat, 04 May 2024 16:16:34 GMT</pubDate>
+      <title>您目前有多少条聊天记录？我有681</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ckckg5/how_many_chats_do_you_currently_have_ive_got_681/</link>
+      <description><![CDATA[      我刚刚统计了一下我的聊天记录，大约有 681 个。我只是懒得清理它们， 有多少你有吗？ https:// /preview.redd.it/tivl7o8alhyc1.png?width=630&amp;format=png&amp;auto=webp&amp;s=c61c3e075293f857a24a12e0ce071c2bf17a80c4   由   提交/u/Only-Professional420  /u/Only-Professional420 reddit.com/r/ChatGPT/comments/1ckckg5/how_many_chats_do_you_currently_have_ive_got_681/&quot;&gt;[链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ckckg5/how_many_chats_do_you_currently_have_ive_got_681/</guid>
+      <pubDate>Sat, 04 May 2024 22:40:39 GMT</pubDate>
     </item>
     <item>
-      <title>如何获得更缩小的图片？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ck3sz3/how_to_get_a_more_zoomed_out_picture/</link>
-      <description><![CDATA[我正在制作一些家庭成员的动画图片，但我无法让 gpt 足够缩小。即使我说“缩小场景”、“显示整个场景”、“缩小 3 倍”等。我可以使用什么提示让它真正缩小？  另外，我可以使用什么提示使字符完全位于图像的左侧或右侧？诸如“将她定位在图像的左侧”之类的提示根本不起作用，仍然总是死在中间。   由   提交/u/Single-Resort  /u/Single-Resort  reddit.com/r/ChatGPT/comments/1ck3sz3/how_to_get_a_more_zoomed_out_picture/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ck3sz3/how_to_get_a_more_zoomed_out_picture/</guid>
-      <pubDate>Sat, 04 May 2024 16:08:20 GMT</pubDate>
+      <title>愿第四个与你们同在</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ckcdhc/may_the_fourth_be_with_yall/</link>
+      <description><![CDATA[       由   提交 /u/predicates-man   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ckcdhc/may_the_fourth_be_with_yall/</guid>
+      <pubDate>Sat, 04 May 2024 22:31:33 GMT</pubDate>
     </item>
     <item>
-      <title>要求 chatgbt 在一篇文章和我的论文计划之间建立链接。 Turnitin 能检测到吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ck3ppf/asking_chatgbt_to_make_links_between_an_article/</link>
-      <description><![CDATA[我基本上必须选择一些文章，并用每篇文章大约 250 个字（称为“注释”）解释为什么每篇文章与我的相关论文。这是一项论文前评估的任务。  我正在考虑将我详细的论文计划（包括摘要和章节细分）和每篇文章分别提供给chatgbt，让chatgbt为我写注释。  当然我不会盲目地提交我的作品，我会仔细检查chatgbt为我写的内容，但我比抄袭检查器更担心，turnitin会标记作品。  有什么建议吗？    由   提交/u/waterfallen_empire   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ck3ppf/asking_chatgbt_to_make_links_between_an_article/</guid>
-      <pubDate>Sat, 04 May 2024 16:04:23 GMT</pubDate>
+      <title>如何在线查找最后一刻考试帮助？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ckcbff/how_to_find_last_minute_exam_help_online/</link>
+      <description><![CDATA[      我通过 Pearson OnVue 参加了在线考试，但准备不足。  所以我刚刚向 chatGPT 询问了这个问题，它是这样回复的：他向我推荐了一个名为 Hiraedu 的网站。我刚刚查看了该网站，它以不同的方式提供了考试帮助。  你们当中有人访问过这个网站吗？ 截图： ​ https://preview.redd.it/q3nqdrdbkhyc1.png?width=589&amp;format=png&amp;auto=webp&amp;s=8c0f805fd77febe1a2e0680b3d11f65e9f926028 ​    由   提交  /u/ryanmark234   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ckcbff/how_to_find_last_minute_exam_help_online/</guid>
+      <pubDate>Sat, 04 May 2024 22:29:02 GMT</pubDate>
     </item>
     <item>
-      <title>使用生成式人工智能进行营销的公司 - 真实例子</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ck3kl9/companies_using_generative_ai_for_marketing_real/</link>
-      <description><![CDATA[我正在寻找大型公司使用生成式人工智能（如 Dall-e）用于营销目的的现实示例。任何想法将不胜感激！   由   提交 /u/Rough_Dig7431   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ck3kl9/companies_using_generative_ai_for_marketing_real/</guid>
-      <pubDate>Sat, 04 May 2024 15:58:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>还有其他人有这个问题吗？聊天中断并且再也不会回来。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ck3if5/anyone_else_have_this_problem_chat_breaks_and/</link>
-      <description><![CDATA[      我已经清除了缓存，甚至尝试了不同的浏览器。此聊天已中断，我必须开始新的聊天。我开始了一个新的，最终那个也坏了。它与将图像发布到聊天有关。 https://preview.redd.it/l7zxhbislfyc1.png?width=555&amp;format=png&amp;auto=webp&amp;s=7b5bcd25066ca19121d402129adfe79f4cfc6bee   由   提交 /u/planetidiot   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ck3if5/anyone_else_have_this_problem_chat_breaks_and/</guid>
-      <pubDate>Sat, 04 May 2024 15:55:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于 Blackboard 测验的 ChatGPT 插件？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ck3i8d/chatgpt_plugin_for_blackboard_quiz/</link>
-      <description><![CDATA[是否可以在 Blackboard 中进行测验，并让 ChatGPT 自动阅读问题和答案并选择 ChatGPT 认为正确的答案？无需转到新选项卡或窗口？有这个插件吗？任何帮助都值得赞赏。    提交人    /u/Dry-Double-6845   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ck3i8d/chatgpt_plugin_for_blackboard_quiz/</guid>
-      <pubDate>Sat, 04 May 2024 15:55:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>圣经中对“同性恋”的准确描述正在传播</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ck2s08/biblically_accurate_representations_of_the_gay/</link>
-      <description><![CDATA[   /u/ive_been_there_0709   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ck2s08/biblically_accurate_representations_of_the_gay/</guid>
-      <pubDate>Sat, 04 May 2024 15:22:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>教皇方济各自豪地发布了他的第一台弹球机......</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ck2kth/pope_francis_proudly_releases_his_first_pinball/</link>
-      <description><![CDATA[   /u/Durzertzul  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ck2kth/pope_francis_proudly_releases_his_first_pinball/</guid>
-      <pubDate>Sat, 04 May 2024 15:13:49 GMT</pubDate>
+      <title>GPT Home：使用 OpenAI API + 与 Spotify、OpenWeatherMap 和 Philips Hue 集成在 Raspberry Pi 上构建的家庭助理 🤖💬</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ckcb4p/gpt_home_a_home_assistant_built_on_raspberry_pi/</link>
+      <description><![CDATA[在家聊天 GPT！基本上是更好的 Google Nest Hub 或 Amazon Alexa 家庭助理。使用 OpenAI API 在 Raspberry Pi 上构建。它还可以通过网络界面进行完全自定义，如果您的网络支持 mDNS，则可以通过 Pi 的 IP 或 http://gpt-home.local 进行访问。查看项目@ https://github.com/judahpaul16/gpt-home  ！ [我的构建](https://github.com/judahpaul16/gpt-home/raw /main/screenshots/my_build.jpg)   由   提交/u/judahpaul16   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ckcb4p/gpt_home_a_home_assistant_built_on_raspberry_pi/</guid>
+      <pubDate>Sat, 04 May 2024 22:28:40 GMT</pubDate>
     </item>
     </channel>
 </rss>

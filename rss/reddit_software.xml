@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 04 May 2024 21:10:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 00:47:55 GMT</lastBuildDate>
+    <item>
+      <title>社区花园管理的开源软件</title>
+      <link>https://www.reddit.com/r/software/comments/1ckcxzp/open_source_software_for_community_garden/</link>
+      <description><![CDATA[我是一家运营社区花园的非营利组织的系统管理员。我希望找到某种形式的软件，让我能够管理谁租用了这些地块并跟踪他们的会员级别。  我们确实有 NeonOne 来进行其余的操作，但它不能很好地处理社区花园。  有什么想法吗？   由   提交/u/Kamikazepyro9   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ckcxzp/open_source_software_for_community_garden/</guid>
+      <pubDate>Sat, 04 May 2024 22:58:31 GMT</pubDate>
+    </item>
     <item>
       <title>用于管理多个外部显示器并将窗口快速移动到它们的软件</title>
       <link>https://www.reddit.com/r/software/comments/1ck94er/software_to_manage_several_external_monitors_and/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>提供单向同步的云服务</title>
       <link>https://www.reddit.com/r/software/comments/1ck658c/cloud_service_that_provides_one_way_sync/</link>
-      <description><![CDATA[寻找具有单向同步选项的云，同时最好也具有双向同步选项。    提交人    /u/MachineThatGoesP1ng   [链接] [评论]]]></description>
+      <description><![CDATA[正在寻找具有单向同步选项的云，同时最好也具有双向同步选项。   由   提交 /u/MachineThatGoesP1ng   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ck658c/cloud_service_that_provides_one_way_sync/</guid>
       <pubDate>Sat, 04 May 2024 17:51:40 GMT</pubDate>
     </item>
@@ -76,9 +83,9 @@
       <pubDate>Sat, 04 May 2024 03:54:56 GMT</pubDate>
     </item>
     <item>
-      <title>推荐一款可以直播到 YouTube 的命令行软件</title>
+      <title>推荐可在 YouTube 上进行直播的纯命令行软件</title>
       <link>https://www.reddit.com/r/software/comments/1cjpwyl/recommendation_for_commandline_only_software_that/</link>
-      <description><![CDATA[您好，我来找您询问软件推荐的罕见问题。 我想建立一个 24/ 7 直播至 YouTube。我正在尝试在我的 Raspberry Pi 4 上进行设置。该流将是带有设定图像的音频。然而，我能找到的所有流媒体软件都只能在 GUI 环境中运行。这并不是我真正想做的事情，因为它会导致性能大幅下降。那么，是否有任何软件既可以流式传输到 YouTube，又可以在仅命令行服务器上运行？ 或者是否有其他方法可以进行这样的设置？    由   提交/u/Enderbyte09  [链接] [评论]]]></description>
+      <description><![CDATA[您好，我想向您咨询一个比较少见的软件推荐问题。 我想设置一个 24/7 的 YouTube 直播。我正尝试在我的 Raspberry Pi 4 上进行设置。直播将是带有设置图像的音频。但是，我能找到的所有直播软件都只能在 GUI 环境中运行。这不是我真正想做的事情，因为它会导致性能大幅下降。那么，有没有既可以流式传输到 YouTube 又可以在仅使用命令行的服务器上运行的软件？ 或者还有其他方法可以设置这样的功能？    提交人    /u/Enderbyte09   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cjpwyl/recommendation_for_commandline_only_software_that/</guid>
       <pubDate>Sat, 04 May 2024 02:35:06 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[这种情况有些人可能会比其他人遇到更多。我的系统上主要使用两种语言，它们之间的切换应该如下很简单，就像 alt+shift 一样。然而，有时我需要输入一些与所用字母表不同的其他语言（例如从英语切换到中文和俄语）。偶尔但有些频繁。在 Windows 上保持 4 或 5 种语言处于启用状态，使用 alt+shift 和 shift+win+space 来导航它们有点麻烦，所以我需要一个软件或实用程序，您可以使用它来快速启用/禁用语言，而无需费力转到 Windows 设置，时不时地添加语言及其功能。   由   提交/u/Mahfoudh94  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cjfbn8/quick_enable_disable_languages_on_windows/</guid>
       <pubDate>Fri, 03 May 2024 18:08:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的剪贴板坏了。</title>
-      <link>https://www.reddit.com/r/software/comments/1cje2tn/my_clipboard_is_broken/</link>
-      <description><![CDATA[​ https://preview.redd.it/qw2460wov8yc1.png?width=310&amp;format=png&amp;auto=webp&amp;s=829c64017a24d9bbd5 9f604fe15111aaba7fc8fe&lt; /p&gt;   由   提交/u/DJSharp15  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cje2tn/my_clipboard_is_broken/</guid>
-      <pubDate>Fri, 03 May 2024 17:16:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
