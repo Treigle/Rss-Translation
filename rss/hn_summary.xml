@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 05 May 2024 18:12:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 00:39:20 GMT</lastBuildDate>
     <item>
-      <title>github.com 上的项目为业余爱好者提供人工智能机器人教程，以训练虚拟人类 [...]</title>
-      <link>https://t.me/hn_summary/88039</link>
-      <description><![CDATA[展示 HN：通过强化学习向人形机器人教授足球技巧
-github.com 上的项目提供 AI 机器人教程供爱好者训练虚拟人形/机器人使用强化学习来表演足球技巧。该项目旨在教会用户如何调整训练超参数、优化奖励函数，并在不需要 GPU 的情况下在短短几个小时的训练中获得结果。作者提到，大多数结果可以在几个小时或更短的 GPU 训练内获得，并且在 Kaggle 上免费，每周使用限制为 30 小时。教程涵盖脚技巧、头技巧、罚球和停止，以及即将推出的机器人技巧。]]></description>
-      <guid>https://t.me/hn_summary/88039</guid>
-      <pubDate>Sun, 05 May 2024 18:12:43 GMT</pubDate>
+      <title>在这篇博文中，Nia Alarie 讨论了 NetBSD 上的 X11 状态，强调了 [...]</title>
+      <link>https://t.me/hn_summary/88096</link>
+      <description><![CDATA[NetBSD 上的 X.org – 现状 
+在这篇博文中，Nia Alarie 讨论了 NetBSD 上的 X11 状态，强调了 X.Org 在该平台上的交付方式的差异。这篇文章深入探讨了 NetBSD X 集成的独特方面，包括使用分叉的 xsrc 存储库、基于 BSD makefile 的构建系统以及 xf86-input-ws 等专有驱动程序。这篇文章还涉及 Nvidia 开源图形驱动程序的历史以及 X.Org 上游开发的挑战。此外，它还探讨了 NetBSD 上 X 集成的潜在改进，例如增强客户端程序和解决屏幕锁定程序等缺失的功能。]]></description>
+      <guid>https://t.me/hn_summary/88096</guid>
+      <pubDate>Mon, 06 May 2024 00:39:20 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]脑植入技术对许多人来说已经改变了游戏规则，但是当 [...]</title>
-      <link>https://t.me/hn_summary/88038</link>
-      <description><![CDATA[专家讨论“废弃”脑植入技术的黑暗可能性
-脑植入技术对许多人来说已经改变了游戏规则，但是当该技术被其生产者放弃时会发生什么？最近的一项研究强调了制定指南以防止未来出现此问题的重要性。研究人员强调需要持久的设备、明确的支持指南以及紧急情况下的安全网。他们还讨论了患者因缺乏支持而不得不移除植入物的案例。虽然埃隆·马斯克 (Elon Musk) 的 Neuralink 等进步显示出希望，但确保负责任地使用这些技术至关重要。该研究旨在引发更多讨论和行动，以保护患者并推进这些改变生活的创新。]]></description>
-      <guid>https://t.me/hn_summary/88038</guid>
-      <pubDate>Sun, 05 May 2024 18:11:39 GMT</pubDate>
+      <title>[媒体] 在美国宇航局资助的一项开创性研究中，博士。</title>
+      <link>https://t.me/hn_summary/88095</link>
+      <description><![CDATA[国际空间站上发现的耐药细菌突变后功能不同
+在美国宇航局资助的一项开创性研究中，喷气推进实验室的 Kasthuri Venkateswaran 博士发现，国际空间站上发现的耐药细菌已经发生突变，在基因和功能上都与地球上的细菌不同。这种细菌，布干肠杆菌，能够在空间站的极端环境中适应并繁衍生息，与其他微生物共存，并可能有助于它们的生存。这项研究揭示了国际空间站等封闭的人造环境中的微生物动态，为宇航员的健康和预防措施的制定提供了宝贵的见解。该研究结果发表在《微生物组》杂志上，强调了研究极端环境中微生物的重要性。]]></description>
+      <guid>https://t.me/hn_summary/88095</guid>
+      <pubDate>Mon, 06 May 2024 00:26:12 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] RheEnergise 的创新 HD Hydro 500 kW 演示器将彻底改变能源 [...]</title>
-      <link>https://t.me/hn_summary/88037</link>
-      <description><![CDATA[先进的“高密度无水水力”发电厂获得批准&lt; /a&gt;
-RheEnergise 的创新 HD Hydro 500 kW 演示器将通过其高密度无水水力技术彻底改变能源存储。通过用致密的矿物膏代替水，该系统可以更有效地储存能量，需要更少的流体、基础设施和更低的海拔。这一突破为以前不适合传统水力系统的地区开辟了储能的可能性，仅在英国就有 6,500 个潜在地点。该项目由英国政府的 LoDES 示范计划资助，有潜力改变可再生能源格局，并为全球商业规模项目铺平道路。首席执行官 Stephen Crosher 展望未来，他们的技术将在全球范围内实施，第一个 10MW 电网规模项目将在 2 年内投入运营。]]></description>
-      <guid>https://t.me/hn_summary/88037</guid>
-      <pubDate>Sun, 05 May 2024 18:10:35 GMT</pubDate>
+      <title>[媒体]GitHub 上的“深度强化学习：从零到英雄”项目提供了 [...]</title>
+      <link>https://t.me/hn_summary/88094</link>
+      <description><![CDATA[深度强化学习：从零到英雄
+GitHub 上的“深度强化学习：从零到英雄”项目提供了有关基础和经典深度强化学习算法的实践入门课程。课程结束时，参与者将从头开始实现 DQN、SAC 和 PPO 等算法，并对其背后的理论有较高的了解。该项目的独特之处在于提供了专注于训练人工智能玩雅达利游戏并登陆月球的实践学习体验。环境设置旨在简化学习过程，利用 Miniconda、Poetry 进行依赖管理，并使用 Visual Studio Code 进行编码。参与者可以使用 Jupyter 笔记本进行操作并访问 YouTube 视频以获取更多指导。]]></description>
+      <guid>https://t.me/hn_summary/88094</guid>
+      <pubDate>Sun, 05 May 2024 23:34:55 GMT</pubDate>
     </item>
     <item>
-      <title>Y Combinator 的创始人匹配工具已成为初创企业的强大资源，并取得了成功 [...]</title>
-      <link>https://t.me/hn_summary/88036</link>
-      <description><![CDATA[YC创始人匹配服务帮助医疗记录AI初创公司Hona
-Y Combinator 的创始人匹配工具已成为初创公司的强大资源，拥有医疗记录人工智能初创公司 Hona 等成功案例。联合创始人 Danielle Yoesep 和 Adam Steinle 以及人工智能专家张淑英通过该平台会面并很快达成共识。尽管最初被 YC 拒绝，但他们坚持了下来，筹集了种子轮资金，并最终以 300 万美元的投资从 YC 毕业。 Hona 的可定制医疗记录摘要方法使其在竞争激烈的领域中脱颖而出。张建议有抱负的创始人迈出这一步，尝试与潜在的联合创始人合作，因为合适的人选很快就会显现出来。]]></description>
-      <guid>https://t.me/hn_summary/88036</guid>
-      <pubDate>Sun, 05 May 2024 18:08:01 GMT</pubDate>
+      <title>[媒体]在这篇文章中，加里·马库斯深入探讨了山姆·奥尔特曼说服人们使用的策略 [...]</title>
+      <link>https://t.me/hn_summary/88093</link>
+      <description><![CDATA[萨姆·奥特曼的策略：恐惧、否认不确定性和炒作
+在本文中，加里·马库斯深入探讨了萨姆·奥特曼用来说服世界他的创意和业务可能价值 7 万亿美元的策略。奥特曼依靠猜测、淡化不便的事实，以及兜售愿景和承诺而不是有形产品。他夸大了实现 AGI 的主张，却没有解决该领域的重大挑战。奥特曼的魅力和自信掩盖了他的说法缺乏证据以及与人工智能相关的潜在风险。本文强调了奥特曼的承诺与其公司业绩现实之间的脱节，引发了人们对他的做法对人工智能行业和整个社会的影响的担忧。]]></description>
+      <guid>https://t.me/hn_summary/88093</guid>
+      <pubDate>Sun, 05 May 2024 23:22:18 GMT</pubDate>
     </item>
     <item>
-      <title>xeiaso.net 上的内容讨论了从头开始构建社交网络的过程，sta [...]</title>
-      <link>https://t.me/hn_summary/88035</link>
-      <description><![CDATA[在白板上从头开始构建社交网络&lt; br/&gt;
-xeiaso.net 上的内容讨论了构建社交网络的过程从头开始，从黑客马拉松项目开始，扩展到更大的平台。作者 Xe Iaso 分享了一个关于一家名为 Shashin 的初创公司（类似于 Instagram）的虚构故事。这个故事涵盖了不同的开发阶段，从 AWS 上的小规模实施到处理可扩展性问题以及实施 Valkey 等缓存新技术。作者利用幽默和讲故事来吸引观众，并提供有关构建和扩展社交网络的挑战的见解。 （根据 61% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/88035</guid>
-      <pubDate>Sun, 05 May 2024 18:05:27 GMT</pubDate>
+      <title>在这本关于 React 渲染行为的综合指南中，作者深入研究了复杂的 [...]</title>
+      <link>https://t.me/hn_summary/88092</link>
+      <description><![CDATA[React 渲染行为的基本完整指南（2020）
+在这份 React 渲染行为综合指南中，作者深入研究了 React 如何重新渲染组件的复杂性以及使用 Context 和 React-Redux 的影响。这篇文章涵盖了渲染过程、协调、渲染和提交阶段以及 React 渲染的规则。一个关键要点是渲染并不总是会导致 DOM 发生可见的更改，并且组件可能会在没有任何实际更新的情况下进行渲染。这篇文章还强调了无副作用的纯渲染的重要性。作者提供了宝贵的见解和解释，以帮助读者阐明这些概念。 （根据故事文本的 17% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/88092</guid>
+      <pubDate>Sun, 05 May 2024 22:55:36 GMT</pubDate>
     </item>
     <item>
-      <title>在这篇博文中，我讲述了从使用 Raspberry Pi 3 作为我的家庭服务器开始的旅程 [...]</title>
-      <link>https://t.me/hn_summary/88034</link>
-      <description><![CDATA[我的家庭服务器之旅 - 从 Raspberry Pi 到 Ryzen 
-在这篇博文中，我讲述了我的旅程，从开始为我的家庭服务器使用 Raspberry Pi 3，到最终升级到配备 AMD Ryzen 7 5700G 处理器的更强大的设置。一路上，我面临着 USB 带宽限制、驱动器失效和 BIOS 更新问题等挑战。我讨论了我选择 Jonsbo N2 机箱和 ASROCK B550M-ITX/ac 主板等组件的决策过程。尽管遇到了一些挫折，我的新服务器设置仍然强大、可扩展且面向未来，可以有效地处理各种服务器任务。目前唯一担心的是噪音水平，我计划在未来解决这个问题。]]></description>
-      <guid>https://t.me/hn_summary/88034</guid>
-      <pubDate>Sun, 05 May 2024 18:02:54 GMT</pubDate>
+      <title>[媒体]加州大学洛杉矶分校的研究人员在光学计算技术方面取得了突破，创造了[...]</title>
+      <link>https://t.me/hn_summary/88091</link>
+      <description><![CDATA[基于光的计算的进步展示了未来智能相机的功能
+加州大学洛杉矶分校的研究人员在光学计算技术方面取得了突破，创造了一种在低功率环境光下运行的透明设备。这一进步可以通过减少眩光和提高图像质量来彻底改变智能相机。该器件由 2D 半导体材料制成，可对光进行快速、宽带、非线性响应，可实现除眩光减少之外的各种应用。该团队设想将该技术用于自动驾驶汽车、物体识别、图像加密和装配线缺陷检测。这项创新有可能使高分辨率成像和传感的普及化，使其成为光学计算领域向前迈出的重要一步。]]></description>
+      <guid>https://t.me/hn_summary/88091</guid>
+      <pubDate>Sun, 05 May 2024 22:42:59 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在不断发展的数据基础设施世界中，曾经艰巨的任务现在变得 [...]</title>
-      <link>https://t.me/hn_summary/88033</link>
-      <description><![CDATA[西西弗斯斗争与数据基础设施的新时代 
-在不断发展的数据基础设施世界中，曾经困难的任务现在变得简单且商品化。平台的兴起和明确原因的重要性对于建立持久的数据基础设施业务至关重要。随着数据原语成为功能，平台成为使公司脱颖而出的护城河。关键在于忠于长期愿景，避免可能削弱平台核心价值的干扰。 Databricks、Snowflake、MongoDB 和 Confluence 等公司通过坚持其“为什么”并提供创新的解决方案，成功驾驭了这一局面。数据基础设施的未来在于突破技术界限并构建提供独特价值主张的平台。]]></description>
-      <guid>https://t.me/hn_summary/88033</guid>
-      <pubDate>Sun, 05 May 2024 18:00:20 GMT</pubDate>
+      <title>[媒体]瑞典央行警告称，数字支付方式可能导致现金过时 [...]</title>
+      <link>https://t.me/hn_summary/88090</link>
+      <description><![CDATA[瑞典央行敦促采取行动防止现金过时 
+瑞典央行警告称，数字支付方式可能会导致现金在瑞典变得过时，从而在危机情况下带来潜在问题。尽管该国正在迈向无现金社会，但瑞典央行仍敦促政府采取行动，确保现金仍然是一种可行的支付选择。政府正在考虑采取措施，保​​证现金仍然可以用于购买必需品和服务，特别是对于那些难以使用数字支付的人来说。瑞典央行正在倡导立法支持现金在社会中的使用，强调维持现金作为替代支付方式的重要性。]]></description>
+      <guid>https://t.me/hn_summary/88090</guid>
+      <pubDate>Sun, 05 May 2024 22:40:53 GMT</pubDate>
     </item>
     <item>
-      <title>在 varoa.net 上的文章“没有意义的标识符会更好”中，作者讨论了 [...]</title>
-      <link>https://t.me/hn_summary/88032</link>
-      <description><![CDATA[标识符最好没有意义
-在varoa.net上的文章“标识符最好没有意义”中，作者讨论了使用具有语义值的标识符的挑战和陷阱。他们讲述了Last.fm和Tuenti等公司的经验，当系统需要更新或重组时，有意义的标识符会带来麻烦。作者还探讨了 New Relic 的实体 GUID 虽然很有用，但在域和类型发生变化时可能会出现问题。本文强调了使用无语义标识符的重要性，以避免系统不断发展和组织结构发生变化时出现问题。最后，作者指出了各种情况下语义标识符的示例以及它们可能造成的潜在问题。]]></description>
-      <guid>https://t.me/hn_summary/88032</guid>
-      <pubDate>Sun, 05 May 2024 17:57:46 GMT</pubDate>
+      <title>[媒体] Braun+Design Börse 是庆祝 Braun 标志性设计遗产的年度活动 [...]</title>
+      <link>https://t.me/hn_summary/88089</link>
+      <description><![CDATA[参观一年一度的博朗收藏博览会
+Braun+Design Börse 是一年一度的活动，庆祝 Braun 产品的标志性设计遗产，特别是在 Dieter Rams 领导下创建的产品。该展会吸引了来自世界各地的收藏家，展示了各种博朗复古产品以及其他有影响力品牌的产品。游客可以找到从剃须刀到收音机等各种物品，有些物品根据其状况可以卖到高价。该活动提供了一个独特的机会，可以与志同道合的爱好者联系并发现稀有且有趣的物品。总体而言，该展会是任何设计历史和创新爱好者的必去之地。]]></description>
+      <guid>https://t.me/hn_summary/88089</guid>
+      <pubDate>Sun, 05 May 2024 22:32:45 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Wanderer 是一个开源轨迹数据库，允许用户上传和管理他们的 [...]</title>
-      <link>https://t.me/hn_summary/88031</link>
-      <description><![CDATA[显示 HN：Wanderer – 开源轨迹数据库
-Wanderer 是一个开源轨迹数据库，允许用户上传和管理他们的 GPS 数据、规划新路线以及与其他人共享轨迹。它提供了广泛的地图集成、高级搜索功能以及为组织创建自定义列表的能力。该项目可以使用 docker compose 快速安装，并提供在裸机上运行该项目的详细文档。 Wanderer 通过提供用于步道管理和探索的自托管解决方案而脱颖而出。欢迎贡献，包括路线图中概述的翻译和功能建议。该项目已根据 AGPLv3 许可证获得许可。]]></description>
-      <guid>https://t.me/hn_summary/88031</guid>
-      <pubDate>Sun, 05 May 2024 17:55:42 GMT</pubDate>
+      <title>[媒体] 为什么 Alt+F4 是关闭窗口的热键？</title>
+      <link>https://t.me/hn_summary/88088</link>
+      <description><![CDATA[为什么 Alt+F4 是关闭窗口的热键？为什么不是 Alt+F5 或 Alt+F3？
+在 devblogs.microsoft.com，为什么Alt+F4是关闭窗口的热键之谜终于揭晓了。令人惊讶的是，事实证明 F4 只是 CUA 建立的热键序列中的下一个可用键。虽然考虑了 F5 和 F3 等其他功能键，但 F4 最终胜出。原始 IBM PC 键盘上功能键的历史揭示了为什么 F11 和 F12 被跳过。这个富有洞察力的解释揭示了常用的热键及其放置背后的原因。]]></description>
+      <guid>https://t.me/hn_summary/88088</guid>
+      <pubDate>Sun, 05 May 2024 22:28:08 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]迪克·鲁坦 (Dick Rutan)，越南战争功勋飞行员和历史性环球飞行的副驾驶 [...]</title>
-      <link>https://t.me/hn_summary/88030</link>
-      <description><![CDATA[迪克·鲁坦 (Dick Rutan)，历史性环球飞行的副驾驶，去世，享年85岁
-迪克·鲁坦 (Dick Rutan) 是越南战争中获得勋章的飞行员，也是历史性的不经停、不加油的环球飞行的副驾驶，于 85 岁时去世。鲁坦以其平稳的飞行风格和乐观精神而闻名，他的冒险精神引导他创造记录并实现航空史上的里程碑。尽管在航行者号飞机的测试过程中面临机械故障和挑战，鲁坦对飞行的决心和热情从未动摇。他在航空领域的遗产，从战斗任务到测试飞机，都在航空业留下了不可磨灭的印记。鲁坦在生命最后时刻的勇气和幽默反映了他传奇般的个性。]]></description>
-      <guid>https://t.me/hn_summary/88030</guid>
-      <pubDate>Sun, 05 May 2024 17:54:38 GMT</pubDate>
+      <title>[媒体]在一个极度喝咖啡的家庭中长大，我一直与[...]</title>
+      <link>https://t.me/hn_summary/88087</link>
+      <description><![CDATA[咖啡成了笑话
+我在一个极度喝咖啡的家庭中长大，一直与这种饮料有着深厚的联系。然而，我沮丧地看着咖啡变成了一个笑话，尤其是星巴克。这种曾经严肃的饮料已经变成了一种嘲讽的来源，其中出现了诸如南瓜香料拿铁和奥利托等可笑的混合物。星巴克已经脱离了咖啡的本质，转而专注于价格过高的含糖零食。作为一个真正的咖啡爱好者，我拒绝喝这些有商标的饮料，而是选择一杯热黑咖啡。和我一起恢复咖啡的严肃性，抵制影响力文化的轻浮。]]></description>
+      <guid>https://t.me/hn_summary/88087</guid>
+      <pubDate>Sun, 05 May 2024 22:25:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
