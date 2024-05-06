@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 06 May 2024 00:46:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 03:13:09 GMT</lastBuildDate>
     <item>
       <title>开源许可证的建议</title>
       <link>https://www.reddit.com/r/opensource/comments/1cl3eiy/advice_for_an_opensource_license/</link>
@@ -27,7 +27,7 @@
       <pubDate>Sun, 05 May 2024 13:58:34 GMT</pubDate>
     </item>
     <item>
-      <title>OSS Weather：适用于 iOS/Android 的开源天气应用</title>
+      <title>OSS Weather：适用于 iOS/Android 的开源天气应用程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1ckqizw/oss_weather_an_open_source_weather_app_for/</link>
       <description><![CDATA[iOS 应用程序：https： //apps.apple.com/fr/app/oss-weather/id1499117252 Android 应用：https://play.google.com/store/apps/details?id=com.akylas.weather  源代码：https://github.com/Akylas/oss-weather    由   提交 /u/Spirited-Pause   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ckqizw/oss_weather_an_open_source_weather_app_for/</guid>
@@ -43,7 +43,7 @@
     <item>
       <title>在 Django 和 Headless CMS 之间进行网站开发选择：寻求建议</title>
       <link>https://www.reddit.com/r/opensource/comments/1cke5ly/choosing_between_django_and_headless_cms_for/</link>
-      <description><![CDATA[嘿r/opensource， 我一直在深入研究我正在为一家酒店业主开发的网站项目的决策过程。他们热衷于拥有一个强大的管理界面来管理网站的各个方面，包括图库、博客、活动、电子邮件和付款。虽然我已经做了相当多的研究，但我仍然在纠结是使用 Django 强大的管理功能还是探索使用开源无头 CMS（如 Strapi 或 Payload）来简化内容管理和集成的可能性。 Next.js 前端。 尽管我付出了努力，但我发现自己有点进退两难。这是我可以利用您的专业知识的地方：  开发复杂性：根据您的经验，在 Django 中构建所有内容与将无头 CMS 与Next.js 前端？ 管理界面：与 Django Admin 相比，Strapi 或 Payload 等开源无头 CMS 平台提供的管理界面用户友好性和可定制性如何？&lt; /li&gt; 性能和可扩展性：在为此项目选择 Django 和无头 CMS 时，我应该牢记任何性能或可扩展性注意事项吗？ 成本和部署：哪些开源无头 CMS 选项允许自托管，无需额外的部署成本？这些 CMS 的部署过程与部署 Django 应用程序相比如何？ 客户满意度：根据您的经验，与 Django Admin 提供的管理界面相比，客户对 Django Admin 提供的管理界面的满意度如何？开源无头 CMS 平台在易用性和功能方面的优势？  尽管我进行了研究，但我仍然发现自己在权衡利弊。您根据自己的经验提出的见解、建议或最佳实践将对指导我做出决定非常有帮助。 提前感谢您的帮助！   由   提交/u/Noor_Slimane_9999   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，r/opensource， 我正在为一家酒店老板做网站项目，研究其决策过程。他们希望拥有一个强大的管理界面来管理网站的各个方面，包括画廊、博客、活动、电子邮件和付款。虽然我已经做了大量的研究，但我仍在犹豫是使用 Django 的强大管理功能，还是探索使用开源无头 CMS（如 Strapi 或 Payload）来简化内容管理和与 Next.js 前端集成的可能性。 尽管我付出了很多努力，但我还是陷入了困境。以下是我可以使用您的专业知识的地方：  开发复杂性：根据您的经验，在 Django 中构建所有内容与将无头 CMS 与 Next.js 前端集成之间的开发复杂性如何？ 管理界面：与 Django Admin 相比，Strapi 或 Payload 等开源无头 CMS 平台提供的管理界面的用户友好性和可定制性如何？ 性能和可扩展性：在为该项目在 Django 和无头 CMS 之间进行选择时，我是否应该牢记任何性能或可扩展性注意事项？ 成本和部署：哪些开源无头 CMS 选项允许自托管而无需额外的部署成本？与部署 Django 应用程序相比，这些 CMS 的部署流程如何？ 客户满意度：根据您的经验，就易用性和功能性而言，客户对 Django Admin 提供的管理界面与开源无头 CMS 平台提供的管理界面的满意度如何？  尽管我做了大量研究，但我仍然在权衡利弊。您根据经验提出的见解、建议或最佳实践将对我做出决定大有裨益。 提前感谢您的帮助！    提交人    /u/Noor_Slimane_9999   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cke5ly/choosing_between_django_and_headless_cms_for/</guid>
       <pubDate>Sat, 04 May 2024 23:57:49 GMT</pubDate>
     </item>
@@ -64,7 +64,7 @@
     <item>
       <title>一国对数字主权的追求</title>
       <link>https://www.reddit.com/r/opensource/comments/1cji5c8/one_states_quest_for_digital_sovereignty/</link>
-      <description><![CDATA[ 由   提交/u/pmz   [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/pmz  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cji5c8/one_states_quest_for_digital_sovereignty/</guid>
       <pubDate>Fri, 03 May 2024 20:25:35 GMT</pubDate>
     </item>
