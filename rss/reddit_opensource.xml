@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 07 May 2024 06:15:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 09:13:02 GMT</lastBuildDate>
+    <item>
+      <title>正在寻找适用于 Windows 的 FOSS Gallery 来组织照片和视频？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cm6jyi/looking_for_a_foss_gallery_for_windows_to/</link>
+      <description><![CDATA[有谁知道一些 FOSS Windows 软件，允许我选择一个特定的文件夹，然后自动加载该文件夹和子文件夹中的所有图像和视频。图像和视频应按日期组织，我希望有一个搜索选项，能够按日期和图像名称进行搜索。 此外，如果它内置地图，显示地图上每幅图像的位置，那就太好了。 我不是在寻找像 Immich、Home Gallery 或类似的东西这样的自托管解决方案，所以不推荐在 Docker 上运行的东西。我需要的只是一个 Windows 软件，一个我可以安装并完成工作的 .exe 文件。 我找到了一款名为 Darktable 的软件，它可以完成我正在寻找的这些事情，但它的主要功能不是像 Gallery 应用程序那样工作，而且它不适用于视频，只适用于照片。它有太多选项，很混乱，而且看起来真的很丑，已经过时了。 任何建议或意见都将不胜感激！提前致谢。    提交人    /u/Cyber​​Sweeper   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cm6jyi/looking_for_a_foss_gallery_for_windows_to/</guid>
+      <pubDate>Tue, 07 May 2024 08:01:43 GMT</pubDate>
+    </item>
     <item>
       <title>精简 Android 操作系统</title>
       <link>https://www.reddit.com/r/opensource/comments/1cm1nwk/stripped_down_android_operating_system/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>开源学校作业</title>
       <link>https://www.reddit.com/r/opensource/comments/1cljvkg/open_source_school_assignment/</link>
-      <description><![CDATA[亲爱的 Reddit 朋友们， 我将通过一项作业来结束我的 IT 学习第一年，以便为以下项目做出贡献一个开源项目。 它可以是你能想到的任何东西，但请记住我只使用过以下语言：  html php css Java kotlin &gt;  有人有建议或想法吗？它需要在一周内完成，我倾向于承担对我来说很大的项目:) 很高兴听到你的想法   由   提交 /u/Lumpy_Hawk2410   [链接] [评论]]]></description>
+      <description><![CDATA[亲爱的 Reddit 朋友们， 我即将结束我第一年的 IT 学习，我的任务是为一个开源项目做出贡献。 它可以是任何你能想到的东西，但请记住，我只使用过以下语言：  html php css Java kotlin  有人有什么建议或想法吗？它需要在一周内完成，我倾向于承担对我来说太大的项目：) 很高兴收到您的想法    提交人    /u/Lumpy_Hawk2410   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cljvkg/open_source_school_assignment/</guid>
       <pubDate>Mon, 06 May 2024 14:04:41 GMT</pubDate>
     </item>
@@ -55,7 +62,7 @@
       <pubDate>Mon, 06 May 2024 06:33:02 GMT</pubDate>
     </item>
     <item>
-      <title>关于开源许可证的建议</title>
+      <title>开源许可证的建议</title>
       <link>https://www.reddit.com/r/opensource/comments/1cl3eiy/advice_for_an_opensource_license/</link>
       <description><![CDATA[嘿，我在 GitHub 上有一个开源项目，我正在开始，希望有很多人使用/贡献 - 祝我好运。但我不清楚使用哪个许可证。不使用 MIT 许可证的原因是什么？我应该考虑更好的选择吗？我对许可不太熟悉，需要一些帮助来做出决定。感谢您的帮助。 编辑以防万一，主应用程序是用 SwiftUI 编写的，后端服务器是用 Rust 编写的。  &amp; #32；由   提交 /u/Admirable_Proxy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cl3eiy/advice_for_an_opensource_license/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[一个人无法完成数百件事情，一个人必须能够拖放？    由   提交/u/savant78  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ck1bme/ive_been_using_an_open_source_software_called/</guid>
       <pubDate>Sat, 04 May 2024 14:16:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>公共文档 OSS</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cjy4f7/oss_for_public_documentation/</link>
-      <description><![CDATA[我们一直在使用大纲/大纲，但它主要集中在内部文档上。目前向我们的客户共享公共链接时使用的是 PITA。 ​ 我们正在寻找非常相似的 OSS 来帮助解决此问题，并且可能是基于 Next 构建的。 JS  而且我们没有时间构建静态 NextJS 网站来提供文档，因为团队规模较小，而且文档主要由非技术人员编写。   由   提交/u/piyushsingariya  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cjy4f7/oss_for_public_documentation/</guid>
-      <pubDate>Sat, 04 May 2024 11:28:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
