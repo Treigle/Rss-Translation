@@ -4,13 +4,13 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 07 May 2024 00:45:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 03:13:35 GMT</lastBuildDate>
     <item>
-      <title>做坏事'</title>
-      <link>https://www.reddit.com/r/opensource/comments/1clxnjf/doin_bad/</link>
-      <description><![CDATA[    &gt;  Heelllpppp    由   提交 /u/youaretimeeddd   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1clxnjf/doin_bad/</guid>
-      <pubDate>Mon, 06 May 2024 23:39:00 GMT</pubDate>
+      <title>精简版安卓操作系统</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cm1nwk/stripped_down_android_operating_system/</link>
+      <description><![CDATA[有人知道有什么好的、精简的 Android 操作系统吗？我有一个较旧的 Android（2016），只是想要一个在较旧的硬件上运行更轻的操作系统，如果有帮助的话，我将把它用作哑电话。   由   提交 /u/die4tek   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cm1nwk/stripped_down_android_operating_system/</guid>
+      <pubDate>Tue, 07 May 2024 02:55:37 GMT</pubDate>
     </item>
     <item>
       <title>lu5,用于创意编码的Lua解释器,下载lu5的源码_GitHub_帮酷</title>
@@ -29,7 +29,7 @@
     <item>
       <title>开源 Discord 机器人</title>
       <link>https://www.reddit.com/r/opensource/comments/1clnux2/open_source_discord_bot/</link>
-      <description><![CDATA[嗨， 我想介绍一个有趣的小不和谐机器人，它使用开放式 AI API，因为它意味着与用户。它具有一套正在发展的调节能力，但让它脱颖而出的是发展完整角色或个性的能力。  机器人可以真正改变服务器中每个频道的个性，并且它们可以像您想要的那样丰富和多样化。虽然人工智能市场的许多其他领域都专注于数据、统计和分析，但我想更多地关注人工智能中人类状况的异想天开的一面，即为人们创造一个有趣的互动环境。 请查看该项目并给我留下一些反馈。如果您觉得值得，请考虑留下一颗星星，也许可以赞助它。  谢谢。 开源不和谐机器人   由   提交/u/RobertD3277   [链接] [评论]]]></description>
+      <description><![CDATA[嗨， 我想介绍一个有趣的小型 discord 机器人，它使用开放的 AI API 与用户进行交流。它具有一套正在开发的审核功能，但真正让它脱颖而出的是开发完整角色或个性的能力。 该机器人实际上可以改变服务器中每个频道的个性，而且它们可以像您希望的那样丰富和多样化。虽然 AI 市场的许多其他领域都专注于数据、统计数据和分析，但我想在为人们创造一个有趣的互动环境方面，更多地关注 AI 中人类状况的异想天开的一面。 请查看该项目并给我留下一些反馈。如果您觉得值得，请考虑留下一颗星，也许可以赞助它。  谢谢。 开源 discord 机器人    由   提交  /u/RobertD3277   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1clnux2/open_source_discord_bot/</guid>
       <pubDate>Mon, 06 May 2024 16:49:40 GMT</pubDate>
     </item>
@@ -43,7 +43,7 @@
     <item>
       <title>开源学校作业</title>
       <link>https://www.reddit.com/r/opensource/comments/1cljvkg/open_source_school_assignment/</link>
-      <description><![CDATA[亲爱的 Reddit 朋友们， 我将通过一项作业来结束我的 IT 学习第一年，以便为以下项目做出贡献一个开源项目。 它可以是你能想到的任何东西，但请记住我只使用过以下语言：  html php css Java kotlin &gt;  有人有建议或想法吗？它需要在一周内完成，我倾向于承担对我来说很大的项目:) 很高兴听到你的想法   由   提交 /u/Lumpy_Hawk2410   [链接] [评论]]]></description>
+      <description><![CDATA[亲爱的 Reddit 朋友们， 我即将结束我第一年的 IT 学习，我的任务是为一个开源项目做出贡献。 它可以是任何你能想到的东西，但请记住，我只使用过以下语言：  html php css Java kotlin  有人有什么建议或想法吗？它需要在一周内完成，我倾向于承担对我来说太大的项目：) 很高兴收到您的想法    提交人    /u/Lumpy_Hawk2410   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cljvkg/open_source_school_assignment/</guid>
       <pubDate>Mon, 06 May 2024 14:04:41 GMT</pubDate>
     </item>
@@ -64,7 +64,7 @@
     <item>
       <title>开源 Android 应用程序 - 如何双重检查？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ckvi5n/open_source_android_app_how_to_double_check/</link>
-      <description><![CDATA[是否有推荐的应用程序或移动网站可用于验证您要下载的开源应用程序是否合法？我通常从 FDroid 获取我的，所以我确信它们没问题，但我希望能够了解要查找的内容和/或在整个过程中添加另一项检查的工具。 此外，什么是很好的应用程序（最好是免费的），我可以学习 Android 编码。谢谢！    由   提交/u/DameWasistlos  [链接] [评论]]]></description>
+      <description><![CDATA[是否有推荐的应用程序或移动网站可用于验证您要下载的开源应用程序是否合法？我通常从 FDroid 获得我的，所以我确信它们没问题，但我希望能够了解要查找的内容和/或在整个过程中添加另一个检查的工具。 此外，什么是很好的应用程序（最好是免费的），我可以学习 Android 编码。谢谢！    由   提交/u/DameWasistlos  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ckvi5n/open_source_android_app_how_to_double_check/</guid>
       <pubDate>Sun, 05 May 2024 16:44:57 GMT</pubDate>
     </item>
@@ -76,7 +76,7 @@
       <pubDate>Sun, 05 May 2024 13:58:34 GMT</pubDate>
     </item>
     <item>
-      <title>OSS Weather：适用于 iOS/Android 的开源天气应用</title>
+      <title>OSS Weather：适用于 iOS/Android 的开源天气应用程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1ckqizw/oss_weather_an_open_source_weather_app_for/</link>
       <description><![CDATA[iOS 应用程序：https： //apps.apple.com/fr/app/oss-weather/id1499117252 Android 应用：https://play.google.com/store/apps/details?id=com.akylas.weather  源代码：https://github.com/Akylas/oss-weather    由   提交 /u/Spirited-Pause   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ckqizw/oss_weather_an_open_source_weather_app_for/</guid>
@@ -90,9 +90,9 @@
       <pubDate>Sun, 05 May 2024 09:46:49 GMT</pubDate>
     </item>
     <item>
-      <title>在 Django 和 Headless CMS 之间进行网站开发的选择：寻求建议</title>
+      <title>在 Django 和 Headless CMS 之间进行网站开发选择：寻求建议</title>
       <link>https://www.reddit.com/r/opensource/comments/1cke5ly/choosing_between_django_and_headless_cms_for/</link>
-      <description><![CDATA[嘿r/opensource， 我一直在深入研究我正在为一家酒店业主开发的网站项目的决策过程。他们热衷于拥有一个强大的管理界面来管理网站的各个方面，包括图库、博客、活动、电子邮件和付款。虽然我已经做了相当多的研究，但我仍然在纠结是使用 Django 强大的管理功能还是探索使用开源无头 CMS（如 Strapi 或 Payload）来简化内容管理和集成的可能性。 Next.js 前端。 尽管我付出了努力，但我发现自己有点进退两难。这是我可以利用您的专业知识的地方：  开发复杂性：根据您的经验，在 Django 中构建所有内容与将无头 CMS 与Next.js 前端？ 管理界面：与 Django Admin 相比，Strapi 或 Payload 等开源无头 CMS 平台提供的管理界面用户友好性和可定制性如何？&lt; /li&gt; 性能和可扩展性：在为此项目选择 Django 和无头 CMS 时，我应该牢记任何性能或可扩展性注意事项吗？ 成本和部署：哪些开源无头 CMS 选项允许自托管，无需额外的部署成本？这些 CMS 的部署过程与部署 Django 应用程序相比如何？ 客户满意度：根据您的经验，与 Django Admin 提供的管理界面相比，客户对 Django Admin 提供的管理界面的满意度如何？开源无头 CMS 平台在易用性和功能方面的优势？  尽管我进行了研究，但我仍然发现自己在权衡利弊。您根据自己的经验提出的见解、建议或最佳实践将对指导我做出决定非常有帮助。 提前感谢您的帮助！   由   提交/u/Noor_Slimane_9999   [链接] [评论]]]></description>
+      <description><![CDATA[嘿r/opensource， 我一直在深入研究我正在为一家酒店业主开发的网站项目的决策过程。他们热衷于拥有一个强大的管理界面来管理网站的各个方面，包括图库、博客、活动、电子邮件和付款。虽然我已经做了相当多的研究，但我仍然在纠结是使用 Django 强大的管理功能还是探索使用开源无头 CMS（如 Strapi 或 Payload）来简化内容管理和集成的可能性。 Next.js 前端。 尽管我付出了努力，但我发现自己有点进退两难。这是我可以利用您的专业知识的地方：  开发复杂性：根据您的经验，在 Django 中构建所有内容与将无头 CMS 与Next.js 前端？ 管理界面：与 Django Admin 相比，Strapi 或 Payload 等开源无头 CMS 平台提供的管理界面用户友好性和可定制性如何？&lt; /li&gt; 性能和可扩展性：在为此项目选择 Django 和无头 CMS 时，我应该牢记任何性能或可扩展性注意事项吗？ 成本和部署：哪些开源无头 CMS 选项允许自托管，无需额外的部署成本？这些 CMS 的部署过程与部署 Django 应用程序相比如何？ 客户满意度：根据您的经验，与 Django Admin 提供的管理界面相比，客户对 Django Admin 提供的管理界面的满意度如何？开源无头 CMS 平台在易用性和功能方面的优势？  尽管我进行了研究，但我仍然发现自己在权衡利弊。您根据自己的经验提出的见解、建议或最佳实践将对指导我做出决定非常有帮助。 预先感谢您的帮助！   由   提交/u/Noor_Slimane_9999   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cke5ly/choosing_between_django_and_headless_cms_for/</guid>
       <pubDate>Sat, 04 May 2024 23:57:49 GMT</pubDate>
     </item>
