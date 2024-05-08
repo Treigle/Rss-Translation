@@ -3,19 +3,26 @@
   <channel>
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
-    <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Wed, 08 May 2024 18:13:31 GMT</lastBuildDate>
+    <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感到好奇？别再找了！我们充满活力的 Reddit 社区是像您这样的爱好者的理想中心。作为我们社区的一员，您将获得丰富的资源，包括：🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。🌟 对最新进展和行业新闻的独家见解</description>
+    <lastBuildDate>Wed, 08 May 2024 21:11:48 GMT</lastBuildDate>
+    <item>
+      <title>Mac 应用程序和 Chrome 扩展自动化</title>
+      <link>https://www.reddit.com/r/automation/comments/1cnblmy/mac_app_chrome_extension_automation/</link>
+      <description><![CDATA[我使用的两个生产力工具是： Break Timer - Mac 应用程序，让我每 30 分钟休息 60 秒 &lt; /p&gt; unhook - 阻止 YouTube 推荐源的 Chrome 扩展  我发现自己禁用了这些“阻止程序”晚上忘记重新启用它们。 有没有办法可靠地每天午夜重新启用它们？我还没有尝试使用录制的宏来完成此操作，但担心扩展或菜单栏中的任何位置更改都会破坏自动化。  谢谢！   由   提交 /u/armadaskis1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1cnblmy/mac_app_chrome_extension_automation/</guid>
+      <pubDate>Wed, 08 May 2024 18:24:52 GMT</pubDate>
+    </item>
     <item>
       <title>如何让 AI 融入您的用户（Next.js、OpenAI、CopilotKit）</title>
       <link>https://www.reddit.com/r/automation/comments/1cn72dp/how_to_have_ai_onboard_your_users_nextjs_openai/</link>
-      <description><![CDATA[        由    /u/High_Sleep3694  提交  [链接] [评论] ]]></description>
+      <description><![CDATA[       由   提交/u/High_Sleep3694   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cn72dp/how_to_have_ai_onboard_your_users_nextjs_openai/</guid>
       <pubDate>Wed, 08 May 2024 15:15:18 GMT</pubDate>
     </item>
     <item>
       <title>每日 PDF 下载</title>
       <link>https://www.reddit.com/r/automation/comments/1cmdcww/pdf_download_daily/</link>
-      <description><![CDATA[有一个每天下午 6 点更新 PDF 的网址。有没有办法自动下载该 PDF 并通过某种更改列表运行它，该列表显示与前一天相比对 PDF 所做的更改。 我使用的是 MAC 系统。谢谢！   由   提交 /u/ShoddyNegotiation343   [链接] [评论]]]></description>
+      <description><![CDATA[有一个网址每天下午 6 点更新 PDF。有没有办法自动下载该 PDF 并通过某种更改列表运行它，该列表显示与前一天相比对 PDF 所做的更改。 我正在使用 MAC 系统。谢谢！    提交人    /u/ShoddyNegotiation343   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cmdcww/pdf_download_daily/</guid>
       <pubDate>Tue, 07 May 2024 14:33:06 GMT</pubDate>
     </item>
@@ -69,14 +76,14 @@
       <pubDate>Thu, 02 May 2024 12:47:22 GMT</pubDate>
     </item>
     <item>
-      <title>2024 年人工智能开发者路线图</title>
+      <title>2024 年 AI 开发者路线图</title>
       <link>https://www.reddit.com/r/automation/comments/1ciblqg/the_2024_ai_developer_roadmap/</link>
       <description><![CDATA[       由   提交/u/High_Sleep3694   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1ciblqg/the_2024_ai_developer_roadmap/</guid>
       <pubDate>Thu, 02 May 2024 09:48:08 GMT</pubDate>
     </item>
     <item>
-      <title>伦敦交通局的这项 AI 实验揭示了如何在不建造任何新设施的情况下增加地铁站的容量</title>
+      <title>这个伦敦交通局人工智能实验揭示了如何在不建造任何新东西的情况下增加地铁站的容量</title>
       <link>https://www.reddit.com/r/automation/comments/1chy8lv/this_tfl_ai_experiment_reveals_how_tube_station/</link>
       <description><![CDATA[   /u/Psythor  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1chy8lv/this_tfl_ai_experiment_reveals_how_tube_station/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[我迫切需要一些教程来帮助我开始自动化办公任务   由   提交/u/DepthInternational78  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1ch60s3/can_someone_recommend_any_specific_tutorials_for/</guid>
       <pubDate>Tue, 30 Apr 2024 22:35:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Allen Bradley PLC 软件</title>
-      <link>https://www.reddit.com/r/automation/comments/1ch4f5x/allen_bradley_plc_software/</link>
-      <description><![CDATA[我和一位同事最近各购买了一台 Allen Bradley PLC。我们都想尝试自己动手学习编程，但没有 1000 美元花在软件上。有任何兼容的免费替代品吗？   由   提交 /u/Fearless-Zebra-2543   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ch4f5x/allen_bradley_plc_software/</guid>
-      <pubDate>Tue, 30 Apr 2024 21:30:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
