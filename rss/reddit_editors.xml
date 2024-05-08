@@ -3,8 +3,8 @@
   <channel>
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
-    <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Wed, 08 May 2024 12:19:13 GMT</lastBuildDate>
+    <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
+    <lastBuildDate>Wed, 08 May 2024 15:10:48 GMT</lastBuildDate>
     <item>
       <title>预生产阶段</title>
       <link>https://www.reddit.com/r/editors/comments/1cn2uqs/pre_production_phase/</link>
@@ -55,7 +55,7 @@
       <pubDate>Wed, 08 May 2024 03:56:10 GMT</pubDate>
     </item>
     <item>
-      <title>从迷你拖车开始，拖车有什么用处？</title>
+      <title>以迷你拖车开头的拖车有什么关系？</title>
       <link>https://www.reddit.com/r/editors/comments/1cmrbdq/whats_the_deal_with_trailers_starting_with_a_mini/</link>
       <description><![CDATA[我越来越多地看到带有一点迷你预告片在开头，有时附有文字“预告片立即开始”。 我和我认识的任何人都没有被要求在我的国家做这样的事情，但这有什么关系？ 我个人发现，在观看实际预告片之前，这会让我迷失方向。   由   提交 /u/vedhavet   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cmrbdq/whats_the_deal_with_trailers_starting_with_a_mini/</guid>
@@ -71,7 +71,7 @@
     <item>
       <title>使用 MacBook m1 pro 卸载威尼斯镜头</title>
       <link>https://www.reddit.com/r/editors/comments/1cmoa7z/offloading_venice_footage_with_macbook_m1_pro/</link>
-      <description><![CDATA[大家好，我有一项数据整理工作，需要在我的 Macbook Pro M1 Pro 上卸载 Venice 1 素材。我正在运行较旧的 mac OS Monterey。我听说片场存在这样的问题：在新的 Mac 操作系统上卸载到 SSD 时，Venice 1 可能会损坏文件。想知道是否有人以前听说过这个，如果有的话有什么解决方案。感谢任何见解/建议，谢谢。 Mac 规格：macOS Monterey 12.2.1、apple m1 pro、16GB 内存。  仅供参考，我们将使用 Sony Venice 6k、X-OCN LT、23.98、1.85 取景、ISO 基准 (500) 进行拍摄  &amp; #32；由   提交 /u/SunnyInRealLife   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我有一项数据整理工作，需要在我的 Macbook Pro M1 Pro 上卸载 Venice 1 素材。我正在运行较旧的 mac OS Monterey。我听说片场存在这样的问题：在新的 Mac 操作系统上从 mag 卸载到外部驱动器时，Venice 1 可能会损坏文件。想知道是否有人以前听说过这个，如果有的话有什么解决方案。感谢任何见解/建议，谢谢。 Mac 规格：macOS Monterey 12.2.1、apple m1 pro、16GB 内存。  仅供参考，我们将使用 Sony Venice 6k、X-OCN LT、23.98、1.85 取景、ISO 基准 (500) 进行拍摄  &amp; #32；由   提交 /u/SunnyInRealLife   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cmoa7z/offloading_venice_footage_with_macbook_m1_pro/</guid>
       <pubDate>Tue, 07 May 2024 22:11:09 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>Premiere Export - 黑色为 0 mV？</title>
       <link>https://www.reddit.com/r/editors/comments/1cm7rot/premiere_export_black_at_0_mv/</link>
-      <description><![CDATA[大家好， 我刚刚向一家电视台投递了一个短广告，质量控制部门禁止播放该视频，称“黑色电平不是 0 mV，而是 -20 mV！” 我从事剪辑工作 8 年了，从未听说过这个。他们指的是什么？我需要使用哪些导出设置来纠正这个问题？ 谢谢！    提交人    /u/IgnorantSmartAss   [link] [评论]]]></description>
+      <description><![CDATA[您好， 我刚刚向一家电视台投放了一个简短的广告，质量控制部门禁止播放该视频，内容是“黑电平不是 0 mV，而是 -20 mV！” 我已经编辑了 8 年，从来没有听说过这个。他们指的是什么？我需要哪些导出设置来纠正此问题？ 谢谢！   由   提交 /u/IgnorantSmartAss   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cm7rot/premiere_export_black_at_0_mv/</guid>
       <pubDate>Tue, 07 May 2024 09:30:09 GMT</pubDate>
     </item>
