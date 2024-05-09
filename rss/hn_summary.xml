@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 09 May 2024 15:02:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 21:05:39 GMT</lastBuildDate>
     <item>
-      <title>[媒体]微软关闭四个游戏工作室的决定引起了人们的关注，尤其是[...]</title>
-      <link>https://t.me/hn_summary/88730</link>
-      <description><![CDATA[微软在关闭工作室的第二天表示需要像 Hi-Fi Rush 这样的游戏
-微软决定关闭其四家游戏工作室的决定引起了人们的关注，尤其是考虑到 Tango Gameworks 的小型热门游戏 Hi-Fi Rush 的成功。这款节奏动作游戏因其创新和魅力而受到称赞，赢得了多个奖项并吸引了大量玩家。尽管取得了这样的成功，但微软对像 Hi-Fi Rush 这样规模较小、独特的游戏的关注似乎与他们最近关闭工作室的行为相矛盾。业界对这类游戏的兴趣显而易见，其他独立开发的游戏也取得了可观的销量。Tango Gameworks 在关闭之前甚至还在推销 Hi-Fi Rush 的续集，这让许多人对微软的战略产生了质疑。]]></description>
-      <guid>https://t.me/hn_summary/88730</guid>
-      <pubDate>Thu, 09 May 2024 15:02:15 GMT</pubDate>
+      <title>[媒体] 谷歌最近对包括 Flutter 在内的核心开发团队进行了裁员，导致 [...]</title>
+      <link>https://t.me/hn_summary/88788</link>
+      <description><![CDATA[Google Flutter 团队裁员让 Ubuntu 开发人员陷入困境 
+谷歌最近对包括 Flutter 在内的核心开发团队进行了裁员，这让 Ubuntu 社区对该框架的未来感到担忧。 Canonical 承诺在其桌面应用程序中使用 Flutter，但有人质疑他们是否选错了对象。尽管谷歌做出了保证，但 Flutter 2024 路线图已经取消了桌面功能的优先级，这引起了开发人员的担忧。虽然对 Ubuntu 开发的直接影响很小，但 Google 专注于网络和移动工作的更广泛影响要求 Canonical 增加投资。裁员对人类的影响也得到了强调，提醒我们失业对个人造成的损失。]]></description>
+      <guid>https://t.me/hn_summary/88788</guid>
+      <pubDate>Thu, 09 May 2024 21:05:39 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在论文“没有指数数据就没有‘零射击’”中，作者深入研究了这个世界 [...]</title>
-      <link>https://t.me/hn_summary/88729</link>
-      <description><![CDATA[没有指数数据就没有“零射击”&lt; br /&gt;
-在论文“没有指数数据就没有‘零样本’”中，作者深入研究了多模态模型的世界及其令人印象深刻的“零样本”评估性能。他们探讨了预训练数据集中概念的频率如何影响模型在下游任务中的性能。令人惊讶的是，他们发现多模态模型需要指数级更多的数据来线性提高其“零样本”性能，这对真正泛化的概念提出了挑战。该研究介绍了“Let it Wag！”基准来突出模型与长尾数据的斗争。这项研究揭示了大规模训练场景中有效的“零样本”能力需要大量训练数据。]]></description>
-      <guid>https://t.me/hn_summary/88729</guid>
-      <pubDate>Thu, 09 May 2024 14:55:07 GMT</pubDate>
+      <title>[媒体]科技能否减少冲突中的平民死亡？</title>
+      <link>https://t.me/hn_summary/88787</link>
+      <description><![CDATA[科技能否减少冲突中的平民死亡？马克·米利不太确定
+在阿什·卡特交流会议上，亚历克斯·卡普等科技领袖和马克·米利将军等军事专家讨论了技术是否可以减少冲突中的平民死亡。卡普对技术的潜力持乐观态度，而身为一名退伍军人的米利却对此表示怀疑，并强调战争的残酷现实。以色列国防军在加沙使用人工智能瞄准系统引发了人们对肆意轰炸平民住宅的担忧。未来密集城市地区的战争对避免附带损害提出了挑战，但精心设计的技术有望实现更精确的瞄准并减少平民伤亡。]]></description>
+      <guid>https://t.me/hn_summary/88787</guid>
+      <pubDate>Thu, 09 May 2024 20:51:31 GMT</pubDate>
     </item>
     <item>
-      <title>在一项有争议的举动中，西班牙警方使用了从加密服务 Wire 获得的信息 [...]</title>
-      <link>https://t.me/hn_summary/88728</link>
-      <description><![CDATA[Apple、Proton 和 Wire 帮助西班牙警方识别活动人士
-西班牙警方采取了一项有争议的行动，利用从加密服务 Wire 和 Proton 获得的信息识别了一名参与加泰罗尼亚独立运动的活动人士。据称，这名活动人士名叫 Xuxu Rondinaire，正在策划国王费利佩六世访问期间的行动。Wire 和 Proton 遵从了用户数据的合法要求，最终确定了这名活动人士的身份。Apple 提供了额外的个人信息。据信是 Mossos d’Esquadra 警官的 Xuxu Rondinaire 没有回应置评请求。此案凸显了数字时代隐私与执法之间的平衡。]]></description>
-      <guid>https://t.me/hn_summary/88728</guid>
-      <pubDate>Thu, 09 May 2024 14:51:00 GMT</pubDate>
+      <title>[媒体] 戴尔最近披露了一起涉及客户姓名和实际地址的数据泄露事件 [...]</title>
+      <link>https://t.me/hn_summary/88786</link>
+      <description><![CDATA[戴尔披露客户实际地址数据泄露
+戴尔最近披露了一起涉及客户姓名和实际地址的数据泄露事件，淡化了影响，并表示没有高度敏感的信息被泄露。此次泄露不包括电子邮件地址、财务详细信息或付款信息。然而，论坛上的一名黑客声称拥有 2017 年至 2024 年期间购买戴尔系统的 4900 万人的数据，包括姓名、地址、服务标签等。戴尔拒绝对论坛帖子发表评论，这让客户担心泄露的程度和所涉及的潜在风险。]]></description>
+      <guid>https://t.me/hn_summary/88786</guid>
+      <pubDate>Thu, 09 May 2024 20:50:25 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 单元测试至关重要，但所有规则和最佳实践可能会让人不知所措 [...]</title>
-      <link>https://t.me/hn_summary/88727</link>
-      <description><![CDATA[测试失败应该是可操作的
-单元测试很重要，但它可能会因为所有的规则和最佳实践而不知所措。在 Google，我们相信测试失败应该是可采取行动的。这意味着当测试失败时，您应该能够仅使用测试名称和失败消息立即开始调查。通过使用精确的单元测试框架和断言库（如 JUnit 和 GoogleTest），我们可以使我们的测试信息更丰富且不那么脆弱。此方法符合站点可靠性工程关于警报的指南。请查看我们的博客，了解有关使测试失败可操作并改进单元测试实践的更多提示。]]></description>
-      <guid>https://t.me/hn_summary/88727</guid>
-      <pubDate>Thu, 09 May 2024 14:47:53 GMT</pubDate>
+      <title>卫星巨型星座对于天文学来说有多大危害？</title>
+      <link>https://t.me/hn_summary/88785</link>
+      <description><![CDATA[卫星巨型星座对天文学有多糟糕？
+像 Starlink 和 OneWeb 这样的卫星巨型星座的出现为人类带来了巨大的利益，但天文学付出了怎样的代价呢？乔治城大学法学教授大卫·科普洛认为，这些巨型星座正在扰乱陆基和太空望远镜的工作，对天文学领域构成重大挑战。科普洛强调了天文学家自由使用太空的合法权利，并提出了妥协的解决方案，以减轻卫星巨型星座造成的损害。尽管一些卫星公司已采取自愿措施来解决这些问题，但科普洛认为，为了保护天文学的未来，有必要采取更强有力的应对措施。]]></description>
+      <guid>https://t.me/hn_summary/88785</guid>
+      <pubDate>Thu, 09 May 2024 20:48:20 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] PostgreSQL 已发布版本 16.3、15.7、14.12、13.15 和 12.19 的更新，addr [...]</title>
-      <link>https://t.me/hn_summary/88726</link>
-      <description><![CDATA[PostgreSQL 16.3、15.7、14.12、13.15 和 12.19 已发布
-PostgreSQL 已发布版本 16.3、15.7、14.12、13.15 和 12.19 的更新，解决了系统视图中可能允许未经授权访问数据的安全漏洞。该修复仅适用于全新安装，因此现有用户需要采取额外的步骤。 2024 年 11 月 14 日之后，PostgreSQL 12 将不再收到修复，提示用户升级到支持的版本。此更新还包括超过 55 个错误修复和改进，增强了性能和安全性。对于那些受安全问题影响的人，概述了具体的补救步骤。随时了解情况并确保您的 PostgreSQL 安装安全。]]></description>
-      <guid>https://t.me/hn_summary/88726</guid>
-      <pubDate>Thu, 09 May 2024 14:45:45 GMT</pubDate>
+      <title>[媒体]加州将通过实施一项 fi [...]</title>
+      <link>https://t.me/hn_summary/88784</link>
+      <description><![CDATA[加州电费将改为根据收入收取固定费用
+加州将通过实施基于收入的固定费用来彻底改变其电价结构。这一新系统旨在减轻因电力成本波动而造成负担的低收入家庭的负担。这一有争议的举措引发了政策制定者和消费者之间的争论，一些人认为这对高收入家庭造成了不公平的惩罚。然而，该计划的支持者认为，它将创建一个更加公平的体系，并有助于减少该州的能源贫困。这种创新的电价方法是解决收入不平等和确保所有加州人获得基本服务的大胆一步。]]></description>
+      <guid>https://t.me/hn_summary/88784</guid>
+      <pubDate>Thu, 09 May 2024 20:41:13 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 以高安全级别着称的信号信使 (Signal Messenger) 因其 [...]</title>
-      <link>https://t.me/hn_summary/88725</link>
-      <description><![CDATA[通过恶意设备破坏 Signal Messenger 的泄露后安全性 [pdf](https://news.ycombinator.com/item?id=40308571)
-Signal Messenger 以其高安全级别而闻名，但因其易受恶意设备攻击而受到密切关注。虽然 Signal 在单设备设置中保证前向保密和妥协后的安全性，但使用多个设备会引入一个漏洞，允许攻击者注册恶意设备并获得对所有未来通信的不受限制的访问。这一揭露挑战了多设备环境中妥协后安全性的概念，并引发了对 Signal 协议整体安全性的担忧。作者提出了解决这一问题的对策，并强调需要改进设备注册流程以确保安全通信。 （根据故事文本的 25% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/88725</guid>
-      <pubDate>Thu, 09 May 2024 14:39:07 GMT</pubDate>
+      <title>现在寻找差距很难吗？</title>
+      <link>https://t.me/hn_summary/88783</link>
+      <description><![CDATA[现在很难找到差距吗？作为一个24岁的人，一切似乎都已经完成了
+作为一名 24 岁的年轻人，我试图寻找创新的问题陈述来解决，但我对市场上缺乏实质性的空白感到不知所措。似乎一切都已经完成了，而确实存在的差距太小或不适合我的喜好。我不禁羡慕那些在我之前的人，他们在寻找明显的想法时似乎更容易。尽管面临挑战，我决心发现一个真正值得解决的差距，无论是在技术领域还是非技术领域。]]></description>
+      <guid>https://t.me/hn_summary/88783</guid>
+      <pubDate>Thu, 09 May 2024 20:10:58 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]一项突破性的基因治疗试验成功恢复了 18 个月大婴儿的听力 [...]</title>
-      <link>https://t.me/hn_summary/88724</link>
-      <description><![CDATA[世界首个基因治疗试验中聋哑女孩被治愈 
-一项突破性的基因治疗试验成功恢复了一名 18 个月大的英国女孩 Opal Sandy 的听力，她因听觉神经病变而先天性耳聋。该疗法是生物技术公司再生元（Regeneron）的“一劳永逸”疗法，提供了导致这种情况的错误基因的工作副本。手术后几周内，蛋白石的父母注意到她的听力有所改善，随后的测试显示她可以听到轻柔的声音，例如耳语。该试验旨在招募最多 18 名儿童，标志着耳聋治疗的新纪元，并有可能治愈其他与遗传相关的听力疾病。]]></description>
-      <guid>https://t.me/hn_summary/88724</guid>
-      <pubDate>Thu, 09 May 2024 14:20:52 GMT</pubDate>
+      <title>[媒体] 具有 10M 上下文长度的 Gemma 2B 项目旨在实现具有循环性的 Gemma 2B [...]</title>
+      <link>https://t.me/hn_summary/88782</link>
+      <description><![CDATA[Gemma 2B，上下文长度为 10M
+具有 10M 上下文长度的 Gemma 2B 项目旨在实现具有循环局部注意力和高达 10M 上下文长度的 Gemma 2B，同时使用小于 32GB 的内存。该项目通过利用局部注意力块并应用递归来实现 10M 上下文全局注意力，解决了大型语言模型中的内存瓶颈。该项目针对 CUDA 进行了优化，并提供本机推理。作者从 Transformer-XL 论文中汲取灵感，并在 Medium 上提供了技术概述以了解更多详细信息。该项目的特点是高效的内存使用，并专注于局部注意力块以提高性能。]]></description>
+      <guid>https://t.me/hn_summary/88782</guid>
+      <pubDate>Thu, 09 May 2024 20:05:51 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在我最近的 ElixirConf EU 2024 主题演讲中，我强调了机器的力量和潜力 [...]</title>
-      <link>https://t.me/hn_summary/88723</link>
-      <description><![CDATA[当我说 Elixir 中的机器学习是生产时，我的意思是 -准备好了
-在我最近的 ElixirConf EU 2024 主题演讲中，我强调了 Elixir 生态系统中机器学习的力量和潜力。当我说“生产就绪”时，我的意思不仅仅是部署模型 - 它涉及与 BEAM 和 OTP 的深度集成，使 Elixir 成为机器学习任务的作弊代码。凭借 Nx 的后发优势以及 Axon 和 Bumblebee 等库，Elixir 开发人员在构建和部署 ML 解决方案方面拥有无与伦比的轻松性和效率。 Nx.Serving 提供了多种功能，例如分布式、与硬件无关的批处理。将 ML 无缝集成到 Phoenix 应用程序中，展示了 Elixir 的可扩展性和效率。在这个生态系统中，Elixir 中的机器学习真正可以投入生产。]]></description>
-      <guid>https://t.me/hn_summary/88723</guid>
-      <pubDate>Thu, 09 May 2024 14:18:46 GMT</pubDate>
+      <title>[媒体]Hugging Face网站上的内容介绍了Llama-3 8B Instruct模型开发[...]</title>
+      <link>https://t.me/hn_summary/88781</link>
+      <description><![CDATA[4M 上下文 – Llama-3-8B-Instruct
+Hugging Face 网站上的内容介绍了 Gradient 开发的 Llama-3 8B Instruct 模型，由 Crusoe Energy 赞助。该模型将 Llama-3 8B 的上下文长度从 8k 扩展到 4194K 个 token，展示了最先进的语言模型在最少训练的情况下处理长上下文的能力。该方法涉及对 2.01 亿个 token 和总共 16 亿个 token 进行训练，利用自定义网络拓扑进行高效训练。内容还包括有关训练数据、模型架构、预期用例的详细信息，以及如何将模型与 transformer 或原始 llama3 代码库一起使用的说明。 （根据 34% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/88781</guid>
+      <pubDate>Thu, 09 May 2024 19:59:44 GMT</pubDate>
     </item>
     <item>
-      <title>【媒体】苹果M4比M2快45%，比M3快25%；</title>
-      <link>https://t.me/hn_summary/88722</link>
-      <description><![CDATA[苹果的M4比M2快45%，比M3快25%；击败 Snapdragon X Elite
-苹果最新的 M4 芯片性能强劲，性能超越 M2 和 M3，同时也击败了 Snapdragon X Elite。令人惊讶的是，M4 取得了破纪录的单核分数，让所有其他消费类处理器望尘莫及。更令人印象深刻的是，M4 为超薄平板电脑提供支持，展示了 Apple 对效率和性能的承诺。然而，由于买家必须选择更高的存储选项才能充分发挥 M4 的潜力，因此出现了争议。在10核版本已经创下记录的情况下，我们热切期待9核版本的表现。 Apple 不断突破移动处理器领域的界限。]]></description>
-      <guid>https://t.me/hn_summary/88722</guid>
-      <pubDate>Thu, 09 May 2024 14:17:39 GMT</pubDate>
+      <title>[媒体]联邦调查局副局长保罗·阿巴特敦促员工加强对 [...]</title>
+      <link>https://t.me/hn_summary/88780</link>
+      <description><![CDATA[FBI 敦促员工“寻找方法”收集美国人的信息
+在签署了一项有争议的扩大监视权力的法案后，联邦调查局副局长保罗·阿巴特（Paul Abbate）敦促员工加强对美国居民的无证监视，以证明该计划的重要性。该电子邮件强调需要遵守法律要求，包括针对美国个人查询的新预先批准程序。包括众议员佐伊·洛夫格伦在内的批评者认为，这是在推动更多的监控，而参议员怀登和克鲁兹则反对该法案，因为它对公民权利的影响。重新授权允许在海外监视活动中收集美国公民的信息，引发了对隐私和政府越权的担忧。]]></description>
+      <guid>https://t.me/hn_summary/88780</guid>
+      <pubDate>Thu, 09 May 2024 19:49:35 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]赫兹向特斯拉 Model 3 租赁者约书亚·李 (Joshua Lee) 收取了令人震惊的 277 美元汽油费，尽管 [...]</title>
-      <link>https://t.me/hn_summary/88721</link>
-      <description><![CDATA[赫兹向特斯拉 Model 3 租赁者收取 277 美元的汽油费 
-赫兹向特斯拉 Model 3 租赁者约书亚·李 (Joshua Lee) 收取了令人震惊的 277 美元汽油费，尽管该车是电动汽车，而且李已经支付了“跳过加油站”选项的费用。 Hertz 对此指控进行了辩护，声称尽管 Model 3 归还时的电量与取车时的电量相同，但服务已经提供。李试图对这一指控提出异议，但遭到了赫兹的抵制，这让他感到沮丧，并考虑结束他的长期赞助。这场争议引发了人们对赫兹计费方式和客户服务的质疑。]]></description>
-      <guid>https://t.me/hn_summary/88721</guid>
-      <pubDate>Thu, 09 May 2024 14:10:32 GMT</pubDate>
+      <title>电池开采是否会消除电动汽车的气候效益？</title>
+      <link>https://t.me/hn_summary/88779</link>
+      <description><![CDATA[电池采矿会消除电动汽车的气候效益吗？不，这就是原因
+在本文中，卡米拉·多莫诺斯克 (Camila Domonoske) 讨论了围绕电动汽车 (EV) 电池采矿对环境影响的争议。虽然电动汽车电池的生产确实会产生大量碳足迹，但研究表明，电动汽车的整体气候效益超过了传统燃油汽车。该文章还强调了采矿的负面影响，例如栖息地破坏和工人剥削，敦促消费者考虑其车辆选择的整个生命周期。此外，道德采购和电池回收等技术和实践的进步为减少电动汽车的环境足迹带来了希望。]]></description>
+      <guid>https://t.me/hn_summary/88779</guid>
+      <pubDate>Thu, 09 May 2024 19:47:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
