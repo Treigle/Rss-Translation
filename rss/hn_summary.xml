@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 09 May 2024 21:05:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 02:50:02 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 谷歌最近对包括 Flutter 在内的核心开发团队进行了裁员，导致 [...]</title>
-      <link>https://t.me/hn_summary/88788</link>
-      <description><![CDATA[Google Flutter 团队裁员让 Ubuntu 开发人员陷入困境 
-谷歌最近对包括 Flutter 在内的核心开发团队进行了裁员，这让 Ubuntu 社区对该框架的未来感到担忧。 Canonical 承诺在其桌面应用程序中使用 Flutter，但有人质疑他们是否选错了对象。尽管谷歌做出了保证，但 Flutter 2024 路线图已经取消了桌面功能的优先级，这引起了开发人员的担忧。虽然对 Ubuntu 开发的直接影响很小，但 Google 专注于网络和移动工作的更广泛影响要求 Canonical 增加投资。裁员对人类的影响也得到了强调，提醒我们失业对个人造成的损失。]]></description>
-      <guid>https://t.me/hn_summary/88788</guid>
-      <pubDate>Thu, 09 May 2024 21:05:39 GMT</pubDate>
+      <title>[媒体]乌克兰战争引发了无人机技术的快速创新，乌克兰 en [...]</title>
+      <link>https://t.me/hn_summary/88838</link>
+      <description><![CDATA[乌克兰战争正在推动无人机技术的快速创新 
+乌克兰战争引发了无人机技术的快速创新，乌克兰工程师和外行在无人机改进、反无人机技术、人工技术、电子战和无人机扫雷等方面开发出新发明。创新的步伐令人眼花缭乱，乌克兰人使用跳频调制解调器来击败俄罗斯干扰机，并开发无需飞行员即可操作的自主无人机。这种对创新的推动引发了关于赋予无人机杀伤能力的法律和道德问题，但一家公司的首席执行官认为，有必要领先于入侵的敌人。乌克兰持续不断的冲突正在推动无人机技术的突破性进步，这可能永远改变战争的性质。]]></description>
+      <guid>https://t.me/hn_summary/88838</guid>
+      <pubDate>Fri, 10 May 2024 02:50:02 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]科技能否减少冲突中的平民死亡？</title>
-      <link>https://t.me/hn_summary/88787</link>
-      <description><![CDATA[科技能否减少冲突中的平民死亡？马克·米利不太确定
-在阿什·卡特交流会议上，亚历克斯·卡普等科技领袖和马克·米利将军等军事专家讨论了技术是否可以减少冲突中的平民死亡。卡普对技术的潜力持乐观态度，而身为一名退伍军人的米利却对此表示怀疑，并强调战争的残酷现实。以色列国防军在加沙使用人工智能瞄准系统引发了人们对肆意轰炸平民住宅的担忧。未来密集城市地区的战争对避免附带损害提出了挑战，但精心设计的技术有望实现更精确的瞄准并减少平民伤亡。]]></description>
-      <guid>https://t.me/hn_summary/88787</guid>
-      <pubDate>Thu, 09 May 2024 20:51:31 GMT</pubDate>
+      <title>[媒体]这篇博文深入研究了 Rust 中 ind 的磁盘支持哈希图的实现 [...]</title>
+      <link>https://t.me/hn_summary/88837</link>
+      <description><![CDATA[为不可变日志数据建立节省空间的索引
+这篇博文深入研究了 Rust 中磁盘支持的哈希图的实现，用于在 Seq 诊断产品中索引高基数谓词。这种独特的方法可以有效地存储和检索诊断事件记录，重点是在处理大量数据的同时最大限度地减少存储空间。通过使用磁盘支持的哈希图而不是高基数索引的传统位图，系统可以有效地处理跟踪 ID 等动态值。这篇文章详细介绍了磁盘支持的哈希图在磁盘上的布局，并将其性能与其他方法进行了比较，展示了其在减少存储空间和保持查询效率方面的有效性。 （根据 93% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/88837</guid>
+      <pubDate>Fri, 10 May 2024 02:47:56 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 戴尔最近披露了一起涉及客户姓名和实际地址的数据泄露事件 [...]</title>
-      <link>https://t.me/hn_summary/88786</link>
-      <description><![CDATA[戴尔披露客户实际地址数据泄露
-戴尔最近披露了一起涉及客户姓名和实际地址的数据泄露事件，淡化了影响，并表示没有高度敏感的信息被泄露。此次泄露不包括电子邮件地址、财务详细信息或付款信息。然而，论坛上的一名黑客声称拥有 2017 年至 2024 年期间购买戴尔系统的 4900 万人的数据，包括姓名、地址、服务标签等。戴尔拒绝对论坛帖子发表评论，这让客户担心泄露的程度和所涉及的潜在风险。]]></description>
-      <guid>https://t.me/hn_summary/88786</guid>
-      <pubDate>Thu, 09 May 2024 20:50:25 GMT</pubDate>
+      <title>[媒体]“ppstep”项目是一个交互式 C/C++ 预处理器宏调试器，旨在 [...]</title>
+      <link>https://t.me/hn_summary/88836</link>
+      <description><![CDATA[ppstep：交互式 C/C++ 预处理器宏调试器&lt; br/&gt;
+“ppstep”项目是一个交互式 C/C++ 预处理器宏调试器，旨在帮助用户导航和理解复杂的宏代码。它旨在通过提供可视化和逐步执行宏扩展和重新扫描过程的工具来解决编写和调试宏的挑战。用户可以在特定宏上设置断点，查看待处理扩展的回溯，以及在预处理期间交互式地定义或取消定义宏。该项目的独特之处在于提供了通过预处理进行单步执行的可视化界面，以及在预处理过程中动态评估和操作宏的能力。]]></description>
+      <guid>https://t.me/hn_summary/88836</guid>
+      <pubDate>Fri, 10 May 2024 02:38:49 GMT</pubDate>
     </item>
     <item>
-      <title>卫星巨型星座对于天文学来说有多大危害？</title>
-      <link>https://t.me/hn_summary/88785</link>
-      <description><![CDATA[卫星巨型星座对天文学有多糟糕？
-像 Starlink 和 OneWeb 这样的卫星巨型星座的出现为人类带来了巨大的利益，但天文学付出了怎样的代价呢？乔治城大学法学教授大卫·科普洛认为，这些巨型星座正在扰乱陆基和太空望远镜的工作，对天文学领域构成重大挑战。科普洛强调了天文学家自由使用太空的合法权利，并提出了妥协的解决方案，以减轻卫星巨型星座造成的损害。尽管一些卫星公司已采取自愿措施来解决这些问题，但科普洛认为，为了保护天文学的未来，有必要采取更强有力的应对措施。]]></description>
-      <guid>https://t.me/hn_summary/88785</guid>
-      <pubDate>Thu, 09 May 2024 20:48:20 GMT</pubDate>
+      <title>[媒体]在《大西洋月刊》一篇发人深省的文章中，作者深入探讨了有争议的[...]</title>
+      <link>https://t.me/hn_summary/88835</link>
+      <description><![CDATA[没有人知道大学是用来做什么的
+在《大西洋月刊》发表的一篇发人深省的文章中，作者深入探讨了一个有争议的问题，即大学行政职位的指数级增长，远远超过了教师职位的增长。这种由帝国建设和任务膨胀驱动的行政臃肿导致高等教育机构的使命缺乏明确性。作者强调了这一趋势对学术自由、教师怨恨和机构关注的影响。这篇文章还谈到了大学在平衡言论自由和校园安全等相互竞争的优先事项时面临的挑战。最后，作者认为，行政角色的激增不仅导致大学成本上升，而且削弱了教学和研究的核心功能。]]></description>
+      <guid>https://t.me/hn_summary/88835</guid>
+      <pubDate>Fri, 10 May 2024 02:37:44 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]加州将通过实施一项 fi [...]</title>
-      <link>https://t.me/hn_summary/88784</link>
-      <description><![CDATA[加州电费将改为根据收入收取固定费用
-加州将通过实施基于收入的固定费用来彻底改变其电价结构。这一新系统旨在减轻因电力成本波动而造成负担的低收入家庭的负担。这一有争议的举措引发了政策制定者和消费者之间的争论，一些人认为这对高收入家庭造成了不公平的惩罚。然而，该计划的支持者认为，它将创建一个更加公平的体系，并有助于减少该州的能源贫困。这种创新的电价方法是解决收入不平等和确保所有加州人获得基本服务的大胆一步。]]></description>
-      <guid>https://t.me/hn_summary/88784</guid>
-      <pubDate>Thu, 09 May 2024 20:41:13 GMT</pubDate>
+      <title>在本自然语言处理课程中，学生将深入研究线性 [...]</title>
+      <link>https://t.me/hn_summary/88834</link>
+      <description><![CDATA[CS388：自然语言处理
+在本自然语言处理课程中，学生将深入研究线性分类、情感分析、神经网络、词嵌入、语言建模、变压器以及 BERT 和 seq2seq LM 等预训练模型等主题。有争议的是，该课程还涵盖了词嵌入的偏差和分类的公平性，解决了 NLP 中重要的伦理考虑。令人惊讶的是，该课程包括有关自注意力机制和变压器架构的前沿研究，展示了该领域的最新进展。重点关注结构化预测和句法解析，学生将全面了解 NLP 技术和应用。 （根据 36% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/88834</guid>
+      <pubDate>Fri, 10 May 2024 02:28:36 GMT</pubDate>
     </item>
     <item>
-      <title>现在寻找差距很难吗？</title>
-      <link>https://t.me/hn_summary/88783</link>
-      <description><![CDATA[现在很难找到差距吗？作为一个24岁的人，一切似乎都已经完成了
-作为一名 24 岁的年轻人，我试图寻找创新的问题陈述来解决，但我对市场上缺乏实质性的空白感到不知所措。似乎一切都已经完成了，而确实存在的差距太小或不适合我的喜好。我不禁羡慕那些在我之前的人，他们在寻找明显的想法时似乎更容易。尽管面临挑战，我决心发现一个真正值得解决的差距，无论是在技术领域还是非技术领域。]]></description>
-      <guid>https://t.me/hn_summary/88783</guid>
-      <pubDate>Thu, 09 May 2024 20:10:58 GMT</pubDate>
+      <title>[媒体]来自美国宇航局詹姆斯韦伯太空望远镜的令人兴奋的消息，因为它暗示了[...]的可能性</title>
+      <link>https://t.me/hn_summary/88833</link>
+      <description><![CDATA[韦伯暗示岩石系外行星周围可能存在大气层
+来自美国宇航局詹姆斯·韦伯太空望远镜的激动人心的消息暗示，岩石系外行星 55 Cancri e 周围可能存在大气层。这位艺术家的概念让我们一睹这个神秘星球的面貌。这一发现能否让我们更好地了解系外行星的大气层和太阳系以外的生命潜力？请继续关注科学家们不断揭开宇宙的秘密。]]></description>
+      <guid>https://t.me/hn_summary/88833</guid>
+      <pubDate>Fri, 10 May 2024 02:27:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 具有 10M 上下文长度的 Gemma 2B 项目旨在实现具有循环性的 Gemma 2B [...]</title>
-      <link>https://t.me/hn_summary/88782</link>
-      <description><![CDATA[Gemma 2B，上下文长度为 10M
-具有 10M 上下文长度的 Gemma 2B 项目旨在实现具有循环局部注意力和高达 10M 上下文长度的 Gemma 2B，同时使用小于 32GB 的内存。该项目通过利用局部注意力块并应用递归来实现 10M 上下文全局注意力，解决了大型语言模型中的内存瓶颈。该项目针对 CUDA 进行了优化，并提供本机推理。作者从 Transformer-XL 论文中汲取灵感，并在 Medium 上提供了技术概述以了解更多详细信息。该项目的特点是高效的内存使用，并专注于局部注意力块以提高性能。]]></description>
-      <guid>https://t.me/hn_summary/88782</guid>
-      <pubDate>Thu, 09 May 2024 20:05:51 GMT</pubDate>
+      <title>[媒体]在一项开创性的研究中，研究人员发现了麻风病传播赌注的证据[...]</title>
+      <link>https://t.me/hn_summary/88832</link>
+      <description><![CDATA[在中世纪的英格兰，麻风病在红松鼠/人之间传播，基因组证据
+在一项开创性的研究中，研究人员发现了麻风病在中世纪英格兰的红松鼠和人类之间传播的证据。通过基因分析，他们确定红松鼠是麻风病的第一个古代动物宿主，揭示了这种疾病的复杂历史。研究结果表明，中世纪时期麻风毒株在人类和红松鼠之间独立循环，挑战了之前关于该疾病传播的假设。这一发现强调了在了解麻风病等人畜共患疾病的持续存在时考虑动物宿主的重要性，这对我们今天对疾病传播的理解具有重要意义。]]></description>
+      <guid>https://t.me/hn_summary/88832</guid>
+      <pubDate>Fri, 10 May 2024 02:24:25 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Hugging Face网站上的内容介绍了Llama-3 8B Instruct模型开发[...]</title>
-      <link>https://t.me/hn_summary/88781</link>
-      <description><![CDATA[4M 上下文 – Llama-3-8B-Instruct
-Hugging Face 网站上的内容介绍了 Gradient 开发的 Llama-3 8B Instruct 模型，由 Crusoe Energy 赞助。该模型将 Llama-3 8B 的上下文长度从 8k 扩展到 4194K 个 token，展示了最先进的语言模型在最少训练的情况下处理长上下文的能力。该方法涉及对 2.01 亿个 token 和总共 16 亿个 token 进行训练，利用自定义网络拓扑进行高效训练。内容还包括有关训练数据、模型架构、预期用例的详细信息，以及如何将模型与 transformer 或原始 llama3 代码库一起使用的说明。 （根据 34% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/88781</guid>
-      <pubDate>Thu, 09 May 2024 19:59:44 GMT</pubDate>
+      <title>[媒体]在奶酪世界中，加工奶酪找到了独特的地位，为人们提供了便利。</title>
+      <link>https://t.me/hn_summary/88831</link>
+      <description><![CDATA[加工奶酪的两极分化世界（FDA 定义） 
+在奶酪世界中，加工奶酪找到了独特的地位，它提供便利且价格实惠，使其成为厨房主食。虽然它们可能不具有天然奶酪的手工吸引力，但其奶油般的可融化性和一致的质地赢得了许多人的青睐。尽管加工奶酪的成分和制造工艺受到批评，但它在均衡饮食中占有一席之地。了解营养的差异使您能够做出明智的选择。因此，下次您在加工奶酪和天然奶酪之间进行选择时，请考虑您的烹饪需求、预算和饮食偏好。在下面的评论中分享您喜欢如何使用加工奶酪。]]></description>
+      <guid>https://t.me/hn_summary/88831</guid>
+      <pubDate>Fri, 10 May 2024 02:23:20 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]联邦调查局副局长保罗·阿巴特敦促员工加强对 [...]</title>
-      <link>https://t.me/hn_summary/88780</link>
-      <description><![CDATA[FBI 敦促员工“寻找方法”收集美国人的信息
-在签署了一项有争议的扩大监视权力的法案后，联邦调查局副局长保罗·阿巴特（Paul Abbate）敦促员工加强对美国居民的无证监视，以证明该计划的重要性。该电子邮件强调需要遵守法律要求，包括针对美国个人查询的新预先批准程序。包括众议员佐伊·洛夫格伦在内的批评者认为，这是在推动更多的监控，而参议员怀登和克鲁兹则反对该法案，因为它对公民权利的影响。重新授权允许在海外监视活动中收集美国公民的信息，引发了对隐私和政府越权的担忧。]]></description>
-      <guid>https://t.me/hn_summary/88780</guid>
-      <pubDate>Thu, 09 May 2024 19:49:35 GMT</pubDate>
+      <title>[媒体] Google Photos 正在测试“图库”选项卡的重新设计，将其重命名为“Collections”。</title>
+      <link>https://t.me/hn_summary/88830</link>
+      <description><![CDATA[Google 相册正在测试“收藏集”重新设计，这会掩盖你的图库
+谷歌照片正在测试“库”选项卡的重新设计，将其重命名为“收藏集”。对这个新用户界面的反应并不积极，用户怀念以前的布局。新的设计功能自动生成人员、在此设备上、相册、文档和地点的分组，需要额外的步骤来访问本地文件夹。自 2022 年以来，谷歌一直在尝试改造该图书馆，但遭到强烈反对，并取消了之前的设计。新“集合”选项卡的可用性有限，表明它仍处于测试阶段，允许 Google 收集反馈并可能做出更改。]]></description>
+      <guid>https://t.me/hn_summary/88830</guid>
+      <pubDate>Fri, 10 May 2024 02:22:14 GMT</pubDate>
     </item>
     <item>
-      <title>电池开采是否会消除电动汽车的气候效益？</title>
-      <link>https://t.me/hn_summary/88779</link>
-      <description><![CDATA[电池采矿会消除电动汽车的气候效益吗？不，这就是原因
-在本文中，卡米拉·多莫诺斯克 (Camila Domonoske) 讨论了围绕电动汽车 (EV) 电池采矿对环境影响的争议。虽然电动汽车电池的生产确实会产生大量碳足迹，但研究表明，电动汽车的整体气候效益超过了传统燃油汽车。该文章还强调了采矿的负面影响，例如栖息地破坏和工人剥削，敦促消费者考虑其车辆选择的整个生命周期。此外，道德采购和电池回收等技术和实践的进步为减少电动汽车的环境足迹带来了希望。]]></description>
-      <guid>https://t.me/hn_summary/88779</guid>
-      <pubDate>Thu, 09 May 2024 19:47:29 GMT</pubDate>
+      <title>[媒体] 摘要：finallyfocused.org 上的文章探讨了 ADHD 大脑如何处理糖 [...]</title>
+      <link>https://t.me/hn_summary/88829</link>
+      <description><![CDATA[多动症大脑如何以不同的方式处理糖
+摘要：finallyfocused.org 上的文章探讨了 ADHD 大脑的处理方式对糖的看法有所不同，强调影响多动症症状的不是糖本身，而是它的代谢方式。研究表明，多动症患者某些大脑区域的葡萄糖代谢较低，导致注意力、运动和冲动问题。此外，多动症儿童在摄入葡萄糖后，大脑中关键化学物质（如肾上腺素和去甲肾上腺素）的水平较低。文章还讨论了多动症、肥胖和饮食失调之间的联系，强调了平衡的葡萄糖供应对于最佳大脑功能的重要性。作者 James M. Greenblatt 博士提供了管理多动症儿童糖摄入量的实用技巧。]]></description>
+      <guid>https://t.me/hn_summary/88829</guid>
+      <pubDate>Fri, 10 May 2024 02:19:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
