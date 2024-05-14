@@ -4,86 +4,96 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 14 May 2024 08:54:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 18:08:56 GMT</lastBuildDate>
     <item>
-      <title>[媒体]苹果公司宣布，安全研究人员发现的一个内核漏洞是[...]</title>
-      <link>https://t.me/hn_summary/89460</link>
-      <description><![CDATA[Apple 表示内核漏洞不符合悬赏资格&lt; br/&gt;
-苹果公司宣布，安全研究人员发现的内核漏洞不符合其漏洞赏金计划的资格。这一决定在网络安全界引发了争议，许多人质疑苹果确定哪些漏洞有资格获得奖励的标准。一些人认为，由于这个特定漏洞对用户安全的潜在影响，应该受到奖励。苹果公司在这个问题上的立场令许多人感到惊讶，因为他们此前以慷慨的漏洞赏金计划而闻名。这一决定凸显了围绕错误赏金计划正在进行的争论以及网络安全透明度的重要性。]]></description>
-      <guid>https://t.me/hn_summary/89460</guid>
-      <pubDate>Tue, 14 May 2024 08:54:34 GMT</pubDate>
+      <title>[媒体]Sun Microsystems 徽标经常被誉为最美丽的徽标设计，是 [...]</title>
+      <link>https://t.me/hn_summary/89548</link>
+      <description><![CDATA[Sun Microsystems 徽标：最漂亮的徽标设计（客观上）
+Sun Microsystems 徽标经常被誉为最美丽的徽标设计，是视觉传达的杰作。该标志由沃恩·普拉特（Vaughan Pratt）教授创作，其特色是一个双向字母，在各个方向上都写着“SUN”，展示了巧妙而独特的设计。这一几何奇迹不仅代表了公司的名称，也象征着其创新精神和技术实力。该标志的优雅在于其简洁和对称，使其成为永恒的品牌标志。虽然美感是主观的，但 Sun Microsystems 徽标的设计经常在有关徽标艺术顶峰的讨论中被引用。]]></description>
+      <guid>https://t.me/hn_summary/89548</guid>
+      <pubDate>Tue, 14 May 2024 18:08:56 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 您是否正在努力帮助不懂技术的家庭成员从 3G 手机过渡到 [...]</title>
-      <link>https://t.me/hn_summary/89459</link>
-      <description><![CDATA[LineageOS 是一款适合不懂技术的人的完美简约智能手机
-您是否正在努力帮助不懂技术的家庭成员从 3G 手机过渡到更现代的设备？ LineageOS 就是您的最佳选择，它是完美的简约智能手机操作系统。借助 LineageOS，您可以自定义智能手机，使其仅包含家庭成员所需的基本功能，而无需使用 Android 或 iOS 的任何压倒性的臃肿软件或侵入性功能。通过使用 LineageOS，您可以创建简单且用户友好的智能手机体验，非常适合那些只想拨打电话、发送消息、拍照和备份数据的用户。查看支持的设备列表，立即开始简化您所爱之人的智能手机体验！]]></description>
-      <guid>https://t.me/hn_summary/89459</guid>
-      <pubDate>Tue, 14 May 2024 08:50:29 GMT</pubDate>
+      <title>Veo 是 DeepMind 最先进的视频生成模型，能够生成高质量的 108 [...]</title>
+      <link>https://t.me/hn_summary/89547</link>
+      <description><![CDATA[Veo
+Veo 是 DeepMind 最先进的视频生成模型，能够以各种电影风格生成一分钟多的高质量、1080p 视频。它擅长捕捉提示的细微差别和语气，为电影制作人、创作者和教育工作者提供前所未有的创意控制。 Veo 可以解释文本提示、应用编辑命令并使用尖端的潜在扩散转换器保持跨帧的视觉一致性。它基于多年的研究，使用高质量的压缩视频表示来提高效率。 Veo 的负责任设计包括使用 SynthID 和安全过滤器添加水印，以减轻隐私、版权和偏见风险。精选创作者可以通过 labs.google，未来计划与 YouTube Shorts 集成。]]></description>
+      <guid>https://t.me/hn_summary/89547</guid>
+      <pubDate>Tue, 14 May 2024 18:08:53 GMT</pubDate>
     </item>
     <item>
-      <title>Verilator 是一个开源 SystemVerilog 模拟器和 lint 系统，旨在提供快速 [...]</title>
-      <link>https://t.me/hn_summary/89458</link>
-      <description><![CDATA[Verilator：开源 SystemVerilog 模拟器和 lint 系统 
-Verilator 是一个开源 SystemVerilog 模拟器和 lint 系统，旨在提供快速的模拟性能，优于许多闭源商业模拟器。它接受 Verilog 或 SystemVerilog，执行 lint 代码质量检查，编译为多线程 C++ 或 SystemC，并为前端工具创建 XML。它在工业界和学术界得到广泛应用，得到了 Arm 和 RISC-V 供应商的支持。 Verilator 通过提供高速仿真、社区驱动的开发和商业支持选项而脱颖而出。它可能并不适合所有用例，但建议将 SystemVerilog 迁移到 C++/SystemC 或实现高速仿真。]]></description>
-      <guid>https://t.me/hn_summary/89458</guid>
-      <pubDate>Tue, 14 May 2024 08:45:21 GMT</pubDate>
+      <title>[媒体]在这篇文章中，作者认为关闭州立精神病院和 [...]</title>
+      <link>https://t.me/hn_summary/89546</link>
+      <description><![CDATA[我们关闭了收容精神病患者的机构，使他们更难接受护理
+在这篇文章中，作者认为，州立精神病医院的关闭以及随后缺乏足够的社区精神卫生中心导致许多严重精神疾病患者得不到适当的护理。作者批评自由主义者和社会主义者对精神病患者实施的犯罪暴力的轻视态度，指责他们优先考虑“姿态”而不是对这些人的真正关心。文章重点介绍了《社区心理健康法案》、《医疗补助法案》和《美国残疾人法案》等关键立法行动，这些行动共同加大了非自愿治疗精神病患者的难度。作者认为，现行制度未能提供必要的护理，导致许多弱势群体流落街头。这里有争议的立场是呼吁采取更积极的非自愿精神医疗保健，作者认为这对于公共安全和精神病患者的福祉至关重要。]]></description>
+      <guid>https://t.me/hn_summary/89546</guid>
+      <pubDate>Tue, 14 May 2024 18:07:49 GMT</pubDate>
     </item>
     <item>
-      <title>我们很高兴地宣布 Anthropic 的人工智能助手 Claude 现已在欧洲推出！</title>
-      <link>https://t.me/hn_summary/89457</link>
-      <description><![CDATA[Claude 现已在欧洲推出
-我们很高兴地宣布 Anthropic 的人工智能助手 Claude 现已在欧洲推出！用户可以访问网页版Claude.ai， Claude iOS 应用程序和 Claude Team 企业计划。 Claude 精通多种欧洲语言，并提供用户友好的界面，可无缝集成到工作流程中。该应用程序是免费的，专业版的价格为每月 18 欧元 + 增值税，团队计划的价格为每位用户每月 28 欧元 + 增值税。 Anthropic 致力于创建以人为本的人工智能系统，我们很高兴能够将 Claude 3 模型系列的先进功能带给欧洲更多用户。]]></description>
-      <guid>https://t.me/hn_summary/89457</guid>
-      <pubDate>Tue, 14 May 2024 08:44:15 GMT</pubDate>
+      <title>[媒体]在阿拉巴马州，对已故囚犯尸体的处理令人不安地让人想起[...]</title>
+      <link>https://t.me/hn_summary/89545</link>
+      <description><![CDATA[阿拉巴马州囚犯器官消失，大量通过巴克
+在阿拉巴马州，处理已故囚犯尸体的方式令人不安地让人想起恐怖电影。布兰登·多森（Brandon Dotson）、凯尔文·摩尔（Kelvin Moore）和查尔斯·辛格尔顿（Charles Singleton）均死于阿拉巴马州监狱，他们的尸体被送回家人身边，但缺少重要器官。阿拉巴马州惩教署 (ADOC) 和阿拉巴马大学伯明翰分校 (UAB) 都卷入了这种残酷的做法，每个实体都在推卸责任。 UAB 声称它遵循法律协议，但囚犯家属没有机会选择不摘除器官。这场争议凸显了对囚犯的系统性非人化，将他们仅仅视为科学用途的对象。]]></description>
+      <guid>https://t.me/hn_summary/89545</guid>
+      <pubDate>Tue, 14 May 2024 18:07:45 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]brandur.org 上使用 Postgres 的应用程序的通知程序模式探索了 po [...]</title>
-      <link>https://t.me/hn_summary/89456</link>
-      <description><![CDATA[使用 Postgres 的应用程序的通知程序模式
-brandur.org 上使用 Postgres 的应用程序的通知程序模式探索了Postgres 中强大的监听/通知功能，并引入了通知程序模式的概念来优化其使用。虽然监听/通知在理论上很简单，但许多应用程序并未最佳地使用它，从而导致资源浪费。通知程序模式涉及为每个进程保留一个 Postgres 连接，从而允许多个组件有效地订阅主题。通过减少侦听/通知所需的连接数量，通知程序模式提供了显着的优势，尤其是在像 Go 这样的语言中。本文提供了有关有效实现通知程序模式的代码片段和见解。 （根据 94% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/89456</guid>
-      <pubDate>Tue, 14 May 2024 08:43:10 GMT</pubDate>
+      <title>彼得·N.</title>
+      <link>https://t.me/hn_summary/89544</link>
+      <description><![CDATA[OpenBSD – Nagle 算法的消亡（RFC 896 – 拥塞控制）预测
+Peter N. M. Hansteen 报告了一项在 OpenBSD 中禁用 Nagle 算法 (RFC 896) 的提案，表明该算法可能已经过时。 Job Snijders 提交了一个补丁，添加了一个 sysctl 选项，以在系统范围内禁用 Nagle 算法。 Nagle 的算法于 20 世纪 80 年代初设计，旨在通过合并小数据包来改善 TCP 拥塞控制，但由于延迟增加以及与延迟确认 (RFC 813) 的负面交互，现在被认为具有潜在的危害性。 ssh、httpd 和 bgpd 等现代应用程序已经禁用它。该提案旨在使这种禁用更加普遍，引发对其可取性的持续争论。加入 tech@ 上的讨论并测试代码。]]></description>
+      <guid>https://t.me/hn_summary/89544</guid>
+      <pubDate>Tue, 14 May 2024 18:06:41 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]小学英语老师竭尽全力送你至少[...]</title>
-      <link>https://t.me/hn_summary/89455</link>
-      <description><![CDATA[你在学校没有学过的语言学术语&lt; br/&gt;
-小学英语老师会尽最大努力让你至少对语言的运作方式有一个粗略的了解。也许您可以区分从属子句和独立子句，以及及物动词和不及物动词。但是，除非您在大学主修语言学，或者经常花空闲时间阅读语法博客，否则您可能不知道描述语言机制的大量词汇。这里有 15 个我们最喜欢的术语，从两栖等正式术语到雪克隆等口语术语。当一个句子或短语的语法结构适合多种解释时，就会出现两义性或两栖性。这种歧义的发生方式有无数种。也许介词短语的放置让人不清楚该短语所修饰的内容，正如格劳乔·马克思在这个经典笑话中所利用的那样：“一天早上，我射杀了一头穿着睡衣的大象。”我不知道他是怎么穿上我的睡衣的。”或者也许某个单词的功能并不明显，这种情况在头条新闻中经常发生（有时甚至会产生搞笑的效果）。例如，在“Eye Drops Off Shelves”中，“drops”是一个名词，但如果您将其误认为是动词，那么标题就会有不同的含义。 （模棱两可的标题是它们自己的两义性子集，通俗地称为“崩溃之花”。）我们通常认为构词法是采用词根并添加词缀（如前缀和后缀），因此生成的词比您想象的要长。以前有过。从朋友那里，可以交友、交友、交友。但它并不总是这样：回构是通过删除词缀来创建新单词的过程。英语中充满了令人惊讶的倒转形式。例如，窃贼并不是从盗窃中产生的。窃贼（Burglar）首先出现，然后人们创造了“burgle”作为动词来描述窃贼的行为。立法并不是立法、立法者或立法者的词干；而是立法的词干。这三个实际上早于它。许多复合词在复合词本身中包含主语（也称为中心词）。西瓜是瓜，青鸟是鸟，卧室是房间。但也有一些离心复合词，其中中心词不是实际术语的一部分。这些复合词的特定类别涉及对对象（名词）执行的动作（动词）。例如，割喉者并不是真正的割喉者；而是割喉者。从字面上或比喻上来说，这是一个割断喉咙的人。稻草人吓跑乌鸦，胆大妄为的人敢于魔鬼，等等。尽管它们的正式名称是“施动和工具性外心动词-名词 (V-N) 复合词”，但历史语言学家布莱恩·休斯 (Brianne Hughes) 给它们起了一个更朗朗上口的绰号：残酷的复合词。虽然它们在英语中并不是很常见，但您可能会开始在意想不到的地方注意到它们。从技术上讲，威廉·莎士比亚的姓氏算作一个残酷的复合词：“摇动长矛的人。”行动中的不对称。 / Kevin Winter/GettyImages 您可能听说过委婉语：根据韦氏词典，使用“令人愉快或无攻击性”的语言来代替“可能冒犯或暗示令人不快的事物”的术语。去世是“死亡”的委婉说法，而“做爱”是“做爱”的委婉说法。非言语表达恰恰相反：故意使用粗俗的语言来描述或多或少无害的事物。例如，Rugrat 是“还在地毯上爬行的小孩子”的错语，而救护车追逐者是“人身伤害律师”的错语。Eggcorns 是听错的表达方式，实际上使感觉——例如根深蒂固而不是技术上正确的版本，根深蒂固，自由统治而不是自由支配。这个词是由语言学家杰夫·普鲁姆（Geoff Pullum）创造的，是对橡子被误认为蛋玉米的历史的认可。您可能会觉得很烦人，很多人将房地产经纪人发音为“REEL-uh-ter”而不是“REEL-ter”，但他们“]]></description>
-      <guid>https://t.me/hn_summary/89455</guid>
-      <pubDate>Tue, 14 May 2024 08:22:59 GMT</pubDate>
+      <title>[媒体]Bioglass 45S5，也称为磷硅酸钙钠，是一种生物活性玻璃复合材料，[...]</title>
+      <link>https://t.me/hn_summary/89543</link>
+      <description><![CDATA[生物玻璃 45S5
+Bioglass 45S5，也称为磷硅酸钙钠，是一种生物活性玻璃，由 45 wt% SiO2、24.5 wt% CaO、24.5 wt% Na2O 和 6.0 wt% P2O5 组成。它用于各种医疗应用，如骨移植、牙周修复、颅颌面修复、伤口护理和神经修复。 “Bioglass”这一名称是佛罗里达大学的商标，仅指 45S5 成分。在商业上，它以 NovaMin 的形式出售，是舒适达牙膏中的活性成分（美国除外，那里使用氟化亚锡）。 Bioglass 45S5 以其与骨骼粘合的能力而著称，避免免疫反应和纤维包封，使其成为骨损伤修复的理想选择。它是由拉里·L·亨奇 (Larry L. Hench) 在 20 世纪 60 年代末开发的，其发现的灵感来自于与一位陆军医务官关于需要能够与人体组织粘合的材料的对话。尽管其脆性，Bioglass 45S5 仍广泛用于组织工程和骨重建。它还可以掺杂铜、锌或锶等元素，以促进骨骼生长。然而，关于静态细胞培养条件下硼酸基生物活性玻璃释放的硼酸根离子的潜在毒性存在一些争议。 （根据 46% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/89543</guid>
+      <pubDate>Tue, 14 May 2024 18:01:35 GMT</pubDate>
     </item>
     <item>
-      <title>在 OffectiveCon 2024 的主题演讲中，Solar Designer 深入探讨了密码cr 的世界 [...]</title>
-      <link>https://t.me/hn_summary/89454</link>
-      <description><![CDATA[密码破解：过去、现在、未来（OffectiveCon 2024）
-在 OffectiveCon 2024 的主题演讲中，Solar Designer 深入探讨了密码破解的世界，探索其过去、现在和未来。密码是至关重要的身份验证因素，可用于多种目的，包括数据访问和安全审核。演讲重点关注离线密码破解的演变和优化，将优化问题分解为速度和焦点。此次演讲的历史背景可以追溯到 20 世纪 60 年代，还展望了密码破解的未来。虽然看起来很简单，但密码破解是一个严肃的领域，它不断发展并吸引新的贡献者，塑造新防御的设计。]]></description>
-      <guid>https://t.me/hn_summary/89454</guid>
-      <pubDate>Tue, 14 May 2024 07:49:59 GMT</pubDate>
+      <title>旧金山湾区已成为人工智能 (AI) 领域的全球领导者 [...]</title>
+      <link>https://t.me/hn_summary/89542</link>
+      <description><![CDATA[旧金山湾区已成为人工智能技术和融资领域无可争议的领导者美元
+根据 Crunchbase 数据和行业专家的说法，旧金山湾区已成为人工智能 (AI) 技术和资金的全球领导者。 2023 年，超过 50% 的全球人工智能初创企业风险投资流向了湾区公司，其中 OpenAI 做出了重大贡献，该公司从微软筹集了 100 亿美元资金。这一激增导致旧金山办公空间租赁量大幅增加，与其他科技行业的下滑形成鲜明对比。值得注意的是，Y Combinator 50% 的应届毕业生都专注于人工智能，许多创始人正在搬到湾区，以利用其密集的人才库和人际网络机会。虽然湾区占据主导地位，但全球范围内也发生了大量的人工智能活动，特别是在中国、英国、德国、加拿大和法国。]]></description>
+      <guid>https://t.me/hn_summary/89542</guid>
+      <pubDate>Tue, 14 May 2024 18:00:27 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在我最近对 ​​Dockerfile 定义的探索中，我遇到了一个令人惊讶的问题 [...]</title>
-      <link>https://t.me/hn_summary/89453</link>
-      <description><![CDATA[在 Dockerfile 中使用 ARG – 小心陷阱&lt; br/&gt;
-在我最近对 ​​Dockerfile 定义的探索中，我遇到了一个令人惊讶的构建参数问题，让我摸不着头脑。该问题源于 Dockerfile 中 ARG 和 FROM 指令之间的微妙交互。我发现在 FROM 指令之前用 ARG 声明的变量在 FROM 指令之后无法访问。为了解决这个问题，我必须重新排列 Dockerfile 中的 ARG 指令。通过将 CAPVER 的 ARG 指令移到 FROM 指令之后，我能够使用所需的 DEBVER 和 CAPVER 值成功构建自定义映像。这次经历教会了我理解 ARG 和 FROM 在 Dockerfile 定义中如何交互的重要性。快乐建造！]]></description>
-      <guid>https://t.me/hn_summary/89453</guid>
-      <pubDate>Tue, 14 May 2024 07:43:49 GMT</pubDate>
+      <title>[媒体] 网址：www.highcaffeinecontent.com</title>
+      <link>https://t.me/hn_summary/89541</link>
+      <description><![CDATA[iPad Pro 宣言（2024 版）
+标题：iPad Pro 宣言（2024 年版）
+网站：www.highcaffeinecontent.com
+
+在这份宣言中，作者批评了 iPad Pro 的软件，认为 iPadOS 未能利用强大的 M 系列芯片和高昂的价格点。需要改进的关键领域包括启用后台任务、引入虚拟化来运行 macOS 和其他操作系统，以及通过更好的 API 增强窗口功能。作者还呼吁系统提供选项卡式窗口模型、改进的音频/视频处理以及强大的文件管理系统。他们强调了即时编译、本地应用程序编译和持久菜单栏的需求。该宣言强调了 iPadOS 的停滞，敦促苹果为计算的未来进行创新。 
+
+争议点：作者指责苹果将应用程序开发能力限制在自己的工具和平台上，这是反竞争行为。
+
+独特/聪明的见解：引入虚拟化以在 iPad Pro 上运行 macOS，从而缩小 iPad 和 Mac 用户之间的差距的建议尤其具有创新性。]]></description>
+      <guid>https://t.me/hn_summary/89541</guid>
+      <pubDate>Tue, 14 May 2024 17:59:19 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]对于开发者来说令人兴奋的消息！</title>
-      <link>https://t.me/hn_summary/89452</link>
-      <description><![CDATA[显示 HN：在 Cursor IDE 中使用 GPT-4o 
-对于开发商来说，这是一个令人兴奋的消息！我们很高兴地宣布，我们已将 GPT-4o 集成到 Cursor IDE 中，彻底改变了您的编码方式。借助 GPT-4o 的强大功能，您现在可以在 IDE 中生成代码片段、调试错误，甚至获取优化代码的建议。告别繁琐的编码任务，迎接更高效、更高效的工作流程。不要错过这个改变游戏规则的更新，启用 JavaScript 并在 twitter.com。 #GPT4o #CursorIDE #codingrevolution]]></description>
-      <guid>https://t.me/hn_summary/89452</guid>
-      <pubDate>Tue, 14 May 2024 07:11:34 GMT</pubDate>
+      <title>网站：www.theverge.com</title>
+      <link>https://t.me/hn_summary/89540</link>
+      <description><![CDATA[Gemini 1.5 Pro将添加2M代币上下文窗口&lt; br/&gt;
+标题：Gemini 1.5 Pro将添加2M代币上下文窗口
+网站：www.theverge.com
+
+谷歌首席执行官 Sundar Pichai 宣布，即将推出的 Gemini 1.5 Pro 将具有更大的上下文窗口，从当前的 100 万个令牌增加到令人印象深刻的 200 万个令牌。这一增强功能将使人工智能模型能够理解和处理更多的信息，从而可能产生更准确和细致的输出。这一发展标志着人工智能能力的实质性飞跃，体现了谷歌对推进人工智能技术的持续承诺。]]></description>
+      <guid>https://t.me/hn_summary/89540</guid>
+      <pubDate>Tue, 14 May 2024 17:58:13 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Michelle Khare 等 YouTube 顶级创作者正在通过高质量的内容改变游戏规则 [...]</title>
-      <link>https://t.me/hn_summary/89451</link>
-      <description><![CDATA[YouTube 赢得电视流媒体大战的秘密武器：顶级创作者&lt; /a&gt;
-米歇尔·卡雷 (Michelle Khare) 等 YouTube 顶级创作者正在通过可与传统电视相媲美的高质量内容来改变游戏规则。通过像重现哈里·胡迪尼魔术这样的剧集，卡雷和其他人正在突破该平台所能实现的界限。尽管没有资格获得艾美奖，YouTube 节目仍然吸引了大量观众，仅在美国就有 1.5 亿观众。像 GMM 的瑞德和林克这样的创作者正在引领潮流，创建以新方式与观众联系的独立电视。 YouTube 的成功归功于其创作者，该平台有望继续在电视流媒体大战中占据主导地位。]]></description>
-      <guid>https://t.me/hn_summary/89451</guid>
-      <pubDate>Tue, 14 May 2024 07:10:29 GMT</pubDate>
+      <title>[媒体] 本周的帖子深入探讨了编译器资源管理器 (CE)，它对于任何人来说都是一个非常宝贵的工具 [...]</title>
+      <link>https://t.me/hn_summary/89539</link>
+      <description><![CDATA[编译器资源管理器
+本周的文章深入探讨了 Compiler Explorer (CE)，对于任何对编译器或计算机体系结构感兴趣的人来说，这是一个非常宝贵的工具。 CE 允许用户输入源代码并立即查看编译后的输出（通常是汇编语言）。 CE 支持 69 种源语言和 2,000 多个编译器，可满足从 x86 到古老的 6502 等各种架构的需求。CE 由 Matt Godbolt 于 2012 年创建，已经取得了显着的发展，现已开源，托管在 GitHub 上。用户可以比较不同架构和编译器的汇编输出，从而增强对代码性能的理解。 CE 还集成了 LLVM 机器代码分析器等工具，以获取详细的性能见解。有关更多信息，请访问编译器资源管理器。 （根据 77% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/89539</guid>
+      <pubDate>Tue, 14 May 2024 17:52:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
