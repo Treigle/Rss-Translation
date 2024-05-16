@@ -4,13 +4,41 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Thu, 16 May 2024 12:20:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2024 15:11:30 GMT</lastBuildDate>
     <item>
-      <title>学习编程的正确方法</title>
-      <link>https://www.reddit.com/r/programming/comments/1ctau40/proper_way_to_learn_programming/</link>
-      <description><![CDATA[我想学习编程，但在我看来，这不是别人能教的，在大学里我不学做，只是如何用C语言编写。我需要做什么才能开始思考和学习？任何建议和材料都会有用。我只知道W3school geeks4geegks   由   提交/u/Chogi1337  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ctau40/proper_way_to_learn_programming/</guid>
-      <pubDate>Thu, 16 May 2024 11:38:07 GMT</pubDate>
+      <title>员工的个人 GitHub 存储库如何损害 Azure 的内部容器注册表</title>
+      <link>https://www.reddit.com/r/programming/comments/1ctf6kj/how_an_employees_personal_github_repository/</link>
+      <description><![CDATA[ 由   提交/u/Pale_Fly_2673  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ctf6kj/how_an_employees_personal_github_repository/</guid>
+      <pubDate>Thu, 16 May 2024 15:09:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>与爪哇一起巡游 • Venkat Subramaniam 和 Alina Yurenko • GOTO 2024</title>
+      <link>https://www.reddit.com/r/programming/comments/1ctco0d/cruising_along_with_java_venkat_subramaniam_alina/</link>
+      <description><![CDATA[ 由   提交 /u/goto-con   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ctco0d/cruising_along_with_java_venkat_subramaniam_alina/</guid>
+      <pubDate>Thu, 16 May 2024 13:16:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>GraphQL、REST、gRPC——不公平的比较</title>
+      <link>https://www.reddit.com/r/programming/comments/1ctcmyj/graphql_vs_rest_vs_grpc_an_unfair_comparison/</link>
+      <description><![CDATA[ 由   提交/u/West-Chocolate2977   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ctcmyj/graphql_vs_rest_vs_grpc_an_unfair_comparison/</guid>
+      <pubDate>Thu, 16 May 2024 13:15:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>修复 2 年之久的 Bug：调试 SSL 握手之旅</title>
+      <link>https://www.reddit.com/r/programming/comments/1ctc6bi/fixing_a_2yearold_bug_a_journey_with_debugging/</link>
+      <description><![CDATA[ 由   提交/u/Plane_Ebb1662   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ctc6bi/fixing_a_2yearold_bug_a_journey_with_debugging/</guid>
+      <pubDate>Thu, 16 May 2024 12:52:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>“开发人员应该拥有安全性。并在生产中进行测试。”</title>
+      <link>https://www.reddit.com/r/programming/comments/1ctbxhe/developers_should_own_security_and_test_in/</link>
+      <description><![CDATA[ 由   提交/u/shift_devs  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ctbxhe/developers_should_own_security_and_test_in/</guid>
+      <pubDate>Thu, 16 May 2024 12:39:29 GMT</pubDate>
     </item>
     <item>
       <title>未解的身份：沉默的数据项目杀手</title>
@@ -48,20 +76,6 @@
       <pubDate>Thu, 16 May 2024 08:54:41 GMT</pubDate>
     </item>
     <item>
-      <title>3 分钟安装 VS Code！</title>
-      <link>https://www.reddit.com/r/programming/comments/1ct7wne/install_vs_code_in_3_minutes/</link>
-      <description><![CDATA[  由    /u/OCEANOFANYTHING  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ct7wne/install_vs_code_in_3_minutes/</guid>
-      <pubDate>Thu, 16 May 2024 08:10:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>最大限度提高 AWS 成本效率的 10 个技巧</title>
-      <link>https://www.reddit.com/r/programming/comments/1ct7t8e/10_tips_for_maximizing_your_aws_cost_efficiency/</link>
-      <description><![CDATA[ 由   提交/u/bitter-cognac  [链接] &amp;# 32； &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/programming/comments/1ct7t8e/10_tips_for_maximizing_your_aws_cost_efficiency/&quot;&gt;[评论]&lt;/a&gt;&lt;/span&gt;]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ct7t8e/10_tips_for_maximizing_your_aws_cost_efficiency/</guid>
-      <pubDate>Thu, 16 May 2024 08:03:46 GMT</pubDate>
-    </item>
-    <item>
       <title>如何使用 Tailwind CSS 和 JavaScript 创建多步骤表单</title>
       <link>https://www.reddit.com/r/programming/comments/1ct7njg/how_to_create_a_multistep_form_with_tailwind_css/</link>
       <description><![CDATA[ 由   提交 /u/Michael_andreuzza   [链接] [评论]]]></description>
@@ -76,7 +90,7 @@
       <pubDate>Thu, 16 May 2024 07:35:59 GMT</pubDate>
     </item>
     <item>
-      <title>数据仓库、数据集市、数据湖</title>
+      <title>数据仓库、数据集市和数据湖</title>
       <link>https://www.reddit.com/r/programming/comments/1ct6o9h/data_warehouse_vs_data_mart_vs_data_lake/</link>
       <description><![CDATA[查看我们详细介绍数据仓库、数据集市和数据湖的最新博客。了解这些架构如何彻底改变您的数据管理并提高您的商业智能。 🔹 数据仓库：用于复杂查询的集中式结构化数据。 🔹 数据集市：快速、特定于部门的数据访问。 🔹 数据湖：适用于所有数据类型的灵活存储。 做出更好的决策并优化您的数据策略。点击下方阅读更多！ 👇 https://devblogit.com/data-warehouse -vs-data-mart-vs-data-lake/ DataManagement #DataStrategy #BigData #BusinessIntelligence    ;由   提交/u/Bubbly_Bed_4478   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ct6o9h/data_warehouse_vs_data_mart_vs_data_lake/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[ 由   提交/u/guleriashubham63   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ct5pm9/handling_forms_and_validation_in_javascript/</guid>
       <pubDate>Thu, 16 May 2024 05:32:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Python - 新的 Web 应用程序库</title>
-      <link>https://www.reddit.com/r/programming/comments/1ct4gpl/python_new_web_app_libraries/</link>
-      <description><![CDATA[轻松的高级后端开发人员，拥有 Python（包括机器学习 livs）以及 Node.js 和 SwiftUI 经验。 尝试使用 FastAPI 和 NiceGUI 进行 Web 开发的 Python   由   提交/u/whitechoc6  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ct4gpl/python_new_web_app_libraries/</guid>
-      <pubDate>Thu, 16 May 2024 04:14:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在 #SQL Server 中使用分离和附加来更改数据库文件 sql 位置</title>
-      <link>https://www.reddit.com/r/programming/comments/1ct2pky/how_to_change_database_file_sql_location_using/</link>
-      <description><![CDATA[ 由   提交/u/vladimirgamal  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ct2pky/how_to_change_database_file_sql_location_using/</guid>
-      <pubDate>Thu, 16 May 2024 02:36:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
