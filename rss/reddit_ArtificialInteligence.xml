@@ -4,13 +4,62 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 17 May 2024 15:10:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 18:13:42 GMT</lastBuildDate>
     <item>
-      <title>大型科技公司正走向错误的方向</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cu5sud/big_tech_are_headed_in_the_wrong_direction/</link>
-      <description><![CDATA[大型科技公司正朝着正确的方向前进吗？我不知道为什么他们一直坚持为他们拥有的每个应用程序拥有单独的人工智能模型，其中没有一个与任何其他应用程序交叉兼容。 以人工智能的发展速度，我认为像这样的单一模型GPT4o 将获胜。基于我们目前的狭义人工智能系统，一个可以处理所有事情的单一人工智能代理解决方案比数百个单独的人工智能代理解决方案更好。他们所做的只是让当前的狭义人工智能更加智能。 未来将是一个单一的人工智能代理个人助理，所有这些单独的人工智能都只是无用的吗？   由   提交 /u/AIOverlordsAreHere   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cu5sud/big_tech_are_headed_in_the_wrong_direction/</guid>
-      <pubDate>Fri, 17 May 2024 13:54:46 GMT</pubDate>
+      <title>公司对“人工智能”一词的使用是否过于宽松？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cuc6zd/are_companies_using_the_term_ai_too_loosely/</link>
+      <description><![CDATA[ 由   提交/u/Curious_Suchit   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cuc6zd/are_companies_using_the_term_ai_too_loosely/</guid>
+      <pubDate>Fri, 17 May 2024 18:13:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在尝试用人工智能制作音乐视频。我需要一些建议。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cuc0on/im_trying_to_make_a_music_video_with_ai_i_need/</link>
+      <description><![CDATA[正如标题所说，我需要一些帮助。我正在尝试用人工智能制作音乐视频，但似乎一事无成。它似乎不理解我的提示，我需要知道哪个网站/应用程序最好。如果用户友好的话我不介意付费。如有任何建议，我们将不胜感激。   由   提交/u/sizzybee  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cuc0on/im_trying_to_make_a_music_video_with_ai_i_need/</guid>
+      <pubDate>Fri, 17 May 2024 18:06:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于大学数学来说，最好的人工智能是什么</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cuc0e5/what_is_the_best_ai_to_get_for_uni_level_math/</link>
+      <description><![CDATA[正如标题所说，对于大学水平的数学、物理和编码来说，最好的 AI 是什么？如果它可以很好地处理其他语言，那就太好了，因为我是瑞典人，所以在数学和物理方面，用我的母语来处理会容易得多。我看了很多帖子，但真的不知道该买哪一个？有人说 Phind，有人说 Perplexity，还有人说 gpt 等等。我不知道应该买哪一个，请帮助一个困惑的大学生。如果可以在一个计划下获得多个帐户，那也很棒     提交人    /u/Sjomullen   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cuc0e5/what_is_the_best_ai_to_get_for_uni_level_math/</guid>
+      <pubDate>Fri, 17 May 2024 18:05:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过 AI 看看您的宝宝会是什么样子</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cuasd1/see_what_your_baby_would_look_like_with_ai/</link>
+      <description><![CDATA[网站  关于：很多人想知道他们的孩子和他们的伴侣会是什么样子，但似乎所有的工具要么非常糟糕，要么是付费墙后面的，所以我我和另外两个队友开发了一个产品来解决这个问题。 它被称为 Mixmatch：一个免费产品，您可以在其中创建您宝宝的样子的图像等等。以下是一些详细信息： 模型：我们正在使用新发布的 PuLID 模型。它的运行速度非常快且成本低廉，但输出可能有点不一致。鉴于输出不一致，我们为网站上的每个过滤器手工策划了十几个左右的高质量种子。这使得输出更加可靠，但仍远未达到完美。  过滤器：目前我们有 15 类过滤器，总共 99 个过滤器，所有这些过滤器都是我们用精选的种子编写的。我们决定不对该模型的不一致输出及其具有的非常 NSFW 功能进行开放式提示。我个人最喜欢的一些过滤器是：脸部照片、摩托艇、蓝精灵、婴儿（显然）、专业头像（但添加了名人，这样我们的脸就融合在一起了）和小丑。  托管：我们正在 Fal.AI 上运行模型 - 他们非常棒！  隐私：所有面孔将在 1 年后从我们的数据库中删除，并且除了仅为您创建图像之外不会用于任何其他用途。  定价：该网站完全免费。这种模式的运行成本非常低廉，我们的业务能够承担运行该产品的成本。  反馈：我们今天刚刚推出了这个网站，还有很多东西需要完善和改进。如果您有任何反馈，我们很乐意听到，我们将尽最大努力快速实施:)    由   提交/u/jacobgc75   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cuasd1/see_what_your_baby_would_look_like_with_ai/</guid>
+      <pubDate>Fri, 17 May 2024 17:16:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能可以吗？用于解决与放射性核废料相关的问题？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cu9o0t/could_ai_be_used_to_address_the_problems/</link>
+      <description><![CDATA[在我看来，这是一个对人类现在和未来数千年产生长期影响和后果的问题。就像我一样，关于“大”东西，A.I.应该让我们领先。不过，我不是一个以科学为导向的思想家，所以我不知道那会是什么样子。   由   提交 /u/heavensdumptruck   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cu9o0t/could_ai_be_used_to_address_the_problems/</guid>
+      <pubDate>Fri, 17 May 2024 16:30:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>超人人工智能对人类构成生存威胁吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cu9evv/is_superhuman_ai_an_existential_threat_to_humanity/</link>
+      <description><![CDATA[ 由   提交/u/Cervantes6785   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cu9evv/is_superhuman_ai_an_existential_threat_to_humanity/</guid>
+      <pubDate>Fri, 17 May 2024 16:20:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能正在引领一个无摩擦想象工作的时代。想象力将是成功的关键因素。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cu966j/ai_is_leading_to_an_era_of_frictionless/</link>
+      <description><![CDATA[“任何人都可以创造任何东西！”这是人们对生成式人工智能工具的看法，尤其是当涉及到视觉效果和其他曾经为创意阶层保留的产品时。我相信我代表了许多创意人士，他们在思考我们的艺术领域将走向何方时感到恐惧和眩晕。有时我喜欢它，有时它让我感到恶心。最终，这里要调整的变量是摩擦——人们可以比以往任何时候都更少地进行创作，类似于 Garageband 的广泛使用如何使家庭录音更容易获得，或者 MIDI 如何使乐器复制更加无缝，或者数码相机如何使摄影民主化。随着摩擦的减少，参与度就会上升。“任何人”都可以用人工智能制作一首歌曲、一个图形设计或一个短视频。这甚至可以扩展到整部小说。人们可以提示人工智能用一组给定的参数和特征写一本小说，但个人必须首先设想这些特征。想象力是借口。所有人工智能创造力的先决条件是用户的思考。 未来的超能力将存在于原始想象力本身。事实上，任何人都可以使用 DALL-E 或 Adob​​e Firefly 进行设计。但首先，他们必须想象他们想要什么并将其输入。当整个创作过程变成 1) 打开程序 2) 输入提示 3) 查看结果并编辑 4) 分享时，专业知识的最终衡量标准将是你首先能想象到什么。你遇到的大多数人都没有什么值得放入歌曲创作引擎或视频制作工具的提示框中，即使理论上“任何人”都可以做到。 任何人都可以用生成式人工智能制作创意产品，但很少有人会这样做。少数愿意学习工具、运用它们并有值得输入提示框的想法的人将在市场和工作中拥有天然优势。  所以我是这样看的——在无摩擦创造力的时代，那些拥有原始想象力和丰富想法的人将主宰艺术和其他领域。你怎么看？    提交人    /u/bleeding_electricity   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cu966j/ai_is_leading_to_an_era_of_frictionless/</guid>
+      <pubDate>Fri, 17 May 2024 16:10:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>API 输出令牌长度，它们足够长吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cu7xg1/api_output_token_lengths_are_they_long_enough/</link>
+      <description><![CDATA[使用 LLM API 时我注意到的一件事是，虽然您可以为 Gemini 1.5 Pro 等内容提供相当多的上下文，但您也可以对于 8k 令牌内的更大任务来说，并不能真正从中获得有用的量。 例如，将 3.5 分钟的视频转录为 JSON，并包含逐字开始/结束时间、说话者分类和章节，很容易就会超出极限。 这感觉像是双子座应该擅长的事情，但是将大音频文件分成一分钟长的文件，运行推理，然后将它们全部缝合在一起似乎有点......错误。 &lt; p&gt;其他人对于这样更大的任务都是做什么的？一定有更好的方法，对吧？   由   提交/u/cjlryan  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cu7xg1/api_output_token_lengths_are_they_long_enough/</guid>
+      <pubDate>Fri, 17 May 2024 15:20:39 GMT</pubDate>
     </item>
     <item>
       <title>自动数据分析 python 包演示</title>
@@ -27,20 +76,6 @@
       <pubDate>Fri, 17 May 2024 11:53:12 GMT</pubDate>
     </item>
     <item>
-      <title>地球2.0模拟参数</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cu1cjn/earth_20_simulation_parameters/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cu1cjn/earth_20_simulation_parameters/</guid>
-      <pubDate>Fri, 17 May 2024 09:53:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>揭秘人工智能术语：NLP 与 LLM</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cu10j5/demystifying_ai_jargon_nlp_vs_llms/</link>
-      <description><![CDATA[曾经与智能聊天机器人交谈过或阅读过听起来自然的机器撰写的文章吗？这些都要归功于人工智能，特别是自然语言处理 (NLP) 和大型语言模型 (LLM)。但有什么区别呢？ NLP 就像一个理解人类语言、分解句子、识别关键词和把握情感的工具包。将其视为木匠使用的工具。 另一方面，法学硕士是创意作家。经过大量文本的训练，他们不仅能够理解语言，还能生成类似人类的文本、翻译语言并创建内容。 简而言之，NLP 帮助人工智能理解语言，而法学硕士则利用这种理解来创造内容。新内容。他们共同利用人类语言提升人工智能的能力。 https://www.seaflux.tech/blogs/llm-vs-nlp-use-case-for-business-solutions   由   提交/u/krunal_bhimani_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cu10j5/demystifying_ai_jargon_nlp_vs_llms/</guid>
-      <pubDate>Fri, 17 May 2024 09:28:38 GMT</pubDate>
-    </item>
-    <item>
       <title>麻省理工学院的研究人员利用机器学习和卫星远程绘制粮食作物地图</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cu0i8w/mit_researchers_remotely_map_food_crops_using/</link>
       <description><![CDATA[作物地图可帮助科学家和政策制定者跟踪全球粮食供应，并估计它们如何随着气候变化和人口增长而发生变化。据估计，小农农场养活了世界三分之二的农村人口，生产了世界 80% 的粮食。 密切关注种植的作物和地点对于跟踪和预测世界各地的粮食供应至关重要。但只有少数国家有资源来创建准确的地图。 因此，麻省理工学院的工程师结合使用 Google 街景图像、机器学习和卫星数据来自动确定整个地区种植的农作物，而无需要求对每个农场进行现场评估。 在此处了解更多信息：   由   提交 /u/ChikyChikyBoom   [链接] [评论]]]></description>
@@ -50,23 +85,9 @@
     <item>
       <title>人工智能“大脑”图</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ctyqog/ai_brain_diagrams/</link>
-      <description><![CDATA[我看到一篇采访，杰弗里·辛顿 (Geoffrey Hinton) 说我们目前并不完全理解“心智”是如何运作的。人工智能作品。这让我想起了有关卡尔·西姆斯的虚拟生物的片段。他说他并不完全了解进化后的虚拟生物的大脑是如何工作的。然而，他确实有他们的“大脑”图。它们的结构和对称性让我着迷。  问题：聊天机器人或文本到视频生成器是否有类似的图表？我只是觉得这些图表看起来和思考起来很有趣。  Karl Sims 访谈（约 1995 年）：https://youtu .be/WmrTNrtE-Lk?si=T7b2K1ps-7FAnF21&amp;t=2m57s（时间戳为 2:57）    ;由   提交 /u/CzeckeredBird   [链接] [评论]]]></description>
+      <description><![CDATA[我看过一次采访，Geoffrey Hinton 说我们目前还不完全了解人工智能的“思维”是如何运作的。这让我想起了 Karl Sims 的《虚拟生物》一文中的这段话。他说他不完全了解进化的虚拟生物的大脑是如何运作的。然而，他确实有它们的“大脑”图表。它们的结构和对称性让我着迷。 问题：聊天机器人或文本到视频生成器是否有类似的图表？我只是觉得这些图表很有趣，值得一看和思考。  对 Karl Sims 的采访（约 1995 年）：https://youtu.be/WmrTNrtE-Lk?si=T7b2K1ps-7FAnF21&amp;t=2m57s（时间戳为 2:57）    提交人    /u/CzeckeredBird   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ctyqog/ai_brain_diagrams/</guid>
       <pubDate>Fri, 17 May 2024 06:41:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在工作中使用人工智能？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ctwlqu/how_can_i_use_ai_for_work/</link>
-      <description><![CDATA[我听说人们将人工智能描述为一种工具，它使研究和写作比 5 年前容易 10 倍，但我还没有尝试过任何东西这确实有帮助。  我使用 Copilot 进行研究，但由于它有产生幻觉和误解数据的习惯，我无论如何都需要检查来源，所以它并不能节省我的时间。这包括要求它总结文本，我发现它的效果不足以证明使用的合理性。 当我想写一些东西时，我要求它写我想要的东西，但我只是发现文本最终不足以让我使用，所以无论如何我都必须写它。 我很想知道我可以做些什么来更好地使用这项新技术，如果有我可以做的技术的话尝试一下，或者我可以尝试的新应用程序。我很乐意推荐，欢呼。    由   提交/u/mr_arcane_69   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ctwlqu/how_can_i_use_ai_for_work/</guid>
-      <pubDate>Fri, 17 May 2024 04:22:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>最新版本发布后，您订阅了哪些 AI？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ctvn4s/which_ai_subscriptions_do_you_have_after_the/</link>
-      <description><![CDATA[我一直是 ChatGPT 的订阅者，但现在他们最好的模型是免费的。  那么你推荐哪些人工智能订阅？ 我一直在研究 POE 和其他聚合多个人工智能的服务。任何建议都会有帮助。   由   提交 /u/Cheap_Gasoline   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ctvn4s/which_ai_subscriptions_do_you_have_after_the/</guid>
-      <pubDate>Fri, 17 May 2024 03:26:56 GMT</pubDate>
     </item>
     <item>
       <title>我妈妈看着假照片并认为它们是真的</title>
@@ -76,27 +97,6 @@
       <pubDate>Fri, 17 May 2024 00:29:48 GMT</pubDate>
     </item>
     <item>
-      <title>最适合休闲/娱乐的人工智能应用程序是什么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ctli9x/whats_the_best_ai_app_for_casual_usefun/</link>
-      <description><![CDATA[最近感觉有点无聊。我使用人工智能来解决很多与生活相关的问题，但我对从中获得一些乐趣很感兴趣。我目前不为任何应用程序付费，但我愿意为合适的应用程序付费。有哪些好玩的人工智能应用？   由   提交 /u/TrueSolid611   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ctli9x/whats_the_best_ai_app_for_casual_usefun/</guid>
-      <pubDate>Thu, 16 May 2024 19:32:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个开源的人工智能交易算法，并将其发布在 GitHub 上</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ctkkdq/i_created_an_opensource_ai_trading_algorithm_and/</link>
-      <description><![CDATA[开源 GitHub 存储库 | 描述该过程的论文 旁白：如果您想采取我在网上完成的课程， 完整课程可在 YouTube 上免费观看。  当我还是卡内基梅隆大学的研究生时，我选修了这门名为深度学习简介。不要让这门课程的名称欺骗了您；这绝对是我一生中上过的最难、最有趣的课程之一。在那堂课上，我充分了解了什么是“AI”。 实际上的意思。我学会了如何创建最先进的人工智能算法 - 包括使用 AWS EC2 集群从头开始训练它们。 但是，我喜欢它。此时，我也是一名交易员。我渴望创建人工智能驱动的机器人来为我执行交易。 而且我听说过“强化学习”。之前..我在阿尔伯塔大学参加了在线课程并获得了证书。但我并没有接触过“深度强化学习”。 – 将我们最强大的人工智能算法（深度学习）与强化学习相结合 因此，当我的深度学习入门课程有一个最终项目，我可以在其中创建我想要的任何内容时，我决定制作一个深度强化学习交易机器人。 背景：什么是深度强化学习 深度强化学习 (DRL) 涉及一系列结构化步骤，使计算机程序或代理能够学习最佳操作在给定的环境中，通过反复试验的过程。以下是一个简明的细分：  初始化：从不了解环境的代理开始，环境可以是从游戏界面到金融市场的任何东西。 观察：代理观察环境的当前状态，例如股票价格或游戏屏幕。 决定：使用其当前策略最初可能是随机的，代理选择要执行的操作。 操作和转换：代理执行操作，导致环境发生变化并生成新状态，以及奖励（积极或消极）。 接收奖励：奖励告知智能体其行动在实现目标方面的有效性。 &lt; li&gt;学习：代理使用经验（初始状态、操作、奖励、新状态）更新其策略，通常采用 Q 学习或策略梯度等算法来改进针对产生的操作的决策更高的回报。 迭代：这个循环不断重复，代理不断完善其策略以最大化累积奖励。  这种迭代学习方法允许 DRL 智能体从新手发展为专家，通过基于与环境的直接交互来优化行动来掌握复杂的决策任务。 我如何将其应用到股票市场 我的团队实施了一系列算法，将金融市场建模为深度强化学习问题。虽然我不会在这篇文章中介绍太多技术性内容，但您可以准确地阅读我们在这里所做的事情。我们尝试的一些有趣的实验包括使用卷积神经网络生成图形，并使用图像作为模型的特征。 然而，尽管我们构建的模型很复杂，但没有一个模型能够开发一种优于“买入并持有”的交易策略。 我承认代码非常丑陋（我们急于寻找可以在论文中编写的东西没有关注代码质量）。但如果这里的人们对大型语言模型之外的人工智能感兴趣，我认为这将是一本有趣的读物。 开源 GitHub 存储库 | 描述流程的论文 很高兴收到有关我在整个体验过程中学到的知识的问题!   由   提交 /u/Starks-Technology   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ctkkdq/i_created_an_opensource_ai_trading_algorithm_and/</guid>
-      <pubDate>Thu, 16 May 2024 18:54:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有人因为人工智能而改变了自己的人生决定？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ctc3mh/has_anyone_changed_their_mind_about_any_life/</link>
-      <description><![CDATA[例如，在大学开始课程、转行、组建家庭、结婚、搬家等。 或者我可能没有想到的任何小决定   由   提交/u/broxue  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ctc3mh/has_anyone_changed_their_mind_about_any_life/</guid>
-      <pubDate>Thu, 16 May 2024 12:48:16 GMT</pubDate>
-    </item>
-    <item>
       <title>新的反垃圾邮件/机器人规则[请阅读]</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</link>
       <description><![CDATA[我们制定了一条规则，新帐户一天以上或 karma 低于 100 的用户不能发帖。他们可以发表评论，但不能提交实际的帖子。这是我们解决机器人垃圾邮件计划的一部分。对于给您带来的任何不便，我们深表歉意。 我们将在接下来的几天内进行一项民意调查，以了解 Reddit 子版块的普遍意愿以及如何改进，请注意。 作为请始终向我们提供反馈，如果您有兴趣帮助该子项目，请与我联系。  谢谢大家！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
@@ -104,9 +104,9 @@
       <pubDate>Sat, 18 Feb 2023 16:49:55 GMT</pubDate>
     </item>
     <item>
-      <title>重要提示：征求有关 subreddit 规则和未来方向的评论。请阅读！</title>
+      <title>重要提示：请求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到 r/ArtificialIntelligence！ 我们的目标是为所有考虑人工智能的事情提供一个开放和尊重的论坛 - 其中包括  促进有关人工智能的哲学和伦理讨论 作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用程序 提供培训和学习资源 引导用户查看更具体的信息和子版块 列出人工智能/机器学习应用程序、它们的用途、成本和访问信息 其他与人工智能相关的内容。 ...等等  该子版块的审核团队正在进行改组将导致子版块发生一些变化。但是，无需担心，因为这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解并能够提供反馈，将提供多次机会对变化进行反馈。 第一轮反馈收集是通过此线程作为“征求意见”（RFC）进行的，这是收集反馈的标准方法。在准备和实施更改时，将有多轮 RFC 流程。 ​  发布新应用程序/自我推广/AI 生成内容的规则  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似内容将被阻止或限制在特定的置顶帖子中。 AI 生成特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的置顶帖子中。 博客链接应包含高质量内容。链接到纯促销博客的帖子将被删除。 除非包含一定字数的详细信息，否则将禁止仅包含链接的帖子。必须付出一些努力。 我们应该阻止由 AI 撰写的帖子吗？存在可用于 Mod-bot 的模型，但这是一个我们需要反馈的问题。  使用天赋来组织帖子。请注意，已经添加了新的天赋，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们希望向社区提供有关 mod-bot 的想法。虽然一些标准机器人将用于基本维护，但是社区可以为 AI/ML 机器人功能想出什么有趣的东西呢？ 培养初级、中级和高级资源，以帮助人们找到他们正在寻找的信息、培训、模型、技术数据等。 启动 substack/podcast 来采访整个 AI/ML 领域的人。这可能包括哲学家和思想家、程序员、科学家、商人，甚至那些对 AI 持对立观点的人 如果您想创建代表子版块的横幅，请使用适当的尺寸进行创建。任何创建方法都是​​可以接受的。  不用说，每个人都应该受到尊重。我个人觉得我们都知道这一点，不需要把它灌输到人们的脑海里。要友善。 感谢您的耐心和帮助！    提交人    /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>
