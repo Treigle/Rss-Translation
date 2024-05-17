@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Product Hunt — 每天提供最好的新产品</title>
+    <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 17 May 2024 18:15:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 21:10:38 GMT</lastBuildDate>
     <item>
       <title>参与意见箱</title>
       <link>https://www.producthunt.com/posts/engagewith-suggestion-box</link>
@@ -48,7 +48,7 @@
       <pubDate>Fri, 17 May 2024 05:15:59 GMT</pubDate>
     </item>
     <item>
-      <title>泰洛</title>
+      <title>特洛</title>
       <link>https://www.producthunt.com/posts/telow-2</link>
       <description><![CDATA[
 利用 AI 获取可操作的业务情报
@@ -202,7 +202,7 @@
       <pubDate>Mon, 13 May 2024 15:58:00 GMT</pubDate>
     </item>
     <item>
-      <title>Trust Hub（由 hoggo 提供）</title>
+      <title>hoggo 的信任中心</title>
       <link>https://www.producthunt.com/posts/trust-hub-by-hoggo</link>
       <description><![CDATA[
             企业对企业 (B2B) 信任的新标准
