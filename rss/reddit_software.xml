@@ -4,11 +4,11 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 18 May 2024 15:12:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 May 2024 18:14:41 GMT</lastBuildDate>
     <item>
       <title>可以上传和剪切30GB的视频吗？</title>
       <link>https://www.reddit.com/r/software/comments/1cuz84l/able_to_upload_and_cut_a_30gb_video/</link>
-      <description><![CDATA[我有一个近 3 小时长的视频（在笔记本电脑上），我只需要最后 3 分钟 - 但我只能找到有限的选项对于视频修剪，Clipchamp 不会加载超过 2 - 3% 的视频。关于如何修剪它有什么想法吗？   由   提交/u/truetoorangeandblue  [链接] [评论]]]></description>
+      <description><![CDATA[我有一个近 3 小时长的视频（在笔记本电脑上），我只需要最后 3 分钟 - 但我只能找到有限的选项对于视频修剪，Clipchamp 不会加载超过 2 - 3% 的视频，因为文件太大。关于如何修剪它有什么想法吗？   由   提交/u/truetoorangeandblue  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cuz84l/able_to_upload_and_cut_a_30gb_video/</guid>
       <pubDate>Sat, 18 May 2024 15:01:30 GMT</pubDate>
     </item>
@@ -55,7 +55,7 @@
       <pubDate>Sat, 18 May 2024 00:43:38 GMT</pubDate>
     </item>
     <item>
-      <title>使挂载在 QEMU Linux 服务器上的文件系统更易于访问 [Termux 上的 lftp、在 QEMU 下运行的 Alpine Linux 上的 vsftpd（匿名模式、被动模式）、QEMU 的 -device usb-redir 和 -chardev socket、连接到未 root 的 Android 11 智能手机的 USB-C 2.0 端口的硬盘]</title>
+      <title>使安装在 QEMU Linux 服务器上的文件系统更易于访问 [Termux 上的 lftp、在 QEMU 下运行的 Alpine Linux 上的 vsftpd（匿名模式、被动模式）、QEMU 的 -device usb-redir 和 -chardev 套接字、硬盘驱动器连接到未 root 的 Android 11 智能手机的 USB-C 2.0 端口]</title>
       <link>https://www.reddit.com/r/software/comments/1cukwip/making_a_filesystems_mounted_on_the_qemu_linux/</link>
       <description><![CDATA[ 由   提交/u/throtaway16830261   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cukwip/making_a_filesystems_mounted_on_the_qemu_linux/</guid>
@@ -85,7 +85,7 @@
     <item>
       <title>小型企业日历调度程序</title>
       <link>https://www.reddit.com/r/software/comments/1cud5fc/small_business_calendar_scheduler/</link>
-      <description><![CDATA[我需要为一家有 6 名员工的小型建筑公司安排工作。 正在寻找能够容纳我们 6 个人的理想建筑公司一种观点。可能看起来像一个电子表格，其中包含员工的行，顶部有日期，也可能是日历网格。基于 PC 的理想选择，可以是网络。 想要在错过目标时能够推迟所有日期的东西，比如一个人每周生病一次。我不想以后必须手动调整所有日期。这是我遇到或尝试过的所有软件都有的致命缺陷。假设我们有一名员工安排了 8 份工作，每份工作一周。然后我们的工作地点发生了变化，我需要让该员工下周工作 3 天，并将剩下的 7 个工作推迟到这 3 天。我尝试过的所有产品都希望您手动调整这 7 项工作的日期 - 这是致命的缺陷。 我们已经被几个承诺调整日期的软件演示所困扰（星期一就是其中之一） ，但最终他们并没有这么做——他们只想要 20 美元/员工/月。这些产品更旨在作为时间表与 Quickbooks 集成。相反，我认为这是免费的，最高 100 美元，或者类似 5 美元/月……？只需要一些简单的东西。   由   提交 /u/LYL_Homer   [链接] [评论]]]></description>
+      <description><![CDATA[我需要为一家有 6 名员工的小型建筑公司安排工作。 正在寻找能够容纳我们 6 个人的理想建筑公司一种观点。可能看起来像一个电子表格，其中包含员工的行，顶部有日期，也可能是日历网格。基于 PC 的理想选择，可以是网络。 想要在错过目标时将所有日期推迟的东西，比如一个人每周生病一次。我不想以后必须手动调整所有日期。这是我遇到或尝试过的所有软件都有的致命缺陷。假设我们有一名员工安排了 8 份工作，每份工作一周。然后我们的工作地点发生了变化，我需要让该员工下周工作 3 天，并将剩下的 7 个工作推迟到这 3 天。我尝试过的所有产品都希望您手动调整这 7 项工作的日期 - 这是致命的缺陷。 我们已经被几个承诺调整日期的软件演示所困扰（星期一就是其中之一） ，但最终他们并没有这么做——他们只想要 20 美元/员工/月。这些产品更旨在作为时间表与 Quickbooks 集成。相反，我认为这是免费的，最高 100 美元，或者类似 5 美元/月……？只需要一些简单的东西。   由   提交 /u/LYL_Homer   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cud5fc/small_business_calendar_scheduler/</guid>
       <pubDate>Fri, 17 May 2024 18:54:37 GMT</pubDate>
     </item>
