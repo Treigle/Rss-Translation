@@ -4,7 +4,14 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Sun, 19 May 2024 00:50:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2024 03:13:03 GMT</lastBuildDate>
+    <item>
+      <title>如果使用合并剪辑，在 Premiere 中重新同步音频的最佳方法是什么？</title>
+      <link>https://www.reddit.com/r/editors/comments/1cvchja/best_way_to_resync_audio_in_premiere_if_merged/</link>
+      <description><![CDATA[在 Premiere 中剪辑我的第一部正式短片，最初设置项目时，我合并了剪辑，因为我认为它不会忽略音频元数据等。现在我知道，如果项目包括周转，多机位同步是必经之路。我只是想知道什么是我重新同步到图片锁定时间线中的原始音频文件的最快方法？我一直在拖放 ISO 轨道并通过波形手动同步；然后重新创建我所做的最小声音编辑。有没有我没有想到的更快的方法？由于某种原因，合并剪辑的 TC 不会从源视频或音频中提取……此外，我是否只需要重新同步合并的音频而不是时间线中的图片？据我所知，我不认为合并剪辑的视频会影响颜色的周转。感谢您的见解，谢谢！    提交人    /u/MichaelKeIso   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cvchja/best_way_to_resync_audio_in_premiere_if_merged/</guid>
+      <pubDate>Sun, 19 May 2024 01:17:17 GMT</pubDate>
+    </item>
     <item>
       <title>Storyblocks 发生了什么？</title>
       <link>https://www.reddit.com/r/editors/comments/1cvbb18/whats_happening_with_storyblocks/</link>
@@ -57,7 +64,7 @@
     <item>
       <title>我用相当中间的时间线编辑 1080p 素材，我计划购买 m3 MacBook Air 512GB 存储和 16GB 内存。我会遇到问题吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1cuxdbl/i_edit_1080p_footage_with_pretty_intermediate/</link>
-      <description><![CDATA[我在没有任何帮助的情况下做了太多研究，因为所有在线视频都是关于轻度编辑和导出时间的。我用佳能 m50 mk ii 以 1080p（有时是 4k）录制 RAW 视频。我的编辑有颜色分级、大量抠像、过渡和相当数量的分层。我打算买的 Mac 够用吗？你们还有什么推荐的 Mac 选项吗？（预算最多 1650-1700）   由   提交/u/nafidaoudi   [链接] [评论]]]></description>
+      <description><![CDATA[我做了太多研究，却得不到任何帮助，因为网上所有的视频都是关于简单编辑和导出时间的。我用佳能 m50 mk ii 以 1080p 或有时 4k 录制 RAW 视频。我的编辑有颜色分级、大量键控、过渡和相当多的分层。我打算买的 Mac 够用吗？或者你们推荐什么其他 Mac 选项？（预算 1650-1700 最高）    提交人    /u/nafidaoudi   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cuxdbl/i_edit_1080p_footage_with_pretty_intermediate/</guid>
       <pubDate>Sat, 18 May 2024 13:30:11 GMT</pubDate>
     </item>
@@ -76,7 +83,7 @@
       <pubDate>Sat, 18 May 2024 10:31:23 GMT</pubDate>
     </item>
     <item>
-      <title>ARRIRAW HDE 代理未在正确的时间码重新链接</title>
+      <title>ARRIRAW HDE 代理未在正确的时间代码重新链接</title>
       <link>https://www.reddit.com/r/editors/comments/1cuu750/arriraw_hde_proxies_not_relinking_at_right/</link>
       <description><![CDATA[大家好，我是一名调色师，但我在这里提问是因为你们在这方面的经验可能比其他人都丰富。 这是 D.I.T.工作流程：导入卡例如A001 在 Davinci 的 bin 中， 创建了一个时间线，选择卡中的所有剪辑， 进入交付页面，选择单个剪辑并使用 SourceName 创建 DnXHR lb &gt; 当我尝试将 Dnx 重新链接到原始 ARRI RAW HDE 文件时，程序识别出正确的剪辑，但在剪辑本身的时间错误。 出了什么问题？ &gt; 感谢大家花时间回复并原谅我的英语，请   由   提交/u/giallons  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cuu750/arriraw_hde_proxies_not_relinking_at_right/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[我刚刚将 Prime Video Direct 的纪录片上传到名为 Baton for QC 的服务，但返回失败，原因是它检测到程序中的颜色条，我特意将其放入了取出部分，所以没问题，我只是将颜色条取出，但它也返回了冻结帧警告和重复帧警告（不确定为什么它们标记为警告） ）并没有写为失败，只是警告，我在 Mbps 上也失败了，它应该是 220，但我的速度是 176 不太明白这一点，因为我渲染了一个以 Mbps 烘焙的 Pro Res HQ 220？我还在报告中注意到一种叫做“节奏”的东西，其中有时间代码部分和类似的数字。 4-2-2-2、4-4 或 2-2 有人知道这些数字代表什么吗？   由   提交/u/yardvideo  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cut7d8/qc_clerance/</guid>
       <pubDate>Sat, 18 May 2024 09:08:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>运动效果编辑器图表视图中的时间线位置指示器/条 - Avid MC</title>
-      <link>https://www.reddit.com/r/editors/comments/1curjel/timeline_position_indicatorbar_in_motion_effect/</link>
-      <description><![CDATA[在运动效果编辑器图形中，是否可以在播放期间移动时间轴栏？ 它曾经这样做过吗？ 我觉得以前是这样的…… 但是现在不行了。 我研究了设置，找到了一种让它在效果编辑器中播放的方法。 但不是运动效果编辑器图形。 我需要喝一杯。    提交人    /u/transcodefailed   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1curjel/timeline_position_indicatorbar_in_motion_effect/</guid>
-      <pubDate>Sat, 18 May 2024 07:06:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
