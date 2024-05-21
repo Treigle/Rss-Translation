@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Tue, 21 May 2024 00:45:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2024 03:12:49 GMT</lastBuildDate>
+    <item>
+      <title>Python基础知识直播</title>
+      <link>https://www.reddit.com/r/programming/comments/1cwwrxz/python_basics_live_stream/</link>
+      <description><![CDATA[高级后端开发人员介绍的Python教程，以及一些有趣且易于使用的库。加入并提出问题或提出建议   由   提交/u/whitechoc6  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cwwrxz/python_basics_live_stream/</guid>
+      <pubDate>Tue, 21 May 2024 02:00:49 GMT</pubDate>
+    </item>
     <item>
       <title>React Conf 2024 的新增内容</title>
       <link>https://www.reddit.com/r/programming/comments/1cwv536/whats_new_at_react_conf_2024/</link>
@@ -20,7 +27,7 @@
       <pubDate>Tue, 21 May 2024 00:29:33 GMT</pubDate>
     </item>
     <item>
-      <title>Async Rust 并不坏：你才是坏人</title>
+      <title>异步 Rust 并不坏：你是</title>
       <link>https://www.reddit.com/r/programming/comments/1cwunpb/async_rust_isnt_bad_you_are/</link>
       <description><![CDATA[ 由   提交/u/Imaginary_Ad5366   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cwunpb/async_rust_isnt_bad_you_are/</guid>
@@ -29,12 +36,12 @@
     <item>
       <title>我制作的酷应用：使用 OpenAI 的 Whisper 以任何语言离线转录音频！</title>
       <link>https://www.reddit.com/r/programming/comments/1cwui6i/cool_app_i_made_transcribe_audio_offline_in_any/</link>
-      <description><![CDATA[  由    /u/WeatherZealousideal5  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/WeatherZealousideal5  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cwui6i/cool_app_i_made_transcribe_audio_offline_in_any/</guid>
       <pubDate>Tue, 21 May 2024 00:07:43 GMT</pubDate>
     </item>
     <item>
-      <title>比较桌面开发工具、Qt、Electron 和 macOS Native（Objective-C 和 Swift）</title>
+      <title>比较桌面开发工具 Qt、Electron 和 macOS Native（Objective-C 和 Swift）</title>
       <link>https://www.reddit.com/r/programming/comments/1cwtdmz/comparing_desktop_development_tools_qt_electron/</link>
       <description><![CDATA[ 由   提交/u/bbm_engineer  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cwtdmz/comparing_desktop_development_tools_qt_electron/</guid>
@@ -43,7 +50,7 @@
     <item>
       <title>saalikmueen/go-grpc-实现：Golang + Gin + Docker + gRPC + NGINX</title>
       <link>https://www.reddit.com/r/programming/comments/1cwsmua/saalikmubeengogrpcimplementation_golang_gin/</link>
-      <description><![CDATA[ 由   提交/u/saalik_m   [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/saalik_m  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cwsmua/saalikmubeengogrpcimplementation_golang_gin/</guid>
       <pubDate>Mon, 20 May 2024 22:40:22 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>VINIX - 用 V 语言编写的操作系统（与 Unix 兼容，包括 Bash、Xorg...）</title>
       <link>https://www.reddit.com/r/programming/comments/1cwlvuq/vinix_operating_system_with_unix_compatibility/</link>
-      <description><![CDATA[ 由   提交/u/j_m_macleod  [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/j_m_macleod  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cwlvuq/vinix_operating_system_with_unix_compatibility/</guid>
       <pubDate>Mon, 20 May 2024 17:58:47 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交/u/waterslurpingnoises   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cwlede/optimizing_sql_queries_postgresql_best_practices/</guid>
       <pubDate>Mon, 20 May 2024 17:38:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>cample-html - 新的开源工具，用于轻松获取服务器端 HTML 并将其添加到 DOM。</title>
-      <link>https://www.reddit.com/r/programming/comments/1cwklmw/camplehtml_new_open_source_tool_for_easily/</link>
-      <description><![CDATA[ 由   提交/u/antonmak1  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cwklmw/camplehtml_new_open_source_tool_for_easily/</guid>
-      <pubDate>Mon, 20 May 2024 17:05:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
