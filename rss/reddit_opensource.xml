@@ -4,9 +4,9 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 21 May 2024 15:12:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2024 18:14:51 GMT</lastBuildDate>
     <item>
-      <title>谁能推荐一个尊重隐私的明网开源在线文件托管网站？</title>
+      <title>有人能推荐一个尊重隐私的开源、透明网络上的在线文件托管网站吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cxa2pb/can_anyone_recommend_an_opensource_online_file/</link>
       <description><![CDATA[我的意思是一个可以上传文件的网站，它们只能通过链接访问，并且该网站没有跟踪器   由   提交/u/kekmacska7  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cxa2pb/can_anyone_recommend_an_opensource_online_file/</guid>
@@ -43,7 +43,7 @@
     <item>
       <title>Cover-Agent 首次由 Meta 重新实现 TestGen-LLM</title>
       <link>https://www.reddit.com/r/opensource/comments/1cwtmgh/coveragent_with_the_first_reimplementation_of/</link>
-      <description><![CDATA[介绍 Cover-Agent 🧪  一个开源工具，其中包括 Meta 的 TestGen-LLM 的重新实现，用于自动增强测试套件. 经理：“我们必须改进旧的测试套件以获得更好的代码覆盖率。你能应付得来吗？我：“当然，我最喜欢的任务...（不是！）:man-shrugging:” Meta 的团队提出了使用 LLM 来增强测试套件的想法 - 听起来很棒，对吧？但他们没有发布他们的代码。 我们发布了 (codium.ai)。在我们努力改进此基线时，我们希望得到您的反馈。 原始 TestGen-LLM 论文： https://arxiv.org/abs/2402.09171 Cover-Agent 开源，重新实现 TestGen- Meta 的 LLM：https://github.com/Codium-ai/cover-agent &lt; p&gt;我们的博客文章提供了有关 TestGen-LLM 和 Cover-Agent 的更多详细信息：https://www.codium.ai/blog/we-created-the-first-open-source-implementation-of-metas-testgen-llm/ Cover-Agent 实际操作： ‣ 示例：https://www.youtube.com/watch?v=sjRzO_W09xc  ‣ Python 示例：https://www.youtube.com/watch?v=ecoW5Pyjx94&lt; /p&gt;   由   提交/u/Kindly_Can_8580   [链接] [评论]]]></description>
+      <description><![CDATA[介绍 Cover-Agent 🧪  一个开源工具，其中包括 Meta 的 TestGen-LLM 的重新实现，用于自动增强测试套件. 经理：“我们必须改进旧的测试套件以获得更好的代码覆盖率。你能应付得来吗？我：“当然，我最喜欢的任务...（不是！）:man-shrugging:” Meta 的团队提出了使用 LLM 来增强测试套件的想法 - 听起来很棒，对吧？但他们没有发布他们的代码。 我们发布了 (codium.ai)。在我们努力改进此基线时，我们希望得到您的反馈。 原始 TestGen-LLM 论文： https://arxiv.org/abs/2402.09171 Cover-Agent 开源，重新实现 TestGen-法学硕士（Meta）：https://github.com/Codium-ai/cover-agent &lt; p&gt;我们的博客文章提供了有关 TestGen-LLM 和 Cover-Agent 的更多详细信息：https://www.codium.ai/blog/we-created-the-first-open-source-implementation-of-metas-testgen-llm/ Cover-Agent 实际操作： ‣ 示例：https://www.youtube.com/watch?v=sjRzO_W09xc  ‣ Python 示例：https://www.youtube.com/watch?v=ecoW5Pyjx94&lt; /p&gt;   由   提交/u/Kindly_Can_8580   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cwtmgh/coveragent_with_the_first_reimplementation_of/</guid>
       <pubDate>Mon, 20 May 2024 23:25:25 GMT</pubDate>
     </item>
