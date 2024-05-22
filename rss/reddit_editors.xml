@@ -4,11 +4,39 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Tue, 21 May 2024 21:10:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 00:46:06 GMT</lastBuildDate>
+    <item>
+      <title>ARM（高通）最终可能会杀死 Avid</title>
+      <link>https://www.reddit.com/r/editors/comments/1cxnk2c/arm_qualcomm_may_end_up_killing_avid/</link>
+      <description><![CDATA[如果你们中有人使用过带有 Apple Silicon 的 Avid Media Composer，您就会了解这些问题。除非您有基本的设置，否则您可能会遇到无穷无尽的问题。想要安装 BRAW AMA 插件吗？它崩溃了。有超工作室吗？祝您好运，让它在 Avid 中运行！有音频插件吗？保持手指交叉。这些问题是由于 Avid 在模拟下表现不佳造成的。苹果使用 ARM，也称为 Apple Silicon 芯片。 但是您已经熟悉了这一切。 因此，昨天微软宣布他们将把笔记本电脑改用高通硬件，包括他们的 Surface 系列以及联想和戴尔等公司的许多新笔记本电脑。这是行业的新趋势。考虑到 Avid 花了数年时间才使 Media Composer 适应 Apple Silicon，我们对 Microsoft 的这一声明有何期待？ 我的想法是，Avid 可能也需要数年时间才能将 Media Composer 移植到 PC 上的 ARM就像他们在 Mac 上所做的那样。当他们这样做时，世界将会继续前进。该公告还提到了 Adob​​e Premiere，并强调 DaVinci Resolve 作为好莱坞的行业领导者。 激动人心的时刻即将到来，但 Avid 不一样！   由   提交 /u/Mamonimoni   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cxnk2c/arm_qualcomm_may_end_up_killing_avid/</guid>
+      <pubDate>Wed, 22 May 2024 00:41:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>这里有人编辑很多真人秀节目吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/1cxmbvc/anybody_on_here_edit_a_lot_of_reality_tv/</link>
+      <description><![CDATA[所以不久前我制作了一个关于汽车的真人秀节目试播集。在我们拍摄完它之后，我们遇到了一位制片人的问题，他阻止了我们真正被允许对它做任何事情。  我们仍然拥有所有的素材和粗略的编辑，并希望将其用作规范片段或证明我们（我们的制作公司）有能力创建此类内容以获得未来的资金项目。  由于我们没有太多编辑此类内容的经验，我想知道这里是否有任何有经验的人可以给我一些关于它的注释。  这是对以前由 Discovery 拥有的节目的重新制作。 请在评论中告诉我或给我发一条私信，我可以向您发送该剧集的私人链接。    由   提交 /u/TypoLobster   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cxmbvc/anybody_on_here_edit_a_lot_of_reality_tv/</guid>
+      <pubDate>Tue, 21 May 2024 23:41:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Avid Media Composer 上使用“lift”时，有办法改变此问题吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/1cxls87/is_there_a_way_to_change_this_issue_when_using/</link>
+      <description><![CDATA[这已经困扰我很长时间了。下面是发生的情况的一个例子…… 当我在时间线上编辑时，我会在某些音频上标记一个“入点”和“出点”。然后突出显示选定区域。我按“z”键以 LIFT 出选定部分。然后烦人的部分发生了……我的编辑线会弹回到“入点”标记的位置。我更希望它停留在“出点”标记上并且根本不移动。  有办法改变这种情况吗？我使用的是 2022.12.6 版    提交人    /u/CovenantGiven   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cxls87/is_there_a_way_to_change_this_issue_when_using/</guid>
+      <pubDate>Tue, 21 May 2024 23:16:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>你们如何知道自己作为编辑的局限性以及你们如何应对？</title>
+      <link>https://www.reddit.com/r/editors/comments/1cxkgay/how_do_you_guys_know_your_limits_as_an_editor_and/</link>
+      <description><![CDATA[我一生中的大部分时间都是一名剪辑师，专业剪辑师大约有 7 年的时间。我制作过短片、在 iPhone 上拍摄的广告以及广告在 Alexa Mini 上拍摄的、简短的文档、功能文档等。我真的很喜欢我所做的事情，并且很感激能做这件事。  我也在一家制作公司的一份工作中完成所有这些工作，我们制作的产品几乎没有一致性，这让我在大多数时候都感到压力。但我遇到的问题是，我很难衡量自己在时间/日程安排方面的限制，我带来的创造性，以及当流程每天都不同时如何确保我不会让工作筋疲力尽。天。我觉得我正处于精疲力尽的状态，如果这是我所处的工作环境的结果，或者我的工作方式是自我破坏的。 所以我不知道，我很想听听其他也在相当不一致的环境中工作的编辑的意见，以及你们如何自己处理这个问题。谢谢大家:)   由   提交 /u/SpiffRogers   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cxkgay/how_do_you_guys_know_your_limits_as_an_editor_and/</guid>
+      <pubDate>Tue, 21 May 2024 22:15:35 GMT</pubDate>
+    </item>
     <item>
       <title>自动数据传输/卸载</title>
       <link>https://www.reddit.com/r/editors/comments/1cxht6b/automating_data_transferring_offloading/</link>
-      <description><![CDATA[嗨， 我是一名编辑，经常在节日上进行编辑以进行日间回顾等。经常退出（如果不是总是）我也在做数据管理。在某些情况下，射击者数量相当多，因此将数据管理和编辑结合起来可能会变得非常忙碌。  我想知道将 SD 或磁盘插入我的 macbook m2 时是否有办法自动进行数据传输。我目前正在使用 Offshoot（以前的 Hedge）来传输数据。我读到可以通过分支上的脚本自动传输，但由于我不熟悉脚本，我希望是否有更直接的方法或软件允许这种自动化？ 下线我也在寻找一种在达芬奇中自动导入这些文件的方法。所以我除了把卡插入MacBook之外什么都不用做。   由   提交 /u/feanskarel   [链接] [评论]]]></description>
+      <description><![CDATA[嗨， 我是一名编辑，经常在节日上进行编辑以进行日间回顾等。经常退出（如果不是总是）我也在做数据管理。在某些情况下，有相当多的射击者，因此将数据管理和编辑结合起来可能会变得非常忙碌。  我想知道将 SD 或磁盘插入我的 macbook m2 时是否有办法自动进行数据传输。我目前正在使用 Offshoot（以前的 Hedge）来传输数据。我读到可以通过分支上的脚本自动传输，但由于我不熟悉脚本，我希望是否有更直接的方法或软件允许这种自动化？ 下线我也在寻找一种在 davinci 中自动导入这些文件的方法。所以我除了把卡插入MacBook之外什么都不用做。   由   提交 /u/feanskarel   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cxht6b/automating_data_transferring_offloading/</guid>
       <pubDate>Tue, 21 May 2024 20:23:58 GMT</pubDate>
     </item>
@@ -20,7 +48,7 @@
       <pubDate>Tue, 21 May 2024 19:37:58 GMT</pubDate>
     </item>
     <item>
-      <title>关于如何复制这种淡出风格有什么建议吗？</title>
+      <title>关于如何复制这种淡出样式有什么建议吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1cxgcl6/any_advice_on_how_to_copy_this_fadeout_style/</link>
       <description><![CDATA[所以我正在使用 capcut，并且我一直在尝试在下面的视频中模拟这种淡入淡出样式。我是一名菜鸟编辑，但这是我童年时最喜欢的效果之一，我希望得到任何提示。 https://youtu.be/3iWdS1JAGsk?si=y2hQXehl_6fRWGQK   由   提交 /u/yourfavoritenumber   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cxgcl6/any_advice_on_how_to_copy_this_fadeout_style/</guid>
@@ -43,12 +71,12 @@
     <item>
       <title>仅使用 Lucidlink 托管 Productions 文件？</title>
       <link>https://www.reddit.com/r/editors/comments/1cxd1sh/using_lucidlink_to_host_productions_files_only/</link>
-      <description><![CDATA[我正准备开始一个专题剪辑，我以前从未使用过 Premier Productions。这部纪录片有两位剪辑师，我们都将拥有镜像的外部硬盘镜头。有人建议我使用 Lucidlink 来托管 Productions 文件，两位剪辑师可以分别访问这些文件并连接到他们自己的本地镜头。有人有这种工作流程的经验吗？这是让两位剪辑师分别处理同一部纪录片的最佳方式吗？    提交人    /u/Nacho_Libre_24   [link] [评论]]]></description>
+      <description><![CDATA[我正准备开始功能编辑，但之前从未使用过 Premier Productions。这部纪录片有两名剪辑师，我们都会镜像外部硬盘上的镜头。建议我使用 Lucidlink 来托管两个剪辑师单独访问的制作文件并连接到他们自己的本地素材。有人有这种工作流程的经验吗？这是接触两位分别制作同一部纪录片的剪辑师的最佳方式吗？   由   提交/u/Nacho_Libre_24   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cxd1sh/using_lucidlink_to_host_productions_files_only/</guid>
       <pubDate>Tue, 21 May 2024 17:09:57 GMT</pubDate>
     </item>
     <item>
-      <title>Final Cut Pro：在主时间线上查看时，复合剪辑内的剪辑缩放不正确，但在复合剪辑时间线内查看时则显示正常。救命！</title>
+      <title>Final Cut Pro：在主时间轴上查看时，复合剪辑内的剪辑缩放不正确，但在复合剪辑时间轴内时看起来正常。帮助！</title>
       <link>https://www.reddit.com/r/editors/comments/1cxcn64/final_cut_pro_clips_inside_compound_clips_are/</link>
       <description><![CDATA[我正在 Final Cut Pro 上进行剪辑。我的主时间线中有几个复合剪辑，其中包含编辑内容。当我处于复合剪辑时间线中时，所有剪辑都在查看器中正确缩放，但是当我返回主时间线时，剪辑全部“缩小”。侧面有边界。有谁知道导致此问题的原因以及如何解决它？ 第一张图片是复合剪辑在主时间轴上的查看器中的外观。 第二张图片是剪辑中的剪辑的外观在复合剪辑时间轴中时，复合剪辑会在查看器中显示。 https://imgur.com/a/PWPdP1k    由   提交 /u/IgnorantPhotographer   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cxcn64/final_cut_pro_clips_inside_compound_clips_are/</guid>
@@ -76,39 +104,11 @@
       <pubDate>Tue, 21 May 2024 10:25:58 GMT</pubDate>
     </item>
     <item>
-      <title>我在 Premiere 中创建了大约 48 小时的代理，我可以导出 xml 并且仍然在 Resolve 中使用原始代理和代理吗？提前致谢</title>
-      <link>https://www.reddit.com/r/editors/comments/1cwyr5z/i_created_about_48_hours_of_proxies_in_premiere/</link>
-      <description><![CDATA[正如标题所示，我花了几天时间为一些 blackmagic 素材创建代理，而我们的导演决定改为在 Resolve 中进行编辑。我可以使用我已经创建的代理吗？或者我必须创建新的代理...   由   提交 /u/MyCommentIsNo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cwyr5z/i_created_about_48_hours_of_proxies_in_premiere/</guid>
-      <pubDate>Tue, 21 May 2024 03:47:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>再次爱上了编辑。</title>
-      <link>https://www.reddit.com/r/editors/comments/1cwxsdm/fell_in_love_with_editing_again/</link>
-      <description><![CDATA[您是否曾经感到卡住并感觉您的编辑毫无进展？上 vimeo 或看一些电影来滋养大脑。 昨晚我重看了《热血警探》，是的，我再次爱上了剪辑。  你们有过这样的时刻吗？如果是这样，请分享让我们知道哪些电影激发了您的兴趣。   由   提交 /u/Ju1cyBr4in   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cwxsdm/fell_in_love_with_editing_again/</guid>
-      <pubDate>Tue, 21 May 2024 02:54:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>外部驱动器不断无故弹出</title>
-      <link>https://www.reddit.com/r/editors/comments/1cwv0t2/external_drives_keep_ejecting_for_no_reason/</link>
-      <description><![CDATA[嘿， 我正在运行 mac studio M2 Max 完全最新的操作系统，我注意到许多我的驱动器不断断开连接，然后无明显原因地重新安装。我的供电台式机驱动器和 SSD 都会出现这种情况。 我将解决并尝试排除故障，但我想我应该联系并询问是否有明显遗漏的东西。在任何给定时间，我通常都会让所有端口的驱动器都达到最大，包括我的苹果显示器上的驱动器。我将首先用更高质量的电缆替换电缆，看看这是否会产生影响。有人推荐我应该买的品牌吗？我通常为我的相机设备购买 Alvin&#39;s 电缆，但不确定是否适用于外围设备。  您还有其他考虑吗？新的和旧的驱动器以及所有端口都会发生这种情况，所以我不认为这是一个有缺陷的端口 - 我想也许我只是插入了太多设备？ 请告知我&#39;我把我的头发拉出来！！   由   提交/u/neilatron  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cwv0t2/external_drives_keep_ejecting_for_no_reason/</guid>
-      <pubDate>Tue, 21 May 2024 00:33:10 GMT</pubDate>
-    </item>
-    <item>
       <title>寻找婚礼影片剪辑师</title>
       <link>https://www.reddit.com/r/editors/comments/1cws26g/looking_for_a_wedding_film_editor/</link>
       <description><![CDATA[大家好，我叫 Caed Rodgers，目前正在寻求扩展我作为婚礼电影制作人的业务。我目前正在寻找 1-2 名愿意担任我的业务编辑的编辑。我发现我对所需的工作感到不知所措，需要外包一些婚礼影片，我还计划外包未来的影片。 我的预算最多可支付 750 美元对于一部电影，我预计剪辑需要 6 到 30 个小时。我的电影长度通常为 5 至 15 分钟。我之所以来这里是因为我对拥有一名个人编辑感兴趣，而不是试图在 Fiverr、Upwork 等上寻找某人。如果有兴趣，请私信我！   由   提交/u/caedr_  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cws26g/looking_for_a_wedding_film_editor/</guid>
       <pubDate>Mon, 20 May 2024 22:14:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找婚礼影片剪辑师</title>
-      <link>https://www.reddit.com/r/editors/comments/1cwrq2p/looking_for_a_wedding_film_editor/</link>
-      <description><![CDATA[大家好，我叫 Caed Rodgers，目前正在寻求扩展我作为婚礼电影制作人的业务。我目前正在寻找 1-2 名愿意担任我的业务编辑的编辑。我发现我对所需的工作感到不知所措，需要外包一些婚礼电影，我还计划外包未来的电影。 我计划支付 250 美元到 1,000 美元之间的费用对于一部电影，我预计剪辑需要 6 到 30 个小时。我的电影长度通常为 5 至 15 分钟。我之所以来这里是因为我对拥有一名个人编辑感兴趣，而不是试图在 Fiverr、Upwork 等上寻找某人。如果有兴趣，请填写此 Google 表单，并在填写完毕后向我发送 DM 或评论。谢谢！ https://forms.gle/sPpQWbPmnkZW5RMj8   由   提交/u/caedr_  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cwrq2p/looking_for_a_wedding_film_editor/</guid>
-      <pubDate>Mon, 20 May 2024 22:00:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
