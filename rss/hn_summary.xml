@@ -4,103 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 22 May 2024 18:12:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 00:44:54 GMT</lastBuildDate>
     <item>
-      <title>rust-bfield 项目实现了 B-field，一种新颖的概率键值数据结构 [...]</title>
-      <link>https://t.me/hn_summary/90935</link>
-      <description><![CDATA[显示 HN：B-field，一种新型概率键值数据结构（`rust-bfield`）
-rust-bfield 项目在 Rust 中实现了 B-field，一种新型概率键值数据结构。它旨在高效存储和检索键值对，类似于布隆过滤器，但用于关联数组。B-field 在生物信息学中特别有用，它可以存储数十亿个核苷酸子串与其分类身份之间的关联，同时具有最小的空间要求和较低的错误率。独特的功能包括其空间效率、速度和有界错误率。当前的限制包括仅支持 u32 值和需要手动选择参数。该项目旨在将其实用性扩展到生物信息学之外。 （根据 34% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/90935</guid>
-      <pubDate>Wed, 22 May 2024 18:12:15 GMT</pubDate>
+      <title>[媒体]加利福尼亚州正在考虑一项新法律，要求在访问时强制进行年龄验证 [...]</title>
+      <link>https://t.me/hn_summary/91011</link>
+      <description><![CDATA[加州可能需要年龄验证才能访问色情网站&lt; br/&gt;
+加州正在考虑一项新法律，要求访问色情网站时必须进行年龄验证。该提案旨在保护未成年人免于接触在线露骨内容。该立法如果获得通过，将要求用户在访问此类网站之前提供年龄证明。虽然支持者认为这一措施对于保护儿童是必要的，但批评者提出了对隐私和个人数据滥用的可能性的担忧。这一举措反映了各州越来越严格地监管在线内容、平衡儿童保护与隐私权的趋势。]]></description>
+      <guid>https://t.me/hn_summary/91011</guid>
+      <pubDate>Thu, 23 May 2024 00:44:54 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]排队：互动之旅</title>
-      <link>https://t.me/hn_summary/90934</link>
-      <description><![CDATA[排队
-排队：互动之旅
-
-在 Encore，我们专注于为开发人员提供构建分布式系统和事件驱动应用程序的工具。在这篇由 Sam Rose 撰写的博客中，我们深入研究了对于管理 HTTP 请求至关重要的排队策略。从日常生活到网络请求，队列无处不在。这篇文章探讨了队列为何有用，介绍了三种类型的队列（先进先出、后进先出和优先级），以及避免丢弃优先级请求的附加策略。
-
-从简单的客户端-服务器模型开始，我们说明队列如何通过保留请求直到服务器准备就绪来防止丢弃请求。我们讨论了 FIFO 队列的局限性、LIFO 队列在避免超时方面的优势以及优先级队列对于处理关键请求的重要性。我们还引入了主动队列管理 (AQM) 和随机早期检测 (RED) 来优先处理高优先级请求。
-
-令人惊讶的是，后进先出队列虽然不太常见，但对于许多工作负载来说却更加高效。这篇文章最后比较了不同的队列类型，强调了它们的权衡和性能指标。
-
-如需更多见解，请在 Twitter 上关注 Sam Rose 或在 Patreon 上支持他的工作。]]></description>
-      <guid>https://t.me/hn_summary/90934</guid>
-      <pubDate>Wed, 22 May 2024 18:10:11 GMT</pubDate>
+      <title>[媒体] 舒马赫家族因误导性言论而对芬克媒体集团提起诉讼，并取得胜利 [...]</title>
+      <link>https://t.me/hn_summary/91010</link>
+      <description><![CDATA[舒马赫家人因人工智能“采访”获得赔偿&lt; br/&gt;
+舒马赫家族因《Die Aktuelle》杂志发布的人工智能生成的误导性“采访”而赢得了针对 Funke 媒体集团的法律诉讼。文章发表后，该杂志的编辑被解雇，芬克媒体向其家人道歉。拥有七个冠军头衔的传奇 F1 车手迈克尔·舒马赫 (Michael Schumacher) 自 2013 年滑雪事故以来一直处于健康状况不佳的状态。争议的焦点是使用人工智能伪造采访的道德影响，特别是涉及舒马赫健康等敏感话题。事故发生后，其家人的隐私受到严格保护，这使得本次事件尤为严重。]]></description>
+      <guid>https://t.me/hn_summary/91010</guid>
+      <pubDate>Thu, 23 May 2024 00:29:47 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]特斯拉公司</title>
-      <link>https://t.me/hn_summary/90933</link>
-      <description><![CDATA[特斯拉在欧洲的销量跌至 15 个月低点
-特斯拉公司在欧洲的销量大幅下滑，4月份销量创15个月新低，注册销量仅为13,951辆，同比下降2.3%。这一下降与全行业纯电动汽车销量 14% 的增长形成鲜明对比。同样，特斯拉上海工厂的出货量也出现下滑，与中国插电式汽车市场的强劲增长背道而驰。首席执行官埃隆·马斯克(Elon Musk)预计第二季度会表现强劲，并指出红海运输问题和德国工厂附近涉嫌纵火等中断是第一季度的挑战。尽管遇到这些挫折，马斯克仍然对第二季度持乐观态度。特斯拉股价今年已下跌25%，而德国和瑞典等国电动汽车补贴的减少进一步影响了销量。值得注意的是，虽然欧洲的电动汽车整体注册量保持稳定，但特斯拉 4 月份销量下降了 32%，其中英国销量下降了 25%。]]></description>
-      <guid>https://t.me/hn_summary/90933</guid>
-      <pubDate>Wed, 22 May 2024 17:58:58 GMT</pubDate>
+      <title>[媒体]联邦调查开始对涉及无人驾驶 Waymo 的事故进行一周后 [...]</title>
+      <link>https://t.me/hn_summary/91009</link>
+      <description><![CDATA[联邦政府对事故展开调查 1 周后，Waymo 车辆发生车祸
+联邦政府开始对涉及无人驾驶 Waymo 车辆的事故进行调查一周后，一辆无人驾驶的 Waymo 汽车撞上了菲尼克斯市中心的电线杆。该事件发生在周二下午第七大道和罗斯福街附近。幸运的是，没有人员受伤，车辆也只受到了轻微损坏。该车随后被移离现场。 Waymo 尚未回应置评请求。这一事件给正在进行的自动驾驶汽车安全审查增添了一层复杂性。]]></description>
+      <guid>https://t.me/hn_summary/91009</guid>
+      <pubDate>Thu, 23 May 2024 00:09:39 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网址：www.nerdcrawler.com</title>
-      <link>https://t.me/hn_summary/90932</link>
-      <description><![CDATA[我们如何屏蔽 TikTok 的 Bytespider 机器人并将带宽减少 80%
-标题：我们如何屏蔽 TikTok 的 Bytespider 机器人并将带宽减少 80%
-网站：www.nerdcrawler.com
-
-Nerd Crawler 是漫画艺术家出售原创艺术品的首选市场，利用竞价技术实现收益最大化。然而，我们面临一个重大问题：我们的 Ruby on Rails 应用程序使用 Cloudinary 进行图像托管，每天被约 30 万个图像请求淹没，花费了我们一大笔钱。最初尝试调整图片大小有所帮助，但真正的突破发生在我们发现 TikTok 的 Bytespider 机器人消耗了我们 67% 的带宽时。通过使用 Rack-Attack gem 阻止 Bytespider，我们大幅减少了带宽使用量。关键要点：监控异常流量来源并优先修复可以节省成本的问题。]]></description>
-      <guid>https://t.me/hn_summary/90932</guid>
-      <pubDate>Wed, 22 May 2024 17:58:52 GMT</pubDate>
+      <title>[媒体]美国国立卫生研究院（NIH）的高级顾问，Dr.</title>
+      <link>https://t.me/hn_summary/91008</link>
+      <description><![CDATA[美国国立卫生研究院 (NIH) 的一位高级顾问删除了对揭开病毒起源至关重要的记录新冠肺炎
+美国国立卫生研究院 (NIH) 的高级顾问 David Morens 博士据称删除了与 COVID-19 起源相关的重要记录，并使用私人电子邮件帐户来逃避透明度。众议院冠状病毒大流行特别小组委员会披露的电子邮件表明，莫伦斯和安东尼·福奇博士合谋隐藏并可能销毁官方记录。莫伦斯还在信件中开玩笑说收受回扣，并发表了厌恶女性的言论。共和党和民主党都谴责莫伦斯的行为，一些人认为他对国会撒谎，可能面临刑事起诉。争议的焦点是国家卫生研究院高级官员涉嫌掩盖事实和不当行为。 （根据 98% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/91008</guid>
+      <pubDate>Wed, 22 May 2024 23:53:31 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 为什么不直接用 C 语言做简单的 C++ RAII？</title>
-      <link>https://t.me/hn_summary/90931</link>
-      <description><![CDATA[为什么不直接用 C 语言做简单的 C++ RAII 呢？ 
-在文章“为什么不在 C 中做简单的 C++ RAII？”在 thephd.dev 上，作者解决了一个关于实现C 中的通用撤消机制使用 RAII（资源获取即初始化），这是 C++ 固有的概念。作者认为，“Simple RAII”无法在 C 中实现，主要有两个原因：语法困难和 C 有限的类型/对象模型。本文解释了 C++ 如何使用构造函数和析构函数来确定性地管理资源，该功能严重依赖于函数重载和名称修改（C 中不存在的概念）。作者强调，尝试在 C 中复制 RAII 会损害该语言的核心品质，从而使得这是不切实际的。对于那些相信扩展 C 的功能以匹配 C++ 的功能的人来说，这种立场可能会引起争议。 （根据故事文本的 28% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/90931</guid>
-      <pubDate>Wed, 22 May 2024 17:56:47 GMT</pubDate>
+      <title>在《致坐在黑暗中的人》（1901）中，马克·吐温批判了帝国主义的做法 [...]</title>
+      <link>https://t.me/hn_summary/91007</link>
+      <description><![CDATA[致坐在黑暗中的人 (1901)&lt; br/&gt;
+马克·吐温在《致坐在黑暗中的人》（1901）中批评了西方国家打着传播文明幌子的帝国主义做法。他讽刺地将“文明的祝福”描述为一项有利可图但具有欺骗性的事业，其中爱、正义和自由的崇高理想只是剥削和压迫的幌子。吐温强调了美国、英国、德国和俄罗斯等西方列强的虚伪性，它们声称自己文明，但却进行残酷的征服和经济剥削。这篇文章因对帝国主义的严厉谴责和对西方殖民主义道德矛盾的揭露而备受争议。吐温巧妙地运用讽刺和反讽，强调了这些所谓文明国家所宣称的美德与实际做法之间的差距。 （根据 24% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/91007</guid>
+      <pubDate>Wed, 22 May 2024 23:52:26 GMT</pubDate>
     </item>
     <item>
-      <title>【媒体】Show HN：我为了孤独而做了一个 Flutter 应用。</title>
-      <link>https://t.me/hn_summary/90930</link>
-      <description><![CDATA[Show HN：我为孤独制作了一个 Flutter 应用。 14000 分钟后的语音消息
-标题：Show HN：我为孤独制作了一个 Flutter 应用。 14000 分钟语音留言
-网站：main.d1lmgoealm7rq0.amplifyapp.com&lt; br/&gt;
-
-Bubblic 的联合创始人 Albert 受到自己研究生期间经历的启发，创建了这款用于对抗孤独的应用程序。 Bubblic 允许用户匿名分享与其大致位置相关的语音消息，从而培养真实的联系，而无需约会应用程序的肤浅。该应用程序强调语音而不是文本以避免误解，并鼓励害羞的人练习口语。独特的功能包括公共语音消息和上下文位置共享。 Bubblic 通过私人消息和多媒体共享等高级功能而不是通过数据销售或广告来获利。目标是帮助用户培养现实生活中互动的社交技能。]]></description>
-      <guid>https://t.me/hn_summary/90930</guid>
-      <pubDate>Wed, 22 May 2024 17:38:36 GMT</pubDate>
+      <title>[媒体]在“一位大学教授的自白：所有辅导班都集中在一个地方”中，教授 [...]</title>
+      <link>https://t.me/hn_summary/91006</link>
+      <description><![CDATA[一位大学教授的自白：所有补习班都在一处&lt; /a&gt;
+在《一位大学教授的自白：所有补习班集中在一处》一文中，杜姆教授批评了“严肃”大学课程的现状，尤其是数学课程。他认为，许多大学课程，例如大学代数，本质上是补习性的，相当于高中教材，甚至不那么全面。这位教授强调了让学生通过的行政压力，这导致了“代数探索”等淡化课程的创建。他声称，这种做法贬低了大学学位的价值，使其与高中文凭甚至八年级教育相当。教授的一个令人惊讶且聪明的观点是，真正掌握一门学科需要超越眼前的目标，这一概念经常被教育机构忽视。争议在于对行政实践的批评，这些行政实践将毕业率置于真正的学习之上，导致大量毕业生的认知技能几乎没有提高。 （根据故事文本的 71% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/91006</guid>
+      <pubDate>Wed, 22 May 2024 23:43:19 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]网站：garymarcus.substack.com</title>
-      <link>https://t.me/hn_summary/90929</link>
-      <description><![CDATA[山姆·奥尔特曼失宠
-标题：萨姆·奥尔特曼的失宠
-网站：garymarcus.substack.com
-
-11 月，山姆·奥尔特曼 (Sam Altman) 广受赞誉，但最近发生的事件彻底改变了公众的看法。 X 上的各种声音，包括 Brian Merchant、Michelle Champagne、Ed Zitron 和 David Slack，都表达了批评意见。杰弗里·米勒在有效利他主义论坛上的帖子加剧了日益增长的不满情绪。 Ryan Briggs 和我都质疑 OpenAI 董事会在这种情况下的作用。集体情绪似乎正集中在对奥特曼的负面评价上。 《萨姆·奥尔特曼剧本》一书的作者加里·马库斯反思了公众舆论的这一巨大变化。]]></description>
-      <guid>https://t.me/hn_summary/90929</guid>
-      <pubDate>Wed, 22 May 2024 17:35:30 GMT</pubDate>
+      <title>[媒体]在一个以自由必胜主义为标志的时代，20世纪见证了自由民主的兴起[...]</title>
+      <link>https://t.me/hn_summary/91005</link>
+      <description><![CDATA[自由民主可能会输掉21世纪
+在一个以自由必胜主义为标志的20世纪，自由民主战胜了帝国主义、法西斯主义和共产主义，美国及其民主盟友在经济和军事上处于领先地位。然而，进入21世纪才20年，这种主导地位就受到了质疑。美国面临社会和政治混乱，而习近平领导下的中国则恢复了更加极权主义的政权，在制造业、绿色能源和技术方面取得了重大进步。尽管中国存在经济和社会问题，但其城市更加清洁和安全，并且与俄罗斯、伊朗和朝鲜结成了强大的联盟。这就提出了一个令人不安的问题：极权主义是否更适合21世纪？作者提出了一个理论，即在信息廉价的时代，自由民主国家可能会因资源耗尽的负和信息竞争而动摇，而极权主义政权可能会蓬勃发展。这个理论是推测性的，作者不一定相信。]]></description>
+      <guid>https://t.me/hn_summary/91005</guid>
+      <pubDate>Wed, 22 May 2024 23:13:06 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Sasha Rush 和 Marcos Treviso 的“Tensor Puzzles”GitHub 项目旨在 [...]</title>
-      <link>https://t.me/hn_summary/90928</link>
-      <description><![CDATA[张量谜题
-Sasha Rush 和 Marcos Treviso 的“Tensor Puzzles”GitHub 项目旨在通过解决 21 个张量难题来帮助用户学习 PyTorch 或 NumPy 等张量编程语言。这些谜题鼓励用户从第一原理出发，利用张量运算和广播的表现力来实现函数，而不是依赖标准库函数或 StackOverflow 等外部帮助。每个谜题都必须用一行代码来解决，并遵守特定的规则和约束。该项目的突出之处在于提供了一个结构化、简化的环境来深入练习和理解核心张量运算，并提供 Colab 笔记本和 YouTube 演练等额外资源。 （根据故事文本的 63% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/90928</guid>
-      <pubDate>Wed, 22 May 2024 17:34:26 GMT</pubDate>
+      <title>[媒体] 树懒为何这么慢？</title>
+      <link>https://t.me/hn_summary/91004</link>
+      <description><![CDATA[为什么树懒这么慢？
+树懒常常被误解为懒惰的生物，但它们缓慢的步伐实际上是一种非常成功的生存策略。由于一种称为视杆单色性的遗传条件，树懒的视力很差，这使得它们色盲，在强光下几乎失明。这需要缓慢移动以避免从树上掉下来。它们以低热量叶子为食，加上消化速度极慢，意味着它们的能量有限。树懒的新陈代谢率也较低，肌肉量也很少，这进一步节省了能量。它们不是逃避掠食者，而是依靠伪装来不被发现。因此，树懒并不懒惰，而是能源效率和隐秘性的大师。]]></description>
+      <guid>https://t.me/hn_summary/91004</guid>
+      <pubDate>Wed, 22 May 2024 22:49:55 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] textualvariations.substack.com 上的文章揭穿了“疯狂 [...]</title>
-      <link>https://t.me/hn_summary/90927</link>
-      <description><![CDATA[《狂暴之路》的实用特效神话
-textualvariations.substack.com 上的文章揭穿了普遍认为《疯狂的麦克斯：狂暴之路》几乎完全依赖实效，CGI 很少的传言。尽管人们普遍认为（通常归因于导演乔治·米勒）该片 80-90% 的特效都是实效，但文章显示，至少 74% 的镜头使用了 CGI。这种误解可能源于媒体的误解，而不是米勒的直接声明。这篇文章强调了数字视觉效果 (DVFX) 在增强和改变实际效果方面的重要性，对电影的最终效果做出了重大贡献。这一误解导致了对即将上映的前传《弗瑞奥萨》的不公平比较和负面看法。（摘要基于 56% 的故事文本。）]]></description>
-      <guid>https://t.me/hn_summary/90927</guid>
-      <pubDate>Wed, 22 May 2024 17:31:20 GMT</pubDate>
+      <title>[媒体]美国</title>
+      <link>https://t.me/hn_summary/91003</link>
+      <description><![CDATA[美国司法部寻求分拆 Live Nation-Ticketmaster
+美国司法部正准备对 Live Nation Entertainment Inc. 及其子公司 Ticketmaster 采取重大行动，寻求拆分这两个实体。此举出台之际，人们越来越担心他们在现场活动行业的主导地位，批评者认为这会抑制竞争并损害消费者的利益。这一决定是在一系列备受瞩目的争议之后做出的，其中包括泰勒·斯威夫特演唱会门票的混乱推出，这加剧了对该公司做法的审查。此次潜在的分拆标志着反垄断执法迈出了大胆的一步，旨在恢复市场竞争平衡。]]></description>
+      <guid>https://t.me/hn_summary/91003</guid>
+      <pubDate>Wed, 22 May 2024 22:45:49 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]您提供的内容似乎是彭博网站的安全提示[...]</title>
-      <link>https://t.me/hn_summary/90926</link>
-      <description><![CDATA[花旗错过了一个大手指
-您提供的内容似乎是彭博网站的安全提示，要求用户验证他们不是机器人，因为从他们的网络检测到异常活动。遗憾的是，没有具体的文章内容可以总结。如果您可以访问彭博社上题为“花旗错过了一个肥手指”的完整文章，请提供正文或要点，我很乐意帮助您总结。]]></description>
-      <guid>https://t.me/hn_summary/90926</guid>
-      <pubDate>Wed, 22 May 2024 17:30:13 GMT</pubDate>
+      <title>[媒体]在本期《微软周刊》中，我们深入研究来自 Newow 的最新微软新闻 [...]</title>
+      <link>https://t.me/hn_summary/91002</link>
+      <description><![CDATA[Windows &#39;12&#39;需要更多内存，微软被俄罗斯人黑客攻击，以及更多
+在本期《微软周刊》中，我们深入研究了 1 月 14 日至 21 日期间来自 Neowin 的最新微软新闻。重点包括有关 Windows“12”将需要更多 RAM 的传言，Trendforce 建议 AI PC 的基准为 16GB。这引发了关于这是否是最低要求还是只是建议的争论。此外，微软于 2023 年 11 月遭到俄罗斯情报组织的黑客攻击，利用漏洞访问高管电子邮件——这一漏洞直到 2024 年 1 月才被发现。其他更新涵盖新的 Windows 11 预览版、应用程序更新和游戏新闻，包括新游戏发布和Xbox 和 PC Game Pass 的更新。值得注意的是，Surface Pro 5 已寿终正寝，微软推出了 Copilot Pro 订阅服务。]]></description>
+      <guid>https://t.me/hn_summary/91002</guid>
+      <pubDate>Wed, 22 May 2024 22:38:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
