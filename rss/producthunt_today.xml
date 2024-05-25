@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Product Hunt——每天最好的新产品</title>
+    <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 24 May 2024 21:11:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 00:46:01 GMT</lastBuildDate>
     <item>
       <title>奇普利</title>
       <link>https://www.producthunt.com/posts/chirpley</link>
       <description><![CDATA[
-            颠覆影响力营销的纳米细分领域
-          
+颠覆影响者营销的纳米微型部分
+
 
 讨论
-            |
-            链接
+|
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/chirpley</guid>
       <pubDate>Fri, 24 May 2024 11:38:38 GMT</pubDate>
@@ -48,7 +48,7 @@
       <pubDate>Fri, 24 May 2024 06:39:20 GMT</pubDate>
     </item>
     <item>
-      <title>法律林特</title>
+      <title>LegalLint</title>
       <link>https://www.producthunt.com/posts/legallint</link>
       <description><![CDATA[
             您的法律文件起草副驾驶
@@ -104,18 +104,18 @@
       <pubDate>Thu, 23 May 2024 22:12:52 GMT</pubDate>
     </item>
     <item>
-      <title>文本工作流程</title>
-      <link>https://www.producthunt.com/posts/text-workflow</link>
+      <title>帮助我</title>
+      <link>https://www.producthunt.com/posts/helpmee-ai</link>
       <description><![CDATA[
-            使用易于使用的规则转换文本
+            利用 AI 为父母解锁技术独立性
           
 
 讨论&lt; /a&gt;
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/text-workflow</guid>
-      <pubDate>Thu, 23 May 2024 15:37:06 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/helpmee-ai</guid>
+      <pubDate>Thu, 23 May 2024 15:25:53 GMT</pubDate>
     </item>
     <item>
       <title>粘贴套件</title>
@@ -135,7 +135,7 @@
       <title>Robots.txt 生成器</title>
       <link>https://www.producthunt.com/posts/robots-txt-generator-3</link>
       <description><![CDATA[
-            适合您的项目的 robots.txt 文件
+            适合您项目的 robots.txt 文件
           
 
 讨论
@@ -144,20 +144,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/robots-txt-generator-3</guid>
       <pubDate>Thu, 23 May 2024 11:43:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>虚拟牛皮癣教练</title>
-      <link>https://www.producthunt.com/posts/virtual-psoriasis-coach</link>
-      <description><![CDATA[
-            通过我们的循证计划控制牛皮癣
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/virtual-psoriasis-coach</guid>
-      <pubDate>Thu, 23 May 2024 10:17:38 GMT</pubDate>
     </item>
     <item>
       <title>玛侯</title>
@@ -172,6 +158,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/mahou</guid>
       <pubDate>Thu, 23 May 2024 07:35:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>蒙太奇CMS</title>
+      <link>https://www.producthunt.com/posts/montagecms</link>
+      <description><![CDATA[
+            简化您的影院组合
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/montagecms</guid>
+      <pubDate>Wed, 22 May 2024 11:35:57 GMT</pubDate>
     </item>
     <item>
       <title>上下文数据</title>
@@ -202,7 +202,7 @@
       <pubDate>Tue, 21 May 2024 15:12:21 GMT</pubDate>
     </item>
     <item>
-      <title>加米世界</title>
+      <title>游戏世界</title>
       <link>https://www.producthunt.com/posts/world-of-gami</link>
       <description><![CDATA[
             Trello 替代方案 - 确保团队保持任务最新
