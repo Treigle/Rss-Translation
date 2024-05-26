@@ -3,8 +3,15 @@
   <channel>
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
-    <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 26 May 2024 06:14:06 GMT</lastBuildDate>
+    <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
+    <lastBuildDate>Sun, 26 May 2024 09:12:02 GMT</lastBuildDate>
+    <item>
+      <title>受密码保护的闪存驱动器 (USB/USBC) (Windows/Android)</title>
+      <link>https://www.reddit.com/r/software/comments/1d0w1t8/password_protected_flash_drive_usbusbc/</link>
+      <description><![CDATA[有一个 USB / USBC 闪存驱动器，我用它来将文件从我的电脑传输到其他电脑，以便在旅途中工作，同时还将文件传输到我的电脑Android 手机 是否有任何类型的软件可以用来锁定我的闪存驱动器（受密码保护），或者我也可以将其插入我的 Android 手机并解锁以供使用？&lt; /p&gt; 现在我正在使用 BitLocker，但这会切断对我的 Android 手机的访问，因为我只能在 Windows 设备上使用它    ;由   提交/u/ZeDoobiest  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1d0w1t8/password_protected_flash_drive_usbusbc/</guid>
+      <pubDate>Sun, 26 May 2024 07:24:16 GMT</pubDate>
+    </item>
     <item>
       <title>ZAMP 简介：零配置 Apache MySQL PHP 服务器管理应用程序</title>
       <link>https://www.reddit.com/r/software/comments/1d0sy5z/introducing_zamp_zero_configuration_apache_mysql/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>寻找硬盘监控软件</title>
       <link>https://www.reddit.com/r/software/comments/1d0huu4/looking_for_hard_disk_monitoring_software/</link>
-      <description><![CDATA[我正在寻找 Windows 11 中可用的安全且免费的硬盘监控软件，很久以前我听说过一个可以用来检查的软件你的磁盘的使用时间，如果有人能告诉我该程序或类似程序的名称，我将不胜感激   由   提交/u/ovelx2  [链接] [评论]]]></description>
+      <description><![CDATA[我正在寻找一款 Windows 11 中可用的安全且免费的硬盘监控软件，很久以前我听说过一个可以用来检查的软件你的磁盘的使用时间，如果有人能告诉我该程序或类似程序的名称，我将不胜感激   由   提交/u/ovelx2  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1d0huu4/looking_for_hard_disk_monitoring_software/</guid>
       <pubDate>Sat, 25 May 2024 18:09:20 GMT</pubDate>
     </item>
@@ -64,21 +71,21 @@
     <item>
       <title>Windows 图片库程序</title>
       <link>https://www.reddit.com/r/software/comments/1d0fooi/windows_image_gallery_program/</link>
-      <description><![CDATA[我正在寻找图像查看程序中非常具体的功能，我不希望一个程序包含所有这些功能，但至少其中大部分是：  缩略图预览 收藏夹支持 “文件夹”功能支持 查看/排序过滤 EXIF查看器/编辑器 查看模式选项 自定义文件夹设置 自定义文件夹预览缩略图  理想情况下，程序能够自动扫描%userprofile%\Picrures\，和/或可以将自定义文件夹设置为扫描或排除。图库中包含的每个文件夹都会有一个缩略图预览，可以根据内容自动生成，也可以手动设置。 我正在寻找的最大功能是以下的图库视图与实际文件夹相同的层次结构。我使用图库软件时遇到的一个常见问题是，它们倾向于将每个子目录中的每个图像分组到一个文件夹中。我正在根据我的列表寻找主要用于家庭照片的软件。这样，我可以根据存储方式打开特定文件夹。 E.G.： 2023 &gt; 亚利桑那州 &gt; 塞多纳 我对免费和付费选项持开放态度。   由   提交/u/Mr_Mendelli  [链接] [评论]]]></description>
+      <description><![CDATA[我正在寻找图像查看程序中非常具体的功能，我不希望一个程序包含所有这些功能，但至少其中大部分是：  缩略图预览 收藏夹支持 “文件夹”功能支持 查看/排序过滤 EXIF查看器/编辑器 查看模式选项 自定义文件夹设置 自定义文件夹预览缩略图  理想情况下，程序能够自动扫描%userprofile%\Picrures\，和/或可以将自定义文件夹设置为扫描或排除。图库中包含的每个文件夹都会有一个缩略图预览，可以根据内容自动生成，也可以手动设置。 我正在寻找的最大功能是以下的图库视图与实际文件夹相同的层次结构。我使用图库软件时遇到的一个常见问题是，它们倾向于将每个子目录中的每个图像分组到一个文件夹中。我正在根据我的列表寻找主要用于家庭照片的软件。这样，我可以根据存储方式打开特定文件夹。 例如： 2023 &gt; 亚利桑那州 &gt; 塞多纳 我对免费和付费选项持开放态度。   由   提交/u/Mr_Mendelli  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1d0fooi/windows_image_gallery_program/</guid>
       <pubDate>Sat, 25 May 2024 16:26:34 GMT</pubDate>
     </item>
     <item>
       <title>自由指挥官文件管理器</title>
       <link>https://www.reddit.com/r/software/comments/1d0epi9/freecommander_file_manager/</link>
-      <description><![CDATA[大家好， 我目前在 Windows 11 上使用 freecommander 作为文件管理器。当我将工具栏按钮调整为使它们更大一点或调整它被切断的字体，并且它不完全可见。附上屏幕截图，您就会明白我的意思。 非常感谢任何帮助。这让我发疯！   由   提交/u/MikeGaud_78   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我目前在 Windows 11 上使用 freecommander 作为文件管理器。当我调整工具栏按钮使其稍微大一些或调整字体时，它会被切断并且无法完全查看。附加屏幕截图，您就会明白我的意思。 任何帮助都值得感激。它快让我发疯了！    提交人    /u/MikeGaud_78   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1d0epi9/freecommander_file_manager/</guid>
       <pubDate>Sat, 25 May 2024 15:39:50 GMT</pubDate>
     </item>
     <item>
       <title>寻找可以完全隐藏窗口的软件</title>
       <link>https://www.reddit.com/r/software/comments/1d0a3y9/looking_for_softwares_which_can_hide_windows/</link>
-      <description><![CDATA[所以我住在宿舍里，我只想选择隐藏我的一些窗口，假设我正在下载一些东西或玩一个游戏游戏时，我只想隐藏窗口，当我去洗手间等时。这样人们就不会弄乱它，并且它仍然并行运行。还有助于满足隐私需求，例如有点像紧急按钮。  我之前使用过 2 个工具来解决这个问题，其中一个称为“WindowHideToo”。 - 再也找不到这个链接了（Windows 11 破坏了它），另一个实际上更好的版本叫做“ClickyGone” - https://clickygone.sourceforge.net 最近的 Windows 更新破坏了 ClickyGone，所以我无法使用除非我只是回滚并保留旧的 Windows 更新（二月/三月）。我正在寻找具有类似功能的东西，以隐藏活动窗口。 或者如何解决新更新本身的 clickygone 问题？   由   提交 /u/shadowspeed737   [链接] [评论]]]></description>
+      <description><![CDATA[所以我住在宿舍里，我只想选择隐藏我的一些窗口，比如说我正在下载一些东西或玩游戏，我只想在我去洗手间等时隐藏窗口。这样人们就不会弄乱它，它仍然并行运行。也有助于满足隐私需求，有点像紧急按钮。  我之前用过 2 个工具来解决这个问题，一个叫做“WindowHideToo” - 再也找不到这个链接了（Windows 11 把它弄坏了），另一个实际上更好的版本叫做“ClickyGone” - https://clickygone.sourceforge.net 最近的 Windows 更新破坏了 ClickyGone，所以我不能再使用它了，除非我回滚并停留在旧的 Windows 更新（二月/三月）。我正在寻找具有类似功能的东西来隐藏活动窗口。 或者如何修复 clickygone 的新更新本身？    提交人    /u/shadowspeed737   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1d0a3y9/looking_for_softwares_which_can_hide_windows/</guid>
       <pubDate>Sat, 25 May 2024 11:38:37 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我姐姐去年去世了。几年来，她创作了数百个精彩/富有洞察力的 YT 视频。我一直在关注（并使用多种）人工智能工具来处理各种事情，但不包括转录。我希望有人遇到了一个可以在本地运行的最新 (Windows) 工具，这样我就可以批量转录这 590 个视频，这样我就可以为她的孩子创建一个小搜索索引。有任何想法吗？或者我必须一次复制一份抄本？ :\   由   提交 /u/wiintah_was_broken   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1d02ukr/ai_video_transcription_tool_in_bulk_590_mp4_files/</guid>
       <pubDate>Sat, 25 May 2024 03:24:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要销售 CRM</title>
-      <link>https://www.reddit.com/r/software/comments/1d00fzg/sales_crm_needed/</link>
-      <description><![CDATA[我正在寻找一个可以处理销售数据并可以生成像 Excel 数据透视表那样的大量报告的软件。虽然 Excel 可以很好地处理这个问题，但数据不断增长，超过 4000 行，Excel 变得很慢。 该软件可以是免费的，也可以是付费的。免费或免费增值更好，甚至来自 github，开源。   由   提交/u/awaixjvd  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1d00fzg/sales_crm_needed/</guid>
-      <pubDate>Sat, 25 May 2024 01:09:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
