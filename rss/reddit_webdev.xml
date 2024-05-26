@@ -4,9 +4,30 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 26 May 2024 03:12:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 May 2024 06:14:32 GMT</lastBuildDate>
     <item>
-      <title>如何在美国以外的国家/地区设置付款？</title>
+      <title>社交媒体网络应用程序项目</title>
+      <link>https://www.reddit.com/r/webdev/comments/1d0stsu/social_media_webapp_project/</link>
+      <description><![CDATA[嘿伙计们，上周我分享了一个我热衷的项目，以便获得用户参与， https://sparkify.vercel.app  我希望你们尝试一下，我修复了上一篇文章中的一些建议。 Sparks 是一个社交人工智能驱动的平台。 如果你们有兴趣，我也可以分享 GitHub 存储库。    由   提交 /u/Additional_Hall_3034   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1d0stsu/social_media_webapp_project/</guid>
+      <pubDate>Sun, 26 May 2024 03:45:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>注册商冻结帐户。域名已过期。追索权？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1d0smpq/registrar_blocked_account_domain_expired_recourse/</link>
+      <description><![CDATA[大家好，刚刚发现这个社区，希望不要在这里受到太多打击。  无论如何，我拥有一个域名已有 3 年了。我在上面运行了一个相当成功的博客和电子商务网站。现在，我去年用朋友的信用卡续签了。几个月后，我们吵了一架，从此关系不睦。无论如何，注册商会自动续订新的 CC。为了找回这位前朋友，他对卡进行了欺诈扣款。  注册商冻结帐户和域名进入 60 天宽限期。我一查看电子邮件就联系了注册商。从字面上请求他们允许我放置新的 CC，但他们要求我退回退款。我联系了银行，他们告诉我，因为不是我发起的，所以他们不能这样做。恳求前朋友。未能扭转纠纷。最终，域名过期了。  我现在可以做点什么吗？任何人都可以帮助我。我已经与多个注册商谈过了，他们告诉我你的注册商​​可以允许你这样做，但他们坚决不这样做。 我不希望命名该域名有人可以帮助我，所以请不要向我求助。 谢谢   由   提交 /u/Angellect   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1d0smpq/registrar_blocked_account_domain_expired_recourse/</guid>
+      <pubDate>Sun, 26 May 2024 03:33:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要登录/注册身份验证和授权帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1d0shdj/need_help_for_loginregister_authentication_and/</link>
+      <description><![CDATA[我用 React 设置前端，用 Flask 设置后端。现在我有一个使用 reack hook 表单的登录和提交表单，但我正在努力寻找一种方法来验证和授权我的用户。我见过人们乱扔 auth0、clerk，我还看到了有关 React auth kit 的视频。我只是想知道是否可以获得一些指导。   由   提交/u/rodyli123  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1d0shdj/need_help_for_loginregister_authentication_and/</guid>
+      <pubDate>Sun, 26 May 2024 03:23:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在美国以外的国家设置付款？</title>
       <link>https://www.reddit.com/r/webdev/comments/1d0rk4p/how_to_set_up_payment_in_a_country_that_isnt_in/</link>
       <description><![CDATA[我正在尝试为我的网站设置付款方式。我的国家（牙买加）不支持 Stripe。我研究了 LemonSqueezy 和 Paddle，但他们似乎没有客户服务和/或对所有东西收费过高。在美国以外有什么好的替代方案？   由   提交 /u/Uranusistormy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1d0rk4p/how_to_set_up_payment_in_a_country_that_isnt_in/</guid>
@@ -34,14 +55,14 @@
       <pubDate>Sat, 25 May 2024 22:00:46 GMT</pubDate>
     </item>
     <item>
-      <title>我的银行网站只能在 Firefox 中运行，不能在任何基于 chromium 的浏览器中运行。现在我很好奇为什么以及如何实现它。</title>
+      <title>我的银行网站只能在 Firefox 上运行，而不能在任何基于 Chromium 的浏览器中运行。现在我很好奇为什么以及如何实现它。</title>
       <link>https://www.reddit.com/r/webdev/comments/1d0mkxt/my_bank_website_only_works_in_firefox_and_not_in/</link>
       <description><![CDATA[大家好， 前几天我在当地银行申请了账户，在申请过程中我被告知使用他们的 Android 应用程序或网站，但是网站登录屏幕仅出现在 Firefox 中，不会显示在任何其他浏览器中。  现在作为一名新手网络开发人员，我真的很好奇这是如何实现的，它是否提供任何好处？尝试更多地了解他们的网络开发方法。  这是网站，伊拉克贸易银行（是的，我住在那里） 网上银行登录(tbi.com.iq)  或 https://bankingonline.tbi.com.iq/foundation-guiwar/login.html#/ 提前致谢。    由   提交/u/karzan24  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1d0mkxt/my_bank_website_only_works_in_firefox_and_not_in/</guid>
       <pubDate>Sat, 25 May 2024 21:55:26 GMT</pubDate>
     </item>
     <item>
-      <title>您将哪一个放在表单标记中的第一个位置</title>
+      <title>您将哪一个放在表单标签的第一位</title>
       <link>https://www.reddit.com/r/webdev/comments/1d0m0wj/which_one_do_you_put_first_in_a_form_tag/</link>
       <description><![CDATA[我只是在看一些东西，那家伙把方法放在行动之前，哈哈。谁干的？！ 查看民意调查   由   提交 /u/mekmookbro   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1d0m0wj/which_one_do_you_put_first_in_a_form_tag/</guid>
@@ -85,30 +106,9 @@
     <item>
       <title>我使用 Nuxt 构建了一个简单的个人阅读列表和书评网站，名为 PageTern.app</title>
       <link>https://www.reddit.com/r/webdev/comments/1d0jboo/i_built_a_simple_personal_reading_list_book/</link>
-      <description><![CDATA[        提交人    /u/ammuench   [链接] [评论] ]]></description>
+      <description><![CDATA[       由   提交/u/ammuench  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1d0jboo/i_built_a_simple_personal_reading_list_book/</guid>
       <pubDate>Sat, 25 May 2024 19:17:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个人工智能驱动的网站来生成域名建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1d0japv/i_made_an_aidriven_website_to_generate_domain/</link>
-      <description><![CDATA[        提交人    /u/teaganga   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1d0japv/i_made_an_aidriven_website_to_generate_domain/</guid>
-      <pubDate>Sat, 25 May 2024 19:16:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Showoff Saturday] 转换时间戳</title>
-      <link>https://www.reddit.com/r/webdev/comments/1d0ja7v/showoff_saturday_сonvert_timestamps/</link>
-      <description><![CDATA[       由   提交/u/webvagus  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1d0ja7v/showoff_saturday_сonvert_timestamps/</guid>
-      <pubDate>Sat, 25 May 2024 19:15:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Shovel 简介：一款用于深度工作的极简生产力应用程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/1d0j9hq/introducing_shovel_a_minimalist_productivity_app/</link>
-      <description><![CDATA[      大家好， 我想分享一个我一直在开发的名为 Shovel 的生产力应用程序。它旨在通过将所有内容放在一个地方来帮助您集中注意力并完成深入的工作。 Shovel 包括：  日记 时间跟踪器&lt; /li&gt; 每日签到 目标和任务 多用户房间（即将推出聊天功能！）  干净，极简界面旨在帮助您保持心流状态并尽最大努力工作。您可以自定义主题，而且它是完全免费和开源的。 我还提供了访客模式，可将数据存储在浏览器的本地存储中，因此您无需创建帐户即可试用。  如果您有兴趣尝试 Shovel，我会在评论中发布链接。我很想听听您的想法和反馈 - 网站上有一个论坛，您可以在其中分享您的想法并与其他用户联系。我还有一个开发博客，我在其中发布有关新功能和改进的更新。 https://preview.redd.it/w2jyb3wsgm2d1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=bcd3c92407ed1c8c0ea1edaf493188f1ee eec758    由   提交/u/jamesfy49  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1d0j9hq/introducing_shovel_a_minimalist_productivity_app/</guid>
-      <pubDate>Sat, 25 May 2024 19:14:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
