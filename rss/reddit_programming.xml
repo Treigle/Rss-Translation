@@ -4,13 +4,34 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sun, 26 May 2024 12:17:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 May 2024 15:12:09 GMT</lastBuildDate>
     <item>
-      <title>隐私是一个神话。除非你使用零知识证明</title>
-      <link>https://www.reddit.com/r/programming/comments/1d102kc/privacy_is_a_myth_unless_youre_using/</link>
-      <description><![CDATA[ 由   提交/u/illya_gerasymchuk   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1d102kc/privacy_is_a_myth_unless_youre_using/</guid>
-      <pubDate>Sun, 26 May 2024 12:15:56 GMT</pubDate>
+      <title>如何制作类似“在树林里滑行”的游戏</title>
+      <link>https://www.reddit.com/r/programming/comments/1d126ph/how_do_i_make_a_game_like_slide_in_the_woods/</link>
+      <description><![CDATA[ 由   提交 /u/Electrical-Guava-852   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d126ph/how_do_i_make_a_game_like_slide_in_the_woods/</guid>
+      <pubDate>Sun, 26 May 2024 14:09:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>VBScript 弃用：时间表和后续步骤</title>
+      <link>https://www.reddit.com/r/programming/comments/1d121q9/vbscript_deprecation_timelines_and_next_steps/</link>
+      <description><![CDATA[  由    /u/brokenisthenewnormal  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d121q9/vbscript_deprecation_timelines_and_next_steps/</guid>
+      <pubDate>Sun, 26 May 2024 14:02:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>talkd/dialog开源项目已入选2024年GitHub加速器</title>
+      <link>https://www.reddit.com/r/programming/comments/1d11j5l/talkddialog_open_source_project_has_been_selected/</link>
+      <description><![CDATA[ 由   提交/u/avelino0  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d11j5l/talkddialog_open_source_project_has_been_selected/</guid>
+      <pubDate>Sun, 26 May 2024 13:36:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>研究人员发现人工智能服务提供商存在严重漏洞</title>
+      <link>https://www.reddit.com/r/programming/comments/1d117in/researchers_discover_critical_vulnerability_in_ai/</link>
+      <description><![CDATA[  由    /u/sagitz_  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d117in/researchers_discover_critical_vulnerability_in_ai/</guid>
+      <pubDate>Sun, 26 May 2024 13:19:41 GMT</pubDate>
     </item>
     <item>
       <title>hmpl - 轻松使用服务器端 HTML</title>
@@ -27,30 +48,23 @@
       <pubDate>Sun, 26 May 2024 10:40:57 GMT</pubDate>
     </item>
     <item>
-      <title>麻省理工学院新闻 2020：对于大脑来说，阅读计算机代码与阅读语言不同</title>
+      <title>MIT 新闻 2020：对于大脑来说，阅读计算机代码与阅读语言不同</title>
       <link>https://www.reddit.com/r/programming/comments/1d0yi1j/mit_news_2020_to_the_brain_reading_computer_code/</link>
       <description><![CDATA[ 由   提交/u/GrueneBuche  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1d0yi1j/mit_news_2020_to_the_brain_reading_computer_code/</guid>
       <pubDate>Sun, 26 May 2024 10:30:56 GMT</pubDate>
     </item>
     <item>
-      <title>您是否身处拥有众多 API 的 .NET 组织？您是否想为团队建立沟通变更的途径？查看我创建的这个项目 Pivotte！想想“protobuf”，但适用于 HTTP API！</title>
+      <title>您所在的 .NET 组织中是否有许多 API？您想为团队建立沟通变更的途径吗？查看我创建的这个项目，Pivotte！想想“protobuf”，但是对于 HTTP API！</title>
       <link>https://www.reddit.com/r/programming/comments/1d0xeo9/are_you_in_a_net_org_with_many_apis_do_you_want/</link>
-      <description><![CDATA[ 由   提交 /u/mind_your_blissness   [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/mind_your_blissness  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1d0xeo9/are_you_in_a_net_org_with_many_apis_do_you_want/</guid>
       <pubDate>Sun, 26 May 2024 09:06:38 GMT</pubDate>
     </item>
     <item>
-      <title>对于大脑来说，阅读计算机代码与阅读语言不同</title>
-      <link>https://www.reddit.com/r/programming/comments/1d0wqmm/to_the_brain_reading_computer_code_is_not_the/</link>
-      <description><![CDATA[ 由   提交/u/pinkpen_net  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1d0wqmm/to_the_brain_reading_computer_code_is_not_the/</guid>
-      <pubDate>Sun, 26 May 2024 08:15:41 GMT</pubDate>
-    </item>
-    <item>
       <title>由专人领导项目的 5 个理由</title>
       <link>https://www.reddit.com/r/programming/comments/1d0wdx9/the_5_reasons_to_have_someone_leading_a_project/</link>
-      <description><![CDATA[  由    /u/strategizeyourcareer  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交 /u/strategizeyourcareer   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1d0wdx9/the_5_reasons_to_have_someone_leading_a_project/</guid>
       <pubDate>Sun, 26 May 2024 07:49:32 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[ 由   提交/u/ShabelonMagician  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1d0lrxg/programming_challenges/</guid>
       <pubDate>Sat, 25 May 2024 21:16:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么我们切换到记录重放进行一次性 API 测试</title>
-      <link>https://www.reddit.com/r/programming/comments/1d0jv12/why_we_switched_to_recordreplay_for_disposable/</link>
-      <description><![CDATA[ 由   提交/u/neha_gup   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1d0jv12/why_we_switched_to_recordreplay_for_disposable/</guid>
-      <pubDate>Sat, 25 May 2024 19:43:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>驯服浮点和</title>
-      <link>https://www.reddit.com/r/programming/comments/1d0jryw/taming_floatingpoint_sums/</link>
-      <description><![CDATA[ 由   提交/u/nightcracker  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1d0jryw/taming_floatingpoint_sums/</guid>
-      <pubDate>Sat, 25 May 2024 19:39:30 GMT</pubDate>
     </item>
     </channel>
 </rss>

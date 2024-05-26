@@ -4,11 +4,11 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 26 May 2024 12:18:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 May 2024 15:12:36 GMT</lastBuildDate>
     <item>
-      <title>开源英雄联盟 |一次尝试</title>
+      <title>开源英雄联盟 | 一次尝试</title>
       <link>https://www.reddit.com/r/opensource/comments/1d0zzl2/open_source_league_of_legends_an_attempt/</link>
-      <description><![CDATA[ 由   提交/u/wiki_me  [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/wiki_me  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d0zzl2/open_source_league_of_legends_an_attempt/</guid>
       <pubDate>Sun, 26 May 2024 12:11:03 GMT</pubDate>
     </item>
@@ -36,7 +36,7 @@
     <item>
       <title>python 和 React 的代码审查代理？</title>
       <link>https://www.reddit.com/r/opensource/comments/1d0vou2/code_review_agent_for_python_and_react/</link>
-      <description><![CDATA[当我开始构建一个开源项目时，我希望能够尽可能地控制代码的质量和标准。&lt; /p&gt; 我想知道你的 Python/React 项目使用什么代码审查代理/工具。我正在寻找一个涵盖以下内容的内容：  命名约定和找到好名称 检测错误 提高效率 最佳实践  此外，它应该与 GitHub、VSCode 或两者集成。   由   提交/u/Alternative_Shape_74   [链接] [评论]]]></description>
+      <description><![CDATA[当我开始构建一个开源项目时，我希望能够尽可能地控制代码的质量和标准。 我想知道您对 Python/React 项目使用了什么代码审查代理/工具。我正在寻找一个可以涵盖以下内容的代理/工具：  命名约定和寻找好名字 检测错误 提高效率 最佳实践  此外，它应该与 GitHub、VSCode 或两者集成。    提交人    /u/Alternative_Shape_74   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d0vou2/code_review_agent_for_python_and_react/</guid>
       <pubDate>Sun, 26 May 2024 06:58:20 GMT</pubDate>
     </item>
@@ -57,7 +57,7 @@
     <item>
       <title>可以将客户与供应商连接起来的软件/平台</title>
       <link>https://www.reddit.com/r/opensource/comments/1d0r3nd/software_platforms_that_can_connect_clients_to/</link>
-      <description><![CDATA[大家好，我正在寻找特定的软件/平台包，例如可以将客户与特定细分行业供应商联系起来的市场类型解决方案。有任何已知的选择吗？提前致谢！    提交人    /u/Disastrous-Ad-5003   [link] [评论]]]></description>
+      <description><![CDATA[大家好，我正在寻找特定的软件/平台包，例如可以将客户与特定利基行业的供应商连接起来的市场类型解决方案。有什么已知的选择吗？提前致谢！    由   提交 /u/Disastrous-Ad-5003   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d0r3nd/software_platforms_that_can_connect_clients_to/</guid>
       <pubDate>Sun, 26 May 2024 02:00:17 GMT</pubDate>
     </item>
@@ -76,7 +76,7 @@
       <pubDate>Sat, 25 May 2024 09:52:45 GMT</pubDate>
     </item>
     <item>
-      <title>关于是否包含原始开源许可文本的问题。</title>
+      <title>关于是否包含原始开源许可证文本的问题。</title>
       <link>https://www.reddit.com/r/opensource/comments/1d051m7/question_about_whether_to_include_original/</link>
       <description><![CDATA[我正在重写一个开源实用程序库。 80% 的原始注释保留，函数名称和用途保留，但几乎所有原始代码都被重写了。 看起来我应该传播许可证，我正在这样做如果我应该这样做，我很乐意这样做，但我实际上不确定我应该这样做。 许可证如下。 我担心的是，如果我包括文本，其中包括版权声明，这有点暗示该库的原始作者编写了代码......这与他们实际编写的完全不同。该许可证规定，“未经事先书面许可，FIRST 的名称及其贡献者的名称均不得用于认可或推广从此软件衍生的产品。”但是，将其他人的版权声明放在与他们最初编写的内容完全不同的文件上可能会被某些人解释为对该文件的暗示认可。就像，“哦，如果我访问他们的网站，我会在某个地方找到这个文件。” 所以，我想问题归结为：“修改后的源代码”是否存在？意味着某些文件已更改，但至少某些源文件与原始文件相同，因此只有未修改的文件才会被标记为通知（因为原始作者是对它们负责的人）...还是这样意味着任何修改，即使您只保留几行原始代码并且没有相同的文件，也意味着您应该保留版权声明？ 我考虑过将其添加到顶部：  * 此文件的部分内容源自 FIRST 的 WPILib。 * 以下通知适用于这些部分： 可以接受吗？ 下面的许可证： /* 以下许可证适用于该文件的内容。 ** 版权所有 (c) 2009 FIRST * 保留所有权利。 * * 在满足以下条件的情况下，无论是否经过修改，都可以以源代码和二进制形式重新分发和使用： * * 源代码的重新分发必须保留上述版权 * 声明、此条件列表和以下免责声明。 * * 以二进制形式重新分发必须在随分发提供的文档和/或其他材料中复制上述版权 * 声明、此条件列表以及以下免责声明。 * * 未经事先书面许可，FIRST 的名称及其贡献者的名称均不得用于认可或推广源自本软件的产品。 * * 本软件由第一方和贡献者“按原样”提供，并拒绝任何 * 明示或暗示的保证，包括但不限于暗示的 * 适销性、不侵权和适用于特定 * 目的的保证。在任何情况下，首先或贡献者均不对*任何直接、间接、偶然、特殊、惩戒性或继发性损害*（包括但不限于采购替代商品或服务；*使用、数据或利润损失）承担责任；或业务中断）无论何种原因，并且*基于任何责任理论，无论是合同责任、严格责任还是侵权行为*（包括疏忽或其他）因使用本*软件而产生的，即使已被告知这种可能性此类损害。 */    由   提交/u/cwm9  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d051m7/question_about_whether_to_include_original/</guid>
@@ -99,7 +99,7 @@
     <item>
       <title>Brisk，一个完整的 CICD 测试工具现已开源。</title>
       <link>https://www.reddit.com/r/opensource/comments/1czx3vk/brisk_a_complete_cicd_testing_tool_is_now_open/</link>
-      <description><![CDATA[Brisk 是一种用于运行持续集成测试的工具，类似于 CircleCI，但速度更快。 我们不会在每次运行时都构建测试环境，而是预先构建环境，以便您的测试尽可能快地运行。 如果您想自行托管或在自己的本地运行，或者您对 CICD 有奇怪的想法，那么您现在可以自己运行整个系统。 https://github.com/brisktest/brisk    提交人    /u/reillyse   [链接] [评论]]]></description>
+      <description><![CDATA[Brisk 是一个用于运行持续集成测试的工具，比如 CircleCI，但速度更快。 而不是在上面构建测试环境每次运行我们都会预先构建环境，以便您的测试尽可能快地运行。  如果您想自行托管或在自己的本地运行，或者您只是对 CICD 有一些奇怪的事情，您现在可以自己运行整个系统。  https://github.com/brisktest/brisk   由   提交 /u/reillyse   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1czx3vk/brisk_a_complete_cicd_testing_tool_is_now_open/</guid>
       <pubDate>Fri, 24 May 2024 22:25:25 GMT</pubDate>
     </item>
