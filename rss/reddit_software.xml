@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 27 May 2024 03:13:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 06:16:13 GMT</lastBuildDate>
+    <item>
+      <title>关于CapCut视频编辑器的问题</title>
+      <link>https://www.reddit.com/r/software/comments/1d1ke7k/question_about_capcut_video_editor/</link>
+      <description><![CDATA[所以我研究了一个简单的程序，我可以在其中对多个剪辑进行基本的时间线编辑，在尝试 CapCut 几分钟后，它几乎看起来很完美。 所以这是我需要的最后一个关键的事情 - 我需要导出为原始规格。相同的分辨率、帧速率等。很多程序都会为您提供随机的、无用的预设，从而破坏视频。我看到 CapCut 确实有选项，在尝试导出某些内容后，看起来还不错，但文件大小相当小，我只是想在花费所有时间之前知道一个事实 - 有人可以根据经验澄清这个程序吗事实上，可以简单地继承源视频的原始统计数据吗？   由   提交 /u/TheBootycelli   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1d1ke7k/question_about_capcut_video_editor/</guid>
+      <pubDate>Mon, 27 May 2024 05:34:15 GMT</pubDate>
+    </item>
     <item>
       <title>有没有什么软件可以在我的电脑上下载 YouTube 播放列表中的音频？</title>
       <link>https://www.reddit.com/r/software/comments/1d1hjf5/is_there_any_software_i_could_download_a_youtube/</link>
@@ -69,7 +76,7 @@
       <pubDate>Sun, 26 May 2024 19:56:26 GMT</pubDate>
     </item>
     <item>
-      <title>像Win32 Disk Imager这样的软件支持图像压缩吗？</title>
+      <title>像 Win32 Disk Imager 这样支持图像压缩的软件吗？</title>
       <link>https://www.reddit.com/r/software/comments/1d17ctl/software_like_win32_disk_imager_that_supports/</link>
       <description><![CDATA[是否有像 Win32 Disk Imager for Windows 这样的软件可以对 SD 卡进行完整映像备份（包括所有分区），但另外 压缩图像？不幸的是，Win32 Disk Imager 不会压缩它们，因此图像可能会变得相当大。我可以在事后使用 7-Zip 进行压缩，但这不太方便，并且并不总能提供我期望的压缩率。   由   提交/u/j123456t   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1d17ctl/software_like_win32_disk_imager_that_supports/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[https://preview.redd.it/ll75jd59zr2d1.png?width=1522&amp;format=png&amp;auto=webp&amp;s=fc209315117ad8e438b2400f144ed15cd 6281b6f   由   提交/u/johnnydipp69  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1d11qaj/dumb_question_bit_can_someone_tell_what_font/</guid>
       <pubDate>Sun, 26 May 2024 13:46:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>电气线路/电路设计师</title>
-      <link>https://www.reddit.com/r/software/comments/1d11hrp/electrical_wiringcircuit_designer/</link>
-      <description><![CDATA[嘿那里！！基本上就是标题。我想要一个可以帮助我创建电气接线/电路图并在软件中进行测试的软件。与此图片类似，我想在设计电路后制作电流的动画 https://preview.redd.it/ngb1dkdywr2d1.png?width=679&amp;format=png&amp;auto=webp&amp;s=4d24c7591121452efb89a31a6f11ff 42b151cf60   由   提交/u/Ill_Advisor8578   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1d11hrp/electrical_wiringcircuit_designer/</guid>
-      <pubDate>Sun, 26 May 2024 13:34:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
