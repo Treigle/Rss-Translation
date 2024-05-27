@@ -3,8 +3,8 @@
   <channel>
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
-    <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 27 May 2024 15:13:03 GMT</lastBuildDate>
+    <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
+    <lastBuildDate>Mon, 27 May 2024 18:14:29 GMT</lastBuildDate>
     <item>
       <title>Linux 实习：为本地 LLM 创建支持搜索的 API 服务器</title>
       <link>https://www.reddit.com/r/opensource/comments/1d1tc6f/linux_internship_create_a_searchenabled_api/</link>
@@ -15,7 +15,7 @@
     <item>
       <title>我需要帮助寻找 PDF 编辑器</title>
       <link>https://www.reddit.com/r/opensource/comments/1d1qcpd/i_need_help_finding_a_pdf_editor/</link>
-      <description><![CDATA[有人可以推荐一款外观现代、可以验证数字签名且功能丰富的开源 PDF 编辑器吗？    由   提交 /u/Spiritual_Extreme649   [链接] [评论]]]></description>
+      <description><![CDATA[有人能推荐一款外观时尚的开源 PDF 编辑器吗，它可以验证数字签名，功能丰富？    提交人    /u/Spiritual_Extreme649   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d1qcpd/i_need_help_finding_a_pdf_editor/</guid>
       <pubDate>Mon, 27 May 2024 12:27:01 GMT</pubDate>
     </item>
@@ -36,14 +36,14 @@
     <item>
       <title>移除.bg API 替代方案</title>
       <link>https://www.reddit.com/r/opensource/comments/1d1idyp/removebg_api_alternatives/</link>
-      <description><![CDATA[有没有更便宜的可靠的 remove.bg 级别替代品？remove.bg 成本非常高，最好是删除 png/svg 背景并且具有成本效益的东西。    提交人    /u/Agreeable_Ad6424   [link] [comments]]]></description>
+      <description><![CDATA[是否有可靠且更便宜的remove.bg级别替代品？ remove.bg 的成本非常高，任何最好删除 png/svg 背景并且具有成本效益的东西。   由   提交 /u/Agreeable_Ad6424   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d1idyp/removebg_api_alternatives/</guid>
       <pubDate>Mon, 27 May 2024 03:28:52 GMT</pubDate>
     </item>
     <item>
       <title>您认为扎克伯格转向开源人工智能的举措很棒吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1d1gd5e/do_you_think_zuckerbergs_move_to_open_source_ai/</link>
-      <description><![CDATA[Mark Zuckerberg 将 LLaMA 开源，允许任何人免费使用、修改和分发它。你认为这是开源 AI 的未来吗？你有什么看法？    提交人    /u/conventionseeker   [link] [评论]]]></description>
+      <description><![CDATA[马克·扎克伯格将 LLaMA 开源，允许任何人免费使用、修改和分发它。您认为这就是开源人工智能的未来吗？你有什么想法？   由   提交 /u/conventionseeker   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d1gd5e/do_you_think_zuckerbergs_move_to_open_source_ai/</guid>
       <pubDate>Mon, 27 May 2024 01:30:18 GMT</pubDate>
     </item>
@@ -55,9 +55,9 @@
       <pubDate>Sun, 26 May 2024 21:53:00 GMT</pubDate>
     </item>
     <item>
-      <title>没什么特别的，只是我展示我努力工作的图形引擎，它可以在任何计算机上运行</title>
+      <title>没什么特别的，只是我展示了我在图形引擎上的辛勤工作，它可以在任何计算机上运行</title>
       <link>https://www.reddit.com/r/opensource/comments/1d18wuf/nothing_special_just_me_showing_off_my_hard_work/</link>
-      <description><![CDATA[我希望得到一些支持和曝光，这样它就可以接触到志同道合的开发者，他们可能会觉得它很有趣 https://github.com/micro-gl/micro-gl    提交人    /u/hendrixstring   [link] [评论]]]></description>
+      <description><![CDATA[我希望得到一些支持和曝光，这样它就可以接触到志同道合的开发人员，他们可能会觉得它很有趣 https://github.com/micro-gl/micro-gl   由   提交 /u/hendrixstring   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d18wuf/nothing_special_just_me_showing_off_my_hard_work/</guid>
       <pubDate>Sun, 26 May 2024 19:20:53 GMT</pubDate>
     </item>
@@ -92,14 +92,14 @@
     <item>
       <title>如何开始为开源做出贡献。</title>
       <link>https://www.reddit.com/r/opensource/comments/1d0y9j1/how_to_get_started_with_contributing_to_open/</link>
-      <description><![CDATA[我是一名软件开发人员，我想开始为开源项目做贡献。但是，我在软件方面经验不多——我大约有 2 年的经验，包括 9 个月的实习（主要是移动和后端）。那么，我如何才能找到相对容易的任务（或更容易/更小的项目）来帮助我开始为开源做贡献？ 提前致谢。    提交人    /u/Zakariyyay   [link] [评论]]]></description>
+      <description><![CDATA[我是一名软件开发人员，我想开始为开源项目做出贡献。然而，我在软件方面的经验并不多——我有大约 2 年的经验，包括 9 个月的实习（主要是移动和后端）。那么，我怎样才能找到相对更容易的任务（或更容易/更小的项目）来完成，以帮助我开始进行开源贡献？提前致谢。   由   提交 /u/Zakariyyay   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d0y9j1/how_to_get_started_with_contributing_to_open/</guid>
       <pubDate>Sun, 26 May 2024 10:13:30 GMT</pubDate>
     </item>
     <item>
-      <title>如何找到相对未知的开源存储库来做出贡献</title>
+      <title>如何找到相对不知名的开源存储库并做出贡献</title>
       <link>https://www.reddit.com/r/opensource/comments/1d0wg25/how_to_find_relatively_unknown_open_source/</link>
-      <description><![CDATA[嗨，我正在寻找相对未知的开源存储库，我可能会帮助贡献。但我发现它不太难找到。    由   提交/u/BlueBoxxx  [链接] [评论]]]></description>
+      <description><![CDATA[嗨，我正在寻找一些我可能愿意为其做出贡献的相对不知名的开源存储库。但我发现很难找到。     提交人    /u/BlueBoxxx   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d0wg25/how_to_find_relatively_unknown_open_source/</guid>
       <pubDate>Sun, 26 May 2024 07:54:03 GMT</pubDate>
     </item>
