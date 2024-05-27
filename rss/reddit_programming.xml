@@ -4,7 +4,7 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Mon, 27 May 2024 00:47:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 03:13:14 GMT</lastBuildDate>
     <item>
       <title>如何使 Firebase Genkit 模板与纯 JavaScript 配合使用</title>
       <link>https://www.reddit.com/r/programming/comments/1d1dnbj/how_to_make_the_firebase_genkit_template_work/</link>
@@ -25,13 +25,6 @@
       <description><![CDATA[ 由   提交/u/guest271314  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1d1btkr/how_to_create_recreate_and_transfer_directories/</guid>
       <pubDate>Sun, 26 May 2024 21:35:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>“简单”脚本的摩擦和复杂性</title>
-      <link>https://www.reddit.com/r/programming/comments/1d1a95q/frictions_and_complexities_of_simple_scripts/</link>
-      <description><![CDATA[ 由   提交/u/LloydAtkinson   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1d1a95q/frictions_and_complexities_of_simple_scripts/</guid>
-      <pubDate>Sun, 26 May 2024 20:22:15 GMT</pubDate>
     </item>
     <item>
       <title>随时随地编码：我从海平面到 40,000 英尺的全功能旅行开发设置</title>
@@ -71,7 +64,7 @@
     <item>
       <title>如何从中级软件工程师成长为高级软件工程师</title>
       <link>https://www.reddit.com/r/programming/comments/1d15bay/how_to_grow_from_midlevel_to_senior_software/</link>
-      <description><![CDATA[  由    /u/gregorojstersek  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/gregorojstersek  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1d15bay/how_to_grow_from_midlevel_to_senior_software/</guid>
       <pubDate>Sun, 26 May 2024 16:37:23 GMT</pubDate>
     </item>
@@ -85,14 +78,14 @@
     <item>
       <title>VBScript 弃用：时间表和后续步骤</title>
       <link>https://www.reddit.com/r/programming/comments/1d121q9/vbscript_deprecation_timelines_and_next_steps/</link>
-      <description><![CDATA[ 由   提交/u/brokenisthenewnormal  [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/brokenisthenewnormal  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1d121q9/vbscript_deprecation_timelines_and_next_steps/</guid>
       <pubDate>Sun, 26 May 2024 14:02:30 GMT</pubDate>
     </item>
     <item>
-      <title>talkd/dialog 开源项目入选 2024 年 GitHub 加速器</title>
+      <title>talkd/dialog开源项目已入选2024年GitHub加速器</title>
       <link>https://www.reddit.com/r/programming/comments/1d11j5l/talkddialog_open_source_project_has_been_selected/</link>
-      <description><![CDATA[ 由   提交/u/avelino0  [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/avelino0  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1d11j5l/talkddialog_open_source_project_has_been_selected/</guid>
       <pubDate>Sun, 26 May 2024 13:36:30 GMT</pubDate>
     </item>
@@ -106,9 +99,16 @@
     <item>
       <title>麻省理工学院新闻 2020：对于大脑来说，阅读计算机代码与阅读语言不同</title>
       <link>https://www.reddit.com/r/programming/comments/1d0yi1j/mit_news_2020_to_the_brain_reading_computer_code/</link>
-      <description><![CDATA[  由    /u/GrueneBuche  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/GrueneBuche  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1d0yi1j/mit_news_2020_to_the_brain_reading_computer_code/</guid>
       <pubDate>Sun, 26 May 2024 10:30:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>由专人领导项目的 5 个理由</title>
+      <link>https://www.reddit.com/r/programming/comments/1d0wdx9/the_5_reasons_to_have_someone_leading_a_project/</link>
+      <description><![CDATA[ 由   提交 /u/strategizeyourcareer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d0wdx9/the_5_reasons_to_have_someone_leading_a_project/</guid>
+      <pubDate>Sun, 26 May 2024 07:49:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
