@@ -4,16 +4,16 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Tue, 28 May 2024 09:10:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 12:18:38 GMT</lastBuildDate>
     <item>
-      <title>转录播客，然后只从每一集中提取同一问题的答案？</title>
+      <title>转录播客，然后仅从每集中提取同一问题的答案？</title>
       <link>https://www.reddit.com/r/automation/comments/1d2empw/transcribe_podcast_then_only_extract_answer_to/</link>
       <description><![CDATA[我一直在分析播客。我需要 1) 转录它，2) 提取每集提出的特定问题的答案，3) 进行语言学分析。第 3 部分很简单，我对此很有经验，但没有第 1 部分和第 1 部分。 2. 我想我可以将播客 URL 粘贴到 Otter、Happy Scribe 或 Trint 中吗？或者更好的选择？不过我被困在 2 集了，我找不到一种有效的方法来从 400 集中提取单个响应哈哈   由   提交 /u/Grade-Long   /u/Grade-Long reddit.com/r/automation/comments/1d2empw/transcribe_podcast_then_only_extract_answer_to/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1d2empw/transcribe_podcast_then_only_extract_answer_to/</guid>
       <pubDate>Tue, 28 May 2024 08:35:34 GMT</pubDate>
     </item>
     <item>
-      <title>GPT-4o 为何免费？OpenAI 的总体规划</title>
+      <title>为什么 GPT-4o 是免费的？ OpenAI 的总体规划</title>
       <link>https://www.reddit.com/r/automation/comments/1d2cg20/why_is_gpt4o_free_openais_master_plan/</link>
       <description><![CDATA[       由   提交/u/High_Sleep3694   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1d2cg20/why_is_gpt4o_free_openais_master_plan/</guid>
@@ -22,7 +22,7 @@
     <item>
       <title>您经常完成哪些无聊的在线任务，并且希望其他人来完成这些任务？</title>
       <link>https://www.reddit.com/r/automation/comments/1d2bh44/what_are_some_boring_online_tasks_you_complete/</link>
-      <description><![CDATA[ 由   提交/u/Pukster123  [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/Pukster123  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1d2bh44/what_are_some_boring_online_tasks_you_complete/</guid>
       <pubDate>Tue, 28 May 2024 04:56:05 GMT</pubDate>
     </item>
@@ -57,7 +57,7 @@
     <item>
       <title>请帮助我分享您对刚进入自动化领域的新手的经验</title>
       <link>https://www.reddit.com/r/automation/comments/1d0dj99/please_help_me_by_sharing_your_experience_for_an/</link>
-      <description><![CDATA[  由    /u/David-Laid93  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/David-Laid93  /u/David-Laid93  reddit.com/r/PLC/comments/1d0diy6/please_help_me_by_sharing_your_experience_for_an/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1d0dj99/please_help_me_by_sharing_your_experience_for_an/</guid>
       <pubDate>Sat, 25 May 2024 14:42:51 GMT</pubDate>
     </item>
@@ -83,9 +83,9 @@
       <pubDate>Fri, 24 May 2024 15:41:02 GMT</pubDate>
     </item>
     <item>
-      <title>如何检查字符串中至少 85％ 是否与现有记录匹配？</title>
+      <title>如何检查字符串是否至少 85% 与现有记录匹配？</title>
       <link>https://www.reddit.com/r/automation/comments/1czgi0i/how_can_i_check_if_at_least_85_of_a_string/</link>
-      <description><![CDATA[我收到来自许多公司的提交内容，如果来自同一家公司的两个人提交的拼写略有不同，我不想创建一个完全不同的内容公司新纪录。我需要一个技巧来验证它是否很可能是同一家公司，这样我就可以只更新一条记录。   由   提交/u/ebsurf10   [链接] [评论]]]></description>
+      <description><![CDATA[我收到许多公司的提交，如果同一家公司的两个人提交的拼写略有不同，我不想创建一个全新的公司记录。我需要一个技巧来验证它是否最有可能是同一家公司，以便我可以只更新一条记录。    提交人    /u/ebsurf10   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1czgi0i/how_can_i_check_if_at_least_85_of_a_string/</guid>
       <pubDate>Fri, 24 May 2024 09:10:48 GMT</pubDate>
     </item>
@@ -99,7 +99,7 @@
     <item>
       <title>自动化内部问答</title>
       <link>https://www.reddit.com/r/automation/comments/1cyurbo/automate_internal_qa/</link>
-      <description><![CDATA[     &lt; td&gt; 由   提交/u/Short-Bird-4906   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[        提交人    /u/Short-Bird-4906   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cyurbo/automate_internal_qa/</guid>
       <pubDate>Thu, 23 May 2024 14:55:17 GMT</pubDate>
     </item>
