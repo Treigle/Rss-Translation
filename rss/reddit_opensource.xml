@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 28 May 2024 15:11:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 18:15:04 GMT</lastBuildDate>
+    <item>
+      <title>用于毕业活动的 FOSS A/V 软件</title>
+      <link>https://www.reddit.com/r/opensource/comments/1d2m9qo/foss_av_software_for_graduation_event/</link>
+      <description><![CDATA[大家好， 我在一所学校从事 IT 工作，我们的毕业典礼分为几个活动（我们有学生全州各地）。虽然我们最大的活动有由活动中心的 A/V 团队管理的学生的音乐和演示，但我们的第二次活动要小得多，我负责音乐、演示等。我想知道是否有人有建议FOSS（或其他免费）软件可以使播放更加无缝和“专业”？我可以通过 VLC 打开歌曲，但我希望时机感觉很专业，尤其是对于学生来说像毕业这样重要的事情。我正在考虑某种均衡器软件，这样我就可以淡入音乐。幻灯片是通用的 Google Slide/Powerpoint，我们也可以将其下载为视频。提前致谢！   由   提交/u/New_Scientist_4532   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1d2m9qo/foss_av_software_for_graduation_event/</guid>
+      <pubDate>Tue, 28 May 2024 15:30:17 GMT</pubDate>
+    </item>
     <item>
       <title>从 CLI 合并文件夹</title>
       <link>https://www.reddit.com/r/opensource/comments/1d2l5jk/merge_folders_from_cli/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>如何制作开源电子商务网站</title>
       <link>https://www.reddit.com/r/opensource/comments/1d2ejgw/how_to_make_open_source_ecommerce_website/</link>
-      <description><![CDATA[大家好，我只是想知道是否有关于如何制作 eshop 的指南。我有耐心，也很想学，就是不知道从哪里开始。如果有不同的 reddit，或者如果您已经在这里讨论过，请给我发送链接。任何帮助将不胜感激））。   由   提交/u/PonorkaSub   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我只是想知道是否有关于如何制作电子商店的指南。我有耐心，真的很想学习，只是不知道从哪里开始。如果 reddit 上有不同的内容，或者您​​已经在这里讨论过，请给我发送链接。任何帮助都将不胜感激。    提交人    /u/PonorkaSub   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d2ejgw/how_to_make_open_source_ecommerce_website/</guid>
       <pubDate>Tue, 28 May 2024 08:28:39 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>有人有兴趣制作开源 RTOS 吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1d29p8e/would_anybody_be_interested_in_making_an_open/</link>
-      <description><![CDATA[标题，我可能最终会自己做，但如果有其他人帮忙会更容易。如果大家感兴趣，我会建立一个 discord 服务器，我们可以讨论一下！    提交人    /u/catpetter777   [link] [评论]]]></description>
+      <description><![CDATA[标题，我可能最终会自己做，但一路上有其他人提供帮助会更容易。如果人们感兴趣，我会制作一个不和谐服务器，我们可以讨论它！   由   提交/u/catpetter777  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d29p8e/would_anybody_be_interested_in_making_an_open/</guid>
       <pubDate>Tue, 28 May 2024 03:11:07 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>Linux 实习：为本地 LLM 创建支持搜索的 API 服务器</title>
       <link>https://www.reddit.com/r/opensource/comments/1d1tc6f/linux_internship_create_a_searchenabled_api/</link>
-      <description><![CDATA[ 由   提交/u/smileymileycoin  [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/smileymileycoin  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d1tc6f/linux_internship_create_a_searchenabled_api/</guid>
       <pubDate>Mon, 27 May 2024 14:53:14 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[   /u/anehzat   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d1k2i9/how_do_you_handle_support_requests_from_companies/</guid>
       <pubDate>Mon, 27 May 2024 05:12:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>移除.bg API 替代方案</title>
-      <link>https://www.reddit.com/r/opensource/comments/1d1idyp/removebg_api_alternatives/</link>
-      <description><![CDATA[是否有可靠且更便宜的remove.bg级别替代品？ remove.bg 的成本非常高，任何最好删除 png/svg 背景并且具有成本效益的东西。   由   提交 /u/Agreeable_Ad6424   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1d1idyp/removebg_api_alternatives/</guid>
-      <pubDate>Mon, 27 May 2024 03:28:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
