@@ -4,7 +4,21 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 29 May 2024 18:14:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2024 21:10:46 GMT</lastBuildDate>
+    <item>
+      <title>更快地了解更多</title>
+      <link>https://www.producthunt.com/posts/learn-more-faster</link>
+      <description><![CDATA[
+如何找到您的目标客户及其完美产品
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/learn-more-faster</guid>
+      <pubDate>Wed, 29 May 2024 19:00:11 GMT</pubDate>
+    </item>
     <item>
       <title>熊习惯追踪器</title>
       <link>https://www.producthunt.com/posts/bear-habit-tracker</link>
@@ -34,66 +48,38 @@
       <pubDate>Wed, 29 May 2024 07:13:07 GMT</pubDate>
     </item>
     <item>
-      <title>时间操作系统2.0</title>
-      <link>https://www.producthunt.com/posts/timeos-2-0-1</link>
+      <title>指导</title>
+      <link>https://www.producthunt.com/posts/guider</link>
       <description><![CDATA[
-您的一天变得更聪明了
+精心策划的城市旅游平台，为您的旅程增光添彩
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/timeos-2-0-1</guid>
-      <pubDate>Tue, 28 May 2024 18:34:46 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/guider</guid>
+      <pubDate>Tue, 28 May 2024 21:03:20 GMT</pubDate>
     </item>
     <item>
-      <title>苗条的船</title>
-      <link>https://www.producthunt.com/posts/svelteship</link>
+      <title>独奏数据中心</title>
+      <link>https://www.producthunt.com/posts/solodatahub</link>
       <description><![CDATA[
-推出您的 SvelteKit 应用，扬帆起航
+所有初创企业数据都集中在一个地方
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/svelteship</guid>
-      <pubDate>Tue, 28 May 2024 17:01:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Visme 表格</title>
-      <link>https://www.producthunt.com/posts/visme-forms</link>
-      <description><![CDATA[
-设计优先的表单和调查生成器，可实现更好的转化
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/visme-forms</guid>
-      <pubDate>Tue, 28 May 2024 16:26:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>盖兹</title>
-      <link>https://www.producthunt.com/posts/qaiz</link>
-      <description><![CDATA[
-现场一起创建和玩 AI 测验
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/qaiz</guid>
-      <pubDate>Tue, 28 May 2024 14:30:26 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/solodatahub</guid>
+      <pubDate>Tue, 28 May 2024 12:10:12 GMT</pubDate>
     </item>
     <item>
       <title>Biofy.io</title>
       <link>https://www.producthunt.com/posts/biofy-io</link>
       <description><![CDATA[
-您的链接，您的影响力
+链接、二维码和 AI 聊天的无限可能
 
 
 讨论
@@ -102,6 +88,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/biofy-io</guid>
       <pubDate>Tue, 28 May 2024 12:01:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>韦尔平</title>
+      <link>https://www.producthunt.com/posts/wellpin</link>
+      <description><![CDATA[
+为所有人提供免费的日程安排助手
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/wellpin</guid>
+      <pubDate>Tue, 28 May 2024 11:14:12 GMT</pubDate>
     </item>
     <item>
       <title>无代码抓取工具</title>
@@ -118,6 +118,20 @@
       <pubDate>Tue, 28 May 2024 09:53:42 GMT</pubDate>
     </item>
     <item>
+      <title>旅行曲调</title>
+      <link>https://www.producthunt.com/posts/trip-tunes</link>
+      <description><![CDATA[
+AI 生成具有当地特色的 Apple Music 公路旅行播放列表
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/trip-tunes</guid>
+      <pubDate>Tue, 28 May 2024 03:34:41 GMT</pubDate>
+    </item>
+    <item>
       <title>提示我</title>
       <link>https://www.producthunt.com/posts/tipsme</link>
       <description><![CDATA[
@@ -132,6 +146,34 @@
       <pubDate>Tue, 28 May 2024 00:14:09 GMT</pubDate>
     </item>
     <item>
+      <title>Tyler1 的 Backseat AI</title>
+      <link>https://www.producthunt.com/posts/backseat-ai-by-tyler1</link>
+      <description><![CDATA[
+您最喜欢的创作者作为 AI 游戏伙伴
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/backseat-ai-by-tyler1</guid>
+      <pubDate>Mon, 27 May 2024 15:11:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Justinmind 用户流程</title>
+      <link>https://www.producthunt.com/posts/justinmind-user-flows</link>
+      <description><![CDATA[
+设计、模拟和验证用户流程
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/justinmind-user-flows</guid>
+      <pubDate>Mon, 13 May 2024 21:54:48 GMT</pubDate>
+    </item>
+    <item>
       <title>英雄套件</title>
       <link>https://www.producthunt.com/posts/herokit</link>
       <description><![CDATA[
@@ -144,48 +186,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/herokit</guid>
       <pubDate>Wed, 08 May 2024 11:13:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>紧密 2.0</title>
-      <link>https://www.producthunt.com/posts/closely-2-0</link>
-      <description><![CDATA[
-享受一体化无缝销售自动化平台
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/closely-2-0</guid>
-      <pubDate>Tue, 07 May 2024 13:47:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>音节 V2.0</title>
-      <link>https://www.producthunt.com/posts/syllaby-v2-0</link>
-      <description><![CDATA[
-您的内部 AI 视频营销机构
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/syllaby-v2-0</guid>
-      <pubDate>Wed, 01 May 2024 05:50:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cover.one</title>
-      <link>https://www.producthunt.com/posts/coverse-one</link>
-      <description><![CDATA[
-整理您的文档并围绕以下主题开展团队合作
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/coverse-one</guid>
-      <pubDate>Fri, 26 Apr 2024 17:42:39 GMT</pubDate>
     </item>
     <item>
       <title>轶事</title>
