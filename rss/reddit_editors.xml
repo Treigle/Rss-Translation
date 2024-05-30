@@ -4,20 +4,13 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Thu, 30 May 2024 00:46:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2024 03:12:05 GMT</lastBuildDate>
     <item>
       <title>如何获得高品质的音效？</title>
       <link>https://www.reddit.com/r/editors/comments/1d3qv16/how_do_i_get_high_quality_sound_effects/</link>
       <description><![CDATA[我刚开始在中国做视频编辑，负责电视广告编辑工作。我曾经是一名自由职业者，为 bilibili 制作视频（就像 YouTube 一样）或为线下展览制作简单的企业宣传视频。 非专业编辑和专业编辑（对于电视广告）的工作流程完全不同。他们的效率要高得多，而我还在学习中。 我的同事要求我更精确地进行 sfx 设计。结合提升器和撞击和嗖嗖声或其他类似的东西，但我在中国网中只能找到一些可用的音效库，而且质量很低，甚至很难使用。 我怎样才能找到那些高质量的音效？我在哪里可以买到它们？真的需要建议（或推荐：D）    提交人    /u/stickyTon   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1d3qv16/how_do_i_get_high_quality_sound_effects/</guid>
       <pubDate>Thu, 30 May 2024 00:15:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>尝试寻找编辑工作</title>
-      <link>https://www.reddit.com/r/editors/comments/1d3pup9/trying_to_find_work_in_editing/</link>
-      <description><![CDATA[大家好！我之前做过 2 份编辑工作，但我正在努力寻找更多客户，并且有一份稳定的视频编辑工作。我尝试过 indeed 和 upwork，但效果并不好。你们是怎么获得客户的？我最近买了一台电脑，喜欢编辑，很想在家工作。    提交人    /u/KreativeJack   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1d3pup9/trying_to_find_work_in_editing/</guid>
-      <pubDate>Wed, 29 May 2024 23:27:12 GMT</pubDate>
     </item>
     <item>
       <title>康涅狄格州斯坦福的 nbc 使用什么？</title>
@@ -109,6 +102,13 @@
       <description><![CDATA[https://streamable.com/mz9x3s 只是好奇这是否可能。    提交人    /u/Friend_of_the_show   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1d2w0tr/is_there_a_way_to_fix_this_footage_flicker_scan/</guid>
       <pubDate>Tue, 28 May 2024 22:05:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>导出具有不同宽高比的静态图像</title>
+      <link>https://www.reddit.com/r/editors/comments/1d2rclz/exporting_stills_with_different_aspect_ratios/</link>
+      <description><![CDATA[我使用 bmpcc og 拍摄照片，使用 davinci 进行编辑（我知道这非常不合常规，因为它只拍摄视频），但在一个项目中，我可以导出 1.77、1.33 或 2.35 的静态图像，而且我总是在不同的输出消隐之间切换。就我而言，输出消隐不会影响图像，它只是一种以所需比例查看图像的方式。有没有办法让我导出静态图像并保持不同的宽高比，而无需每次都更改时间线分辨率？    提交人    /u/mu31a   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1d2rclz/exporting_stills_with_different_aspect_ratios/</guid>
+      <pubDate>Tue, 28 May 2024 18:59:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
