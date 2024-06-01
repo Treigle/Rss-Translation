@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Sat, 01 Jun 2024 18:13:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2024 21:11:07 GMT</lastBuildDate>
+    <item>
+      <title>请求/咨询。知道任何使用 Premiere 制作系列节目的 EP 吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/1d5tbo8/request_consult_know_any_eps_working_on_a_series/</link>
+      <description><![CDATA[请发信息。  谢谢。     由    /u/greenysmac 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1d5tbo8/request_consult_know_any_eps_working_on_a_series/</guid>
+      <pubDate>Sat, 01 Jun 2024 18:23:23 GMT</pubDate>
+    </item>
     <item>
       <title>《漫长的奇怪旅程》中最令人困惑的编辑选择之一</title>
       <link>https://www.reddit.com/r/editors/comments/1d5sv50/one_of_the_more_baffling_editorial_choices_in/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[嗨，我想知道墨尔本的视频或电影编辑工作环境如何？我正在寻找可能计入 190 或 482 签证的辅助编辑工作    提交人    /u/Remeleen   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1d4vq38/editing_jobs_in_melbourne/</guid>
       <pubDate>Fri, 31 May 2024 13:32:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>NAS 遭受勒索软件攻击</title>
-      <link>https://www.reddit.com/r/editors/comments/1d4uiei/ransomware_attack_on_nas/</link>
-      <description><![CDATA[这是 DaveR007 在 Synology 论坛上发布的。Dave 是 Synology 的顶尖人物之一，他解释了如何使用 CLI 命令解决 Synology 的一些限制 - 所以我相信他 - https://www.reddit.com/r/synology/comments/1d4rtu0/massive_botnet_attacking_synology_how_to_protect/ 这里的寓意是，如果你将 NAS（我不在乎是谁制造的）暴露在互联网上，并在互联网路由器上打开端口进行远程访问（使用 OpenVPN 之类的东西），你就会受到攻击。没有神奇的解决方案。坏人就在那里。遵守规则，你就不会受到攻击。 Bob Zelin 发布此帖 30 秒后，我回到该论坛，尽管有这篇文章，有人还是询问如何设置 OpenVPN - 这实际上是下一篇帖子。  https://www.reddit.com/r/synology/comments/1d4r70k/questions_regarding_openvpn_configuration_and_nas/ 就像这个论坛上的人们不断询问编辑 h.264 文件的问题一样。     提交人    /u/BobZelin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1d4uiei/ransomware_attack_on_nas/</guid>
-      <pubDate>Fri, 31 May 2024 12:33:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
