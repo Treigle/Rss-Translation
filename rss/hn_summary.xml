@@ -4,108 +4,106 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Fri, 07 Jun 2024 08:54:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2024 14:21:25 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 网站：www.theguardian.com</title>
-      <link>https://t.me/hn_summary/93643</link>
-      <description><![CDATA[神奇发生的地方：美国人让你进入他们的卧室——图片
-标题：神奇发生的地方：美国人让你进入他们的卧室——图片
-网站：www.theguardian.com
+      <title>[媒体] 在《状态空间模型中的状态错觉》一书中，作者 William Merrill、Jackson Pet [...]</title>
+      <link>https://t.me/hn_summary/93679</link>
+      <description><![CDATA[状态空间模型中的状态错觉
+在《状态空间模型中的状态错觉》一文中，作者 William Merrill、Jackson Petty 和 Ashish Sabharwal 探讨了状态空间模型 (SSM) 作为大型语言模型 (LLM) 中 Transformer 架构的替代方案的理论局限性。尽管 SSM 的设计旨在解决顺序计算和状态跟踪问题，但作者表明，SSM 在表达能力方面并不比 Transformer 具有显著优势。这两种架构都受限于复杂度类 $\mathsf{TC}^0$，这意味着它们无法解决简单的状态跟踪任务，例如排列组合、棋步跟踪或代码评估。使用 Mamba 式 SSM 进行的实验结果支持了这些发现，表明 SSM 中的“状态”是一种假象，从根本上限制了它们在现实世界中的适用性。这挑战了 SSM 在处理状态相关任务方面的感知优势。]]></description>
+      <guid>https://t.me/hn_summary/93679</guid>
+      <pubDate>Fri, 07 Jun 2024 14:21:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 一位徒步旅行者最近发现，中国最高的瀑布，高 1000 英尺的云台山 [...]</title>
+      <link>https://t.me/hn_summary/93678</link>
+      <description><![CDATA[徒步旅行者发现中国最高的瀑布由管道供水
 
-摄影师 Barbara Peacock 通过她令人回味的卧室肖像，让我们近距离地一窥美国人的私人生活。从露营车和公园到挤满家庭成员的狭窄单间公寓，Peacock 捕捉了拍摄对象最脆弱的一面，揭示了人们居住在私人空间的多样且常常令人惊讶的方式。这组图片不仅展示了全国各地生活条件的多样性，还突出了每间卧室门背后深刻的个人和独特故事。该项目以其原始的诚实和 Peacock 从拍摄对象那里赢得的信任而脱颖而出，使其成为美国生活的引人入胜的视觉叙事。]]></description>
-      <guid>https://t.me/hn_summary/93643</guid>
-      <pubDate>Fri, 07 Jun 2024 08:54:46 GMT</pubDate>
+最近，一位徒步旅行者发现，中国最高的瀑布——湖南国家公园 1,000 英尺高的云台山瀑布实际上是由管道供水的。当徒步旅行者到达山顶时，发现水从岩石表面的管道中流出，这一发现才得以揭晓。他记录这一发现的视频迅速走红，在社交媒体上获得了 2400 万次观看，并引发了热门话题“云台瀑布的起源只是一些管道”。这一令人惊讶的发现引起了公众的极大兴趣和讨论。]]></description>
+      <guid>https://t.me/hn_summary/93678</guid>
+      <pubDate>Fri, 07 Jun 2024 14:17:19 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网站：fluo.chat</title>
-      <link>https://t.me/hn_summary/93642</link>
-      <description><![CDATA[展示 HN：Fluo – 沉浸式聊天
-标题：展示 HN：Fluo – 沉浸式聊天
-网站：fluo.chat
+      <title>[媒体] 2022 年末，我概述了联邦宇宙中端到端加密 (E2EE) 的需求，f [...]</title>
+      <link>https://t.me/hn_summary/93677</link>
+      <description><![CDATA[迈向联邦密钥透明度
+2022 年末，我概述了 Fediverse 中端到端加密 (E2EE) 的需求，重点是密钥管理。虽然密钥管理和批量加密相对简单，但公钥管理带来了重大挑战。集中式服务可以轻松管理公钥，但这种方法对于联邦系统来说是不安全的。WhatsApp 提出的密钥透明度是一种有前途的解决方案，可确保诚实并防止密钥替换。但是，为联邦系统扩展它很复杂。
 
-为什么选择 Fluo？
+为了解决这个问题，我建议为 Fediverse 构建一个公钥目录，这将有利于 E2EE 和其他应用程序。该目录将支持添加、撤销和移动身份等关键操作，并将在初期使用 Ed25519 密钥，并计划在未来使用后量子算法。该系统将通过仅附加日志和见证共同签名来确保透明度和安全性。
 
-在当今的数字时代，社交网络通常限制我们与已经认识的人互动。Fluo 旨在通过提供一个平台来重新点燃结识新朋友的兴奋感，从而改变这一现状。Fluo 旨在模拟您最喜欢的社交场所，提供精心策划的聊天室和沉浸式音乐背景，让您可以自发相遇并结交新朋友。您可以舒适地在家中享受这种充满活力的社区体验，这使其成为传统社交网络的独特而令人耳目一新的替代品。]]></description>
-      <guid>https://t.me/hn_summary/93642</guid>
-      <pubDate>Fri, 07 Jun 2024 08:09:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 2013 年，我购买了一台新笔记本电脑并安装了 Windows 8，结果却出了问题 [...]</title>
-      <link>https://t.me/hn_summary/93641</link>
-      <description><![CDATA[桌面 Linux 是一座尚未开发的金矿
-2013 年，我买了一台新笔记本电脑并安装了 Windows 8，但由于其糟糕的用户界面和稳定性，结果变成了一场灾难。尽管有如此多的发行版 (distro)，这促使我开始探索 Linux。我从 Ubuntu 开始，但面临硬件兼容性问题和专有媒体编解码器的排除，这令人沮丧。Linux 社区，尤其是 Arch 论坛上的社区，并不受欢迎且精英主义，这让体验更具挑战性。最终，我在 Linux Mint 中找到了慰藉，它提供了稳定性和熟悉的用户界面。然而，缺乏对 Adob​​e Suite 等主要应用程序的支持仍然是许多用户的障碍。尽管存在这些挑战，但我相信 Linux 具有巨大的潜力，尤其是随着 Snap 和 Flatpak 等通用软件包格式的兴起。 Linux 在数据中心、移动设备（Android）和游戏（Steam Deck）上的成功表明了它的潜力。桌面 Linux 是一个尚未开发的金矿，只要采取正确的方法，它就可以取得成功，而不会像大型科技公司那样陷入陷阱。]]></description>
-      <guid>https://t.me/hn_summary/93641</guid>
-      <pubDate>Fri, 07 Jun 2024 08:02:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 詹姆斯·乔伊斯写给妻子诺拉·巴纳克尔的信中披露了令人惊讶的真相 [...]</title>
-      <link>https://t.me/hn_summary/93640</link>
-      <description><![CDATA[阅读詹姆斯·乔伊斯写给妻子诺拉·巴纳克尔的淫秽信件
-令人惊讶的是，詹姆斯·乔伊斯写给妻子诺拉·巴纳克尔的信件揭示了这位著名作家的一面，与他备受推崇的文学作品《尤利西斯》和《一个青年艺术家的肖像》形成鲜明对比。这些信件充满了露骨和淫秽的内容，凸显了乔伊斯与诺拉关系中强烈的激情和情色性质。尽管乔伊斯在公众面前表现得温文尔雅，但他的私人信件却显示出他对粗俗语言和私密细节的迷恋，回想起来，他自己也对此感到震惊。这些信件于 1957 年出售给康奈尔大学，为读者提供了一个独特的视角来了解乔伊斯的个人生活和不断发展的关系动态，随着经济和婚姻的挑战出现，他们从炽热的激情转变为更尽职尽责的爱情。通过对乔伊斯生活的深入观察，读者可以了解这位文学巨匠的人性，并展示他的脆弱和私人欲望。]]></description>
-      <guid>https://t.me/hn_summary/93640</guid>
-      <pubDate>Fri, 07 Jun 2024 07:22:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>网站：genai-handbook.github.io</title>
-      <link>https://t.me/hn_summary/93639</link>
-      <description><![CDATA[生成式 AI 手册：学习资源路线图
-标题：生成式 AI 手册：学习资源路线图
-网站：genai-handbook.github.io
+一个值得注意的挑战是 GDPR 合规性，需要用户名混淆来处理被遗忘权。尽管存在这些障碍，但拟议的目录旨在为安全的联合通信提供坚实的基础，而无需依赖加密货币。
 
-在本节中，我们将快速概述统计预测和强化学习中的经典主题，这些主题是理解大型语言模型 (LLM) 的基础。我们强调经常被忽视但至关重要的概念，例如时间序列分析、遗憾最小化和马尔可夫模型。涵盖的关键领域包括：
+争议：联合系统中公钥管理的复杂性和 GDPR 合规性的必要性，使实施变得复杂。
 
-1. 统计预测和监督学习：了解随机变量、期望、方差和中心极限定理至关重要。推荐使用 3Blue1Brown 视频和 Hastie 的“统计学习要素”等资源。
-2. 时间序列分析：对于 LLM 来说，基础知识就足够了，但对于扩散模型则需要更深入的理解。重点介绍了 ARIMA 模型和随机微分方程。
-3. 在线学习和遗憾最小化：虽然重要性尚有争议，但基本掌握还是有用的，尤其是对于理解 GAN 和基于梯度的优化算法（如 Adam）而言。
-4. 强化学习：对于微调方法和代理应用很重要。关键概念包括马尔可夫决策过程和标准优化方法。 Sutton 和 Barto 的教科书是经典参考。
-5. 马尔可夫模型：许多机器学习分支的基础，包括贝叶斯方法和隐马尔可夫模型。推荐使用 Aja Hammerly 的博客和 Zoubin Ghahramani 的教程等资源。
+独特/聪明：该提案避免了加密货币依赖性，并利用密钥透明度来增强联合环境中的安全性和信任度。（基于 71% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/93677</guid>
+      <pubDate>Fri, 07 Jun 2024 14:04:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 在《平息全球咆哮》一书中，阿莫里娜·金登探讨了地下水的深远影响 [...]</title>
+      <link>https://t.me/hn_summary/93676</link>
+      <description><![CDATA[平息全球咆哮
+在《平息全球咆哮》一书中，阿莫里娜·金登探讨了水下噪音污染对海洋生物的深远影响，尤其是对圣劳伦斯河的影响。这篇文章改编自她的书《像鱼一样歌唱：声音如何统治水下生命》，描述了这条繁忙的水道，商业和休闲船只与包括白鲸在内的各种海洋物种共存。金登强调了人类产生的噪音如何破坏对海洋动物交流、交配和生存至关重要的自然音景。她强调了减轻这些影响的复杂性，并指出，虽然存在法规，但海上交通的庞大数量仍然带来重大挑战。文章巧妙地将泰杜沙克宁静的自然美景与过往船只的嘈杂噪音并列，强调了保护海洋生态系统的迫切需要。（根据 38% 的故事文本总结。）]]></description>
+      <guid>https://t.me/hn_summary/93676</guid>
+      <pubDate>Fri, 07 Jun 2024 14:00:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 在“指令集应该是免费的：RISC-V 的案例”中，Krste Asanović 和 David A.</title>
+      <link>https://t.me/hn_summary/93675</link>
+      <description><![CDATA[指令集应免费：RISC-V 案例 [pdf](https://news.ycombinator.com/item?id=40608373)
+在“指令集应免费：RISC-V 案例”中，Krste Asanović 和 David A. Patterson 主张技术行业需要免费、开放的指令集架构 (ISA)。他们强调，ARM、IBM 和英特尔等公司控制的专有 ISA 由于许可流程昂贵且耗时，扼杀了创新和竞争。作者提出 RISC-V，一种由加州大学伯克利分校开发的免费、开放的 RISC ISA，是一种更好的替代方案。他们强调，RISC-V 的灵活性、经过验证的商业成功和开源特性可以推动更大的创新、降低成本并增强安全性。令人惊讶的是，他们断言专有 ISA 阻碍了技术进步，这一立场挑战了行业的现状。（基于 39% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/93675</guid>
+      <pubDate>Fri, 07 Jun 2024 13:59:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 在 TorontoJS 的一次闪电演讲中，我扩展了我的思考，强调了 [...] 的重要性。</title>
+      <link>https://t.me/hn_summary/93674</link>
+      <description><![CDATA[停止调整浏览器大小：改进响应性测试
+在 TorontoJS 的闪电演讲中，我强调了在浏览器开发工具中使用设备模式进行准确的移动和平板电脑测试的重要性，而不仅仅是调整浏览器大小。调整大小无法考虑视口高度、缩放级别、触摸事件、方向、用户代理字符串和设备像素比等关键因素。例如，Android 和 iOS 上的 Chrome 的视口高度不一致，与 CSS 的 100vh 不一致。我推荐使用 Responsively 和 BrowserStack 等工具来更好地模拟和在 CI 管道中进行视觉回归测试。最终，调整浏览器大小并不等同于在实际设备上进行真正的响应性测试。]]></description>
+      <guid>https://t.me/hn_summary/93674</guid>
+      <pubDate>Fri, 07 Jun 2024 13:56:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 展示 HN：您的互联网链接空间，每个链接都有一个描述。</title>
+      <link>https://t.me/hn_summary/93673</link>
+      <description><![CDATA[显示 HN：一个用于互联网链接的空间，每个链接都有一个描述。PWYW
+标题：显示 HN：一个用于互联网链接的空间，每个链接都有一个描述。PWYW
+网站：linkspace.bio
 
-令人惊讶的见解：该手册独特地将经典统计方法与现代 AI 技术相结合，提供了深度学习速成课程中经常缺少的全面学习路线图。]]></description>
-      <guid>https://t.me/hn_summary/93639</guid>
-      <pubDate>Fri, 07 Jun 2024 07:18:51 GMT</pubDate>
+Linkspace.bio 是一个平台，旨在托管最多 250 个指向您的社交媒体个人资料、产品、服务或商店的链接，每个链接都附有描述。该项目旨在为早期艺术家、内容创作者、家庭企业创始人和副业所有者提供一个集中的在线空间，以支持他们。该服务采用“随心付费”（PWYW）模式，让那些经济拮据的人也能享受到。该平台的独特方法将各种职业和爱好整合到一个统一的在线空间中，用一系列代表不同用户类型的表情符号来表示。]]></description>
+      <guid>https://t.me/hn_summary/93673</guid>
+      <pubDate>Fri, 07 Jun 2024 13:55:44 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 尽管工作压力很常见，但有些人还是会夸耀自己的压力水平，认为 [...]</title>
-      <link>https://t.me/hn_summary/93638</link>
-      <description><![CDATA[吹嘘压力可能会让你在工作中显得能力不足、不讨人喜欢
-虽然工作压力很常见，但有些人会吹嘘自己的压力水平，认为这会让他们显得敬业。然而，佐治亚大学特里商学院的研究表明，吹嘘压力实际上会让人显得能力不足和不讨人喜欢。发表在《人事心理学》上的这项由杰西卡·罗德尔领导的研究发现，吹嘘压力的同事会受到负面看法，不太可能得到帮助。这种行为还会增加同事的压力和倦怠，从而形成有害的工作环境。令人惊讶的是，仅仅被认为有压力就能让人看起来更有能力，但吹嘘压力会适得其反。管理者应该意识到这种行为的更广泛影响。]]></description>
-      <guid>https://t.me/hn_summary/93638</guid>
-      <pubDate>Fri, 07 Jun 2024 07:16:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 网站：worthless.app</title>
-      <link>https://t.me/hn_summary/93637</link>
-      <description><![CDATA[向 HN 展示：我认为我构建了互联网上最没用的 SaaS
-标题：向 HN 展示：我认为我构建了互联网上最没用的 SaaS
-网站：worthless.app
+      <title>[媒体] 标题：Promptframes：为人工智能时代而进化的线框</title>
+      <link>https://t.me/hn_summary/93672</link>
+      <description><![CDATA[Promptframes：为人工智能时代而进化的线框
+标题：Promptframes：为人工智能时代而进化的线框
 
-我创建了我认为是互联网上最没意义的 SaaS，我邀请您查看。该网站对 SaaS 产品的泛滥进行了幽默的解读，通过提供故意无用的服务来嘲笑这个行业。但是，通过订阅，您实际上是在支持一家小型数字代理机构。这个细节幽默地隐藏在小文本中，以保持对笑话的关注。这里的巧妙之处在于，虽然这项服务的设计毫无价值，但它仍然通过支持真正的业务而发挥了作用。]]></description>
-      <guid>https://t.me/hn_summary/93637</guid>
-      <pubDate>Fri, 07 Jun 2024 07:10:33 GMT</pubDate>
+网站：www.nngroup.com
+
+摘要：
+在不断发展的用户体验设计领域，传统的占位符内容（如“lorem ipsum”）可能会阻碍有效的反馈。为了解决这个问题，引入了“promptframes”的概念，将线框与人工智能生成的内容提示合并在一起。 Promptframes 记录了生成式 AI 的内容目标和要求，使设计师能够快速创建逼真的占位符内容。这种方法增强了创意、内容保真度和协作，同时也注重业务和用户目标。通过在设计过程的早期集成 AI，promptframes 促进了快速迭代和有意义的用户测试，最终带来更精致、更可行的设计。（基于 76% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/93672</guid>
+      <pubDate>Fri, 07 Jun 2024 13:55:41 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 美国是富裕国家中产妇死亡率最高的国家。</title>
-      <link>https://t.me/hn_summary/93636</link>
-      <description><![CDATA[美国是富裕国家中产妇死亡率最高的国家，挪威为零
-尽管最近有所下降，但美国仍然是高收入国家中产妇死亡率最高的国家，2022 年每 10 万活产中有 22 人死亡。这一比率明显高于其他国家，挪威报告的产妇死亡率为零。在美国黑人女性中，这种差距更加明显，每 10 万活产中有近 50 人死亡。英联邦基金会的报告强调了助产士短缺、缺乏全民健康覆盖和产后护理不足等问题，这些都是关键因素。美国在同行中是独一无二的，没有联邦强制规定的带薪产假，这加剧了这一问题。 （基于 97% 的故事文本摘要。）]]></description>
-      <guid>https://t.me/hn_summary/93636</guid>
-      <pubDate>Fri, 07 Jun 2024 06:55:23 GMT</pubDate>
+      <title>[媒体] 如果您经常使用正则表达式 (regex)，您就会知道它们很快就会变得难以理解 [...]</title>
+      <link>https://t.me/hn_summary/93671</link>
+      <description><![CDATA[更好的正则表达式体验
+如果您经常使用正则表达式 (regex)，您就会知道它们很快就会变得难以理解。经过反复试验而完善的精心制作的字符串通常会在一两周内变得晦涩难懂。为了使正则表达式更易于维护，本文介绍了两种方法：添加注释和使用命名捕获组。通过启用注释标志 (?x)，您可以将正则表达式扩展到多行并添加注释，使其更清晰。但是，请谨慎使用转义字符，例如 # 和空格。命名捕获组（例如 (?[^:/]+)）可自行记录正则表达式并消除对位置引用的依赖。结合这些技术可以将复杂的正则表达式转换为更易读和更易于维护的代码。快乐地使用正则表达式！]]></description>
+      <guid>https://t.me/hn_summary/93671</guid>
+      <pubDate>Fri, 07 Jun 2024 13:55:36 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Adob​​e 最近因新的服务条款 (ToS) 语言而面临强烈反对，特别是 [...]</title>
-      <link>https://t.me/hn_summary/93635</link>
-      <description><![CDATA[Adobe 回应了对新服务条款语言的强烈抗议
-Adobe 最近因新服务条款 (ToS) 语言而面临强烈反对，尤其是来自其 Creative Cloud Suite 用户的反对。更新后的 ToS 提到 Adob​​e 有权通过自动和手动方式访问用户内容，这引发了人们对隐私以及可能使用用户内容来训练 AI 模型的担忧。包括好莱坞导演邓肯·琼斯 (Duncan Jones) 等知名人物在内的批评者表达了反对意见，担心机密客户内容遭到监视和滥用。Adobe 澄清说，这些政策已经实施多年，对于提供创新功能和确保内容合规性是必不可少的。尽管一再保证，但争议已导致一些用户考虑取消订阅。]]></description>
-      <guid>https://t.me/hn_summary/93635</guid>
-      <pubDate>Fri, 07 Jun 2024 06:16:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] Ice 是 macOS 的一个开源菜单栏管理工具，旨在增强菜单栏的组织 [...]</title>
-      <link>https://t.me/hn_summary/93634</link>
-      <description><![CDATA[Ice - macOS 的开源菜单栏管理器
-Ice 是一款适用于 macOS 的开源菜单栏管理工具，旨在增强菜单栏项目的组织和功能。它的主要目的是隐藏和显示菜单栏项目，但它还提供一系列附加功能，例如自定义菜单栏外观、用于切换部分的热键和自动更新。Ice 凭借独特的功能脱颖而出，例如悬停时显示隐藏项目、自定义间距和不同布局的配置文件。它目前正在积极开发中，一些功能尚未实现。Ice 需要 macOS 14 或更高版本，并可在 MIT 许可下使用。]]></description>
-      <guid>https://t.me/hn_summary/93634</guid>
-      <pubDate>Fri, 07 Jun 2024 05:52:52 GMT</pubDate>
+      <title>[媒体] 网站：text2diagram.com</title>
+      <link>https://t.me/hn_summary/93670</link>
+      <description><![CDATA[显示 HN：文本中的技术图表：HTTPS://text2diagram.com/
+标题：显示 HN：文本中的技术图表：HTTPS://text2diagram.com/
+网站：text2diagram.com
+
+Text2Diagram.com 提供一个使用 Mermaid 语法从文本创建技术图表的动态平台。该网站支持实时协作，允许用户使用可配置的文档权限实时创建和编辑图表。图表可以通过链接共享或嵌入到 Web 上，并自动更新以反映任何更改。用户还可以下载各种格式的图表，如 PNG、JPEG、SVG 或 WEBP。使用 Mermaid 语法可以轻松学习和自定义各种图表。该工具因其实时协作和无缝共享功能而特别独特。]]></description>
+      <guid>https://t.me/hn_summary/93670</guid>
+      <pubDate>Fri, 07 Jun 2024 13:54:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
