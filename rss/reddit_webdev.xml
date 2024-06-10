@@ -4,7 +4,70 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发事务的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 09 Jun 2024 21:11:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2024 03:13:24 GMT</lastBuildDate>
+    <item>
+      <title>在工作中向其他开发人员提问？？？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dcaur6/asking_other_developers_questions_at_work/</link>
+      <description><![CDATA[大家好！ 我是一名新毕业生，想知道你们在有问题时是如何向团队中的其他人发送问题的。 你添加了多少背景信息？我发现我的消息有时要么非常长，要么背景信息不够…… 很想听听你们的经验！😁    提交人    /u/TMNTBrian   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dcaur6/asking_other_developers_questions_at_work/</guid>
+      <pubDate>Mon, 10 Jun 2024 02:23:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>身份验证和授权</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dc8gts/authentication_and_authorisation/</link>
+      <description><![CDATA[如果这是一个愚蠢的问题，我很抱歉，但我有点困惑。 我正在使用 Web Sockets 构建一个简单的聊天应用程序，我想确保只有注册用户才能使用聊天服务。 过去我只使用了一种简单的密码验证方法。基本上，我从用户那里获取密码并向其中添加盐，然后使用 SHA-512 获取哈希，然后比较哈希以确保他们使用了正确的密码。注意：我从不存储实际密码。 现在我一直在寻找替代方法来处理这个问题。到目前为止，我已经找到了 JSON Web 令牌、OAuth 2 和 SAML，但我不确定是否有我可能错过的更简单的方法。 作为参考，后端使用 Node.js 和 Express.js，以 PostgreSQL 作为数据库。 我真的只是想确保只有注册用户才能使用 Web 服务器的聊天部分。    提交人    /u/CromulentSlacker   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dc8gts/authentication_and_authorisation/</guid>
+      <pubDate>Mon, 10 Jun 2024 00:19:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>硬编码 <option> 而不是从后端获取它们？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dc7wos/hard_code_option_instead_of_getting_them_from_the/</link>
+      <description><![CDATA[我的前端有 2 个 &lt;select&gt;，其中的选项我知道永远不会改变。 我可以将它们硬编码到我的前端代码中，而不是通过调用后端来获取它们吗？    提交人    /u/El_Mario_Verde   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dc7wos/hard_code_option_instead_of_getting_them_from_the/</guid>
+      <pubDate>Sun, 09 Jun 2024 23:51:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>VSCode 1.90：多选项卡选择功能现已正式推出！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dc7tl0/vscode_190_multitab_selections_are_now_official/</link>
+      <description><![CDATA[        提交人    /u/Puzzleheaded_Ad4030   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dc7tl0/vscode_190_multitab_selections_are_now_official/</guid>
+      <pubDate>Sun, 09 Jun 2024 23:47:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>VS Code Live Server 无法获取 XYZ 错误</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dc7hux/vs_code_live_server_cannot_get_xyz_error/</link>
+      <description><![CDATA[      大家好！在 VS Code 的 Live Server 上，我点击了位于文件夹根目录的 index.html 上的“上线”。使用下面的“a”标签，我导航到位于项目目录子文件夹中的 plot.html。当我导航到 plot.html 时，我的导航栏具有与 index.html 导航栏完全相同的 HTML（这正是我想要的）。但是，当我尝试转到“主页”时，当我通过 Live Server 在 Chrome 上访问我的 plot.html 时，我单击导航栏上的“主页”按钮，系统会显示“无法获取 /other-pages/index.html。这不是我的索引的路径。索引位于根目录。有人遇到过这种情况吗？ https://preview.redd.it/mc4qz4j1rm5d1.png?width=793&amp;format=png&amp;auto=webp&amp;s=4900197e141613f33249fb676e7ef765aabb0e80    提交人    /u/orangeswirlguy   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dc7hux/vs_code_live_server_cannot_get_xyz_error/</guid>
+      <pubDate>Sun, 09 Jun 2024 23:31:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为初学者制作了一份“基本 Web 开发概念”清单</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dc6uby/i_made_a_basic_web_dev_concepts_checklist_for/</link>
+      <description><![CDATA[我制作了一个针对完全初学者的概念清单（最初是为朋友准备的，但我想在这里分享），这些初学者刚刚开始尝试进入Web 开发，或者对于那些想要简要了解 Web 开发所包含的内容的人（例如，我是一名希望开始进行后端开发的前端开发人员）。希望这会有所帮助！ https://tickables.com/checklist/01cb6494-59c6-4245-ac89-609f5987b1c4   由    /u/WoodRawr  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dc6uby/i_made_a_basic_web_dev_concepts_checklist_for/</guid>
+      <pubDate>Sun, 09 Jun 2024 23:00:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>了解如何为技能树制作动画的资源</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dc5kpn/resources_to_figure_out_how_to_animate_skill_tree/</link>
+      <description><![CDATA[我正在创建这个 Web 应用程序，它有一个技能树组件。我正在考虑使用 Framer Motion 为其制作动画。我不确定如何设想我希望这棵树如何动起来（我想象它会像一朵花盛开或类似的东西）。我如何才能弄清楚 Framer Motion 有什么可以用于这项任务，我如何才能获得关于如何为树制作动画的灵感？    提交人    /u/PCWeekjeff   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dc5kpn/resources_to_figure_out_how_to_animate_skill_tree/</guid>
+      <pubDate>Sun, 09 Jun 2024 22:02:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪个前端 + 无头 CMS 堆栈拥有最多的用户和最多的社区支持？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dc53rz/what_frontend_headless_cms_stack_has_the_most/</link>
+      <description><![CDATA[我在想也许是 Next.js 和 Strapi？我将作为一个小业余项目来启动这样一个项目，并希望确保我使用最流行和支持最多的堆栈，以便于寻求帮助。    提交人    /u/---_____----_____   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dc53rz/what_frontend_headless_cms_stack_has_the_most/</guid>
+      <pubDate>Sun, 09 Jun 2024 21:42:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于如何建立股票列表网站的想法</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dc4qps/ideas_on_how_to_build_a_stock_listing_website/</link>
+      <description><![CDATA[嗨， 我正在寻找构建股票列表网站的想法。股票列表已在 Google 表格中维护。我想要  只有注册的授权成员才能查看 通过某些 API 自动提取股票最新价格进行实时更新 我应该能够每天添加注释和活动，并且应该将它们存档 如果我在注释中标记股票，它应该自动与该股票链接 用户应该能够根据股票代码搜索任何股票和注释 在一天结束时更新投资组合规模 股票仪表板 根据平仓更新回报  我是一名软件开发人员，但不确定是否可以从头开始构建并托管在 aws 或 azure 上。我一直想在泡沫中构建，但后来我看到了褒贬不一的评论，也有人抱怨成本可能非常高。 由于我是一名开发人员，我将采取的默认路线是使用一些反应主题从头开始编写代码，但我有点倾向于低代码解决方案。 因此，我正在寻找经验丰富的开发人员，了解您在 2024 年解决这个问题的方法是什么？    提交人    /u/skillguru   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dc4qps/ideas_on_how_to_build_a_stock_listing_website/</guid>
+      <pubDate>Sun, 09 Jun 2024 21:26:31 GMT</pubDate>
+    </item>
     <item>
       <title>需要一些职业建议（重返 Webdev！）</title>
       <link>https://www.reddit.com/r/webdev/comments/1dc3pmn/need_some_career_advice_returning_to_webdev/</link>
@@ -46,69 +109,6 @@
       <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1dc1duk/the_notifier_pattern_for_applications_that_use/</guid>
       <pubDate>Sun, 09 Jun 2024 19:04:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能电子邮件助手</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dc0gu4/ai_email_assistant/</link>
-      <description><![CDATA[大家好，我是这个 subreddit 的超级粉丝！我和我的联合创始人正处于构建无摩擦电子邮件助手的早期阶段，该助手可帮助您安排会议。 只要同步您的日历，并在您尝试安排会议时抄送我们的电子邮件机器人即可。 它会来回发送电子邮件，为您和收件人找到双方都可接受的时间。 我们希望收集反馈并开始在 usesmithers.com 上增加我们的候补名单。 你们今天如何处理电子邮件安排？    提交人    /u/ky0ung25   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dc0gu4/ai_email_assistant/</guid>
-      <pubDate>Sun, 09 Jun 2024 18:25:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>自主研发的基于电子邮件的身份验证：我还应该考虑什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dbzzww/homegrown_email_based_auth_what_else_should_i/</link>
-      <description><![CDATA[我有一个在 Cloudflare 上运行的 SSR 网站。我的服务不是业务关键型的，不需要繁琐的花哨功能。出于多种原因，我编写了自己的简单身份验证，并希望您对我可能改进或可能忽略的任何其他内容提出批评。请不要争论我是否应该始终使用外部/企业级身份验证解决方案等，而要更多地讨论对于我的用例，我是否忽略了任何重大差距。  该服务不是业务关键型服务，也不会保存敏感的客户数据 我只在用户注册时存储他们的电子邮件地址，仅此而已，没有其他个人信息或付款详细信息。 我对基于电子邮件的基本注册感到满意 - 不需要社交媒体登录等。  我所做的 1.注册需要一个有效的，非一次性的电子邮件地址（我将每月左右更新一次此列表，我知道它并不完美，但它仍然会阻止许多已知的一次性服务） 2.您必须验证电子邮件才能使用任何功能 3.系统在3次登录失败后锁定，需要基于电子邮件的验证才能解锁。 4. 登录/注册失败等错误消息没有具体说明原因，只能说“您的电子邮件或密码可能不正确，请重试”或“如果您的帐户存在，我们将向您发送电子邮件” 5. 密码经过加盐和哈希处理（SHA-256），存储在托管数据库中，所有操作都发生在后端（客户端/浏览器上没有任何操作）。需要更改密码的客户可以在其帐户中使用重置密码，或者向我们自己发送重置电子邮件，因为我们无法检索它。 6. 我还没有注册验证码，但如果垃圾邮件变得很糟糕，我可能会考虑。 还有什么我遗漏的吗？随着时间的推移，如果服务得到关注，我可能会实施基于文本的登录代码或切换到更复杂的外部解决方案。 谢谢！    提交人    /u/onetopic20x0   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dbzzww/homegrown_email_based_auth_what_else_should_i/</guid>
-      <pubDate>Sun, 09 Jun 2024 18:05:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>PHP 服务器发行版</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dbztvw/distro_for_php_server/</link>
-      <description><![CDATA[如果所需的后端是 PHP / MySQL / PostgreSQL 等，你们在生产服务器上使用什么发行版 查看投票    提交人    /u/Striking-Bat5897   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dbztvw/distro_for_php_server/</guid>
-      <pubDate>Sun, 09 Jun 2024 17:59:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>一款应用的价格是 128 万美元，而我却在自由职业网站上为一个 nextjs 网站赚取每小时 15 美元的报酬</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dbz495/128mill_for_an_app_and_here_i_am_trying_to_get/</link>
-      <description><![CDATA[       由    /u/pahel_miracle13  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dbz495/128mill_for_an_app_and_here_i_am_trying_to_get/</guid>
-      <pubDate>Sun, 09 Jun 2024 17:28:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>绘制 UML 图的免费工具？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dbz397/free_tools_to_draw_uml_diagrams/</link>
-      <description><![CDATA[我需要免费工具来绘制 UML 图，例如用例和类图，以及我的研究结束报告的流程图。 提前致谢！    提交人    /u/TopPerspective8217   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dbz397/free_tools_to_draw_uml_diagrams/</guid>
-      <pubDate>Sun, 09 Jun 2024 17:26:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在写一本书，在研究书中有关技术评估的部分时，我发现一些统计数据，但我并不认同。我希望从这个社区获得一些意见。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dbxmc7/im_in_the_middle_of_writing_a_book_and_i_dont/</link>
-      <description><![CDATA[首先，我要说的是，我不支持将技术评估作为招聘流程的正常组成部分。我认为态度、动力和文化对于确定一个人是否会被成功聘用并成为长期团队成员更为重要。我相信任何有学习动力的人都可以并且会学习。好吧，话虽如此，以下是我找到的一些统计数据和来源。我还认为，导师制是成功团队的重要组成部分，可以促进组织的发展和盈利能力。 根据 HackerRank 的一项调查，76% 的招聘经理和招聘人员在招聘过程中使用技术评估来评估候选人的技能。 Triplebyte 的一项研究发现，技术面试（包括编码挑战和评估）是评估软件工程候选人工作表现的最具预测性的招聘工具。 根据 LinkedIn 的一份报告，63% 的软件工程师认为技术评估是在招聘过程中评估他们的技能和能力的有效方法。 Codility 的一项调查发现，78% 的开发人员认为编码挑战是评估候选人编码技能和能力的公平有效方法。 您认为技术评估是好事还是坏事？  您认为良好的评估等同于优秀的团队成员吗？ 您认为我的信念与社区更一致吗？导师制、文化契合度、态度和动力对于新团队成员的成功或失败更为重要？    提交人    /u/jcmacon   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dbxmc7/im_in_the_middle_of_writing_a_book_and_i_dont/</guid>
-      <pubDate>Sun, 09 Jun 2024 16:22:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>实施简单的预订系统</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dbwt24/implementing_a_simple_booking_system/</link>
-      <description><![CDATA[我为一个（真正的）足球教练制作了一个预订网站的前端，我想知道实现预订请求功能的最佳方法是什么？该网站每月的预订量不会超过 30 个。我是否使用 firebase 或 mongo 创建后端，或者是否有可用于简化流程的工具？    提交人    /u/RedIze_   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dbwt24/implementing_a_simple_booking_system/</guid>
-      <pubDate>Sun, 09 Jun 2024 15:47:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该在我的网站上提供 Google 登录吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dbvpuz/should_i_offer_google_login_on_my_website/</link>
-      <description><![CDATA[我想知道我是否应该在我的网站上提供“使用 Google 注册/登录”功能，或者我是否应该坚持使用标准的电子邮件密码组合。 我理解使用 Google 注册为用户提供了一种快速、简单的登录方式，而无需记住新密码。我提供它的主要目的是避免错过潜在用户（那些不愿意经历“经典”注册过程的用户），但我也有点担心帐户管理和帐户恢复。 首先，如果用户想要更新他们的电子邮件会发生什么？我不明白这怎么可能，因为电子邮件与用于身份验证的 Google 帐户相关联。 其次，如果我的某个用户删除了他们的 Google 帐户，我担心帐户恢复过程。我的用户会在我的网站上拥有一些重要的东西，我不太愿意仅仅基于信任就让某人访问帐户。 我实际上曾经遇到过这种情况：删除我的 Google 帐户以及我的 Gmail 地址后，我无法访问使用该帐户注册的网站。我觉得帐户恢复过程有点可疑（据我所知）：网站支持团队要求我提供一张我手持身份证的照片（他们会用这个做什么？）并说“我们将联系该帐户的电子邮件地址：******@gmail.com，如果我们在三天内没有收到回复，我们将为您提供一个临时密码，以便您可以重新登录并更改电子邮件地址。”（很多人不经常查看电子邮件）。 有兴趣听听你们的想法：优点和缺点是否相等？    提交人    /u/Ok-Tap-2124   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dbvpuz/should_i_offer_google_login_on_my_website/</guid>
-      <pubDate>Sun, 09 Jun 2024 15:00:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Github Actions 有时不会增加我的版本号</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dbtran/github_actions_is_sometines_not_incrementing_my/</link>
-      <description><![CDATA[有人能发现我的错误吗？ 这个 Github Action 有时会增加构建号，有时则不会。有时它只是在某个地方开始... 在本地，此命令将始终返回现有标签： git fetch --depth=1 origin +refs/tags/*:refs/tags/*  但在 Github 及其 Runner 上运行时，它显然不会这样做。有时它会获得正确的最新数字，有时则不会。有时它甚至总是以 x.y.1 开头，而 x 和 y 总是正确的。 名称：在发布时构建和推送 Docker 映像 on: push: branch: - &#39;release/*&#39; 权限： content: write jobs: build-and-push: runs-on: ubuntu-latest 步骤： - 名称：检出代码 用途：actions/checkout@v2 - 名称：设置 Docker Buildx 用途：docker/setup-buildx-action@v1 - 名称：登录 DockerHub 用途：docker/login-action@v1 使用：用户名：${{ secrets.DOCKERHUB_USERNAME }} 密码：${{ secrets.DOCKERHUB_PASSWORD }} - 名称：获取所有 git 标签 运行：git fetch --depth=1 origin +refs/tags/*:refs/tags/* - 名称：获取最新标签 id：latest-tag 运行：| TAG=$(git describe --tags `git rev-list --tags --max-count=1`) echo &quot;最新标签是 $TAG&quot; echo &quot;::set-output name=tag::${TAG}&quot; - name: 增加版本 id：next-version run: | TAG=&quot;${{ steps.latest-tag.outputs.tag }}&quot; BASE_VERSION=${TAG#v} # 删除 &#39;v&#39; 前缀 IFS=&#39;.&#39; read -ra VERSION &lt;&lt;&lt; &quot;$BASE_VERSION&quot; PATCH=$((VERSION[2]+1)) NEXT_VERSION=&quot;v${VERSION[0]}.${VERSION[1]}.$PATCH&quot; echo &quot;下一个版本是 $NEXT_VERSION&quot; echo &quot;::set-output name=version::$NEXT_VERSION&quot; - 名称：使用新版本构建 Docker 映像运行：| docker build -t mycomp/myrepo:${{ steps.next-version.outputs.version }} . docker push mycomp/myrepo:${{ steps.next-version.outputs.version }} - 名称：将映像标记为最新并推送运行：| docker tag mycomp/myrepo:${{ steps.next-version.outputs.version }} mycomp/myrepo:latest docker push mycomp/myrepo:latest - 名称：使用新版本标记存储库运行：| git tag ${{ steps.next-version.outputs.version }} git push origin ${{ steps.next-version.outputs.version }} --tags     提交人    /u/tf1155   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dbtran/github_actions_is_sometines_not_incrementing_my/</guid>
-      <pubDate>Sun, 09 Jun 2024 13:29:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
