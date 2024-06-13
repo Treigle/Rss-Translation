@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Wed, 12 Jun 2024 21:11:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 00:47:34 GMT</lastBuildDate>
+    <item>
+      <title>Quizinator：根据 Youtube 视频自动生成测验</title>
+      <link>https://www.reddit.com/r/programming/comments/1dejtsy/quizinator_automatically_generating_quizzes_from/</link>
+      <description><![CDATA[  由    /u/th3_artificery  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1dejtsy/quizinator_automatically_generating_quizzes_from/</guid>
+      <pubDate>Wed, 12 Jun 2024 22:44:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>自动问题分配器 Github Bot</title>
+      <link>https://www.reddit.com/r/programming/comments/1dejqby/automatic_issue_assigner_github_bot/</link>
+      <description><![CDATA[  由    /u/varun_kolanu  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1dejqby/automatic_issue_assigner_github_bot/</guid>
+      <pubDate>Wed, 12 Jun 2024 22:40:26 GMT</pubDate>
+    </item>
     <item>
       <title>基于目录的配置，简化 git 工作流程</title>
       <link>https://www.reddit.com/r/programming/comments/1degp29/directory_based_config_for_easy_git_workflow/</link>
@@ -34,7 +48,7 @@
       <pubDate>Wed, 12 Jun 2024 20:09:45 GMT</pubDate>
     </item>
     <item>
-      <title>如何在容器化环境中为 Next.js 13 实现企业级身份验证</title>
+      <title>如何在 Next.js 13 的容器化环境中实现企业级身份验证</title>
       <link>https://www.reddit.com/r/programming/comments/1deg7n2/how_to_implement_enterpriselevel_authentication/</link>
       <description><![CDATA[  由    /u/ozdemirrulass  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1deg7n2/how_to_implement_enterpriselevel_authentication/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1deg1zu/how_to_get_the_most_out_of_postgres_memory/</guid>
       <pubDate>Wed, 12 Jun 2024 20:02:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lexbor – 一个开源 HTML 渲染器库</title>
-      <link>https://www.reddit.com/r/programming/comments/1deg1xw/lexbor_an_open_source_html_renderer_library/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1deg1xw/lexbor_an_open_source_html_renderer_library/</guid>
-      <pubDate>Wed, 12 Jun 2024 20:02:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Swift 编译器很慢，这是由于类型推断方式造成的</title>
-      <link>https://www.reddit.com/r/programming/comments/1deg1ce/the_swift_compiler_is_slow_due_to_how_types_are/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1deg1ce/the_swift_compiler_is_slow_due_to_how_types_are/</guid>
-      <pubDate>Wed, 12 Jun 2024 20:02:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
