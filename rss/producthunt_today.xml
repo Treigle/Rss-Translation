@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 14 Jun 2024 00:48:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 03:13:23 GMT</lastBuildDate>
     <item>
       <title>Help Scout 的 AI 草稿</title>
       <link>https://www.producthunt.com/posts/ai-drafts-by-help-scout</link>
@@ -62,20 +62,6 @@
       <pubDate>Thu, 13 Jun 2024 06:56:00 GMT</pubDate>
     </item>
     <item>
-      <title>剪辑障碍</title>
-      <link>https://www.producthunt.com/posts/clipsnag</link>
-      <description><![CDATA[
-从数千个网站下载视频和音频
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/clipsnag</guid>
-      <pubDate>Wed, 12 Jun 2024 17:03:47 GMT</pubDate>
-    </item>
-    <item>
       <title>振幅实验 + Contentful</title>
       <link>https://www.producthunt.com/posts/amplitude-experiment-contentful</link>
       <description><![CDATA[
@@ -102,6 +88,20 @@ AI 工作流的可视化构建器
 ]]></description>
       <guid>https://www.producthunt.com/posts/promptchains</guid>
       <pubDate>Wed, 12 Jun 2024 09:54:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>避难所</title>
+      <link>https://www.producthunt.com/posts/sanctuary</link>
+      <description><![CDATA[
+个性化 AI 冥想
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/sanctuary</guid>
+      <pubDate>Wed, 12 Jun 2024 08:11:11 GMT</pubDate>
     </item>
     <item>
       <title>Liveblocks 2.0</title>
@@ -188,7 +188,7 @@ IT 行业的合作伙伴关系管理平台
       <pubDate>Tue, 04 Jun 2024 09:38:34 GMT</pubDate>
     </item>
     <item>
-      <title>Mapify</title>
+      <title>地图化</title>
       <link>https://www.producthunt.com/posts/mapify-3</link>
       <description><![CDATA[
 任何可以通过 AI 制作思维导图的内容
