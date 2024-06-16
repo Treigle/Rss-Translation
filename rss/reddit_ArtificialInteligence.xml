@@ -4,7 +4,14 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 15 Jun 2024 21:09:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jun 2024 00:52:03 GMT</lastBuildDate>
+    <item>
+      <title>我们如何防止人类窃取人工智能成果？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dgsiu9/how_can_we_prevent_humans_from_stealing_ai_work/</link>
+      <description><![CDATA[我似乎很难找到我们可以做些什么来防止人类窃取人工智能的功劳。我得到的结果都是关于人工智能窃取人类工作成果的结果。 我想真的没有什么可以做的，人类将为人工智能所做的工作而获得功劳。 我确实听说过一个故事，有人真的拍了一张真实的照片，并把它提交给人工智能比赛，并赢了，然后他们发现这不是人工智能的作品，所以奖项被取消了。这是一个奇怪的转折。    提交人    /u/MissLesGirl   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dgsiu9/how_can_we_prevent_humans_from_stealing_ai_work/</guid>
+      <pubDate>Sat, 15 Jun 2024 21:49:21 GMT</pubDate>
+    </item>
     <item>
       <title>LinkedIn 提供人工智能生成的求职信</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dgozio/linkedin_offers_aigenerated_cover_letters/</link>
@@ -27,13 +34,6 @@
       <pubDate>Sat, 15 Jun 2024 17:38:21 GMT</pubDate>
     </item>
     <item>
-      <title>帮我找到这个人的名字</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dgm5f6/help_me_find_this_guys_name/</link>
-      <description><![CDATA[我正在寻找一位非常有名的员工的名字，他辞去了工作，以便能够公开反对创建不一致的人工智能的风险。 有人知道他是谁吗？ 可能是杰弗里·辛顿，但我不确定    提交人    /u/PathOfTheHolyFool   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dgm5f6/help_me_find_this_guys_name/</guid>
-      <pubDate>Sat, 15 Jun 2024 16:47:33 GMT</pubDate>
-    </item>
-    <item>
       <title>可接受的故障率</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dgl0yl/acceptable_rate_of_failure/</link>
       <description><![CDATA[自动驾驶汽车的事故率是否低于人类？似乎只要发生任何事故，就会被描述为技术失败。该技术要普遍实施，标准需要是什么？    提交人    /u/Training-Swan-6379   [link] [评论]]]></description>
@@ -46,6 +46,13 @@
       <description><![CDATA[大家好。我使用 chatGPT 大约一年了，用于基于文本的提问和代码审查。我想开始尝试其他 AI，比如图像编辑和从提示生成。市面上有太多的选择，让人应接不暇。理想情况下，我想在决定购买之前免费试用一下，但运气不佳。任何建议都将不胜感激。     提交人    /u/SemperFi-1775   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dgkjpr/best_ai_subscription/</guid>
       <pubDate>Sat, 15 Jun 2024 15:31:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>那里有任何 Scale AI 工作者吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dgka0q/any_scale_ai_workers_out_there/</link>
+      <description><![CDATA[向 Scale AI 员工提问：Scale 是否让您负责注释/标记与美国航空航天和国防相关的任何内容？如果是，您必须遵守什么样的法规（如果有的话）？您是否根据国际要求必须在美国领土上工作？是否有任何特定的特殊监管培训，还是只是交给您？    提交人    /u/Pettitech   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dgka0q/any_scale_ai_workers_out_there/</guid>
+      <pubDate>Sat, 15 Jun 2024 15:19:09 GMT</pubDate>
     </item>
     <item>
       <title>是否有任何 LLM 可以将数据输入浏览器并读取响应？</title>
@@ -81,13 +88,6 @@
       <description><![CDATA[这可能很有趣： 扭转 AI 局面。    由    /u/RenegadeUK 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dge3qf/turning_the_tables_on_ai/</guid>
       <pubDate>Sat, 15 Jun 2024 09:23:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我使用 Whisper AI 制作了一个开源 Android 转录键盘。您可以使用自动标点符号进行口述，并翻译成多种语言。:)</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dgd2z5/i_made_an_opensource_android_transcription/</link>
-      <description><![CDATA[Dictate 是一款易于使用的键盘，可用于转录和听写。该应用程序在后台使用 OpenAI Whisper，它使用 GPT-4 Omni 为许多不同语言提供极其准确的标点符号和自动翻译结果。 您可以从 Google Play 商店下载该应用程序： https://play.google.com/store/apps/details?id=net.devemperor.dictate 您可以在这里看到它的实际效果： https://www.youtube.com/watch?v=PSvLRnHYleg 这是包含源代码的存储库： https://github.com/DevEmperor/Dictate    由    /u/Dev_Emperor  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dgd2z5/i_made_an_opensource_android_transcription/</guid>
-      <pubDate>Sat, 15 Jun 2024 08:07:14 GMT</pubDate>
     </item>
     <item>
       <title>还有谁准备扔掉他们的 Amazon Echo 吗？</title>
