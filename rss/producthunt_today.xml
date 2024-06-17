@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Mon, 17 Jun 2024 18:15:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 21:11:50 GMT</lastBuildDate>
     <item>
       <title>Warp AI 中的代理模式</title>
       <link>https://www.producthunt.com/posts/agent-mode-in-warp-ai</link>
@@ -60,6 +60,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/olvy-3-0</guid>
       <pubDate>Mon, 17 Jun 2024 01:13:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>里克·布洛克</title>
+      <link>https://www.producthunt.com/posts/rickblock</link>
+      <description><![CDATA[
+神一般的 rickroll 拦截器
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/rickblock</guid>
+      <pubDate>Sun, 16 Jun 2024 20:03:04 GMT</pubDate>
     </item>
     <item>
       <title>Gumroad 产品网站构建器</title>
@@ -160,20 +174,6 @@
       <pubDate>Thu, 13 Jun 2024 15:04:37 GMT</pubDate>
     </item>
     <item>
-      <title>艾秀U V6</title>
-      <link>https://www.producthunt.com/posts/ishowu-v6</link>
-      <description><![CDATA[
-实时、基于层的屏幕视频/音频录制器
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/ishowu-v6</guid>
-      <pubDate>Tue, 11 Jun 2024 08:46:05 GMT</pubDate>
-    </item>
-    <item>
       <title>伦比沃</title>
       <link>https://www.producthunt.com/posts/rnbw</link>
       <description><![CDATA[
@@ -202,18 +202,18 @@
       <pubDate>Thu, 06 Jun 2024 10:31:39 GMT</pubDate>
     </item>
     <item>
-      <title>独角兽俱乐部</title>
-      <link>https://www.producthunt.com/posts/unicorns-club</link>
+      <title>温乔</title>
+      <link>https://www.producthunt.com/posts/wunjo</link>
       <description><![CDATA[
-创建你的独角兽档案，投资者将关注你
+AI 驱动的换脸、口型同步、卸妆和内容编辑
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/unicorns-club</guid>
-      <pubDate>Fri, 30 Jun 2023 18:37:58 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/wunjo</guid>
+      <pubDate>Thu, 06 Jun 2024 08:12:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
