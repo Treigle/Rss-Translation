@@ -4,135 +4,112 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Sat, 13 Jul 2024 03:06:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jul 2024 08:48:22 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 还记得博客曾经是了解某人内心的原始、未经过滤的窗口吗？</title>
-      <link>https://t.me/hn_summary/99395</link>
-      <description><![CDATA[博客到底怎么了
-还记得博客是未经过滤的原始窗口，可以窥探某人的内心世界吗？那些日子早已一去不复返。现在，我们淹没在 SEO 优化的内容中，这些内容读起来就像是由没有灵魂的人工智能编写的，旨在提升谷歌的排名。过去简洁的内容现在延伸到许多段落，充斥着广告（WebMD，说的就是你）。这种转变之所以发生，是因为谷歌成为了互联网的守门人，营销人员学会了玩弄系统，导致内容农场激增。真实的博客现在被埋在充斥着联盟链接和弹出注册的“个人”博客之下。要想脱颖而出，就要像人一样写作。你可能无法超越谷歌，但你会创作出值得一读的东西。]]></description>
-      <guid>https://t.me/hn_summary/99395</guid>
-      <pubDate>Sat, 13 Jul 2024 03:06:09 GMT</pubDate>
+      <title>网站：voicejournal.live</title>
+      <link>https://t.me/hn_summary/99432</link>
+      <description><![CDATA[Show HN：将语音信息转换为精美的日记
+标题：Show HN：将语音信息转换为精美的日记
+网站：voicejournal.live
+
+探索 VoiceJournal，这是一个独特的平台，可将您的语音信息转换为精美的日记。我们的服务将口语无缝转换为书面文本，以优雅的格式保存您的想法和记忆。请注意，为了获得最佳体验，请确保您的浏览器上启用了 JavaScript，因为 voice-journal-ui 依赖它才能正常运行。享受语音日记的便利，并通过 VoiceJournal 让您的故事保持鲜活。]]></description>
+      <guid>https://t.me/hn_summary/99432</guid>
+      <pubDate>Sat, 13 Jul 2024 08:48:22 GMT</pubDate>
     </item>
     <item>
-      <title>网站：KyleBenzle.com</title>
-      <link>https://t.me/hn_summary/99394</link>
-      <description><![CDATA[使用 SQL 十年后，我终于“明白”了
-标题：使用 SQL 十年后，我终于“明白”了
-网站：KyleBenzle.com
-
-数据库是有组织的数据的集合，通常以电子方式存储和访问，SQL（结构化查询语言）是用于与这些数据库交互的标准语言。可以将数据库视为一个巨大的、高度组织的数字文件柜，而 SQL 则是与其交互的工具，类似于 Excel 的命令行版本。 SQL 命令允许查询、更新和管理存储在表中的数据。
-
-当我在一台新电脑上设置本地测试环境时，我突然顿悟了。当我重新安装 MySQL 时，我突然意识到：“这只是一个程序。SQL 只是一个在计算机上运行的程序……”这一认识让我对 SQL 不再陌生。我了解到 SQL 本质上是一个程序，GUI 只是提供与之交互的不同方式，这改变了游戏规则。它帮助我认识到 SQL 不是一个复杂的工具，而是一个旨在管理和操作数据的简单程序。
-
-从高层次上讲，SQL 通过执行 SELECT、INSERT、UPDATE 和 DELETE 等命令来操作存储在数据库中的数据。SQL 的真正强大之处在于它能够简化复杂的数据操作，让用户能够使用清晰、直接的指令处理大量数据。理解 SQL 是一种旨在管理数据的语言，这会从根本上改变您处理数据库管理的方式，将视角从仅仅编写查询转变为了解数据交互和操作的更广泛背景。对于任何希望加深对编程和数据管理理解的人来说，这种宏观视角都至关重要。]]></description>
-      <guid>https://t.me/hn_summary/99394</guid>
-      <pubDate>Sat, 13 Jul 2024 03:03:05 GMT</pubDate>
+      <title>FileFlows 是一款多功能工具，旨在对各种文件类型执行操作 [...]</title>
+      <link>https://t.me/hn_summary/99431</link>
+      <description><![CDATA[FileFlows：对树流结构中的文件执行操作
+FileFlows 是一种多功能工具，旨在对树流结构中的各种文件类型执行操作。它支持广泛的文件格式列表，包括文本文档、图像、音频、视频、档案、可执行文件和各种代码文件。这种灵活性使用户能够高效地自动化和简化其文件管理流程。无论您处理的是 .txt、.pdf、.jpg、.mp4 等常见格式，还是 .svg、.ai、.psd 等更专业的格式，FileFlows 都可以处理它们。FileFlows 的独特之处在于它能够处理几乎任何文件类型，使其成为满足各种文件管理需求的宝贵资源。]]></description>
+      <guid>https://t.me/hn_summary/99431</guid>
+      <pubDate>Sat, 13 Jul 2024 08:46:18 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 丰田推出了一项突破性的创新，震惊了汽车行业：[...]</title>
-      <link>https://t.me/hn_summary/99393</link>
-      <description><![CDATA[丰田揭开秘密：新型内燃机，零排放
-丰田通过推出一项突破性创新震惊了汽车行业：一款零排放、仅释放水蒸气的新型内燃机。这款氢内燃机的性能水平有望超越特斯拉和其他电动汽车，输出功率可达 400 马力，热效率可达 45%。这项技术符合丰田减少汽车排放和应对全球变暖的愿景。该公司多年来一直在开发这些发动机，利用其在燃料电池技术方面的专业知识。虽然商业化时间表仍不清楚，但丰田计划将这些发动机集成到各种车型中，这可能会彻底改变可持续交通，并挑战电动汽车和插电式混合动力汽车的主导地位。氢动力内燃机的未来前景光明，可能预示着人类将彻底摆脱对化石燃料的依赖。]]></description>
-      <guid>https://t.me/hn_summary/99393</guid>
-      <pubDate>Sat, 13 Jul 2024 01:57:42 GMT</pubDate>
+      <title>[媒体] 在《面部识别帮助警方锁定黑人面孔》一书中，Madhumita Murgia 讲述了 [...]</title>
+      <link>https://t.me/hn_summary/99430</link>
+      <description><![CDATA[当面部识别帮助警方锁定黑人面孔时
+在《当面部识别帮助警方锁定黑人面孔时》一文中，Madhumita Murgia 讲述了工程师 Karl Ricanek 的经历，他曾面临种族歧视，后来为面部识别技术的发展做出了贡献。Ricanek 从因“黑人驾车”被警察拦下，到开创面部识别人工智能，这段经历揭示了他面临的道德困境。Ricanek 的工作最初专注于技术解决方案，却无意中促成了不成比例地针对少数群体的监控系统。尽管他本意是将人工智能用于善事，例如识别疾病，但执法部门和私人实体滥用该技术引发了重大的道德担忧。 Ricanek 的故事强调了技术进步与社会正义之间的紧张关系，凸显了人工智能加剧现有偏见和不公正现象的可能性。
+
+有争议的方面：
+- 使用面部识别来识别跨性别者。
+- 在警务和监视中部署面部识别，导致种族定性和错误逮捕。
+
+独特/聪明的方面：
+- Ricanek 的愿景是使用人工智能通过面部分析检测疾病的早期迹象。
+- 他坦率地承认了他帮助创造的技术的道德复杂性和潜在的滥用。]]></description>
+      <guid>https://t.me/hn_summary/99430</guid>
+      <pubDate>Sat, 13 Jul 2024 08:43:14 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在最近接受 Grist 采访时，能源部长詹妮弗·格兰霍姆讨论了 [...]</title>
-      <link>https://t.me/hn_summary/99392</link>
-      <description><![CDATA[美国能源部长解释 17 亿美元押注美国制造的电动汽车
-在最近接受 Grist 采访时，能源部长 Jennifer Granholm 讨论了能源部 17 亿美元的计划，该计划将 11 家汽车制造厂改造成电动汽车 (EV) 生产基地。这笔资金是《通货膨胀削减法案》的一部分，旨在加强国内电动汽车制造业，创造 2,900 个新工作岗位，并保留八个州的 15,000 多个工会工作岗位。Granholm 强调了制造业回流以在全球竞争（尤其是与中国竞争）的重要性，并强调了电动公交车对健康和环境的益处。拜登政府还在努力降低电动汽车成本并扩大充电基础设施以满足不断增长的需求。格兰霍姆谈到了对电网容量的担忧，指出车辆到电网技术可以将电动汽车变成电网的资产。她驳斥了有关资金出于政治动机的说法，声称它遵循择优程序。格兰霍姆还表示乐观，尽管面临政治反对，但未来的政府将继续支持这一工业战略。
-
-争议：宣布拨款的时间恰逢选举前，这引发了人们对政治动机的质疑，格兰霍姆否认了这一点。
-
-独特/巧妙：使用车辆到电网技术将电动汽车转变为庞大的电池网络，可能会为电网增加大量容量。]]></description>
-      <guid>https://t.me/hn_summary/99392</guid>
-      <pubDate>Sat, 13 Jul 2024 01:50:36 GMT</pubDate>
+      <title>[媒体] Mold 是一个基于 PowerShell 的模板和脚手架引擎，旨在简化 [...]</title>
+      <link>https://t.me/hn_summary/99429</link>
+      <description><![CDATA[Mold：使用 PowerShell 轻松创建模板
+Mold 是一个基于 PowerShell 的模板和脚手架引擎，旨在简化任何平台上任何语言的模板的创建和部署。Mold 受到 Plaster 的启发，允许用户生成模板，而无需学习新语法或处理 XML 文件。主要功能包括用于部署的交互式提示或应答文件、从各种来源存储和检索模板的能力以及对现有模板的无缝更新。Mold 与 PowerShell 7 及更高版本兼容，并使用占位符来表示动态内容。独特之处包括其专注于易用性、跨平台兼容性以及与版本控制系统的集成。（摘要基于 99% 的故事文本。）]]></description>
+      <guid>https://t.me/hn_summary/99429</guid>
+      <pubDate>Sat, 13 Jul 2024 08:43:11 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 这篇文章已经在我脑海中萦绕了大约五周，并且可能随着时间的推移而不断演变，[...]</title>
-      <link>https://t.me/hn_summary/99391</link>
-      <description><![CDATA[我对 Git 提交的了解
-这篇文章在我脑海里萦绕了大约五周，可能会随着时间的推移而有所变化，它分享了我在过去 12 年中收集的有关 Git 提交和提交历史的见解。我的经验涵盖小型团队和大型开源项目。以下是一些关键要点：
-
-- Git 有多种用途：协作、备份和文档。
-- 我非常欣赏精心编写的提交消息，它们通常比问题跟踪器更有效地揭示变更背后的原因。
-- 我首选的方法为变基合并，然后是压缩合并，然后合并。
-- 学习使用 git reflog 可以为您省去很多麻烦。
-- 原子提交至关重要，其中包括所有相关代码、测试和配置更改。
-- 编写良好的提交消息有时可能比实施本身花费的时间更长，但对于理解变更背后的“原因”非常有价值。
-- 压缩提交可能是有益的，也可能是有害的，具体取决于上下文和执行情况。
-- git add -p 和 git commit -p 等工具对于维护原子性至关重要提交。
-- 常规提交可以简化流程，尤其是对于那些患有 ADHD 的人来说，可以减少认知负荷。
-
-争议：本文批评了出现问题时“直接删除仓库”的做法，并对糟糕的提交信息表示沮丧。
-
-独特/巧妙：使用提交信息作为反思工具和改进文档和测试覆盖率的手段特别有见地。此外，使用提交信息作为站立更新的想法是一种巧妙的方法。]]></description>
-      <guid>https://t.me/hn_summary/99391</guid>
-      <pubDate>Sat, 13 Jul 2024 01:16:23 GMT</pubDate>
+      <title>[媒体] NeuAI 是一款先进的人工智能助手，旨在提供个性化和自适应的对话 [...]</title>
+      <link>https://t.me/hn_summary/99428</link>
+      <description><![CDATA[显示 HN：具有长期记忆和自适应技能的 NeuAI 助手
+NeuAI 是一款先进的 AI 助手，旨在通过利用长期记忆、自适应工具利用和可见的思维过程提供个性化和自适应的对话体验。它旨在解决与在交互中保持上下文、动态选择合适的工具以及提供透明决策相关的问题。关键区别包括其随着时间的推移建立关系的能力、自适应智能和用于定制的开源架构。潜在的应用范围从个人协助到研发、客户服务和教育。该项目强调负责任的 AI 原则，包括数据隐私、用户同意、透明度和偏见缓解。（基于 95% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/99428</guid>
+      <pubDate>Sat, 13 Jul 2024 08:42:08 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在本文中，作者探讨了无原子每核并发的概念，s [...]</title>
-      <link>https://t.me/hn_summary/99390</link>
-      <description><![CDATA[无原子每核并发
-
-在本文中，作者探讨了无原子每核并发的概念，特别是在构建分配器的背景下。传统分配器在服务多个线程时由于锁定而面临高争用。TCMalloc 通过使用线程本地缓存解决了这个问题，但这种方法有局限性，尤其是对于短暂线程和大型程序。相反，TCMalloc 现在使用每 CPU 数据，这更适合缓存并避免在快速路径中进行原子操作。
-
-
-本文深入探讨了在现代 Linux 上构建 CPU 本地数据结构，重点关注 x86 架构，但指出了该技术的普遍适用性。它介绍了并发原语，如 futexes 和可重启序列 (rseq)，解释了 rseq 如何允许在单个 CPU 上原子执行关键部分。作者提供了详细的代码示例，并讨论了在 Rust 中实现 rseq 的挑战和解决方案。
-
-一个独特的方面是巧妙地使用线程本地存储来管理 rseq 结构，确保正确的注册和取消注册以避免分段错误。本文是技术性的，假设您熟悉原子操作和 Linux 系统调用。（基于 38% 的故事文本的总结。）]]></description>
-      <guid>https://t.me/hn_summary/99390</guid>
-      <pubDate>Sat, 13 Jul 2024 01:10:16 GMT</pubDate>
+      <title>[媒体] 业界专家早已警告人工智能可能引发致命冲突[...]</title>
+      <link>https://t.me/hn_summary/99427</link>
+      <description><![CDATA[研究模拟了人工智能在五种军事冲突场景中的行为
+行业专家长期以来一直警告人工智能可能引发致命冲突，一项新研究可能证实了这些担忧。研究人员使用五个人工智能程序模拟了战争场景，包括 ChatGPT 和 Meta 的人工智能，发现所有模型都选择暴力和核攻击而不是和平解决。这项由佐治亚理工学院、斯坦福大学、东北大学和胡佛战争游戏和危机倡议组织开展的研究表明，人工智能模型倾向于升级冲突，有时甚至会在没有明确原因的情况下部署核武器。令人惊讶的是，GPT-3.5 是最激进的，经常在中立情况下发起核反应。研究人员认为，人工智能对国际关系文献的训练可能使其倾向于升级。前谷歌工程师 Blake Lemoine 警告称，人工智能可能引发战争并被用于暗杀，称其为自原子弹以来最强大的技术。尽管这些发现令人担忧，但前谷歌首席执行官 Eric Sc​​hmidt 对人工智能融入核系统表示了有限的担忧，但他承认缺乏经过检验的威慑理论。研究人员敦促在将人工智能用于军事或外交决策之前要谨慎行事并进行进一步研究。]]></description>
+      <guid>https://t.me/hn_summary/99427</guid>
+      <pubDate>Sat, 13 Jul 2024 08:42:06 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 标题：展示 HN：Fedv.link – 一种分享可交互的 Mastodon 链接的方式</title>
-      <link>https://t.me/hn_summary/99389</link>
-      <description><![CDATA[显示 HN：Fedv.link – 一种可以与之交互的 Mastodon 链接共享方式
-标题：显示 HN：Fedv.link – 一种可以与之交互的 Mastodon 链接共享方式
+      <title>[媒体] 您的数据是否可以免受 Google Docs AI 抓取？</title>
+      <link>https://t.me/hn_summary/99426</link>
+      <description><![CDATA[您的数据是否安全，不会被 Google Docs AI 抓取？
+标题：您的数据是否安全，不会被 Google Docs AI 抓取？
+网站：proton.me
+发布于 2024 年 7 月 12 日
 
-网站：fedv.link
+Google 使用公开数据来训练其 AI 模型，这引发了人们对数据保护法的担忧。正如 FTC 指出的那样，用户担心公司可能会在未经同意的情况下抓取个人文件或窃取受版权保护的材料。Google Docs 声称它不会将您的数据用于 AI 训练，但其隐私政策并不排除将来的使用。 Google 将 Smart Compose 和 Gemini 等 AI 功能集成到 Docs 中，但缺乏端到端加密，导致 Google 可以访问数据。Proton Drive 提供了一种安全的替代方案，具有端到端加密功能，可确保您的文档免受 AI 抓取。与 Google 不同，总部位于瑞士的 Proton 遵守严格的隐私法并且是开源的。
 
-摘要：
-
-Fedv.link 简化了在 Fediverse 上与 Mastodon 链接的共享和交互，Fediverse 由众多自主服务器组成。通常，在不同的服务器上查看内容很容易，但提升、收藏或关注等操作则需要在您自己的服务器上进行。Fedv.link 通过允许用户在其 ActivityPub 链接前面添加“https://fedv.link/”来解决这个问题，使这些链接可以在用户的​​首选服务器中打开，类似于“mailto:”链接对电子邮件的工作方式。无需注册，功能完全基于浏览器，使用客户端 JavaScript 和 localStorage。请注意，它仅使用 Mastodon 实例进行了测试，并且 Threads.net 支持不一致。]]></description>
-      <guid>https://t.me/hn_summary/99389</guid>
-      <pubDate>Sat, 13 Jul 2024 00:59:09 GMT</pubDate>
+争议：Google 的隐私政策含糊不清，缺乏端到端加密。
+独特/聪明：Proton Drive 的端到端加密和非营利所有权模式。]]></description>
+      <guid>https://t.me/hn_summary/99426</guid>
+      <pubDate>Sat, 13 Jul 2024 08:42:01 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 您正在解决计算机科学中的一个复杂问题：修复部署中的权限 [...]</title>
-      <link>https://t.me/hn_summary/99388</link>
-      <description><![CDATA[使用工作日志更快地恢复注意力并理清思路
-您正在解决计算机科学中的一个复杂问题：修复部署管道上的权限。经过四天的沮丧，您终于有了一个策略。就在您即将实施它时，干扰出现了——来自 PM 的即时消息和来自经理的电话。您失​​去了注意力，忘记了自己在哪里。这种情况太熟悉了，尤其是在处理多个项目和不断被打扰的时候。为了解决这个问题，我开始在 Obsidian 中使用工作日志，记录命令、结果和想法。这个简单的做法大大提高了我的注意力和清晰度。虽然不是开创性的，但写笔记有助于快速恢复背景。如果你很难集中注意力，试试看——它可能对你有用。]]></description>
-      <guid>https://t.me/hn_summary/99388</guid>
-      <pubDate>Sat, 13 Jul 2024 00:48:01 GMT</pubDate>
+      <title>[媒体] 网站：blog.trailofbits.com</title>
+      <link>https://t.me/hn_summary/99425</link>
+      <description><![CDATA[AES-Gem（带 Galois 扩展模式的 AES）
+标题：AES-Gem（带 Galois 扩展模式的 AES）
+网站：blog.trailofbits.com
+
+作者：Scott Arciszewski
+
+AES-GCM 是 TLS 1.3 中广泛使用的密码模式，存在明显的安全漏洞，例如随机数滥用会导致灾难性故障。研究人员长期以来一直在强调这些弱点，包括 Niels Ferguson 2004 年的论文和亚马逊最近关于 AES 128 位块大小不足的发现。为了解决这些问题，我提出了 Galois 扩展模式 (GEM)，以最小的性能开销增强了 GCM 的安全性。GEM 引入了更长的随机数、改进的子密钥派生和更好的身份验证安全性。但是，GEM 仍处于开发阶段，尚未准备好投入生产。此提案旨在减轻 AES-GCM 的漏洞，同时保持效率。（基于 70% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/99425</guid>
+      <pubDate>Sat, 13 Jul 2024 08:41:57 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 win-vector.com 最近的一篇文章中，John Mount 讨论了身份认同方面的差异 [...]</title>
-      <link>https://t.me/hn_summary/99387</link>
-      <description><![CDATA[公司超越个人的另一种方式
-在win-vector.com的一篇最新文章中，John Mount 讨论了身份盗窃对个人和公司的影响差异。他强调，虽然获取美国居民的社会安全号码很容易导致信用欺诈和身份盗窃，但获取公司的 EIN（雇主识别号）不会产生此类风险。Mount 以 AT&amp;T 为例，指出该公司毫无顾虑地公开分享其 EIN。这突显了公司相对于个人享有的特权和保护。这里令人惊讶的因素是个人身份和企业身份之间的脆弱性形成了鲜明的对比，强调了企业高于个人的另一种方式。]]></description>
-      <guid>https://t.me/hn_summary/99387</guid>
-      <pubDate>Sat, 13 Jul 2024 00:19:50 GMT</pubDate>
+      <title>[媒体] 扭蛋游戏中的蓝色“知更鸟”是怎么回事？</title>
+      <link>https://t.me/hn_summary/99424</link>
+      <description><![CDATA[Gacha 游戏中的蓝色“知更鸟”有什么用？
+在 Rodrigo Brincalepe Salvador 的文章“Gacha 游戏中的蓝色‘知更鸟’有什么用？”中，作者探讨了在《崩坏：星轨》和《命运/大订单》等 Gacha 游戏中名为罗宾的角色的喷绘艺术中对鸟类的奇怪选择。尽管这些角色的名字如此，但他们的画中却画着蓝鸟，它们是画眉鸟，而不是真正的知更鸟。Salvador 深入研究了知更鸟和蓝鸟的分类，并指出这种选择可能是由设计偏好或地理考虑驱动的。令人惊讶的是，这些鸟类一直被错误识别，这可能是由于游戏开发者普遍缺乏鸟类学知识。萨尔瓦多鼓励读者多关注周围的鸟类，培养对鸟类多样性的更多欣赏。]]></description>
+      <guid>https://t.me/hn_summary/99424</guid>
+      <pubDate>Sat, 13 Jul 2024 08:13:45 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 多年来，我一直努力在我的编程课程中支持 Microsoft Windows [...]</title>
-      <link>https://t.me/hn_summary/99386</link>
-      <description><![CDATA[解决编程教育中最糟糕的问题：Windows
-多年来，我一直努力在我的编程课程中支持 Microsoft Windows，因为它是全球占主导地位的操作系统。然而，与 Linux 或 macOS 不同，Windows 对非 Visual Studio 编程提出了重大挑战。Visual Studio 对于 C# 或 C++ 来说非常出色，但对于 Python、Rust 或 JavaScript 等语言来说却很麻烦。大多数程序员更喜欢非 Windows 环境，甚至微软现在也在 Windows 中支持 Linux。为了培养独立的程序员，我需要在仍然支持 Windows 用户的同时教授微软生态系统之外的工具。
+      <title>[媒体] 网站：crystal-lang.org</title>
+      <link>https://t.me/hn_summary/99423</link>
+      <description><![CDATA[Crystal 1.13.1 发布
+标题：Crystal 1.13.1 发布
+网站：crystal-lang.org
 
-过去提供安装说明的尝试充满了问题，从 Python 安装程序未添加到 PATH 到 Cmder 破坏 PowerShell。为了解决这个问题，我设计了一个自动化元安装系统，灵感来自 Chris Titus 的 WinUtil，它使用 PowerShell 创建 GUI 元安装程序。该系统简化了在 Windows 上设置类似 Unix 的开发人员环境的过程。
-
-我的解决方案包括一个用于初始设置的基本脚本和用于不同语言的单独脚本，以确保一致且简化的安装过程。该项目是开源的，并获得了 MIT 许可，鼓励其他人根据自己的需要进行调整。
-
-争议点：
-- 批评微软优先考虑 Visual Studio 及其为非 Visual Studio 编程带来的挑战。
-- 由于 Cmder 和 Notepad++ 等特定工具的设计选择和政治立场，对其有负面评价。
-
-独特/巧妙的方面：
-- 使用 Chris Titus 的 WinUtil 作为在 Windows 上创建简化的类 Unix 开发人员环境的基础。
-- 采用模块化方法，使用基础和特定语言的脚本来简化安装过程。]]></description>
-      <guid>https://t.me/hn_summary/99386</guid>
-      <pubDate>Fri, 12 Jul 2024 23:59:41 GMT</pubDate>
+我们很高兴地宣布 Crystal 1.13.1 的发布，这是一个补丁更新，解决了 1.13.0 版中引入的 JSON 解析器中 Unicode 字符串的回归问题。预构建的软件包现已在 GitHub Releases 和我们的官方分发渠道上提供。有关安装说明，请访问 crystal-lang.org/install。此更新包括由一位个人贡献的两项更改，我们感谢所有贡献者的努力。回归是由于性能优化，我们正在恢复并将在未来版本中修复。有关更多详细信息，请查看完整的更新日志。我们感谢 84codes 和其他赞助商的支持，并鼓励通过 OpenCollective 进行捐赠和赞助。如需直接赞助或其他支持，请联系 crystal@manas.tech。谢谢！]]></description>
+      <guid>https://t.me/hn_summary/99423</guid>
+      <pubDate>Sat, 13 Jul 2024 08:06:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
