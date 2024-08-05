@@ -4,13 +4,34 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 05 Aug 2024 12:22:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 15:12:28 GMT</lastBuildDate>
     <item>
-      <title>寻找环境</title>
-      <link>https://www.reddit.com/r/software/comments/1ekm81n/looking_for_environment/</link>
-      <description><![CDATA[有一段时间了，我一直想制作一种类似于游戏编译的“启动器”，能够启动其他软件或加载文件进行查看。 （特别是 cbz 文件可能会有问题）我的编码经验非常有限（以前用过 python）并且我愿意学习，但目前不确定哪种引擎/环境最适合开发。 有没有关于使用什么的建议？    提交人    /u/ThreePlayerMode   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ekm81n/looking_for_environment/</guid>
-      <pubDate>Mon, 05 Aug 2024 12:13:10 GMT</pubDate>
+      <title>将 PDF 表格转换为 doc 后如何编辑表格</title>
+      <link>https://www.reddit.com/r/software/comments/1ekpzrq/how_to_edit_tables_after_turning_them_from_pdf_to/</link>
+      <description><![CDATA[我有一个 PDF 文件。该文件有很多表格。PDFGear 不允许我放大表格或添加其他文本，它们只是丢失了。我怎样才能找到一种方法来编辑表格并调整我的文本？    提交人    /u/willgrahamx   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ekpzrq/how_to_edit_tables_after_turning_them_from_pdf_to/</guid>
+      <pubDate>Mon, 05 Aug 2024 15:00:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找适合匿名播客的优质实时语音转换器</title>
+      <link>https://www.reddit.com/r/software/comments/1ekpb3q/looking_for_good_realtime_voice_changer_for/</link>
+      <description><![CDATA[因此，我需要一个可以实时工作的优质语音转换器，以确保所有播客参与者的匿名性，我见过很多在线程序和所有那些 AI（垃圾？）以及一个叫做 w-okada 的东西，但它无法在我的 PC 上正常工作，有没有更稳定、更用户友好的程序，我可以轻松地将其安装在参与者的硬件上而不会遇到任何麻烦？ 我考虑过尝试设置一个 VPS 服务器，安装所需的程序，以便用户可以通过连接到服务器本身来使用语音转换器，这样程序就可以在 VPS 上运行。这种事情可以设置吗？ 我只是想让它变得用户友好，这样它就可以轻松运行而不会遇到麻烦，并且可以根据需要正常工作。 非常感谢您的帮助！    提交人    /u/No-Hurry-212   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ekpb3q/looking_for_good_realtime_voice_changer_for/</guid>
+      <pubDate>Mon, 05 Aug 2024 14:32:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>印度最适合 Windows 操作系统的防病毒软件？</title>
+      <link>https://www.reddit.com/r/software/comments/1ekmi46/best_antivirus_for_windows_os_in_india/</link>
+      <description><![CDATA[印度最好的笔记本电脑/PC 防病毒软件？印度最好的 Windows 操作系统防病毒软件？它适用于我父亲的笔记本电脑和 PC。我父亲不是技术人员。上次我父亲的 PC 被恶意软件感染了，Windows Defender 无法阻止它。    提交人    /u/Mr_RJ_Gaming   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ekmi46/best_antivirus_for_windows_os_in_india/</guid>
+      <pubDate>Mon, 05 Aug 2024 12:27:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>印度最适合 Windows 操作系统的防病毒软件？</title>
+      <link>https://www.reddit.com/r/software/comments/1ekmhsv/best_antivirus_for_windows_os_in_india/</link>
+      <description><![CDATA[印度最好的笔记本电脑/PC 防病毒软件？印度最好的 Windows 操作系统防病毒软件？它适用于我父亲的笔记本电脑和 PC。我父亲不是技术人员。上次我父亲的 PC 被恶意软件感染了，Windows Defender 无法阻止它。    提交人    /u/Mr_RJ_Gaming   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ekmhsv/best_antivirus_for_windows_os_in_india/</guid>
+      <pubDate>Mon, 05 Aug 2024 12:27:17 GMT</pubDate>
     </item>
     <item>
       <title>可以去除纹身的视频编辑器？（适合初学者使用）</title>
@@ -88,27 +109,6 @@
       <description><![CDATA[前几天我去朋友家，他精力充沛，创意十足。他患有严重的注意力缺陷多动障碍，拒绝服药，因为他觉得服药能激发他的创造力。他的办公室里有大约 40 个不同的笔记本。每个笔记本都是他正在积极研究的一些想法的子集（音乐想法、电影想法、设计想法、诗歌、故事、哲学等）。在 40 个笔记本中，有些笔记本有 20 个子主题，而其中 2 个笔记本有 100 多个子主题。有些笔记本只有 1-2 句话长，而有些则有好几页。 当他想要研究他的一个想法时，他会找到正确的笔记本来查找特定主题。然后，他必须在笔记本中找到那个特定的想法。我问他为什么不在电脑上做。然后，他打开了桌面上的一个文件夹，令我惊讶的是，里面有不到 1100 个文本文件。每个文本文件名都是该想法的简短句子。每个文本文件都是自己独立的想法！因此，在他的笔记本和文本文件之间，我们估计他有大约 3000-4000 个跨越 20 年的“想法”。 他计划扫描所有 40笔记本。然后将扫描件转换为文本文件。然后，他希望获取所有文本文件并将它们上传到可以导入每个想法并将其归类到其自己主题的软件中。该系统的目标是让他能够通过快速搜索找到他想要研究的想法。  有人可以推荐一款可以导入文本文件的软件以及一个可以用来分类和跟踪他的想法的系统吗？任何信息都将不胜感激！    提交人    /u/1214   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ekb26p/looking_for_software_that_can_organize_ideas_for/</guid>
       <pubDate>Mon, 05 Aug 2024 01:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Xwidget 向下</title>
-      <link>https://www.reddit.com/r/software/comments/1eka4jk/xwidget_down/</link>
-      <description><![CDATA[我的视力不太好，所以我喜欢在屏幕上安装一些小部件，可以调整大小并监控 SSD 空间、时间和其他一些东西。  服务器关闭了一段时间，但我最近刚刚组装了一台 PC 并尝试使用它，但显然我可以访问任何小部件。  有谁知道我可以使用的像 xwidget 这样的软件吗？我已经看了一下，但找不到任何能满足我需求的东西，请帮忙。    提交人    /u/BritishKnight89   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1eka4jk/xwidget_down/</guid>
-      <pubDate>Mon, 05 Aug 2024 00:15:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找具有相同功能的文件历史记录替代品</title>
-      <link>https://www.reddit.com/r/software/comments/1ek8ugg/looking_for_file_history_alternative_with_same/</link>
-      <description><![CDATA[我知道 Genie Timeline，但这个漏洞百出的垃圾程序自 2018 年以来就没有更新过。我正在寻找一个像 File History 这样的软件，它可以以原始格式存储文件，允许您每隔几分钟备份一次，并允许您像 File History 或 Time Machine 一样浏览备份。我尝试过的每个糟糕的备份程序都将文件存储在映像中，因此即使自上次备份以来只有一个小文本文件发生了变化，也需要 10 多分钟才能备份。我能找到的最接近的备份程序是 Nero BackItUp，但不幸的是，他们每隔几天就会将您从“帐户”中注销一次，这会关闭您的备份，直到您再次手动登录该程序。为什么每个备份程序都是这么垃圾？现在我正在使用 Active Backup for Business、Veeam 和 Bvckup2 的组合。我也使用文件历史记录，但它每隔几天就会停止备份，我必须手动将其关闭并重新打开，这样它才会再次开始备份。像 WTF？Bvckup2 很棒，但没有界面可以查看文件的版本。您必须在存档文件夹中寻找它们。    提交人    /u/Dragon998084   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ek8ugg/looking_for_file_history_alternative_with_same/</guid>
-      <pubDate>Sun, 04 Aug 2024 23:15:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在制作#Travel 和#CostToLive 网络应用程序，而且它是免费的！</title>
-      <link>https://www.reddit.com/r/software/comments/1ek8tba/i_am_making_travel_costtolive_webapp_and_it_is/</link>
-      <description><![CDATA[https://preview.redd.it/jyvfbay5cqgd1.png?width=1877&amp;format=png&amp;auto=webp&amp;s=5384b14eb0015f70bbaa2aad4cbe03a2974b9894    提交人    /u/kindast1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ek8tba/i_am_making_travel_costtolive_webapp_and_it_is/</guid>
-      <pubDate>Sun, 04 Aug 2024 23:13:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
