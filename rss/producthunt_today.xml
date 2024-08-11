@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sun, 11 Aug 2024 12:20:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Aug 2024 15:12:06 GMT</lastBuildDate>
     <item>
       <title>影子工作操作系统</title>
       <link>https://www.producthunt.com/posts/shadow-work-os</link>
@@ -34,6 +34,34 @@
       <pubDate>Fri, 09 Aug 2024 21:02:37 GMT</pubDate>
     </item>
     <item>
+      <title>多卡明</title>
+      <link>https://www.producthunt.com/posts/docamine</link>
+      <description><![CDATA[
+使用 AI 填写未标记的文档
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/docamine</guid>
+      <pubDate>Fri, 09 Aug 2024 12:05:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>部署</title>
+      <link>https://www.producthunt.com/posts/justdeploy-2</link>
+      <description><![CDATA[
+无需锁定和额外费用即可部署您的应用
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/justdeploy-2</guid>
+      <pubDate>Fri, 09 Aug 2024 08:46:13 GMT</pubDate>
+    </item>
+    <item>
       <title>Yesscribe.ai</title>
       <link>https://www.producthunt.com/posts/yescribe-ai</link>
       <description><![CDATA[
@@ -46,20 +74,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/yescribe-ai</guid>
       <pubDate>Thu, 08 Aug 2024 10:56:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>梦机人工智能上线</title>
-      <link>https://www.producthunt.com/posts/dream-machine-ai-online</link>
-      <description><![CDATA[
-使用 AI 在线将照片转换为视频
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/dream-machine-ai-online</guid>
-      <pubDate>Wed, 07 Aug 2024 09:29:03 GMT</pubDate>
     </item>
     <item>
       <title>重叠</title>
@@ -90,20 +104,6 @@
       <pubDate>Sun, 04 Aug 2024 23:46:44 GMT</pubDate>
     </item>
     <item>
-      <title>URL转文本</title>
-      <link>https://www.producthunt.com/posts/urltotext</link>
-      <description><![CDATA[
-从任何网站提取干净的文本
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/urltotext</guid>
-      <pubDate>Sun, 04 Aug 2024 16:17:03 GMT</pubDate>
-    </item>
-    <item>
       <title>回顾</title>
       <link>https://www.producthunt.com/posts/recap-6573aeaf-24ac-423d-93cb-d3bed11bb66a</link>
       <description><![CDATA[
@@ -132,20 +132,6 @@ AI 生成您最近笔记和书签的新闻稿
       <pubDate>Fri, 02 Aug 2024 17:37:37 GMT</pubDate>
     </item>
     <item>
-      <title>LandingPro AI（Buildspace S5）</title>
-      <link>https://www.producthunt.com/posts/landingpro-ai-buildspace-s5</link>
-      <description><![CDATA[
-编写真正能带来销量的网站文案的人工智能
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/landingpro-ai-buildspace-s5</guid>
-      <pubDate>Thu, 01 Aug 2024 10:42:05 GMT</pubDate>
-    </item>
-    <item>
       <title>VMEG 剪辑成视频</title>
       <link>https://www.producthunt.com/posts/clips-to-videos-by-vmeg</link>
       <description><![CDATA[
@@ -172,6 +158,20 @@ AI 生成您最近笔记和书签的新闻稿
 ]]></description>
       <guid>https://www.producthunt.com/posts/drop-0536d100-97d2-492e-b170-556caba2f520</guid>
       <pubDate>Mon, 29 Jul 2024 02:29:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用电子表格进行沟通</title>
+      <link>https://www.producthunt.com/posts/kommunicate-with-spreadsheets</link>
+      <description><![CDATA[
+在几秒钟内从电子表格数据中获取即时答案
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/kommunicate-with-spreadsheets</guid>
+      <pubDate>Thu, 11 Jul 2024 12:58:24 GMT</pubDate>
     </item>
     <item>
       <title>AI SaaS启动器</title>
