@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 12 Aug 2024 21:14:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2024 00:53:22 GMT</lastBuildDate>
     <item>
       <title>寻找一个开源电影流媒体网络应用程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1eqn4gx/looking_for_an_open_source_movie_streaming_web_app/</link>
@@ -64,7 +64,7 @@
     <item>
       <title>有没有适用于功能手机的开源操作系统？</title>
       <link>https://www.reddit.com/r/opensource/comments/1eq8asi/is_there_an_opensource_os_for_feature_phones/</link>
-      <description><![CDATA[我正在努力寻找一个适用于简单功能手机的完全开源操作系统。AOSP 至少需要 512 MB 的 RAM，而我能找到的最接近的 FOSS 项目 KaiOS 的替代品 Gerda 需要 256 MB。 同时，简单功能手机（低于 64，通常为 16-32 MB RAM）市场由 3 个操作系统主导：诺基亚的 S30+、Nucleus RTOS 和 ThreadX。我知道 ThreadX 核心是开源的（MIT），以及一些库，但 DE 和应用程序不是。 是否有一个完全开源的低规格功能手机操作系统项目？ 附注：顺便问一下，您知道任何功能手机操作系统的良好 PC 模拟器吗？   由    /u/Qwert-4  提交  [链接] [评论]]]></description>
+      <description><![CDATA[我正在努力寻找一个适用于简单功能手机的完全开源操作系统。AOSP 至少需要 512 MB 的 RAM，而我能找到的最接近的 FOSS 项目 KaiOS 的替代品 Gerda 需要 256 MB。 同时，简单功能手机（低于 64，通常为 16-32 MB RAM）市场由 3 个操作系统主导：诺基亚的 S30+、Nucleus RTOS 和 ThreadX。我知道 ThreadX 核心是开源的（MIT），一些库也是，但 DE 和应用程序不是。 有没有一个完全开源的低规格功能手机操作系统的项目？ 附注：顺便问一下，您知道任何功能手机操作系统的良好 PC 模拟器吗？   由    /u/Qwert-4  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1eq8asi/is_there_an_opensource_os_for_feature_phones/</guid>
       <pubDate>Mon, 12 Aug 2024 08:22:40 GMT</pubDate>
     </item>
