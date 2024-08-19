@@ -4,7 +4,14 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 19 Aug 2024 00:53:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 03:13:52 GMT</lastBuildDate>
+    <item>
+      <title>构建待办事项 Web 应用程序和其他“已完成”的项目是否值得？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1evp046/is_it_worth_building_a_todo_web_app_and_other/</link>
+      <description><![CDATA[我是一个喜欢与众不同的人。我从不想做别人做过的事，总是认为我可以做一些事情，比如以一种新颖有趣的方式构建待办事项列表应用程序，但我开始认为这是一个坏主意。 你知道，我对构建任何东西需要多长时间的概念很模糊，而且我很幸运，因为我经济条件不错，可以全职做这件事。尽管如此，我还是希望早日通过开发谋生。 我花了一年时间构建了一个 iOS 应用程序。它相当复杂，但老实说，考虑到应用程序的复杂性以及我当时正在学习编码，我不知道这段时间是很长还是很短。 如果我以一种新颖有趣的方式构建诸如待办事项应用程序之类的东西，我总是会增加一定程度的复杂性，而不是将其作为待办事项应用程序的某种标准实现。 所有这些增加的复杂性使构建时间增加了数小时、数天、数周甚至数月，即使我可能正在学习其他开发人员在开发早期阶段没有机会学习的技能。 所以我有几个问题需要帮助： 我应该只构建待办事项列表应用程序的“标准”实现吗？ 是否有待办事项列表应用程序的某种标准实现（除了用于 CRUD 的简单 UI）？身份验证是否被视为该项目的标准部分？还有什么被认为是标准的？ 如果您已经构建了标准待办事项列表应用程序，那么您花了多少小时？ 对于任何试图建立投资组合的人来说，还有哪些其他项目被认为是必须构建的项目的标准曲目？ 网上是否有某种资源可用于项目构建想法？我希望有一种资源，它还可以估算这些和其他标准实施需要多长时间（但这只是额外的好处）。 谢谢你的帮助。    提交人    /u/Key_Board5000   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1evp046/is_it_worth_building_a_todo_web_app_and_other/</guid>
+      <pubDate>Mon, 19 Aug 2024 00:54:44 GMT</pubDate>
+    </item>
     <item>
       <title>PSA：请勿使用专门的“条件 UI”来实现密钥！！！！</title>
       <link>https://www.reddit.com/r/webdev/comments/1evoqn5/psa_do_not_implement_passkeys_with_exclusively/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[嗨！我想创建一个带有简单 ASCII 吉他谱编辑器的网站。在 2000 年初期，我一直担任 Web 开发人员，但最后一次从事 Webdev 相关工作是在 2006 年 :D（当时是原始 HTML、CSS、客户端 JavaScript、服务器端的 PHP4 等等）。 从那时起，可能一切都变了，出现了 React、node.js、Angular 之类的东西，但我从未接触过它们。 它是什么：在线吉他谱编辑器基本上需要让用户配置基本文档参数（通过预定义、静态下拉菜单、单选按钮、复选框，并让他们用键盘写下 ASCII 吉他谱，这基本上是一个更复杂的记事本，光标由程序+键盘箭头导航，键输入经过过滤。然后我需要它让用户下载他们创建的文本文件和/或将其保存在服务器端。真的类似于你在 2000 年代所知道的网站（好吧，我不介意更现代的 UI，我不介意坚持复古外观，但我认为我不想投资 Angular 或 React 等框架）。 当今行业中使用的合理工具集是什么？我可以检查一下以供我使用吗？我更喜欢与 .NET 集成的东西，但这不是必须的。我可能可以继续从头开始编写所有内容，就像我 20 年前做的那样，但坦率地说，考虑到我无论如何都需要刷新我的知识，我可能会学到一些有价值的东西。    提交人    /u/Unarmored2268   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1evgl2m/what_are_the_tools_used_nowadays_for_creating_a/</guid>
       <pubDate>Sun, 18 Aug 2024 18:44:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>有谁使用过 BackdropBuild.io 吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1evgku7/anyone_with_experience_either_backdropbuildio/</link>
-      <description><![CDATA[他们联系我，希望我参加他们的黑客马拉松活动，但我不知道，他们没有太多信息，而我对我的想法非常认真，我只是不想在不了解更多信息的情况下将我的仓库连接到他们的东西上。还有人与他们合作过吗？     提交人    /u/NovaPrime94   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1evgku7/anyone_with_experience_either_backdropbuildio/</guid>
-      <pubDate>Sun, 18 Aug 2024 18:43:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
