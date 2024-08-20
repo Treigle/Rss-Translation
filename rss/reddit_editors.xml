@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Tue, 20 Aug 2024 06:15:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2024 09:13:57 GMT</lastBuildDate>
+    <item>
+      <title>版权</title>
+      <link>https://www.reddit.com/r/editors/comments/1ewqfbu/copyright/</link>
+      <description><![CDATA[你好&lt;3 有什么方法可以在视频中使用音乐视频而不会出现版权问题    提交人    /u/7dreamhome   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ewqfbu/copyright/</guid>
+      <pubDate>Tue, 20 Aug 2024 08:35:39 GMT</pubDate>
+    </item>
     <item>
       <title>这里有邮政主管使用 Yamdu 吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1ewmr43/do_any_post_supervisors_in_here_use_yamdu/</link>
@@ -78,7 +85,7 @@
     <item>
       <title>询问专业人士 - 每周 - 2024 年 8 月 19 日星期一 - 禁止提问！如果您不以此为生，请在此发帖！规则 + 职业问题？</title>
       <link>https://www.reddit.com/r/editors/comments/1evx2mq/ask_a_pro_weekly_monday_mon_aug_19_2024_no_stupid/</link>
-      <description><![CDATA[/r/editors 是后期制作专业人士的社区。 每周，我们都会使用此主题进行公开讨论，供任何对编辑或后期制作有疑问的人讨论，**无论您的专业或专业状态如何。**  再次强调，如果您是新手，请注意此子版块针对专业人士。我们的版主团队会修剪子版块并在此处发布新手级别的问题。  ​ 如果您不确定自己属于哪一类？这是您要查找的主题。 关键规则：彼此之间要优秀（并有耐心）。禁止自我宣传。禁止盗版。 [其余规则可在此处找到](https://www.reddit.com/r/editors/about/rules/) 如果您不从事该领域，则您的问题应该放在这里 什么样的问题适合此主题？  上学值得吗？ 职业问题？ 您应该为哪个编辑器付费？*（免费工具？请参阅 /r/videoediting） 考虑做副业？ 我应该将费率定为多少？（请参阅 WIKI） 从学校毕业？并需要入门建议？  ​ 此子版块有 wiki。 欢迎随意建议其所需的页面。 我们有一个姐妹版块 /r/videoediting。如果您不以此为生，它是理想的选择 - 但此主题适合所有人！    提交人    /u/AutoModerator   [链接] [评论]]]></description>
+      <description><![CDATA[/r/editors 是后期制作专业人士的社区。 每周，我们都会使用此主题进行公开讨论，供任何对编辑或后期制作有疑问的人讨论，**无论您的专业或专业状态如何。**  再次强调，如果您是新手，请注意此子版块针对专业人士。我们的版主团队会修剪子版块并在此处发布新手级别的问题。  ​ 如果您不确定自己属于哪一类？这是您要查找的主题。 关键规则：彼此之间要优秀（并有耐心）。禁止自我宣传。禁止盗版。 [其余规则可在此处找到](https://www.reddit.com/r/editors/about/rules/) 如果您不从事该领域，则您的问题应该放在这里 什么样的问题适合此主题？  上学值得吗？ 职业问题？ 您应该为哪个编辑器付费？*（免费工具？请参阅 /r/videoediting） 考虑做副业？ 我应该将费率定为多少？（请参阅 WIKI） 从学校毕业？需要入门建议吗？  ​ 此子版块有 wiki。欢迎随意建议其所需的页面。 我们有一个姐妹版块 /r/videoediting。如果您不以此为生，那么这里是理想的选择 - 但此主题适合所有人！    提交人    /u/AutoModerator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1evx2mq/ask_a_pro_weekly_monday_mon_aug_19_2024_no_stupid/</guid>
       <pubDate>Mon, 19 Aug 2024 09:00:17 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[有 DCI 封装专家吗？（取证水印为 FM） 我努力想弄清楚，就 DCP 而言，FM 到底是什么。  我已经完全了解常见视频分发中的 FM。我在 Google 上搜索了很多次。所以你们都不需要解释视频播放中 FM 的机制。 我想知道，在 DCP 的封装或投影过程中，FM 意味着什么。在一般的母带制作机中有一些关于 FM 的选项或提及 - 例如 easyDCP、Clipster、DCPoMatic。但据我所知，那个意思不是将代码嵌入 DCP。影院系统中的 FM，全都与投影和影院服务器有关，例如杜比 IMS 3000、GDC 等。FM 不适用于母带制作级别的过程。   所以我的结论是“没有法医水印 DCP。”只有可用的影院服务器（影院中的投影仪）有法医水印。” 母带制作工具（easyDCP、Clipster……）中关于 FM 的几个选项只是意味着询问您是否要打开或关闭可用的 FM。   对吗？    提交人    /u/ddd102   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1evv0ne/any_dci_package_expertsforensic_marking/</guid>
       <pubDate>Mon, 19 Aug 2024 06:33:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪台机器？为什么？</title>
-      <link>https://www.reddit.com/r/editors/comments/1evuscy/which_machine_and_why/</link>
-      <description><![CDATA[大家好，我现在在决定是否购买市场上的 MacBook 时遇到了问题。我之前使用过的苹果产品只有奶酪磨碎机和 Mac Studio M1 Ultra。 我需要一个可以编辑 4k 素材并处理后期效果工作的便携式工作站。M1、M2 还是 M3？我应该买哪一个？    提交人    /u/Ju1cyBr4in   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1evuscy/which_machine_and_why/</guid>
-      <pubDate>Mon, 19 Aug 2024 06:17:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
