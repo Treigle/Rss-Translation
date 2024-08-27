@@ -4,7 +4,49 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 27 Aug 2024 12:20:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2024 15:11:49 GMT</lastBuildDate>
+    <item>
+      <title>这是真实的人工智能还是潜意识的人工智能？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f2j8tx/is_this_real_or_subliminal_ai/</link>
+      <description><![CDATA[这些图片最近在伊斯兰社交媒体平台上流传。我高度怀疑它们只是潜意识的人工智能。有什么方法可以一劳永逸地验证这一点？ GV3sdiwW4AA2qe8 (680×680) (twimg.com) 456961265_486705290844245_7611550704398084968_n.jpg (526×526) (fbcdn.net) 如果这不是正确的 subreddit，也请见谅，不确定是否存在&quot;调查性 AI&quot; 类型的 subreddit     提交人    /u/kabtq9s   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f2j8tx/is_this_real_or_subliminal_ai/</guid>
+      <pubDate>Tue, 27 Aug 2024 15:00:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>您相信这个项目有潜力吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f2j3m0/do_you_believe_this_project_has_potential/</link>
+      <description><![CDATA[我知道如今 AI 项目比比皆是，但我觉得我有一些能脱颖而出并真正对绝大多数 AI 用户有用的项目。我的网站允许您在一个平台上访问所有顶级 LLM，如 GPT、Claude、Gemini、Mistral、Perplexity 等……但最好的部分是您只需支付 API 调用费用，没有月度订阅或费率限制。大多数类似的项目总是试图吸引人们支付月费，我发现支付 API 调用费用可以为您节省大量费用，即使您是重度用户，20 美元也可以轻松使用 6 个月。 我真的认为这是一个很棒的工具，但对我来说，宣传起来非常困难和令人沮丧。我没有足够的资金投入大量资金进行付费广告，而且当我尝试发布社交媒体帖子时，我通常会立即被人嘲笑。如果有人愿意看一看并给我诚实的反馈，告诉我是否应该继续这个项目，这对我来说意义重大。 该网站是https://novlisky.io/ 提前致谢。    提交人    /u/Cramson_Sconefield   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f2j3m0/do_you_believe_this_project_has_potential/</guid>
+      <pubDate>Tue, 27 Aug 2024 14:54:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们回复了大家对我之前在 r/ArtificialInteligence 上分享的项目的所有反馈！！—JENOVA，一体化 AI，将最好的基础模型和工具集成到一个无缝体验中。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f2h3y7/we_responded_to_all_your_feedbacks_on_my_earlier/</link>
+      <description><![CDATA[嗨 r/ArtificialInteligence ，几周前我在这篇帖子中分享了我的项目JENOVA。为了快速描述 JENOVA 的功能，它是一个一体化的 AI 助手，可以智能地将您的查询路由到可以提供答案的基础模型（例如 GPT、Claude、Gemini），并辅以网页浏览和文档上传等工具。 在那篇文章中，你们中的许多人都为该项目提供了一些非常有用的反馈和建议，就在本周末，我们根据大家的反馈推出了一些重大改进：  到目前为止，来自用户的最大反馈是展示 JENOVA 用来生成每个响应的模型。当您将鼠标悬停在桌面上的消息上/点击移动设备上的消息时，我们通过显示每个 JENOVA 响应下方的模型来实现。这样，JENOVA 既可以保持其简洁的设计理念，又可以提供所需的技术信息。 每当 JENOVA 引用来自互联网的信息时，它现在都会引用来源并包含超链接 在 JENOVA 的移动网络版本中，每当您在输入框中按 Enter 键时，它都会创建新行而不是发送消息（这是移动 AI 体验最好的生活质量改进之一）。 我们降低了 JENOVA 执行不必要的网络搜索的可能性。 您现在可以在输入框中输入消息和附加文件，而 JENOVA 仍在处理其响应。 添加了检测机制，如果一个提供商的 LLM 出现故障（例如，Claude API 上周出现故障），我们可以快速切换到另一个提供商的 LLM 以确保服务持续进行。 我们解决了每次部署新代码时用户都会自动退出的问题。 在新的聊天中添加了示例提示页面。 另一个重要的反馈是添加除 Google SSO（主要是常规电子邮件登录）之外的登录选项，我们还没有能力实现这一点，但它在我们的即将完成的事项清单上。  在过去的一周里，JENOVA 的响应速度很长一段时间都很慢。这种缓慢是由于 Claude API 的不稳定造成的。我们正在密切监视这种情况，似乎在过去的 24 小时内 Claude API 一直相对稳定和快速。 感谢您的支持，我们欢迎任何其他反馈和建议！也请加入我们不断壮大的 Reddit 社区 !!    提交人    /u/GPT-Claude-Gemini   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f2h3y7/we_responded_to_all_your_feedbacks_on_my_earlier/</guid>
+      <pubDate>Tue, 27 Aug 2024 13:30:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>在哪里可以找到这个视频？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f2gx88/where_can_i_find_this_video/</link>
+      <description><![CDATA[大家好，我刚刚看了一个 AI 视频。视频中是未来蒸汽朋克/维多利亚风格的城市飞行。很多东西都镀金了，还有很多设计精美的飞艇，反射效果非常好。有人知道我在说什么视频吗？    提交人    /u/Georodin   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f2gx88/where_can_i_find_this_video/</guid>
+      <pubDate>Tue, 27 Aug 2024 13:21:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于人工智能和机器学习的 AWS、Azure 和 GCP</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f2gsfb/aws_azure_and_gcp_for_ai_and_machine_learning/</link>
+      <description><![CDATA[您好，我接到一个任务，比较 AWS、Azure 和 GCP 在 AI 和机器学习方面的表现，以便我的公司可以决定选择哪个云提供商，以在现有应用中逐步实现 ML 功能。它主要涉及两个应用程序：一个是用 Java 构建的船舶集装箱管理平台，另一个是在 Azure 上使用 C# 运行的维护管理软件。到目前为止，似乎所有云提供商都具有几乎相同的功能和相似的成本，所以我可能会倾向于 GCP，因为我总体上喜欢谷歌产品。还有其他需要考虑或需要放入演示中的东西吗？这也是我第一次做这种简短的演讲。任何帮助或建议都将不胜感激。    提交人    /u/Middle_Ad_9759   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f2gsfb/aws_azure_and_gcp_for_ai_and_machine_learning/</guid>
+      <pubDate>Tue, 27 Aug 2024 13:15:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>有任何独立的人工智能聊天机器人设备即将问世吗？类似 Amazon Echo，但具有人工智能聊天功能？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f2gpxu/any_standalone_ai_chatbot_device_on_the_horizon/</link>
+      <description><![CDATA[现在，向 Amazon Echo 提问，它不知道答案或给出一些愚蠢的结果，这简直就是一个梗。 有没有办法不用手机就能和聊天机器人对话？我想要一个可以在我学习的时候放在桌子上，能够回答简单问题而不用输入电脑或笔记本电脑的东西。理想情况下... 编辑：好的，我找到了 Rabbit R1。看起来它就是一块 200 美元的小垃圾。我可能需要等待垄断公司推出一些东西。 https://www.youtube.com/watch?v=Edz6rukhS5o    提交人    /u/Fancy-Plankton9800   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f2gpxu/any_standalone_ai_chatbot_device_on_the_horizon/</guid>
+      <pubDate>Tue, 27 Aug 2024 13:12:20 GMT</pubDate>
+    </item>
     <item>
       <title>真正的精益 AI 战略是什么样的？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f2fl8o/what_an_actual_lean_ai_strategy_looks_like/</link>
@@ -20,13 +62,6 @@
       <pubDate>Tue, 27 Aug 2024 12:07:24 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能与物联网：改变连接方式</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f2erjp/ai_and_the_internet_of_things_transforming/</link>
-      <description><![CDATA[人工智能正在彻底改变物联网 (IoT) 的功能，带来更智能的自动化、更好的决策和跨连接设备的无缝集成。  本博客探讨了物联网人工智能的最新进展，以及这些技术如何塑造行业、家庭和我们的日常生活。深入了解人工智能驱动的物联网解决方案如何为更智能、更互联的未来铺平道路！    提交人    /u/Positive-Hope-9524   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f2erjp/ai_and_the_internet_of_things_transforming/</guid>
-      <pubDate>Tue, 27 Aug 2024 11:34:09 GMT</pubDate>
-    </item>
-    <item>
       <title>获得无限制的 Flux.1 使用权</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f2elbg/get_unlimited_flux1_usage/</link>
       <description><![CDATA[嗨， 我创建了一个工具，您可以每月以 14 美元的价格创建和下载无限量的 Flux.1 图像。 任何感兴趣的人都给我发私信，我会把网址发给你！ 编辑：这里是 https://writeseed.com/flux    提交人    /u/Sufficient_Ice_6113   [链接] [评论]]]></description>
@@ -39,34 +74,6 @@
       <description><![CDATA[X 的首席执行官兼创始人埃隆·马斯克 (Elon Musk) 周一表示，他认为加州应该制定一项法律，要求科技公司和人工智能作家对自己的一些模型进行安全测试。马斯克在 X 上写道，他支持监管人工智能 20 多年，就像我们监管任何可能对人有害的产品或技术一样。此外，他要求州政府批准 SB 1047。https://theaiwired.com/elon-musk-backs-california-bill-mandating-ai-model-safety-tests/    提交人    /u/alyis4u   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f2cbva/elon_musk_backs_california_bill_mandating_ai/</guid>
       <pubDate>Tue, 27 Aug 2024 08:55:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>最好的 AI 男友网站或应用程序？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f2cahj/best_ai_boyfriend_websites_or_apps/</link>
-      <description><![CDATA[我最近和前任分手了，不想被真人伤害。给我一些AI男友应用程序推荐。     提交人    /u/FrequentEbb7669   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f2cahj/best_ai_boyfriend_websites_or_apps/</guid>
-      <pubDate>Tue, 27 Aug 2024 08:52:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有可以与基本模型交谈的网站？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f2bbh5/is_there_website_where_you_can_talk_to_base_models/</link>
-      <description><![CDATA[我想与 Llama 基本模型或其他基本模型对话，但我无法在本地运行它。我试过用谷歌搜索，但什么也没找到。谢谢！    提交人    /u/Spheniscushumboldti   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f2bbh5/is_there_website_where_you_can_talk_to_base_models/</guid>
-      <pubDate>Tue, 27 Aug 2024 07:39:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>最好的 AI 色情生成器？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f29xxh/best_ai_porn_generators/</link>
-      <description><![CDATA[随着我们继续看到人工智能技术的进步，我想就2024 年最佳人工智能生成器展开讨论。从图像生成模型到人工智能驱动的动画，这个领域已经取得了大量的发展，而且似乎新工具层出不穷。我很好奇，想知道您认为哪些是最可靠、最具创意和最合乎道德的。 让我们保持这次讨论的尊重和信息性。此外，让我们尽量关注技术，避免任何非法内容或跨越道德界限的深度伪造相关活动。 期待您的见解和建议！    提交人    /u/hard-linepolling5   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f29xxh/best_ai_porn_generators/</guid>
-      <pubDate>Tue, 27 Aug 2024 06:02:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>最佳 AI 内容检测器评测</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f29xf7/review_of_best_ai_content_detectors/</link>
-      <description><![CDATA[目前有许多可用的 AI 内容检测器，每个检测器都有独特的功能和优势。我测试了其中的几个，看看哪些检测器对于检查内容是否由 AI 生成最有效。以下是我的首选： MyEssayWriter.ai AI 内容检测器：此工具在识别 AI 生成的文本方面做得很好。它易于使用并提供详细的报告，使结果易于理解。对于需要快速检查多篇文章的人来说，它特别有用。 ZeroGPT：我使用 ZeroGPT 有一段时间了，虽然它有其优势，但我发现它有时会错过较长文本中的某些细微差别。它仍然是一个不错的选择，但我更喜欢其他工具的准确性。 PerfectEssayWriter.ai AI 检测器：此检测器可靠且有效地发现 AI 写作。它对其发现给出了清晰的解释，因此你可以看到它认为内容可能是由 AI 生成的。对于学生和专业人士来说，它都是一个不错的选择。 Grammarly：虽然 Grammarly 主要以语法检查而闻名，但它也具有检测 AI 内容的功能。如果你已经在使用它来辅助写作，它会很方便，但它的 AI 检测并不像一些专门的工具那么先进。 Copyscape：这个工具以检查抄袭而闻名，但它还包括识别 AI 生成内容的功能。它使用起来很简单，非常适合确保你写作的原创性。 Scribbr：Scribbr 主要专注于学术写作，它包含一个内容检测器，可帮助识别 AI 生成的部分。对于想要确保自己的论文是原创的并且符合学术标准的学生来说，它特别有用。 WriteCheck：此工具在抄袭检查和 AI 检测之间取得了良好的平衡。它专为学生设计，可让您在提交作业之前轻松检查作业。 ContentBot：ContentBot 是一款新兴的 AI 内容检测器，它的准确性给我留下了深刻的印象。它旨在捕捉各种类型的 AI 写作，如果您正在寻找替代方案，它值得一试。 这些工具可以帮助您确定您正在处理的内容是否由 AI 生成，从而确保您的写作真实且高质量。    提交人    /u/paulflythe   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f29xf7/review_of_best_ai_content_detectors/</guid>
-      <pubDate>Tue, 27 Aug 2024 06:01:31 GMT</pubDate>
     </item>
     <item>
       <title>每日一分钟人工智能新闻 2024 年 8 月 26 日</title>
@@ -88,13 +95,6 @@
       <description><![CDATA[“人工智能会让我们变得更笨。”这句话我已经听了很多年了。我注意到人工智能实际上让我变得更聪明了。 例如：当你有一个问题时——与编码或编程无关，而是关于某些东西是如何工作的，为什么人们会以某种方式行事，或者食物或生活方式等方面的最佳选择是什么。 每当我使用它时，我都会确保在我的提示中包含“从不同的角度和参考资料为我提供资源”。通过这样做，我不断接触到新的信息和见解，这丰富了我的理解并扩展了我的知识。每次我问一个问题，我都会带走一些有价值的东西，一些我以前不知道的东西。还有其他人觉得人工智能也在提升他们的知识吗？    提交人    /u/GodBlessYouNow   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f1qmu6/will_ai_make_you_smarter_or_dumber/</guid>
       <pubDate>Mon, 26 Aug 2024 15:12:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>男子因使用人工智能制作儿童色情片被捕</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f1jxuc/man_arrested_for_creating_child_porn_using_ai/</link>
-      <description><![CDATA[ 佛罗里达州一名男子因制作和传播人工智能生成的儿童色情内容而被捕，面临 20 项淫秽指控。 这一事件凸显了生成式人工智能被用于邪恶目的的危险。 立法者正在推动立法，以打击人工智能生成的儿童性虐待图像的兴起。 研究表明，生成式人工智能数据集中儿童性虐待图像普遍存在，对解决这一问题构成了重大挑战。 专家警告说，由于使用开源软件，控制人工智能生成的儿童色情内容的传播十分困难。  来源：https://futurism.com/the-byte/man-arrested-csam-ai    由   提交  /u/NuseAI   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f1jxuc/man_arrested_for_creating_child_porn_using_ai/</guid>
-      <pubDate>Mon, 26 Aug 2024 09:25:53 GMT</pubDate>
     </item>
     <item>
       <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
