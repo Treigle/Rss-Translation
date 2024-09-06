@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 06 Sep 2024 00:54:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2024 03:18:55 GMT</lastBuildDate>
+    <item>
+      <title>OAuth 的第一原则 - Stack Auth</title>
+      <link>https://www.reddit.com/r/programming/comments/1fa34tl/oauth_from_first_principles_stack_auth/</link>
+      <description><![CDATA[  由    /u/stackoverflooooooow  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fa34tl/oauth_from_first_principles_stack_auth/</guid>
+      <pubDate>Fri, 06 Sep 2024 01:23:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>您使用了哪个 memcached 查看器？</title>
+      <link>https://www.reddit.com/r/programming/comments/1fa2x9d/which_memcached_viewer_did_you_use/</link>
+      <description><![CDATA[  由    /u/tiendo1011  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fa2x9d/which_memcached_viewer_did_you_use/</guid>
+      <pubDate>Fri, 06 Sep 2024 01:12:35 GMT</pubDate>
+    </item>
     <item>
       <title>为什么遵循传统建议不足以从 QA 转为开发人员以及应该怎么做？</title>
       <link>https://www.reddit.com/r/programming/comments/1fa1eaq/why_following_traditional_advice_isnt_enough_to/</link>
@@ -13,7 +27,7 @@
       <pubDate>Thu, 05 Sep 2024 23:57:56 GMT</pubDate>
     </item>
     <item>
-      <title>为什么科技公司不支付工程师的薪水以让他们留下来？</title>
+      <title>为什么科技公司不支付工程师的薪水以留住他们？</title>
       <link>https://www.reddit.com/r/programming/comments/1fa09fs/why_dont_tech_companies_pay_their_engineers_to/</link>
       <description><![CDATA[  由    /u/StellarNavigator  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fa09fs/why_dont_tech_companies_pay_their_engineers_to/</guid>
@@ -39,20 +53,6 @@
       <description><![CDATA[  由    /u/congolomera  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1f9yqdg/the_list_of_architectural_metapatterns/</guid>
       <pubDate>Thu, 05 Sep 2024 21:58:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求技术通讯的反馈</title>
-      <link>https://www.reddit.com/r/programming/comments/1f9yf9e/looking_for_feedback_for_tech_newsletter/</link>
-      <description><![CDATA[大家好，我正在创办一份时事通讯，重点关注数据世界中的软件工程，其中包含一些有关职业发展的内容。订阅者的数量并没有增长那么多，因此我将不胜感激任何反馈。  感谢大家的帮助😊😊    提交人    /u/m7at   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f9yf9e/looking_for_feedback_for_tech_newsletter/</guid>
-      <pubDate>Thu, 05 Sep 2024 21:45:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>任何具有基于图形视图的编程工具都像黑曜石笔记制作工具那样具有反向链接，以便轻松找出完全分开保存的行和变量？</title>
-      <link>https://www.reddit.com/r/programming/comments/1f9xo10/any_programming_tool_with_graph_based_view_like/</link>
-      <description><![CDATA[  由    /u/Glittering-State3563  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f9xo10/any_programming_tool_with_graph_based_view_like/</guid>
-      <pubDate>Thu, 05 Sep 2024 21:13:12 GMT</pubDate>
     </item>
     <item>
       <title>您能否提供免费的带有生成式 AI 集成的光标 IDE 替代品以供编程？</title>
