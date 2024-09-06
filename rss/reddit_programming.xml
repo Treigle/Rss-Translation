@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 06 Sep 2024 03:18:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2024 06:17:16 GMT</lastBuildDate>
+    <item>
+      <title>理解 DeepMind 的排序算法</title>
+      <link>https://www.reddit.com/r/programming/comments/1fa8cxw/understanding_deepminds_sorting_algorithm/</link>
+      <description><![CDATA[  由    /u/FoxInTheRedBox  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fa8cxw/understanding_deepminds_sorting_algorithm/</guid>
+      <pubDate>Fri, 06 Sep 2024 06:16:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>`com.lihaoyi` 发放赏金，奖金 10,000 美元</title>
+      <link>https://www.reddit.com/r/programming/comments/1fa5ksr/comlihaoyi_issue_bounties_10000usd_up_for_grabs/</link>
+      <description><![CDATA[  由    /u/lihaoyi  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fa5ksr/comlihaoyi_issue_bounties_10000usd_up_for_grabs/</guid>
+      <pubDate>Fri, 06 Sep 2024 03:29:37 GMT</pubDate>
+    </item>
     <item>
       <title>OAuth 的第一原则 - Stack Auth</title>
       <link>https://www.reddit.com/r/programming/comments/1fa34tl/oauth_from_first_principles_stack_auth/</link>
@@ -27,7 +41,7 @@
       <pubDate>Thu, 05 Sep 2024 23:57:56 GMT</pubDate>
     </item>
     <item>
-      <title>为什么科技公司不支付工程师的薪水以留住他们？</title>
+      <title>为什么科技公司不支付工程师的薪水以让他们留下来？</title>
       <link>https://www.reddit.com/r/programming/comments/1fa09fs/why_dont_tech_companies_pay_their_engineers_to/</link>
       <description><![CDATA[  由    /u/StellarNavigator  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fa09fs/why_dont_tech_companies_pay_their_engineers_to/</guid>
@@ -53,13 +67,6 @@
       <description><![CDATA[  由    /u/congolomera  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1f9yqdg/the_list_of_architectural_metapatterns/</guid>
       <pubDate>Thu, 05 Sep 2024 21:58:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>您能否提供免费的带有生成式 AI 集成的光标 IDE 替代品以供编程？</title>
-      <link>https://www.reddit.com/r/programming/comments/1f9xdja/can_you_provide_fremium_cursor_ide_alternative/</link>
-      <description><![CDATA[  由    /u/Glittering-State3563  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f9xdja/can_you_provide_fremium_cursor_ide_alternative/</guid>
-      <pubDate>Thu, 05 Sep 2024 21:00:59 GMT</pubDate>
     </item>
     <item>
       <title>如何处理遗留项目中的技术债务</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/feross  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1f9rvla/visual_studio_code_august_2024/</guid>
       <pubDate>Thu, 05 Sep 2024 17:16:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>我开始学习 OpenGL，用 C++ 制作 Minecraft 的克隆版</title>
-      <link>https://www.reddit.com/r/programming/comments/1f9r94r/i_started_learning_opengl_to_make_a_clone_of/</link>
-      <description><![CDATA[  由    /u/Kofybrek  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f9r94r/i_started_learning_opengl_to_make_a_clone_of/</guid>
-      <pubDate>Thu, 05 Sep 2024 16:51:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
