@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt — 每天提供最好的新产品</title>
-    <link>http://www.producthunt.com</link>
+    <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 13 Sep 2024 15:13:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 18:16:41 GMT</lastBuildDate>
     <item>
       <title>卡韦拉</title>
       <link>https://www.producthunt.com/posts/cavela</link>
@@ -121,7 +121,7 @@
       <title>AIPhone.AI</title>
       <link>https://www.producthunt.com/posts/aiphone-ai-3</link>
       <description><![CDATA[
-具有实时翻译功能的人工智能电话应用程序
+具有实时翻译功能的人工智能电话通话应用
 
 
 讨论
@@ -132,21 +132,7 @@
       <pubDate>Wed, 11 Sep 2024 09:11:22 GMT</pubDate>
     </item>
     <item>
-      <title>富士山</title>
-      <link>https://www.producthunt.com/posts/fujiyama</link>
-      <description><![CDATA[
-使用 AI 实时练习自然日语对话
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/fujiyama</guid>
-      <pubDate>Wed, 11 Sep 2024 08:36:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>自行计划无</title>
+      <title>自营计划无</title>
       <link>https://www.producthunt.com/posts/selfplanr</link>
       <description><![CDATA[
 面向高中生的端到端智能规划平台
@@ -172,6 +158,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/pantry-aid</guid>
       <pubDate>Tue, 10 Sep 2024 14:13:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mac 版 Airbounce</title>
+      <link>https://www.producthunt.com/posts/airbounce-for-mac</link>
+      <description><![CDATA[
+一个神奇的按钮让通话更轻松
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/airbounce-for-mac</guid>
+      <pubDate>Tue, 10 Sep 2024 06:22:50 GMT</pubDate>
     </item>
     <item>
       <title>FunBlocks AIFlow</title>
