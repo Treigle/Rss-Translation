@@ -4,95 +4,131 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Fri, 13 Sep 2024 00:55:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 03:12:28 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 中国的宠物数量可能很快就会超过幼儿数量。</title>
-      <link>https://t.me/hn_summary/108172</link>
-      <description><![CDATA[中国养宠物的数量可能很快超过幼儿。为什么这对北京来说是个头疼的问题
-中国正在经历社会价值观的重大转变，随着出生率下降，养宠物的人数正在增加。像北京的 Hansen 和 Momo 这样的夫妇选择养“毛孩子”而不是孩子，这反映了受经济压力和代际价值观变化推动的更广泛趋势。尽管政府努力鼓励多子女，包括现金和育儿假等激励措施，但出生率仍在继续下降。高盛预测，到 2030 年，中国城市宠物的数量将几乎是幼儿数量的两倍。这一趋势对北京构成了挑战，因为北京正在努力应对人口老龄化和劳动力萎缩。宠物行业，尤其​​是宠物食品，正在蓬勃发展，预计到 2030 年销售额将达到 120 亿美元。这种转变凸显了一代人对婚姻和家庭的传统期望的转变，因为年轻人优先考虑个人成就和经济稳定，而不是为人父母。]]></description>
-      <guid>https://t.me/hn_summary/108172</guid>
-      <pubDate>Fri, 13 Sep 2024 00:55:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 新南威尔士大学的科学家们公布了一种突破性的方法[...]</title>
-      <link>https://t.me/hn_summary/108171</link>
-      <description><![CDATA[科学家宣布一种分解常见塑料的新方法
-新南威尔士大学的科学家公布了一种利用阳光、空气和三氯化铁分解聚苯乙烯（俗称泡沫塑料）的突破性方法。这项由《Interesting Engineering》报道的创新方法可以通过将不可分解的塑料转化为可重复使用的原材料来彻底改变塑料废物管理。该过程效率高，在室温下运行，三小时内分解率高达 97%。Maxime Michelas 博士强调了该方法减少微塑料和新塑料生产需求的潜力，提供了显著的环境和经济效益。研究团队旨在进一步完善这项有前途的技术。]]></description>
-      <guid>https://t.me/hn_summary/108171</guid>
-      <pubDate>Fri, 13 Sep 2024 00:46:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] FDA 已批准首个非处方（OTC）助听器软件 Hearing [...]</title>
-      <link>https://t.me/hn_summary/108170</link>
-      <description><![CDATA[FDA 批准首款非处方助听器软件
-FDA 已批准首款非处方 (OTC) 助听器软件助听器功能 (HAF)，旨在与兼容的 Apple AirPods Pro 配合使用。该软件允许 AirPods Pro 用作听力损失轻度至中度的成年人的助听器。FDA 设备和放射健康中心代理主任 Michelle Tarver 博士强调了这一发展对于让听力支持更容易获得的重要性。HAF 可通过 iOS 设备进行定制，在临床研究中显示出与专业安装设备相当的好处。这项授权根据 FDA 的 De Novo 上市前途径进行审查，凸显了 FDA 对促进健康公平和创新的承诺。 FDA 向 Apple Inc. 授予了营销授权。
+      <title>有人在他们的开发环境中使用音效吗？</title>
+      <link>https://t.me/hn_summary/108182</link>
+      <description><![CDATA[有人在开发环境中使用音效吗？
+标题：有人在开发环境中使用音效吗？
+网站：news.ycombinator.com
 
-争议：无突出问题。
+作者反思了在终端和代码编辑器中通常使用颜色来突出显示测试失败和 linting 错误等问题，并想知道为什么音效通常不用于开发环境。他们询问社区是否有人将音效集成到他们的工作流程中。这个查询开启了关于在编码中使用听觉提示的潜在好处和缺点的讨论，邀请开发人员分享他们的经验和见解。]]></description>
+      <guid>https://t.me/hn_summary/108182</guid>
+      <pubDate>Fri, 13 Sep 2024 03:12:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 我一直在密切关注 xenocog 社区和源自机器人主义的项目 [...]</title>
+      <link>https://t.me/hn_summary/108181</link>
+      <description><![CDATA[关于群聊中的 LLM 的问题
+我一直在密切关注 xenocog 社区以及源自 cyborgism 和 act 1 的项目。虽然大多数人关注更广泛的方面，但我对 Janus、ampdot 和 Theia Vogel 等人如何使语言模型 (LLM) 在群聊中以知识尊重的方式互动感到着迷。我的好奇心在于这些互动的机制，例如 LLM 如何自然地参与群聊、管理上下文窗口以及决定何时回复。
 
-独特/巧妙：将助听器功能集成到 Apple AirPods Pro 等广泛使用的消费音频产品中，是一种巧妙而创新的方法，可以提高用户的可访问性和便利性。]]></description>
-      <guid>https://t.me/hn_summary/108170</guid>
-      <pubDate>Fri, 13 Sep 2024 00:46:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 为什么学生记得电视上讲的一切，却忘记我说的一切？</title>
-      <link>https://t.me/hn_summary/108169</link>
-      <description><![CDATA[为什么学生能记住电视上的一切，却忘记我说的一切？
-标题：为什么学生能记住电视上的一切，却忘记我说的一切？
-网站：www.aft.org
+我尝试过 Shapes 等平台，它们提供可调功能，但不能完全满足我的需求。Generative Agents 框架和 AutoGen 提供了见解，但有局限性。 Silly Tavern 和 MUCA 提供了一些解决方案，但缺乏我所寻求的代理。
 
-了解大脑如何学习对于有效教学至关重要。教师通常依靠理论、经验和直觉的结合，但认知科学提供了更可靠的见解。记忆是有选择性的；它保留了我们深思熟虑的内容。例如，学生记住琐碎的电视细节，因为他们对这些细节的参与度比课堂材料更高。 “记忆是思想的残留”这一原则表明，学生在课堂上思考的内容就是他们将会记住的内容。情绪反应和重复会有所帮助，但仅靠这些还不够。将课程组织得像故事一样——具有因果关系、冲突、复杂性和人物——可以使材料更加令人难忘。这种方法确保学生思考含义，从而增强记忆力。（基于 54% 的故事文本的总结。）]]></description>
-      <guid>https://t.me/hn_summary/108169</guid>
-      <pubDate>Fri, 13 Sep 2024 00:45:00 GMT</pubDate>
+最终，我的目标是通过探索各种方法和调整功能来实现最佳动态，为异种认知群聊创建一个框架。这个领域感觉还未被充分探索，我很想看看其他人做了什么以及我能开发什么。（基于 93% 的故事文本的总结。）]]></description>
+      <guid>https://t.me/hn_summary/108181</guid>
+      <pubDate>Fri, 13 Sep 2024 03:04:23 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Notepat 是一款简约的基于网络的文本编辑器，设计简洁、美观。</title>
-      <link>https://t.me/hn_summary/108168</link>
-      <description><![CDATA[Notepat • 美学计算机
-Notepat 是一款极简主义的基于 Web 的文本编辑器，设计简洁，美观。它提供了一个无干扰的写作环境和干净的界面，非常适合记下快速笔记或起草较长的文章。该设计强调功能性而不牺牲风格，为用户提供视觉上令人愉悦的体验。一个独特的功能是它与各种设备的无缝集成，确保您的笔记始终可访问。该平台对美学和可用性的承诺使其与更混乱的传统文本编辑器区分开来。内容中没有争议的元素，但形式和功能的巧妙融合尤其值得注意。]]></description>
-      <guid>https://t.me/hn_summary/108168</guid>
-      <pubDate>Fri, 13 Sep 2024 00:44:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 2023 年 9 月 16 日，全球地震监测站检测到了独特的信号 [...]</title>
-      <link>https://t.me/hn_summary/108167</link>
-      <description><![CDATA[格陵兰岛山体滑坡引发异常海浪，震动地球九天
-2023 年 9 月 16 日，世界各地的地震监测站检测到一个持续九天的独特信号，与典型的地震信号不同。伦敦大学学院的 Stephen Hicks 和他的团队将其鉴定为“不明地震物体”（USO），由格陵兰岛迪克森峡湾的大规模山体滑坡引起。山体滑坡引发了一场 110 米高的海啸，形成了被称为地震震波的驻波，其共振频率为 11 毫赫兹。令人惊讶的是，由于峡湾的形状，这次地震震波比平时持续的时间长得多，从而捕获了能量。此次山体滑坡被归咎于气候变化，凸显了全球变暖的深远影响，甚至影响到了我们脚下的地球。]]></description>
-      <guid>https://t.me/hn_summary/108167</guid>
-      <pubDate>Fri, 13 Sep 2024 00:41:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>标题：Ziglang.org 从 AWS 迁移到自托管</title>
-      <link>https://t.me/hn_summary/108166</link>
-      <description><![CDATA[Ziglang.org 从 AWS 迁移到自托管
-标题：Ziglang.org 从 AWS 迁移到自托管
+      <title>网站：signaldb.js.org</title>
+      <link>https://t.me/hn_summary/108180</link>
+      <description><![CDATA[展示 HN：SignalDB 的新同步引擎
+标题：展示 HN：SignalDB 的新同步引擎
+网站：signaldb.js.org
 
-ziglang.org 大胆反其道而行之，从 Amazon S3 + CloudFront 过渡到单机自托管解决方案。与其他扩展到昂贵的云服务的技术项目不同，Ziglang.org 旨在削减成本并提高计算效率。文章强调了 Rust 基金会在 2023 年的 404,400 美元基础设施支出，强调了云托管的财务负担。通过选择 36 欧元的 Hetzner 实例，Ziglang.org 接受偶尔的停机时间，将低效率推回给用户以避免浪费。这种方法允许将更多资金分配给贡献者。过渡导致网站即时部署，与之前的 5 分钟等待相比有了显着改善。未来的计划包括为发布提供 torrent 文件，并鼓励社区支持托管镜像。]]></description>
-      <guid>https://t.me/hn_summary/108166</guid>
-      <pubDate>Fri, 13 Sep 2024 00:31:46 GMT</pubDate>
+SignalDB 中的同步概述
+
+SignalDB 中的同步简介
+SignalDB 专为高效灵活的同步而设计，可适应各种后端系统。 SignalDB 同步的核心是确保跨多个集合的数据一致性，无论是使用本地优先方法还是与远程服务器集成。
+
+高级概述
+SyncManager 类是 SignalDB 同步的核心，用于管理跨集合的数据一致性。这种集中式方法通过从单个实例处理同步操作，提供了灵活性、效率和改进的开发人员体验。
+
+SyncManager 的作用
+SyncManager 负责监督多个集合，通过集中同步操作来增强开发人员体验，解决冲突，排队同步操作，并消除推送的抖动以优化网络使用。
+
+本地优先同步与按需提取
+SignalDB 支持两种主要的同步策略：
+- 本地优先同步：在本地管理数据，提供高性能、离线支持和乐观的 UI。
+- 按需提取：直接从服务器检索数据，确保信息最新，但性能可能会降低。
+
+与任何后端同步
+SignalDB 的后端无关同步机制允许与各种后端系统，包括 REST API、GraphQL 和自定义协议。pull 和 push 函数抽象服务器交互，确保兼容性和易于集成。
+
+同步流和冲突解决
+SignalDB 跟踪本地更改并使用“重放”机制解决冲突，应用“最后更改操作获胜”策略。这可确保保留最新的更改，从而保持客户端之间的数据一致性。
+
+独特/巧妙的方面
+- 后端无关同步机制：SignalDB 无需进行重大修改即可与任何后端系统集成，这一点特别巧妙，可提供极大的灵活性。
+- 防抖动推送：此功能通过合并多个推送操作来优化网络使用，减少网络请求并提高性能。
+
+有争议的方面
+- 冲突解决策略：“最后更改操作获胜”策略在需要更复杂的冲突解决的情况下可能会引起争议，因为它优先考虑最新更改而不考虑先前修改的背景。]]></description>
+      <guid>https://t.me/hn_summary/108180</guid>
+      <pubDate>Fri, 13 Sep 2024 03:03:19 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] C++ 联盟很高兴宣布与知名工程师 Sean Baxt 建立合作伙伴关系 [...]</title>
-      <link>https://t.me/hn_summary/108165</link>
-      <description><![CDATA[Safe C++：用于内存安全的语言扩展
-C++ 联盟很高兴宣布与知名工程师 Sean Baxter 合作开发 Safe C++ Extensions 提案，旨在增强 C++ 的内存安全性。这一举措是一个重要的里程碑，它解决了在软件安全性和可靠性问题日益严重的情况下对更安全编码实践的迫切需求。Safe C++ Extensions 引入了创新功能，可防止常见的内存相关错误，同时保持 C++ 的性能和灵活性。一个关键组件是 Safe 标准库，它提供了基本数据结构和算法的强大、内存安全的实现。我们鼓励开发人员和利益相关者提供反馈，以完善该提案。如需了解更多信息，请访问 safecpp.org 或加入官方 C++ 语言 Slack Workspace 上的讨论。]]></description>
-      <guid>https://t.me/hn_summary/108165</guid>
-      <pubDate>Fri, 13 Sep 2024 00:31:43 GMT</pubDate>
+      <title>[媒体] 网站：arstechnica.com</title>
+      <link>https://t.me/hn_summary/108179</link>
+      <description><![CDATA[音乐行业 1990 年代的硬盘正在消亡
+标题：音乐行业 1990 年代的硬盘正在消亡
+网站：arstechnica.com
+
+Iron Mountain 是一家专门从事企业存储和销毁的公司，该公司发现，大约 20% 的 1990 年代硬盘现在无法读取。这一令人担忧的趋势凸显了存档数字音乐的挑战，因为与磁带不同，硬盘不是为长期存储而设计的。尽管在最佳条件下存储，但许多驱动器仍会发生故障，无法恢复。该问题在 Hacker News 上引发了讨论，强调没有存储介质是万无一失的，并强调定期将重要数据复制到新存储的重要性。这提醒我们数字档案的脆弱性。]]></description>
+      <guid>https://t.me/hn_summary/108179</guid>
+      <pubDate>Fri, 13 Sep 2024 02:41:07 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 2024 年搞笑诺贝尔奖旨在表彰“首次发现”的奇特科学成就 [...]</title>
-      <link>https://t.me/hn_summary/108164</link>
-      <description><![CDATA[2024 年搞笑诺贝尔奖获奖者
-2024 年搞笑诺贝尔奖在一场虚拟颁奖典礼上宣布，该奖项旨在表彰那些“先让人发笑，然后让人思考”的古怪科学成就。该奖项是对诺贝尔奖的戏仿，具有独特的元素，如全天候讲座和小型歌剧。今年的和平奖颁给了 B.F. 斯金纳，以表彰他在二战时期的鸽子计划，该计划旨在训练鸽子引导导弹。尽管最初受到质疑，最终项目被取消，但斯金纳的创新想法在 1950 年代短暂复活，证实了他非传统的方法。典礼还包括一场有关水的“非歌剧”，与当晚的主题相一致。]]></description>
-      <guid>https://t.me/hn_summary/108164</guid>
-      <pubDate>Fri, 13 Sep 2024 00:30:41 GMT</pubDate>
+      <title>[媒体] 网站：www.rugu.dev</title>
+      <link>https://t.me/hn_summary/108178</link>
+      <description><![CDATA[理解并发、并行和 JavaScript
+标题：理解并发、并行和 JavaScript
+网站：www.rugu.dev
+
+在本文中，我探讨了并发和并行之间的区别，这两个概念经常被错误地互换使用。受到《勇敢而真诚的 Clojure》第 9 章的启发，我深入研究了这些想法，特别是在 JavaScript 的背景下。顺序执行涉及一个接一个地完成任务，而并发和并行支持多任务处理。并发在任务之间交替，而并行同时执行任务。本文讨论了线程、内核线程和进程作为实现这些目标的方法，其中 Node.js 是用户空间并发的示例。一个关键点是理解这些概念的重要性，以避免出现竞争条件和死锁等问题。本文重点介绍了这些方法在编程中的细微差别和实际意义。]]></description>
+      <guid>https://t.me/hn_summary/108178</guid>
+      <pubDate>Fri, 13 Sep 2024 02:06:51 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在过去五年中，OnlyFans 创作者已经积累了超过 150 亿美元的收入，其中 53 亿美元 [...]</title>
-      <link>https://t.me/hn_summary/108163</link>
-      <description><![CDATA[分析 OnlyFans 的经济状况
-在过去五年中，OnlyFans 的创作者已经积累了超过 150 亿美元的收入，仅 2023 年就支付了 53 亿美元，同比增长 19%。作为对比，这超过了 2023-2024 赛季的 NBA 总薪水（49 亿美元），并与英超联赛的薪水总额（53 亿美元）相当。与这些独家联赛不同，OnlyFans 是一个拥有 410 万创作者的开放平台，但收入高度集中在顶级创作者身上。平均创作者每年的收入约为 1,800 美元，但前 0.1% 的收入要高得多。值得注意的是，排名前 10% 的账户占据了 73% 的收入，而少数顶级创作者每年的收入高达一千万。这种差距凸显了平台内部收入差距的严重性。]]></description>
-      <guid>https://t.me/hn_summary/108163</guid>
-      <pubDate>Fri, 13 Sep 2024 00:06:31 GMT</pubDate>
+      <title>[媒体] 欢迎来到 Lowpass！</title>
+      <link>https://t.me/hn_summary/108177</link>
+      <description><![CDATA[广告平台 The Trade Desk 正在构建自己的智能电视操作系统
+欢迎来到 Lowpass！本周，我们将揭秘 The Trade Desk 的秘密智能电视操作系统项目和 Niantic 最新的 3D 地图绘制项目。The Trade Desk 正在开发自己的智能电视操作系统，以与 Roku、谷歌和亚马逊竞争。该项目始于疫情期间，涉及前 Roku 员工，并承诺为硬件合作伙伴提供更好的收入分成和定制选项。然而，其 Android AOSP 基础可能会面临谷歌的阻力。尽管市场拥挤，但 The Trade Desk 仍致力于确保其在利润丰厚的智能电视广告领域的地位。与此同时，Niantic 正在利用众包 3D 扫描，使用高斯溅射技术增强 AR、VR 和混合现实体验。]]></description>
+      <guid>https://t.me/hn_summary/108177</guid>
+      <pubDate>Fri, 13 Sep 2024 01:53:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 在最近《首席执行官日记》对前中央情报局情报官员史蒂芬·巴特利特的采访中 [...]</title>
+      <link>https://t.me/hn_summary/108176</link>
+      <description><![CDATA[采访前中情局情报官的收获
+在最近接受 Steven Bartlett 的《CEO 日记》采访时，前中情局情报官 Andrew Bustamante 分享了他在职业生涯中的见解以及如何将其应用于日常生活和商业。Bustamante 现在经营着 Everyday Spy，他强调采取行动保持领先地位的重要性，区分了屈服于恐惧的人和克服恐惧的人。他讨论了动机和操纵的双重性质、道德灵活性的概念以及人类互动的三个领域：公共、私人和秘密。Bustamante 还概述了四个核心动机（奖励、意识形态、胁迫、自我）和有效沟通的技巧，例如在对话中使用窗户而不是门以及提问的力量。他介绍了 SADRAT 商业方法，并提供了如何识别谎言以及如何管理感知与观点的技巧。值得注意的是，他对操纵和道德灵活性的坦率看法可能会被视为有争议的，因为它们挑战了传统的道德界限。]]></description>
+      <guid>https://t.me/hn_summary/108176</guid>
+      <pubDate>Fri, 13 Sep 2024 01:52:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] OpenAI 推出了两个新的预览模型 o1-preview 和 o1-mini，强调 [...]</title>
+      <link>https://t.me/hn_summary/108175</link>
+      <description><![CDATA[OpenAI 的新 o1 思维链模型说明
+OpenAI 推出了两个新的预览模型 o1-preview 和 o1-mini，它们强调通过思维链方法增强推理能力。与前代模型不同，这些模型旨在在响应之前进行更多“思考”，使其适合于需要回溯和更深入分析的复杂任务。然而，这需要权衡成本和性能。值得注意的是，这些模型使用“推理令牌”——隐藏令牌，这些令牌在 API 响应中被计费但不可见，这引发了关于透明度和可解释性的争议。虽然前景光明，但社区仍在探索这些模型的最佳用例，其他 AI 实验室可能很快就会复制这些进步。]]></description>
+      <guid>https://t.me/hn_summary/108175</guid>
+      <pubDate>Fri, 13 Sep 2024 01:09:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]《脊椎动物古生物学杂志》最近发表的一项研究表明，一些p [...]</title>
+      <link>https://t.me/hn_summary/108174</link>
+      <description><![CDATA[有些翼龙会扇动翅膀，有些会飞翔
+最近发表在《古脊椎动物学杂志》上的一项研究表明，有些翼龙通过扇动翅膀飞行，而有些则像秃鹫一样飞翔。这一发现由密歇根大学和其他机构的专家领导，得益于两种大型神龙翼龙物种的“非凡”和“罕见”的三维化石。该研究利用高分辨率 CT 扫描分析了翼骨的内部结构，发现 Arambourgiania philadelphiae 具有适合翱翔的螺旋脊，而新发现的 Inabtanin alarabia 具有表明拍打飞行的支柱。这一发现“令人兴奋”，因为它为了解这些古老生物的多样化飞行方式提供了新的见解，并提出了有关飞行方式与体型之间相关性的问题。]]></description>
+      <guid>https://t.me/hn_summary/108174</guid>
+      <pubDate>Fri, 13 Sep 2024 01:06:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] Imbue （前身为 General Intelligent）是一家致力于人工智能研究的公司 [...]</title>
+      <link>https://t.me/hn_summary/108173</link>
+      <description><![CDATA[Imbue（前身为 General Intelligent）（YC S17）正在招聘软件工程师
+Imbue，前身为 General Intelligent，是一家致力于开发人类级通用机器智能的人工智能研究公司，可以像人类一样自然学习。我们的目标是掌握学习的核心原则并创造安全、人性化的人工智能。我们目前正在招聘多个职位：创始产品工程师（SF，全职）、机器学习工程师（SF 或远程、合同或全职）、研究科学家（SF，全职）、软件工程师（SF，全职）和技术主管经理（SF，全职）。加入我们，共同完成革命性人工智能的使命。 
+
+令人惊讶/独特/聪明：公司从General Intelligent 更名为Imbue 反映了其使命和身份的战略转变或演变。]]></description>
+      <guid>https://t.me/hn_summary/108173</guid>
+      <pubDate>Fri, 13 Sep 2024 01:01:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
