@@ -4,100 +4,95 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Sun, 22 Sep 2024 00:44:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Sep 2024 06:04:45 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 在“视频作为学习资源的设计考虑因素”一文中，Michael Seery 探讨了 [...]</title>
-      <link>https://t.me/hn_summary/109385</link>
-      <description><![CDATA[视频作为学习资源的设计考虑 (2022)
-在“视频作为学习资源的设计考虑”中，Michael Seery 探讨了视频作为教学工具的有效性，尤其是考虑到其在疫情期间的使用增加。虽然视频可以通过动态视觉和音频有效地解释复杂的过程，但它通常会呈现短暂的信息，这可能会让学习者在认知上不知所措。Seery 重点介绍了 Lin、Liu 和 Kalyuga (2022) 的一项研究，该研究发现，对暂停和回滚的明确指导显着提高了学生的理解力。令人惊讶的是，这项研究涉及核电站运营，而不是心理学入门学生。Seery 提倡建立“视频素养”，以帮助学生更好地参与和学习视频资源，强调需要脚手架和明确的信号。他引用了 Mayer 关于电子学习的原则，特别是生成活动原则，来支持他的观点。
+      <title>[媒体] 网站：news.ycombinator.com</title>
+      <link>https://t.me/hn_summary/109404</link>
+      <description><![CDATA[询问 HN：嵌入式/FPGA 开发人员的市场
+标题：询问 HN：嵌入式/FPGA 开发人员的市场
+网站：news.ycombinator.com
 
-争议：Seery 暗示，疫情期间视频在教育领域的使用激增可能并不完全有益，他计划在另一篇文章中探讨这个话题。]]></description>
-      <guid>https://t.me/hn_summary/109385</guid>
-      <pubDate>Sun, 22 Sep 2024 00:44:05 GMT</pubDate>
+我正在寻找专门为寻找熟练的 FPGA 开发人员而量身定制的市场建议，以完成看似简单的项目。虽然我知道一般软件开发的平台，但我还没有遇到任何迎合嵌入式系统细分市场的平台。任何建议或建议都将不胜感激。提前致谢。]]></description>
+      <guid>https://t.me/hn_summary/109404</guid>
+      <pubDate>Sun, 22 Sep 2024 06:04:45 GMT</pubDate>
     </item>
     <item>
-      <title>我最近在 Helvetic Ruby 2024 上发表了关于 Crystal 的演讲，这是一门为人类和企业设计的语言 [...]</title>
-      <link>https://t.me/hn_summary/109384</link>
-      <description><![CDATA[Crystal 的力量：一种适用于人类和计算机的语言 Helvetic Ruby 2024
-我最近在 Helvetic Ruby 2024 上发表了关于 Crystal 的演讲，这是一种为人类和计算机设计的语言。虽然这次演讲是为 Ruby 爱好者量身定制的，但不需要有 Ruby 经验就可以跟上。您可以在 YouTube 上找到录音，在 GitHub 上找到幻灯片。会议不允许观众提问，但在长时间的休息期间有充足的机会进行社交和讨论 Crystal。我与与会者进行了交谈，从从未听说过 Crystal 的人到经验丰富的爱好者。向不同的观众介绍 Crystal 并讨论其功能和未来是一次很棒的经历。我鼓励每个人都进行类似的交流，无论是面对面还是在线。如果您有兴趣通过讲座或研讨会推广 Crystal，Crystal 团队随时准备为您提供支持。]]></description>
-      <guid>https://t.me/hn_summary/109384</guid>
-      <pubDate>Sun, 22 Sep 2024 00:37:58 GMT</pubDate>
+      <title>这篇文章深入探讨了微分流形上微分形式的可视化，目标[...]</title>
+      <link>https://t.me/hn_summary/109403</link>
+      <description><![CDATA[微分形式的可视化
+这篇文章深入探讨了微分流形上的微分形式的可视化，针对熟悉微分形式但缺乏视觉直觉的读者。它建立在之前关于向量空间对偶的文章之上，并大量引用了 Dan Piponi 的作品。主要重点是理解流形上的积分，强调由于坐标依赖性而直接积分函数的不足。相反，微分形式被引入作为以无坐标方式测量面积的工具，可视化为无限密集的点网格。这种方法自然地与微分同胚一起扩展，保留了面积测量。这篇文章还涉及广义斯托克斯定理其他维度形式的必要性，并提出将 $k$ 形式可视化为 $n-k$ 平面的集合。此可视化有助于理解如何对 $k$ 维子流形进行积分。本文承认但搁置了严格的证明和某些复杂性，并承诺在未来的内容中解决这些问题。（基于 23% 的故事文本的总结。）]]></description>
+      <guid>https://t.me/hn_summary/109403</guid>
+      <pubDate>Sun, 22 Sep 2024 05:59:42 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网站：wordpress.org</title>
-      <link>https://t.me/hn_summary/109383</link>
-      <description><![CDATA[WP Engine 不是 WordPress
-标题：WP Engine 不是 WordPress
-网站：wordpress.org
+      <title>[媒体] 网站：colinpurrington.com</title>
+      <link>https://t.me/hn_summary/109402</link>
+      <description><![CDATA[关于 Spartan Mosquito 的帖子
+标题：关于 Spartan Mosquito 的帖子
+网站：colinpurrington.com
 
-必须强调：WP Engine 不是 WordPress。尽管他们的品牌和营销表明并非如此，但 WP Engine 正在从这种混乱中获利。在 WordCamp 上，我讨论了私募股权公司 Silver Lake 的 Lee Wittlinger 如何破坏开源社区。今天，我提供了一个技术示例：WP Engine 禁用 WordPress 的修订系统以节省资金，损害了用户内容的完整性。此核心功能可确保数据保护和撤消错误的能力。 WP Engine 的做法违背了这一承诺，与其他主机相比，其提供的体验低于平均水平。他们正在破坏 WordPress 生态系统以牟取利润。如果您是 WP Engine 客户，请要求他们允许修订或考虑更换主机。请记住，您的钱才是王道。]]></description>
-      <guid>https://t.me/hn_summary/109383</guid>
-      <pubDate>Sun, 22 Sep 2024 00:27:51 GMT</pubDate>
+这一系列帖子深入探讨了备受争议的 Spartan Mosquito (AC2T, Inc.) 及其无效的蚊虫控制产品。最初，我在 2019 年评测了 Spartan Mosquito Eradicator，但该公司对我提起的报复性 SLAPP 诉讼让我损失了近 10 万美元，并阻止我探望我奄奄一息的母亲。尽管科学证实这些产品无效，但联邦贸易委员会和环境保护署并未采取任何行动。令人震惊的是，Spartan Mosquito 在一家游说公司的帮助下成功获得了环境保护署的批准。该公司面临多起诉讼，包括 360 万美元的集体诉讼欺诈和解金，以及多个州的监管禁令。整个事件包括政治压力、可疑的功效数据，甚至对我的人身攻击。]]></description>
+      <guid>https://t.me/hn_summary/109402</guid>
+      <pubDate>Sun, 22 Sep 2024 05:58:35 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在由 […] 提交的论文“在大型语言模型中分离语言和思维”中，</title>
-      <link>https://t.me/hn_summary/109382</link>
-      <description><![CDATA[在大型语言模型中分离语言和思维
-在 Kyle Mahowald 和其他五位作者提交的论文“在大型语言模型中分离语言和思维”中，研究人员探索了大型语言模型 (LLM) 在掌握人类语言方面的能力。他们区分了形式语言能力（涉及语言规则和模式的知识）和功能语言能力（涉及在现实世界中理解和使用语言）。他们以人类神经科学为基础进行分析，强调这两种能力依赖于不同的神经机制。虽然 LLM 在形式能力方面表现出色，但其功能能力不一致，通常需要专门的微调或外部模块。作者认为，法学硕士要想像人类一样使用语言，就必须掌握这两种能力，这可能需要为每种能力开发不同的机制。]]></description>
-      <guid>https://t.me/hn_summary/109382</guid>
-      <pubDate>Sun, 22 Sep 2024 00:15:44 GMT</pubDate>
+      <title>[媒体] 在这篇博文中，作者探讨了忙碌海狸（BB）图灵机的行为[...]</title>
+      <link>https://t.me/hn_summary/109401</link>
+      <description><![CDATA[一次 Collat​​z 巧合
+在这篇博文中，作者探讨了 Busy Beaver (BB) 图灵机 (TM) 的行为及其与 Collat​​z 类函数的联系。最初，人们认为 BB 冠军会以最少的描述最大化运行时间，会表现出“意大利面条代码”行为，缺乏清晰、有见地的描述。然而，Pascal Michel 1993 年的分析表明，许多 BB(5) TM 模拟简单的 Collat​​z 类函数。这一发现挑战了 Scott Aaronson 的“意大利面条代码猜想”。最近，人们发现 BB(5) 和 BB(2,4) 冠军都模拟了相同的 Collat​​z 类轨迹，这表明这些机器之间存在共同的潜在模式。这一令人惊讶的见解凸显了人们倾向于发现更简单的 TM。（基于 81% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/109401</guid>
+      <pubDate>Sun, 22 Sep 2024 05:49:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在论文《人工智能伴侣减少孤独感》中，朱利安·德弗雷塔斯 (Julian De Freitas) 及其同事探索了 [...]</title>
-      <link>https://t.me/hn_summary/109381</link>
-      <description><![CDATA[AI 伴侣减少孤独感
-在论文《AI 伴侣减少孤独感》中，Julian De Freitas 及其同事探讨了 AI 聊天机器人缓解社会孤独感的潜力。通过六项研究，他们证明 AI 伴侣可以有效缓解孤独感，效果堪比人类互动，甚至比观看 YouTube 等被动活动更有效。值得注意的是，消费者往往低估了这些 AI 互动的积极影响。该研究采用了创新方法，例如微调大型语言模型以检测对话中的孤独感。一项纵向研究证实，AI 伴侣在一周内持续减少孤独感，聊天机器人的性能和让用户感到被倾听的能力是关键因素。这项研究提供了强有力的证据，支持使用 AI 伴侣作为解决孤独感的可行解决方案。]]></description>
-      <guid>https://t.me/hn_summary/109381</guid>
-      <pubDate>Sun, 22 Sep 2024 00:15:41 GMT</pubDate>
+      <title>[媒体] 在最近的一次讨论中，有人声称开发人员需要容器来进行再次测试 [...]</title>
+      <link>https://t.me/hn_summary/109400</link>
+      <description><![CDATA[在运行时选择 Glibc 版本
+在最近的一次讨论中，有人声称开发人员需要容器来针对现代 glibc 版本进行测试，理由是使用 LD_LIBRARY_PATH 或静态链接是不可行的。但是，针对不同的 glibc 版本运行程序是一种常见的要求。从历史上看，glibc 开发人员在没有容器的情况下测试了更改。为了探索替代方案，我们研究了动态二进制文件和 glibc 的工作原理。静态二进制文件在一个可执行文件中包含所有代码，而动态二进制文件依赖于由“解释器”（动态链接器）加载的外部库。通过使用自定义 glibc 手动调用动态链接器，我们成功运行了一个没有崩溃的程序，挑战了最初的说法。这种方法突出了一种在没有容器的情况下测试不同 glibc 版本的巧妙解决方法。 （根据 66% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/109400</guid>
+      <pubDate>Sun, 22 Sep 2024 05:43:25 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 1985 年，Dene 和 Simon Carter 兄弟梦想创作一部开创性的幻想小说 [...]</title>
-      <link>https://t.me/hn_summary/109380</link>
-      <description><![CDATA[Fable 20 周年：一款具有复杂历史的独特英国电子游戏
-1985 年，Dene 和 Simon Carter 兄弟梦想着创造一款开创性的奇幻角色扮演游戏，随着 2004 年《Fable》的发布，他们的愿景得以实现。《Fable》由他们的工作室 Big Blue Box 与 Lionhead 和 Peter Molyneux 合作开发，承诺打造一个生动活泼的游戏世界，但未能达到其宣传的功能。尽管《Fable》具有线性和简单的道德体系，但它以其独特的英国魅力脱颖而出，充满了地方口音、俏皮的玩笑和 Monty Python 式的世界。虽然莫利纽克斯的过度承诺和随后的失败损害了其声誉，但《神鬼寓言》影响了未来的 RPG 并留下了持久的遗产。随着《神鬼寓言 4》的开发，该系列的未来充满希望，旨在保持其独特的个性。
+      <title>[媒体] 网站：ashishb.net</title>
+      <link>https://t.me/hn_summary/109399</link>
+      <description><![CDATA[很难推荐 Google Cloud
+标题：很难推荐 Google Cloud
+网站：ashishb.net
 
-争议：彼得·莫利纽克斯一再过度承诺和随后的失败，包括未兑现的《好奇心》奖和令人失望的《Godus》，损害了《神鬼寓言》的声誉。
-
-独特/聪明：《神鬼寓言》的英国个性，加上其夸张的地方口音和俏皮的玩笑，在拥挤的 RPG 类型中仍然是一个突出的特点。]]></description>
-      <guid>https://t.me/hn_summary/109380</guid>
-      <pubDate>Sun, 22 Sep 2024 00:06:36 GMT</pubDate>
+一年前，在 Google 决定关闭 Google Domains 后，我面临着迁移域名的艰巨任务。这涉及重新配置多个子域映射并在 Google Cloud Run 上重新验证我的域。现在，Google Container Registry 也将于 2025 年关闭，由更昂贵的 Artifact Registry 取代。从 GCR 迁移到 GAR 的过程既耗时又具有挑战性，尤其是对于较旧的项目和简单的单页主页而言。尽管与 AWS 和 Microsoft Azure 相比，Google Cloud 的工程和用户体验更出色，但频繁的变化和缺乏稳定性使得它很难被推荐。]]></description>
+      <guid>https://t.me/hn_summary/109399</guid>
+      <pubDate>Sun, 22 Sep 2024 05:35:19 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 再见，原子习惯。</title>
-      <link>https://t.me/hn_summary/109379</link>
-      <description><![CDATA[再见，原子习惯。养成健康习惯时被忽视的问题
-在《再见，原子习惯。养成健康习惯时被忽视的问题》一文中，Stephan Joppich 批评了流行的习惯养成文化，认为这种文化弊大于利。他分享了自己的个人经历，从受 James Clear 的《原子习惯》启发而成为狂热的习惯养成者，到因僵化的日常生活而感到受困和不健康。Joppich 强调了三个主要问题：“温水煮青蛙”效应，习惯逐渐变得有害；一切“习惯化”，导致拖延和焦虑；以及简单行动的复杂化。他提倡更灵活的、日复一日的生活方式，灵感来自匿名戒酒会的座右铭“活在当下”。他认为，这种观点可以让人生活得更有目的、更有意义。
-
-有争议：Joppich 反对广受推崇的习惯养成文化。
-
-独特/巧妙：将习惯比作“死亡否认者”，并将其与“温水煮青蛙”效应进行比较。（基于 99% 的故事文本总结。）]]></description>
-      <guid>https://t.me/hn_summary/109379</guid>
-      <pubDate>Sat, 21 Sep 2024 23:52:28 GMT</pubDate>
+      <title>[媒体] 在我的博客中，我详细介绍了 Cloudflare Pages 破坏 SVG 属性的令人沮丧的问题 [...]</title>
+      <link>https://t.me/hn_summary/109398</link>
+      <description><![CDATA[愚蠢的问题需要愚蠢的解决方案（Cloudflare 正在破坏我的 SVG）
+在我的博客中，我详细介绍了 Cloudflare Pages 破坏 SVG 属性导致图标损坏的令人沮丧的问题。clip-path 等属性被转换为 clippath，导致图标格式错误。经过广泛的故障排除（包括与 Netlify 和本地构建的比较），我发现通过 Cloudflare 的 Wrangler CLI 进行部署可以避免此问题。但是，为了使用 Cloudflare Pages 的构建分钟数，我设计了一个脚本来在构建后更正 SVG 属性。此脚本解析 HTML，识别并修复不正确的属性，并将更正后的 HTML 写回文件。这个解决方法虽然麻烦，但可以确保我的图标正确显示。（基于 94% 的故事文本的总结。）]]></description>
+      <guid>https://t.me/hn_summary/109398</guid>
+      <pubDate>Sun, 22 Sep 2024 05:09:09 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 南卡罗来纳州处决了弗雷迪·欧文斯，尽管一名关键证人承认[...]</title>
-      <link>https://t.me/hn_summary/109378</link>
-      <description><![CDATA[处决无辜者无异于活人献祭
-南卡罗来纳州处决了弗雷迪·欧文斯，尽管一名关键证人承认了虚假证词，证明他无罪。同样，密苏里州也将处决马塞勒斯·威廉姆斯，尽管证人不可靠，证据有瑕疵。在德克萨斯州，罗伯特·罗伯森因涉嫌杀害自己的孩子而面临死刑，理由是“摇晃婴儿综合症”假说已被揭穿，尽管有证据表明孩子死于肺炎和感染性休克。这些案件凸显了处决无辜者的野蛮行径，将其比作原始的活人献祭。文章批评死刑是缺乏开明社会的遗物，认为它延续了迷信，无法实现真正​​的正义。拜登总统尚未履行废除联邦死刑的承诺，而前总统特朗普则继续主张迅速执行死刑。这篇文章强调，处决无辜者是对司法系统和人性的嘲讽。]]></description>
-      <guid>https://t.me/hn_summary/109378</guid>
-      <pubDate>Sat, 21 Sep 2024 23:18:11 GMT</pubDate>
+      <title>[媒体] KDE 开发人员正在努力为 Plasma 6.2 做准备，重点是修复错误并增强 [...]</title>
+      <link>https://t.me/hn_summary/109397</link>
+      <description><![CDATA[KDE 优化了查找挂载点的方式 - 速度提升高达 80%
+KDE 开发人员正在为 Plasma 6.2 认真准备，专注于修复错误和增强功能，同时还为 Plasma 6.3 引入了新功能。KDE 开发人员 Nate Graham 分享了他的每周开发总结，重点介绍了几个关键更新。值得注意的是，Plasma 6.3 的 Widget Explorer 侧栏现在允许用户删除小部件的所有实例，这对于处理隐藏的卡住小部件非常有用。此外，当使用带有壁纸幻灯片的多个屏幕时，过渡时间现在是同步的。对查找挂载点的方式进行了重大优化，有望使基于文件的用例的 KDE 应用程序的速度提高高达 80%。此外，启动没有 .desktop 文件的应用程序将不再导致短暂的屏幕冻结。还实施了各种错误和崩溃修复。有关更多详细信息，请访问 Nate 的博客。]]></description>
+      <guid>https://t.me/hn_summary/109397</guid>
+      <pubDate>Sun, 22 Sep 2024 04:21:52 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 美国联邦贸易委员会（FTC）已对主要药品福利管理机构提起诉讼[...]</title>
-      <link>https://t.me/hn_summary/109377</link>
-      <description><![CDATA[FTC 起诉胰岛素中间商中饱私囊，而患者却面临高昂的费用
-
-美国联邦贸易委员会 (FTC) 已对主要药品福利管理机构 (PBM) — CVS Health 的 Caremark Rx、Cigna 的 Express Scripts 和 United Health Group 的 OptumRx — 提起诉讼，指控他们通过“不正当的药品回扣制度”抬高胰岛素价格。FTC 声称，该系统将 PBM 的收入与基于药品标价的回扣和费用挂钩，从而激励患者提高成本。尽管最近的措施将许多人的自付费用降至每月 35 美元，但该诉讼旨在解决胰岛素价格高昂的根本原因。代表 PBM 的药物保健管理协会否认了这些指控，认为该诉讼忽视了更广泛的处方药供应链和最近为降低胰岛素价格所做的努力。争议在于 PBM 涉嫌推高胰岛素价格，这给患者带来了严重后果，包括药物配给甚至死亡。]]></description>
-      <guid>https://t.me/hn_summary/109377</guid>
-      <pubDate>Sat, 21 Sep 2024 22:56:02 GMT</pubDate>
+      <title>美国拥堵地区的 Starlink 新客户现在面临 100 美元的“拥堵费”，当时 [...]</title>
+      <link>https://t.me/hn_summary/109396</link>
+      <description><![CDATA[Starlink 在美国部分地区向新用户征收 100 美元的“拥堵费”
+美国拥堵地区的新 Starlink 客户现在在购买或激活新服务计划时面临 100 美元的“拥堵费”。这笔费用旨在管理网络容量，可能会阻止潜在用户在已经拥挤的地区注册。然而，Starlink 承诺，如果客户在 30 天内退回服务，将退还这笔费用，并计划在容量提高后取消这笔费用。有趣的是，在网络可用性充足的地区，Starlink 在美国提供 100 美元的服务信用额度，在加拿大提供 200 美元的服务信用额度。此举遵循了之前基于区域拥堵情况的定价调整。尽管有新的费用，但 Starlink 仍以 299 美元的折扣价提供其标准天线，低于 499 美元。]]></description>
+      <guid>https://t.me/hn_summary/109396</guid>
+      <pubDate>Sun, 22 Sep 2024 04:14:41 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在人工智能加速器主导的时代，通用 CPU 通常只看到增量 [...]</title>
-      <link>https://t.me/hn_summary/109376</link>
-      <description><![CDATA[芬兰新创公司推出 100 倍更快 CPU
-在 AI 加速器主导的时代，通用 CPU 通常只能看到渐进式改进。芬兰 Flow Computing 的首席执行官兼联合创始人 Timo Valtonen 旨在通过将其创新的并行处理单元 (PPU) 内核与传统 CPU 内核集成来彻底改变这一现状。在 Hot Chips 会议上，Valtonen 提出了一种范式转变：不是使用多个相同的 CPU 内核，而是将更少的 CPU 内核与众多 PPU 内核相结合，以实现高达 100 倍的性能提升。PPU 在可并行化任务方面表现出色，为 GPU 提供了一种经济高效的替代方案。 Flow Computing 的首席技术官 Martti Forsell 强调，他们的架构是专为并行计算而设计的，具有多线程、灵活的通信网络和专有的波同步算法。他们的概念验证 FPGA 实现已显示出良好的结果，该团队目前正在寻求与主要 CPU 制造商的合作。这种方法可以满足移动设备对节能、高性能计算日益增长的需求。]]></description>
-      <guid>https://t.me/hn_summary/109376</guid>
-      <pubDate>Sat, 21 Sep 2024 22:45:56 GMT</pubDate>
+      <title>Jeff Geerling 在最近的一篇博客文章中透露，Elecrow 使用 AI 生成的克隆版 [...]</title>
+      <link>https://t.me/hn_summary/109395</link>
+      <description><![CDATA[Jeff Geerling – 他们用人工智能窃取了我的声音
+在最近的一篇博客文章中，Jeff Geerling 透露，Elecrow 在未经他同意的情况下，在其宣传视频中使用了人工智能生成的他的声音克隆。Geerling 之前曾评论过 Elecrow 的产品，一位观众注意到视频中的声音有些“不对劲”，他向他发出了这个问题的警报。他怀疑 Elecrow 将他的 YouTube 内容输入人工智能工具中，以创建声音克隆。Geerling 强调，未经授权的人工智能声音克隆缺乏法律先例，并引用了 Midler vs. Ford 案作为背景。他敦促公司聘请配音艺术家或与内容创作者合作，而不是诉诸声音盗窃。这种情况凸显了围绕人工智能技术的道德和法律灰色地带。]]></description>
+      <guid>https://t.me/hn_summary/109395</guid>
+      <pubDate>Sun, 22 Sep 2024 03:54:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
