@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 03 Oct 2024 09:14:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 12:23:37 GMT</lastBuildDate>
+    <item>
+      <title>Fast-Music-Remover 演示版已发布！！请求反馈</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fv4nsr/demo_out_for_fastmusicremover_feedback_requested/</link>
+      <description><![CDATA[嘿！几天前，我在这里分享了`Fast Music Remover`（一种 MIT 授权的互联网媒体音乐/噪音消除器）。感谢所有感兴趣的人，实际上，随着几乎每天都有新贡献者的加入，我们正在快速成长！ 我想与您分享一个早期演示，展示我们在这里尝试构建的内容：https://imgur.com/a/uXjUJmE 就我个人而言，我对这一切的发展感到非常兴奋，您觉得怎么样？ 我将更新 README 以包含演示，但今晚仍想对一些参数进行更多调整。在推送到 repo 之前，希望得到一些反馈！ 希望在以下位置见到您：https://github.com/omeryusufyagci/fast-music-remover（有很多贡献，很快会有更多贡献） 编辑：此演示使用的原始视频是 CC 许可的，可以在以下位置找到： https://www.youtube.com/watch?v=vKe79dKqqjg    提交人    /u/Apart-Status9082   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fv4nsr/demo_out_for_fastmusicremover_feedback_requested/</guid>
+      <pubDate>Thu, 03 Oct 2024 10:38:01 GMT</pubDate>
+    </item>
     <item>
       <title>krita 还是 gimp？</title>
       <link>https://www.reddit.com/r/opensource/comments/1fv3cqc/krita_or_gimp/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/OiaOrca  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fu8352/i_built_a_open_source_daily_puzzle_game/</guid>
       <pubDate>Wed, 02 Oct 2024 04:33:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>[DnsTrace] 使用 eBPF 调查 DNS 查询！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fu1z2w/dnstrace_investigate_dns_queries_with_ebpf/</link>
-      <description><![CDATA[       由    /u/scroll_down0  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fu1z2w/dnstrace_investigate_dns_queries_with_ebpf/</guid>
-      <pubDate>Tue, 01 Oct 2024 23:12:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
