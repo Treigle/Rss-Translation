@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sun, 13 Oct 2024 09:13:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Oct 2024 12:22:01 GMT</lastBuildDate>
     <item>
       <title>黑客织布机</title>
       <link>https://www.producthunt.com/posts/hacky-loom</link>
@@ -118,6 +118,20 @@
       <pubDate>Fri, 11 Oct 2024 19:54:24 GMT</pubDate>
     </item>
     <item>
+      <title>谷歌照明</title>
+      <link>https://www.producthunt.com/posts/google-illuminate-2</link>
+      <description><![CDATA[
+将研究论文转化为人工智能生成的音频摘要
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/google-illuminate-2</guid>
+      <pubDate>Fri, 11 Oct 2024 15:46:44 GMT</pubDate>
+    </item>
+    <item>
       <title>朗弗洛</title>
       <link>https://www.producthunt.com/posts/langflow</link>
       <description><![CDATA[
@@ -160,18 +174,18 @@
       <pubDate>Wed, 09 Oct 2024 21:14:28 GMT</pubDate>
     </item>
     <item>
-      <title>NPM 图表</title>
-      <link>https://www.producthunt.com/posts/npm-chart</link>
+      <title>即时 SEO 审核</title>
+      <link>https://www.producthunt.com/posts/instant-seo-audit</link>
       <description><![CDATA[
-搜索 npm 包以查看其随时间变化的下载统计数据
+立即检查您网站的 SEO 分数并增加流量
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/npm-chart</guid>
-      <pubDate>Mon, 07 Oct 2024 12:43:11 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/instant-seo-audit</guid>
+      <pubDate>Tue, 08 Oct 2024 10:41:22 GMT</pubDate>
     </item>
     <item>
       <title>日记</title>
@@ -186,20 +200,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/journalizr</guid>
       <pubDate>Tue, 01 Oct 2024 03:51:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>金山办公软件</title>
-      <link>https://www.producthunt.com/posts/wps-office-3</link>
-      <description><![CDATA[
-适合所有人的 AI 办公套件
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/wps-office-3</guid>
-      <pubDate>Wed, 18 Sep 2024 06:18:16 GMT</pubDate>
     </item>
     <item>
       <title>Kuration.ai</title>
