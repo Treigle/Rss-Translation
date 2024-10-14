@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt — 每天提供最好的新产品</title>
-    <link>https://www.producthunt.com</link>
+    <link>http://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Mon, 14 Oct 2024 03:22:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 06:19:47 GMT</lastBuildDate>
     <item>
       <title>黑客织布机</title>
       <link>https://www.producthunt.com/posts/hacky-loom</link>
@@ -37,7 +37,7 @@
       <title>豪猪</title>
       <link>https://www.producthunt.com/posts/porcupine-2</link>
       <description><![CDATA[
-无干扰、跨平台的编剧应用程序
+无干扰、跨平台的剧本创作应用程序
 
 
 讨论
@@ -163,7 +163,7 @@
       <title>定价表生成器</title>
       <link>https://www.producthunt.com/posts/pricing-table-builder</link>
       <description><![CDATA[
-几分钟内即可创建可嵌入的定价表
+在几分钟内创建可嵌入的定价表
 
 
 讨论
@@ -188,7 +188,7 @@
       <pubDate>Tue, 01 Oct 2024 03:51:54 GMT</pubDate>
     </item>
     <item>
-      <title>同意授权</title>
+      <title>进入授权</title>
       <link>https://www.producthunt.com/posts/ente-auth</link>
       <description><![CDATA[
 免费、安全、开源 2FA
