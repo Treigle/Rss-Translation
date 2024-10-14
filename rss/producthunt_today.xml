@@ -2,9 +2,23 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt — 每天提供最好的新产品</title>
-    <link>http://www.producthunt.com</link>
+    <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Mon, 14 Oct 2024 15:13:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 18:17:41 GMT</lastBuildDate>
+    <item>
+      <title>南瓜经济学</title>
+      <link>https://www.producthunt.com/posts/pumpanomics</link>
+      <description><![CDATA[
+查看加密代币需要多少钱来推动
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/pumpanomics</guid>
+      <pubDate>Mon, 14 Oct 2024 06:47:01 GMT</pubDate>
+    </item>
     <item>
       <title>导出精灵</title>
       <link>https://www.producthunt.com/posts/exportwiz</link>
@@ -20,18 +34,18 @@
       <pubDate>Mon, 14 Oct 2024 06:42:21 GMT</pubDate>
     </item>
     <item>
-      <title>Wondercraft 的导演模式</title>
-      <link>https://www.producthunt.com/posts/director-mode-by-wondercraft</link>
+      <title>宝石</title>
+      <link>https://www.producthunt.com/posts/gem-6031f563-beee-41c5-a6c4-34258c6b8ab7</link>
       <description><![CDATA[
-通过提示微调和引导 AI 语音
+快速保存和搜索您的社交媒体书签
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/director-mode-by-wondercraft</guid>
-      <pubDate>Mon, 14 Oct 2024 05:56:26 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/gem-6031f563-beee-41c5-a6c4-34258c6b8ab7</guid>
+      <pubDate>Mon, 14 Oct 2024 04:34:09 GMT</pubDate>
     </item>
     <item>
       <title>SheetBot人工智能</title>
@@ -107,7 +121,7 @@ Pinterest 的 CLI 命令
       <title>膨胀</title>
       <link>https://www.producthunt.com/posts/swell-f3d50cba-8f2e-4608-97d5-41322eb13733</link>
       <description><![CDATA[
-你的声音很重要 - 播客面向所有人
+你的声音很重要 - 播客适合所有人
 
 
 讨论
@@ -174,20 +188,6 @@ Pinterest 的 CLI 命令
       <pubDate>Mon, 07 Oct 2024 16:16:30 GMT</pubDate>
     </item>
     <item>
-      <title>法律硕士</title>
-      <link>https://www.producthunt.com/posts/llmware</link>
-      <description><![CDATA[
-开发工具，使 AI 应用可以私下或本地部署
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/llmware</guid>
-      <pubDate>Wed, 02 Oct 2024 20:51:05 GMT</pubDate>
-    </item>
-    <item>
       <title>兰法斯特</title>
       <link>https://www.producthunt.com/posts/rankfast</link>
       <description><![CDATA[
@@ -202,18 +202,18 @@ Pinterest 的 CLI 命令
       <pubDate>Tue, 01 Oct 2024 10:12:55 GMT</pubDate>
     </item>
     <item>
-      <title>阿修罗</title>
-      <link>https://www.producthunt.com/posts/asora-3</link>
+      <title>套房操作</title>
+      <link>https://www.producthunt.com/posts/suiteop</link>
       <description><![CDATA[
-适用于现代家族办公室的软件
+一个平台，所有住宿业务
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/asora-3</guid>
-      <pubDate>Fri, 23 Aug 2024 11:15:09 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/suiteop</guid>
+      <pubDate>Thu, 26 Sep 2024 20:48:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
