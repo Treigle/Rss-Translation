@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 15 Oct 2024 03:20:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Oct 2024 06:18:29 GMT</lastBuildDate>
     <item>
       <title>南瓜经济学</title>
       <link>https://www.producthunt.com/posts/pumpanomics</link>
@@ -18,6 +18,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/pumpanomics</guid>
       <pubDate>Mon, 14 Oct 2024 06:47:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>导出精灵</title>
+      <link>https://www.producthunt.com/posts/exportwiz</link>
+      <description><![CDATA[
+在几秒钟内将您的 Webflow 和 Framer 网站导出为 ZIP
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/exportwiz</guid>
+      <pubDate>Mon, 14 Oct 2024 06:42:21 GMT</pubDate>
     </item>
     <item>
       <title>Wondercraft 的导演模式</title>
@@ -76,34 +90,6 @@ AI 数据分析师可视化、总结和自动化工作
       <pubDate>Sun, 13 Oct 2024 22:10:37 GMT</pubDate>
     </item>
     <item>
-      <title>法布洛克</title>
-      <link>https://www.producthunt.com/posts/fabloq-2</link>
-      <description><![CDATA[
-低代码 API 构建器
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/fabloq-2</guid>
-      <pubDate>Sun, 13 Oct 2024 20:17:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>命令</title>
-      <link>https://www.producthunt.com/posts/commandfor</link>
-      <description><![CDATA[
-Pinterest 的 CLI 命令
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/commandfor</guid>
-      <pubDate>Sun, 13 Oct 2024 20:17:09 GMT</pubDate>
-    </item>
-    <item>
       <title>像素复制</title>
       <link>https://www.producthunt.com/posts/pixduplicate</link>
       <description><![CDATA[
@@ -116,6 +102,20 @@ Pinterest 的 CLI 命令
 ]]></description>
       <guid>https://www.producthunt.com/posts/pixduplicate</guid>
       <pubDate>Sun, 13 Oct 2024 17:45:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>膨胀</title>
+      <link>https://www.producthunt.com/posts/swell-f3d50cba-8f2e-4608-97d5-41322eb13733</link>
+      <description><![CDATA[
+你的声音很重要 - 播客适合所有人
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/swell-f3d50cba-8f2e-4608-97d5-41322eb13733</guid>
+      <pubDate>Sat, 12 Oct 2024 09:41:32 GMT</pubDate>
     </item>
     <item>
       <title>更好</title>
@@ -202,18 +202,18 @@ Pinterest 的 CLI 命令
       <pubDate>Tue, 01 Oct 2024 10:12:55 GMT</pubDate>
     </item>
     <item>
-      <title>套房操作</title>
-      <link>https://www.producthunt.com/posts/suiteop</link>
+      <title>阿修罗</title>
+      <link>https://www.producthunt.com/posts/asora-3</link>
       <description><![CDATA[
-一个平台，所有住宿业务
+适用于现代家族办公室的软件
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/suiteop</guid>
-      <pubDate>Thu, 26 Sep 2024 20:48:01 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/asora-3</guid>
+      <pubDate>Fri, 23 Aug 2024 11:15:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
