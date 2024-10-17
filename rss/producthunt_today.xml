@@ -4,7 +4,21 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 17 Oct 2024 09:14:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Oct 2024 12:25:13 GMT</lastBuildDate>
+    <item>
+      <title>适用于 iOS 的 Groq</title>
+      <link>https://www.producthunt.com/posts/groq-for-ios</link>
+      <description><![CDATA[
+快速获得答案
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/groq-for-ios</guid>
+      <pubDate>Thu, 17 Oct 2024 01:05:21 GMT</pubDate>
+    </item>
     <item>
       <title>玩节点</title>
       <link>https://www.producthunt.com/posts/playnode</link>
@@ -20,18 +34,32 @@
       <pubDate>Wed, 16 Oct 2024 21:51:31 GMT</pubDate>
     </item>
     <item>
-      <title>Marqly 3.0</title>
-      <link>https://www.producthunt.com/posts/marqly-3-0</link>
+      <title>萨瓦操作系统</title>
+      <link>https://www.producthunt.com/posts/sava-os</link>
       <description><![CDATA[
-书签管理器，革命性十足。
+适用于您的网络浏览器的桌面界面
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/marqly-3-0</guid>
-      <pubDate>Wed, 16 Oct 2024 15:06:53 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/sava-os</guid>
+      <pubDate>Wed, 16 Oct 2024 18:12:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>棱镜</title>
+      <link>https://www.producthunt.com/posts/prismy-2</link>
+      <description><![CDATA[
+GitHub 原生，面向开发和产品团队的 AI 本地化
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/prismy-2</guid>
+      <pubDate>Wed, 16 Oct 2024 15:21:38 GMT</pubDate>
     </item>
     <item>
       <title>康沃</title>
@@ -62,20 +90,6 @@
       <pubDate>Wed, 16 Oct 2024 10:07:32 GMT</pubDate>
     </item>
     <item>
-      <title>我的手机在伦敦安全吗？</title>
-      <link>https://www.producthunt.com/posts/is-my-phone-safe-in-london</link>
-      <description><![CDATA[
-检查您所在地区的手机被盗可能性
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/is-my-phone-safe-in-london</guid>
-      <pubDate>Wed, 16 Oct 2024 09:33:23 GMT</pubDate>
-    </item>
-    <item>
       <title>智能发票</title>
       <link>https://www.producthunt.com/posts/smart-invoices</link>
       <description><![CDATA[
@@ -90,18 +104,18 @@
       <pubDate>Wed, 16 Oct 2024 07:48:02 GMT</pubDate>
     </item>
     <item>
-      <title>审查权力</title>
-      <link>https://www.producthunt.com/posts/reviewpower</link>
+      <title>ImageKit 的 AI 转换</title>
+      <link>https://www.producthunt.com/posts/ai-transformations-by-imagekit</link>
       <description><![CDATA[
-探索、过滤、搜索和分析 G2 + Capterra 上的评论
+通过基于 URL 的 API 在地址栏中创建 + 编辑图像
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/reviewpower</guid>
-      <pubDate>Tue, 15 Oct 2024 08:24:48 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/ai-transformations-by-imagekit</guid>
+      <pubDate>Wed, 16 Oct 2024 02:15:14 GMT</pubDate>
     </item>
     <item>
       <title>团队高效能人士</title>
@@ -160,18 +174,18 @@ MVP 阶段项目的联合创始人股权协议
       <pubDate>Mon, 14 Oct 2024 07:31:22 GMT</pubDate>
     </item>
     <item>
-      <title>代币计数器</title>
-      <link>https://www.producthunt.com/posts/tokencounter</link>
+      <title>踢</title>
+      <link>https://www.producthunt.com/posts/kick-3</link>
       <description><![CDATA[
-计算代币数量并估算任何 AI 模型的成本
+会计软件，为您完成工作
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/tokencounter</guid>
-      <pubDate>Sun, 13 Oct 2024 21:15:49 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/kick-3</guid>
+      <pubDate>Sat, 12 Oct 2024 02:31:28 GMT</pubDate>
     </item>
     <item>
       <title>还验证</title>
@@ -188,32 +202,18 @@ MVP 阶段项目的联合创始人股权协议
       <pubDate>Wed, 09 Oct 2024 09:54:57 GMT</pubDate>
     </item>
     <item>
-      <title>羊乳酪</title>
-      <link>https://www.producthunt.com/posts/feta</link>
+      <title>Prisma 优化</title>
+      <link>https://www.producthunt.com/posts/prisma-optimize-2</link>
       <description><![CDATA[
-开展站立会议、回顾会议和同步会议的更好方法
+AI 驱动的查询分析
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/feta</guid>
-      <pubDate>Mon, 07 Oct 2024 07:52:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>码蚁AI</title>
-      <link>https://www.producthunt.com/posts/codeant-ai-2</link>
-      <description><![CDATA[
-AI 代码审查 - 将代码审查时间和错误减少 50%
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/codeant-ai-2</guid>
-      <pubDate>Wed, 02 Oct 2024 16:56:31 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/prisma-optimize-2</guid>
+      <pubDate>Mon, 30 Sep 2024 18:12:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
