@@ -4,20 +4,20 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 25 Oct 2024 03:21:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2024 06:18:41 GMT</lastBuildDate>
     <item>
-      <title>创建者的博客</title>
-      <link>https://www.producthunt.com/posts/bloq-by-creatr</link>
+      <title>滑动删除</title>
+      <link>https://www.producthunt.com/posts/swipe2delete</link>
       <description><![CDATA[
-在 Figma 中创建和编辑新的/现有的设计系统
+清理相机胶卷
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/bloq-by-creatr</guid>
-      <pubDate>Thu, 24 Oct 2024 06:04:48 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/swipe2delete</guid>
+      <pubDate>Thu, 24 Oct 2024 00:10:07 GMT</pubDate>
     </item>
     <item>
       <title>乌宁</title>
@@ -37,7 +37,7 @@
       <title>今天启动</title>
       <link>https://www.producthunt.com/posts/launching-today</link>
       <description><![CDATA[
-启动和分享项目的地方
+一个启动和分享您项目的地方
 
 
 讨论
@@ -46,20 +46,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/launching-today</guid>
       <pubDate>Wed, 23 Oct 2024 17:39:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>雷维姆</title>
-      <link>https://www.producthunt.com/posts/revyme</link>
-      <description><![CDATA[
-使用库存动画页面构建令人惊叹的动画网站
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/revyme</guid>
-      <pubDate>Wed, 23 Oct 2024 17:32:46 GMT</pubDate>
     </item>
     <item>
       <title>中型应用程序</title>
@@ -90,18 +76,32 @@
       <pubDate>Wed, 23 Oct 2024 10:04:23 GMT</pubDate>
     </item>
     <item>
-      <title>立方笔记</title>
-      <link>https://www.producthunt.com/posts/cubenote-2</link>
+      <title>邮件</title>
+      <link>https://www.producthunt.com/posts/bmail-2</link>
       <description><![CDATA[
-100% 自动将笔记排序到正确的文件夹
+加密电子邮件和附件
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/cubenote-2</guid>
-      <pubDate>Wed, 23 Oct 2024 07:39:50 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/bmail-2</guid>
+      <pubDate>Wed, 23 Oct 2024 07:37:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>对任何事物进行分类</title>
+      <link>https://www.producthunt.com/posts/classify-anything</link>
+      <description><![CDATA[
+根据您的指示对任何内容进行分类
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/classify-anything</guid>
+      <pubDate>Tue, 22 Oct 2024 10:31:41 GMT</pubDate>
     </item>
     <item>
       <title>杰米</title>
@@ -146,20 +146,6 @@
       <pubDate>Mon, 21 Oct 2024 12:11:16 GMT</pubDate>
     </item>
     <item>
-      <title>头晕头晕</title>
-      <link>https://www.producthunt.com/posts/giddygiddy</link>
-      <description><![CDATA[
-与以人为本的人工智能建立关系
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/giddygiddy</guid>
-      <pubDate>Mon, 21 Oct 2024 10:58:57 GMT</pubDate>
-    </item>
-    <item>
       <title>重叠工作室</title>
       <link>https://www.producthunt.com/posts/overlap-studio</link>
       <description><![CDATA[
@@ -186,6 +172,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/walle-2</guid>
       <pubDate>Sun, 20 Oct 2024 17:32:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>总计的</title>
+      <link>https://www.producthunt.com/posts/aggrega</link>
+      <description><![CDATA[
+您的数字生活井然有序。
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/aggrega</guid>
+      <pubDate>Tue, 15 Oct 2024 23:52:24 GMT</pubDate>
     </item>
     <item>
       <title>波德莱姆</title>
