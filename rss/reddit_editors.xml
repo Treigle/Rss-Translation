@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Fri, 25 Oct 2024 09:15:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2024 12:23:21 GMT</lastBuildDate>
+    <item>
+      <title>音频接口/显示器的建议</title>
+      <link>https://www.reddit.com/r/editors/comments/1gbnay8/recommendations_for_audio_interfacemonitor/</link>
+      <description><![CDATA[您好， 我有一台 Mac Studio、一台 PC 和 Audio Engine A3 扬声器。未来我计划购买 KRK Rocket 7 G4s（用于客户监控）。我曾考虑购买 Mackie Big Knob Passive，但如果我想使用 TSR 平衡 1/4 英寸，我需要一个 1.8 英寸 Audio Engine 适配器，我想我可以购买 1/4 英寸到 KRK 的电缆。如果能知道其他人使用什么音频接口，是否有更好的途径，是否有更多选项，如果我以后想扩展怎么办，等等，那就太好了。 我是一名调色师，但我被要求播放越来越多的音频。我有一个工作室，需要更长的电缆，所以我想尝试第一次就把钱花对！    提交人    /u/alltomorrowsdays   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1gbnay8/recommendations_for_audio_interfacemonitor/</guid>
+      <pubDate>Fri, 25 Oct 2024 05:47:11 GMT</pubDate>
+    </item>
     <item>
       <title>播放期间添加标记的新问题</title>
       <link>https://www.reddit.com/r/editors/comments/1gbmxmj/new_problem_adding_markers_during_playback/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[看看这个苹果采访： https://www.youtube.com/watch?v=fr8ALcEiYAk 每两秒钟就会有一个角度变化。无法忍受这种过度编辑的趋势。看在上帝的份上，保持镜头连续！！你怎么看？    提交人    /u/Embarrassed-Gain-236   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1gb6st8/fed_up_of_overediting_videos/</guid>
       <pubDate>Thu, 24 Oct 2024 16:28:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Avid 到 DaVinci Resolve 重新链接到相机文件</title>
-      <link>https://www.reddit.com/r/editors/comments/1gb096l/avid_to_davinci_resolve_relinking_to_camera_files/</link>
-      <description><![CDATA[我已使用在 Resolve 中创建的磁带名称将其从 DaVinci 转码到 Avid。  当我从 Avid 获取 AAF 并将其导入 Resolve 时，它​​会重新链接到 Nexis 分区上的转码媒体，但不会重新链接到实际的相机文件，即使我从 Nexis 客户端管理器卸载该分区甚至整个 Nexis 也是如此。  我看过很多 YouTube 视频，它对它们有效，但我不知道我做错了什么。     提交人    /u/hopefulatwhatido   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1gb096l/avid_to_davinci_resolve_relinking_to_camera_files/</guid>
-      <pubDate>Thu, 24 Oct 2024 11:24:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
