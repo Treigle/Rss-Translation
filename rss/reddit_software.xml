@@ -4,7 +4,7 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 29 Oct 2024 00:59:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2024 03:20:49 GMT</lastBuildDate>
     <item>
       <title>War Grids – 实时战略游戏正在开发中！最新更新 - 您觉得如何？</title>
       <link>https://www.reddit.com/r/software/comments/1gehcjk/war_grids_realtime_strategy_game_in_development/</link>
@@ -106,7 +106,7 @@
     <item>
       <title>LAN Web 界面访问不起作用</title>
       <link>https://www.reddit.com/r/software/comments/1gdmajz/accès_interface_web_lan_marche_pas/</link>
-      <description><![CDATA[Lan Web 界面访问不起作用 您好， 我开始使用 opnsense。我在 vmware 上创建了一个虚拟机，其中有 4 核 4GB RAM 4 个网卡：NAT 中的网卡 1 LAN 段“LAN 段 1”中的网卡 2 LAN网段“LAN网段2”中的网卡3被设置为“LAN网段2”。 LAN网段“LAN网段3”中的网卡3被设置为“LAN网段3”。当我安装时一切都很顺利。当我配置接口时网卡1是em0 网卡2是em1等等 但是当我想从我的物理机访问opnsense Web界面时，当我输入IP地址时它不起作用虚拟机的 LAN 我必须通过在安装了 opnsense 的虚拟机的 shell 中执行 pfctl -d 来停用防火墙，然后我可以通过输入 IP 地址来访问该接口。 wan。 我完全迷失了，我不知道如何在不禁用防火墙的情况下通过 LAN 访问 Web 界面。 提前感谢您的帮助   由   提交/u/Potential_Athlete939   [链接] [评论]]]></description>
+      <description><![CDATA[Lan Web 界面访问不起作用 您好， 我开始使用 opnsense。我在 vmware 上创建了一个虚拟机，其中有 4 核 4GB RAM 4 个网卡：NAT 中的网卡 1 LAN 段“LAN 段 1”中的网卡 2 LAN网段“LAN网段2”中的网卡3被设置为“LAN网段2”。 LAN网段“LAN网段3”中的网卡3被设置为“LAN网段3”。当我安装时一切都很顺利。当我配置接口时，网卡1是em0 网卡2是em1等 但是当我想从我的物理机访问opnsense Web界面时，当我输入“IP地址”时，它不起作用虚拟机的 LAN 我必须通过在安装了 opnsense 的虚拟机的 shell 中执行 pfctl -d 来停用防火墙，然后我可以通过输入 wan 的 IP 地址来访问该接口。 我完全迷失了，我不知道如何在不禁用防火墙的情况下通过 LAN 访问 Web 界面。 提前感谢您的帮助 &lt; !-- SC_ON --&gt;  由   提交/u/Potential_Athlete939   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gdmajz/accès_interface_web_lan_marche_pas/</guid>
       <pubDate>Sun, 27 Oct 2024 21:52:56 GMT</pubDate>
     </item>

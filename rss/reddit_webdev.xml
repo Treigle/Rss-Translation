@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 29 Oct 2024 00:59:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2024 03:21:13 GMT</lastBuildDate>
+    <item>
+      <title>Angular 和 Azure 静态 Web 应用程序部署 - CSP 实施最佳实践和指导？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gekbr8/angular_and_azure_static_web_app_deployment_csp/</link>
+      <description><![CDATA[在 Azure 静态 Web 应用上运行 Angular 站点。托管 Angular 站点效果很好，但我遇到了 CSP 实施问题。渗透测试结果并不令人满意，因为我们的静态 Web 应用 staticwebapp.json 中删除了全局标头。我们在将 CSP 策略添加到 index.html 和 angular 根元素时删除了它，这样我们就可以支持脚本和样式上的 nonce 策略以及支持子文件完整性。 我认为让应用程序在索引中运行 CSP 策略以及 nonce 策略就足以为站点提供服务，而不是使用似乎没有任何方法让我支持 nonce 策略的静态 Web 应用配置，我错了吗？  是否有可能/有必要在索引和角度根级别运行带有 nonces 的 CSP 策略，同时在 staticwebapp 全局标头级别运行不带有 nonces 的 CSP 策略？ 除非来自我们的安全 API 和后端，否则我们的网站不会提供任何其他服务，因此我很难理解为什么会因为“不够”而将其推回。    提交人    /u/BurningLoinsGundam   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gekbr8/angular_and_azure_static_web_app_deployment_csp/</guid>
+      <pubDate>Tue, 29 Oct 2024 02:31:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>拥有 3 年以上经验的 React 开发人员 – 需要向产品型公司转型的建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1geigrp/react_developer_with_3_years_experience_need/</link>
+      <description><![CDATA[各位 Web 开发者，大家好， 我是来自印度的 React 开发者，拥有三年多的工作经验，主要在一家服务型公司工作。我目前处于职业中断状态，现在的目标是在一家提供良好发展和薪酬的远程产品型公司找到一份工作。 我的情况是：  我没有个人项目组合，因为我所做的一切都是为我以前的雇主做的。 我的主要专长是 React，但我对 Node.js 也有相当的了解。  对于那些做出这种举动或在产品型公司工作的人：我应该把重点放在面试准备上吗？我应该优先考虑 DSA、建立一些个人项目，还是两者兼而有之？如果我们谈论个人项目，什么样的项目可能会吸引这些 HR 或招聘团队？ 我很感激任何关于基于产品的公司在招聘过程中看重什么的见解，特别是在招聘 React 开发人员时。 提前谢谢！    提交人    /u/Parking-Finding-951   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1geigrp/react_developer_with_3_years_experience_need/</guid>
+      <pubDate>Tue, 29 Oct 2024 00:59:22 GMT</pubDate>
+    </item>
     <item>
       <title>关于如何托管您的网站有疑问吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gei54a/questions_on_how_to_host_your_website/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[我的项目要求之一是实现对购买产品库存数量变化的实时更新（例如，如果产品数量为 5，一次购买将其减少到 3，我希望将这一情况反映给当前可能查看该产品的每个用户）。我的问题是，哪种技术最适合用于此类功能？Websockets 还是只是短轮询？提前致谢。    提交人    /u/SituacijaJeSledeca   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gec5ch/question_regarding_realtime_feature_implementation/</guid>
       <pubDate>Mon, 28 Oct 2024 20:22:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么是“重复兄弟” （在页眉/主/页脚元素的上下文中）？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ge9n2m/what_are_repeated_siblings_in_the_context_of/</link>
-      <description><![CDATA[大家好，又是我 仍在学习；之前我在谷歌上搜索过“html 文档中是否可以有多个页眉”，最上面的搜索结果是“页眉、主元素或页脚元素的数量没有限制，除了它们不能是重复的兄弟元素。” “重复的兄弟元素”是什么意思？ 此外，在 html 上下文中，“子元素”、“子元素”是什么意思？我一直看到这些家族术语被随意使用，我有点迷茫了，哈哈。    提交人    /u/beepyfrogger   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ge9n2m/what_are_repeated_siblings_in_the_context_of/</guid>
-      <pubDate>Mon, 28 Oct 2024 18:39:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>书籍推荐</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ge9lwf/book_recommendation/</link>
-      <description><![CDATA[所以，我对开发世界还很陌生。我知道如何编码，了解 crud 的基础知识，并按照教程做了几个简单的项目，现在自己又做了一个，摆脱了教程地狱。 我不需要框架、特定语言的书，而是需要一本深入介绍 http、架构、设计、前后端连接、数据传输和 Web 工作原理的书，如果可能的话，所有内容都解释得很清楚，对初学者友好。 我正在阅读 mozilla 文档、文章，并在 postman 上玩东西，通过实践学习东西，但我觉得我的知识分散在很远的圈子里，有很多空白。    提交人    /u/theysaidicantchange   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ge9lwf/book_recommendation/</guid>
-      <pubDate>Mon, 28 Oct 2024 18:38:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
