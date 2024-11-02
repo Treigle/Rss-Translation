@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 02 Nov 2024 15:12:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 Nov 2024 18:14:58 GMT</lastBuildDate>
+    <item>
+      <title>对生成式人工智能与社会角色的思考</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gi2lnz/reflection_on_generative_ai_and_social_roles/</link>
+      <description><![CDATA[几年来，我一直在尝试生成式人工智能，主要是通过 Reddit 和社区分享的所有内容来学习（非常感谢；这些共享的知识非常宝贵）。 随着时间的推移，随着技能的磨练，我想到数百种潜在的应用。但有一件事一直在我脑海中：如果我没有误解，它在社会身份和性别角色方面可以提供的广泛可能性。 我们都知道，在电子游戏中，我们经常扮演幻想人物的角色：英雄、战士、怪物……然而，到目前为止，这种角色还很有限。今天，多亏了人工智能，一个人可以在虚拟世界中成为他们想成为的任何人（尤其是在社交网络上）。现在，任何人都可以采用另一个身份并过上“数字生活”，他们可以成为任何他们想要成为的人，无论是男人、女人，甚至是角色。 有了这项技术，你可以创造那个“理想”或理想的身份：你可以将自己的声音改变到几乎无法区分的水平，你可以像在现实世界中一样与他人互动（尽管有一些限制）。这似乎自然而然地发展到，在未来，你将能够生成你的“虚拟身份”的视频并成为另一个人。类似于Ready Player One，虽然可能没有那么严重——但肯定能够满足社交或情感需求，我希望这是合理的。 你认为会有人更喜欢这种“虚拟生活”而不是现实生活吗？我相信会的，而且这将是不可避免的，甚至是令人上瘾的。从心理上讲，这项技术可以满足任何情感或身份相关的需求，无论是性别相关的还是幻想相关的。当然，它不会取代身体接触的需要，但它仍然是非常重要的一步。 如果我们深入研究道德问题，我认为我们将达到这样一个点，即人们可以随心所欲地生活在“元宇宙”或“虚拟世界”中，这种生活变得常态化，就像今天的社交媒体互动一样。 我还认为，当技术允许我们将这种体验提升到头号玩家的水平时，生活可能会具有新的意义。我们甚至可以看到在这些虚拟世界中完成的工作。 由于人工智能的存在，成为任何你想成为的人的能力将是一个巨大的飞跃，没有身份或性别歧视。 我对这项技术的发展方向和未来难以想象的事情着迷；有些技术非常复杂，今天看来难以想象，但几年后，它们就会变成现实。 我很乐意阅读您的意见和观点。向社区问好！    提交人    /u/Militech77   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gi2lnz/reflection_on_generative_ai_and_social_roles/</guid>
+      <pubDate>Sat, 02 Nov 2024 18:12:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于提供科学信息和答案的人工智能工具？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ghzs5t/ai_tools_for_providing_scientific_information_and/</link>
+      <description><![CDATA[嘿 我需要一些帮助。有人有什么建议或知道任何可以专门用于学习的人工智能机器人或工具吗？它们擅长提供科学信息，最好能提供引文或来源？ 例如，我正在学习自然科学，想在提交作业之前检查我的答案是否正确。假设我想问一个问题“酶是由什么样的化合物组成的？”，提供的答案应该是蛋白质和氨基酸，等等。并附上解释，可能还有这些信息的来源。    提交人    /u/morkeba   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ghzs5t/ai_tools_for_providing_scientific_information_and/</guid>
+      <pubDate>Sat, 02 Nov 2024 16:05:17 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能 AMA 的思想领袖</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ghws8v/thought_leaders_with_ai_amas/</link>
@@ -41,18 +55,11 @@
       <pubDate>Sat, 02 Nov 2024 02:04:13 GMT</pubDate>
     </item>
     <item>
-      <title>你可以用 o1 制作自己的推理模型，该模型使用 4o 作为推理器，并了解推理中隐藏的内容</title>
+      <title>你可以用 o1 制作自己的推理模型，该模型使用 4o 作为推理器，并查看推理中隐藏的内容</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ghlfzq/you_can_make_your_own_reasoning_model_with_o1/</link>
       <description><![CDATA[The Sirius Model IIe 通过此功能，您可以更改系统消息以更改其推理方式。  其工作原理：它向 GPT-4o mini 的发生发送带有“主”系统消息的用户提示。它从以插槽 1 开始的插槽之一添加系统消息的第二部分，然后实例提供响应。在响应的末尾，它可以调用另一个推理“插槽”（通常是插槽 2），从而它再次使用主系统消息和“插槽 2”中的子系统消息提示 API 服务器，并且它还读取消息中的先前上下文，然后提供响应，依此类推。直到它达到六个推理步骤或提供解决方案。 至少我认为它就是这样工作的。你可以让它以不同的方式工作。 有人有任何提示来测试它是否比标准 4o-mini 推理得更好吗？    提交人    /u/rutan668   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ghlfzq/you_can_make_your_own_reasoning_model_with_o1/</guid>
       <pubDate>Sat, 02 Nov 2024 01:27:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>新手问题</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ghiyqo/noob_question/</link>
-      <description><![CDATA[我是一名高中老师，对人工智能几乎一无所知。 周一我们将进行一场相当奢华的模拟选举，我真的很想制作简短的人工智能视频，让特朗普和哈里斯都谈谈我们学校选举的结果，这样就可以在一天结束时播放给我们的学生。 我已经找到了一些非常用户友好的应用程序，可以让我制作特朗普视频，但我找不到哈里斯的视频。有些应用程序不让我看到可用的名人，直到我支付 20 美元注册。 如果有人能给我指出一个应用程序的方向，让我在几乎不需要用户专业知识的情况下做到这一点，我将不胜感激。    提交人    /u/LonelyAsLostKeys   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ghiyqo/noob_question/</guid>
-      <pubDate>Fri, 01 Nov 2024 23:26:28 GMT</pubDate>
     </item>
     <item>
       <title>Perplexity Pro 搜索不一致？</title>
@@ -71,14 +78,14 @@
     <item>
       <title>我们是否害怕人工智能自动化，因为它威胁到了我们的地位？但我们却不敢公开谈论它？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ghgu42/are_we_afraid_of_ai_automation_because_it/</link>
-      <description><![CDATA[真正让人们感到恐惧的是：人工智能自动化有可能成为伟大的均衡器。它有可能将这些地位游戏中每个人的排名降至零 - 无论您是首席执行官还是入门级员工，那些精心构建的等级制度突然变得毫无意义。花费数十年时间爬上公司阶梯顶端的人可能会发现自己与刚起步的人处于同一水平。 这感觉像是一种巨大的损失，因为我们在这些等级制度中投入了太多的身份和自我价值。这不仅仅是失去一个职位 - 而是失去了我们用来定义成功和个性的衡量标准。我们面临的可能性是，在人工智能从根本上改变了游戏规则的世界里，所有这些年的“进步”可能突然变得毫无意义。     提交人    /u/scorpion0511   [链接] [评论]]]></description>
+      <description><![CDATA[真正让人们感到恐惧的是：人工智能自动化有可能成为伟大的均衡器。它有可能将这些地位游戏中每个人的排名降至零 - 无论您是首席执行官还是入门级员工，那些精心构建的等级制度突然变得毫无意义。花费数十年时间爬上公司阶梯顶端的人可能会发现自己与刚起步的人处于同一水平。 这感觉像是一种巨大的损失，因为我们在这些等级制度中投入了太多的身份和自我价值。这不仅仅是失去一个职位 - 而是失去了我们用来定义成功和个性的衡量标准。我们面临的可能性是，在人工智能从根本上改变了游戏规则的世界里，所有这些年的“进步”可能突然变得毫无意义。    提交人    /u/scorpion0511   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ghgu42/are_we_afraid_of_ai_automation_because_it/</guid>
       <pubDate>Fri, 01 Nov 2024 21:46:48 GMT</pubDate>
     </item>
     <item>
       <title>以下是人工智能领域的新闻</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gh8d3z/heres_what_is_making_news_in_the_ai/</link>
-      <description><![CDATA[聚焦 - OpenAI 推出其 Google 挑战者 ChatGPT Search  Google 正在 Gemini 中构建智能家居控制 英特尔的 Gaudi AI 芯片远远落后于 Nvidia 和 AMD，甚至无法达到 5 亿美元的目标 亚马逊首席执行官 Andy Jassy 暗示将推出“代理”AI Alexa OpenAI 首席执行官 Sam Altman 表示，计算能力不足正在推迟公司产品的发展 我们近 90% 的 AI 爬虫流量来自 TikTok/ByteDance Google Maps 正在获得由 Gemini 提供支持的新 AI 功能    由    /u/codeharman  提交  [链接] [评论]]]></description>
+      <description><![CDATA[聚焦 - OpenAI 推出其 Google 挑战者 ChatGPT Search  Google 正在 Gemini 中构建智能家居控制 英特尔的 Gaudi AI 芯片远远落后于 Nvidia 和 AMD，甚至无法达到 5 亿美元的目标 亚马逊首席执行官 Andy Jassy 暗示将推出“代理”AI Alexa OpenAI 首席执行官 Sam Altman 表示，计算能力不足正在推迟公司产品的发展 我们近 90% 的 AI 爬虫流量来自 TikTok / ByteDance Google Maps 正在获得由 Gemini 提供支持的新 AI 功能    由    /u/codeharman  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gh8d3z/heres_what_is_making_news_in_the_ai/</guid>
       <pubDate>Fri, 01 Nov 2024 15:40:55 GMT</pubDate>
     </item>
@@ -95,13 +102,6 @@
       <description><![CDATA[我刚刚意识到——在过去的几天里，人工智能领域发生了一些重大举措：  微软演示了他们内部的人工智能辅助 iPaaS 系统。 OpenAI 推出了他们的搜索引擎。 Claude 正利用其新的&quot;计算机使用&quot;功能向自主代理迈进。 Perplexity 推出了 Spaces，一种 RAG 系统。  有趣的是，看到每家公司都在自动化行业开辟出独特的利基市场。    提交人    /u/opeyemisanusi   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ggzi0e/where_is_ai_going/</guid>
       <pubDate>Fri, 01 Nov 2024 06:51:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>介绍搜索 GPT：Google 杀手</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ggps9l/introducing_search_gpt_the_google_killer/</link>
-      <description><![CDATA[OpenAI 发布了一款新的 AI 搜索引擎 Search GPT。该工具允许用户从互联网访问实时数据并与 AI 进行对话以获取更深入的信息。Search GPT 与 Google 和 Perplexity 进行了比较，显示了其在提供详细答案和记住上下文方面的优势。 顺便说一句，标题有点夸张，我没想到我需要为孩子们​​说明这一点 观看实际操作：https://substack.com/@shortened/note/c-74952540    提交人    /u/opeyemisanusi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ggps9l/introducing_search_gpt_the_google_killer/</guid>
-      <pubDate>Thu, 31 Oct 2024 21:37:40 GMT</pubDate>
     </item>
     <item>
       <title>问题不在于人工智能会抢走我们的工作，问题在于我们已经建立了一个需要有人抢走我们的工作的社会。</title>
