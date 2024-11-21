@@ -4,62 +4,69 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 20 Nov 2024 18:17:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 00:59:23 GMT</lastBuildDate>
     <item>
-      <title>最佳图像转视频 AI</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gvw463/best_image_to_video_ai/</link>
-      <description><![CDATA[我真的需要一个人工智能来为我制作一个 5 秒的视频，而且我确实找到了一些非常好的视频。  问题是他们有信用系统，我需要每天为我的社交媒体帐户制作至少 7-11 个视频……如果包括这个因素，我需要每月支付数百美元才能用这个愚蠢的信用系统制作足够多的视频。 有人知道一个好的人工智能可以让你制作无限量的视频吗？只要每月花费不到 50 美元就可以了。感谢任何帮助。    提交人    /u/Nice_Original_7343   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gvw463/best_image_to_video_ai/</guid>
-      <pubDate>Wed, 20 Nov 2024 18:16:21 GMT</pubDate>
+      <title>如何使用 Make.com 获取 Google 评论</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gw39cd/how_to_scrape_google_reviews_with_makecom/</link>
+      <description><![CDATA[刚刚发布了一个快速简单的教程，介绍如何在 Make.com 中抓取任何企业无需代码的 Google 评论 https://www.youtube.com/watch?v=MZOqUel0pO8 让我知道你的想法！    提交人    /u/y10p   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gw39cd/how_to_scrape_google_reviews_with_makecom/</guid>
+      <pubDate>Thu, 21 Nov 2024 00:39:39 GMT</pubDate>
     </item>
     <item>
-      <title>同理心差距：人工智能助手与人类</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gvvsb0/empathy_gap_ai_assistants_vs_humans/</link>
-      <description><![CDATA[与人类助手相比，人工智能助手在处理需要同理心或社交技能的任务方面表现如何？未来的人工智能能否弥补这一差距？    提交人    /u/CLEVERTONE1   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gvvsb0/empathy_gap_ai_assistants_vs_humans/</guid>
-      <pubDate>Wed, 20 Nov 2024 18:03:08 GMT</pubDate>
+      <title>使用您自己的图像的社交媒体帖子生成器</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gw2u5t/social_media_post_generator_using_your_own_images/</link>
+      <description><![CDATA[有人遇到过可以根据图像文件夹生成社交媒体帖子（Instagram 和 Facebook）的工具吗？ 我希望 AI 选择类似的照片，选择最具视觉吸引力的照片，并根据所选图像生成标题和主题标签。我不需要该工具来生成新图像。    提交人    /u/g_lux   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gw2u5t/social_media_post_generator_using_your_own_images/</guid>
+      <pubDate>Thu, 21 Nov 2024 00:20:16 GMT</pubDate>
     </item>
     <item>
-      <title>我不认为 OpenAI 会杀死我的初创公司</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gvuj9w/i_dont_think_openai_is_gonna_kill_my_startup/</link>
-      <description><![CDATA[我真诚地相信，这个 meme 不会成为我创业公司的现实，我也不认为我只是在做梦。至少暂时如此。 你们中的许多人，和我一样，都在使用 OpenAI 的 API 来构建自己的产品或产品的一部分，正如 Sam Altman 本人在一些采访中所说，要知道 OpenAI 是否会毁掉你的创业公司，一个好方法是思考：“每次更新，我都会对进展感到兴奋，还是担心我的产品会死掉？” 如果你的产品本质上是一个“X 版 ChatGPT”，界面非常相似，主要交互就是与机器人聊天，那么你可能会对下一次 ChatGPT 更新有点紧张。这是因为你的产品解决用户问题的方式可能与 GPT 已经能做到的方式不同。 你的用户意识到他们可以直接使用 gpt 做同样的事情，或者学习如何构建自己的代理并将其集成到公司中，这只是一个时间问题。我认为这只是时间问题，直到这变得非常容易，不需要任何代码，这将真正使访问民主化。 就我而言，我使用 OpenAI 的 API 来创建一款产品，该产品可针对每份工作量身定制工作申请工具包，将用户的职业故事与工作要求相匹配。当然，你可以使用 ChatGPT 来帮助制作所有这些文档，但我知道我已经建立了更好的体验。人工智能的每一次进步实际上都让我兴奋，因为这意味着我可以改进我的解决方案并构建更好的功能 你对此有何看法？OpenAI 会杀死你的初创公司吗？    提交人    /u/coelhod   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gvuj9w/i_dont_think_openai_is_gonna_kill_my_startup/</guid>
-      <pubDate>Wed, 20 Nov 2024 17:12:46 GMT</pubDate>
+      <title>Worker - 为你完成任务的 AI 代理</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gw2a5e/worker_an_ai_agent_that_does_your_tasks_for_you/</link>
+      <description><![CDATA[大家好！我们的小团队一直在全力打造 Worker，一个可以为您完成任务的 AI 代理。 它基本上充当行政助理，您告诉它做某事，它就会去做。 每天总有事情要做，而且总是堆积如山，我们总是拖延或忘记。因此，我们的愿景是让 Worker 成为一个 AI 代理，能够完成您需要在互联网上完成的许多事情，甚至完成现实世界中的某些事情，例如与其他人打电话。 我们希望我们的私人测试版能够在 2025 年 1 月准备就绪，因此请加入等候名单！很乐意让您随时了解旅程的最新进展，并让我们知道您对该项目的想法:) 这是加入链接：www.workerassistant.com    提交人    /u/abusama7a   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gw2a5e/worker_an_ai_agent_that_does_your_tasks_for_you/</guid>
+      <pubDate>Wed, 20 Nov 2024 23:55:05 GMT</pubDate>
     </item>
     <item>
-      <title>什么是用于搜索物理学中准确的科学信息的最佳人工智能？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gvtj76/what_is_the_best_ai_for_searching_about_accurate/</link>
-      <description><![CDATA[是否有任何 AI 可以提供非常准确的物理学科学信息（尤其是关于小众和非常具体的信息、总结文章...等）？任何几乎不会编造错误信息的 AI？    提交人    /u/stifenahokinga   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gvtj76/what_is_the_best_ai_for_searching_about_accurate/</guid>
-      <pubDate>Wed, 20 Nov 2024 16:31:30 GMT</pubDate>
+      <title>美国召集盟友讨论人工智能安全，特朗普誓言废除拜登的人工智能政策，给他们的工作蒙上阴影</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gw1hno/us_gathers_allies_to_talk_ai_safety_trumps_vow_to/</link>
+      <description><![CDATA[美国召集盟友讨论人工智能安全，特朗普誓言撤销拜登的人工智能政策，这给他们的工作蒙上了阴影  https://candorium.com/news/20241120170501622/us-gathers-allies-to-talk-ai-safety-trumps-vow-to-undo-bidens-ai-policy-overshadows-their-work    提交人    /u/10marketing8   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gw1hno/us_gathers_allies_to_talk_ai_safety_trumps_vow_to/</guid>
+      <pubDate>Wed, 20 Nov 2024 23:13:47 GMT</pubDate>
     </item>
     <item>
-      <title>Frizerly AI 评论 - 适用于 Shopify 和 Wordpress SEO 博客自动化</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gvsz9n/frizerly_ai_review_for_shopify_wordpress_seo_blog/</link>
-      <description><![CDATA[我一直在努力让我的客户在第一次购买后保持参与度，我知道电子邮件营销是答案——但是谁有时间起草完美的电子邮件呢？就在那时，我偶然发现了 Frizerly，我只想说，它改变了游戏规则。 以下是我喜欢它的原因： 1️⃣ 节省时间：它可以在几分钟内起草漂亮的品牌电子邮件。我只需稍加调整，然后点击发送。 2️⃣ 智能推荐：它似乎确切地知道我的客户想听到什么以及什么时候想听到。 3️⃣ 结果：我的重复订单在短短两个月内增加了 25%。 如果您像我一样并且害怕营销工作，我 100% 建议您尝试一下 Frizerly。这就像拥有一个自动驾驶的营销团队。 有其他人尝试过吗？很想听听你的效果如何！    提交人    /u/lappetrice   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gvsz9n/frizerly_ai_review_for_shopify_wordpress_seo_blog/</guid>
-      <pubDate>Wed, 20 Nov 2024 16:08:04 GMT</pubDate>
+      <title>以下是今天人工智能领域的新闻</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gw1cv0/heres_what_is_making_news_in_the_ai_today/</link>
+      <description><![CDATA[聚焦：Meta 聘请 Salesforce 的 AI 首席执行官 Clara Shih 领导新的业务 AI 集团（来源：）  OpenAI 将 ChatGPT 的高级语音模式引入网络 OpenAI 发布了 ChatGPT 教师指南，但一些教育工作者持怀疑态度 Collibra 将数据治理带入 AI 时代 当前的 AI 扩展定律显示收益递减，迫使 AI 实验室改变方向 Converge Bio 为生物技术 LLM 开设的“万物商店”带来 550 万美元种子资金 一家中国实验室发布了一种“推理”AI 模型，可与 OpenAI 的 o1 相媲美 Federato利用人工智能解决保险风险分析问题，融资 4000 万美元 融资 2.2 亿美元的人工智能初创公司 H 推出了其首款产品：用于“代理”应用程序的 Runner H Messenger 获得高清视频通话、人工智能背景等 Benchmark 向 New Lantern 投资 1900 万美元，为放射科医生提供更智能的人工智能使用方式     提交人    /u/codeharman   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gw1cv0/heres_what_is_making_news_in_the_ai_today/</guid>
+      <pubDate>Wed, 20 Nov 2024 23:06:02 GMT</pubDate>
     </item>
     <item>
-      <title>优化 RFP：连接到网络、特定来源和上传的自定义环境</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gvsyts/optimizing_rfps_custom_environment_connected_to/</link>
-      <description><![CDATA[嗨，团队， 用例：RFP 响应 寻求一些指导，以了解如何构建个人使用的工具，以帮助我回答 RFP、开发演示文稿、业务案例和周到的产品方向。 理想设置  提取以前完成的 RFP 响应。将数千个以前回答过的问题上传到 RFP，本质上创建了一个具有各种不同定位和框架的答案数据库。 与丰富的源材料连接。一个与我付费的资源（例如 SeekingAlpha、PubMed、大学出版物、科学期刊等）相连的 LLM。  意向  回答 RFP 问题并开发演示文稿和电子邮件材料 使用上传的源材料开发准确和专有的答案 将时间集中在更复杂的问题上，这些问题值得花费额外的时间和开发 帮助我综合专有信息和其他来源，以提取与我的产品、软件和行业相关的“价值主张”  要求  愿意付费：可以是付费解决方案，并愿意为任何咨询指导付费（DM 我） 检索增强生成：在响应生成期间访问和合并外部文档。  适应/持续学习：应根据我的输入和有利的输出开发自己的自定义记忆，同时继续审查针对响应的研究，以使其保持准确性并随着时间的推移而发展。生成的答案和输入的数据是安全的  安全：确保信息安全并考虑外部信息的使用指南     提交人    /u/mrbenbraddock   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gvsyts/optimizing_rfps_custom_environment_connected_to/</guid>
-      <pubDate>Wed, 20 Nov 2024 16:07:32 GMT</pubDate>
+      <title>RLHF 加上实时计算扩展将产生 AGI</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gw0tjx/rlhf_plus_real_time_compute_scaling_will_yield_agi/</link>
+      <description><![CDATA[什么是 AGI？  OpenAI 将 AGI 定义为高度自主的系统，它可以在大多数具有经济价值的工作中胜过人类  我们在美国或西方任何地方对人工智能的看法并不重要。 中国很有可能率先实现 AGI。 大多数主要专家预测美国将在 2027 年或更早实现 AGI。这些不仅是伊隆马斯克等人物的预测，也是世界各地主要金融和保险行业的预测。 AGI 即将到来。 明年我们将拥有机器人。 Teslas、Unitrees、Boston Dynamics 等众多公司都具备 A) 自主学习能力，并且 B) 价格每个月都在下降。 随着越来越多能够以低于最低工资标准工作且能产生更好结果的机器人模型不断被制造和销售，您认为会发生什么？ 这些机器人将创建越来越多的数据来训练新的 AI 模型。十年内，我们将拥有 iRobot，随后是银翼杀手，然后希望在 2035 年拥有星际迷航（而不是终结者） AGI 将以比任何人想象的更快的速度加速每件事。 我们已经在聊天机器人中看到了它。 给聊天机器人一个身体，现在你就有了 FigureAI，它的机器人完全能够进行联合学习。博格人来了，他们只是行动缓慢而已。 现在美国大选已经结束，我们知道了我们将拥有什么样的全球警察部队，我们或许应该开始思考我们在美国的生活将如何开始更快地发生变化，变化的数量、速度和步伐也会越来越快。 我们将迎来一段极其疯狂的时期。 真诚的深不可测的变化。 我唯一准备做的事情就是变得非常善于精确地解释自己。 当即将到来的人造超级上帝到来时，我表达得越清楚，我就越希望它能眷顾我，让我免受痛苦。    提交人    /u/thecoffeejesus   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gw0tjx/rlhf_plus_real_time_compute_scaling_will_yield_agi/</guid>
+      <pubDate>Wed, 20 Nov 2024 22:14:12 GMT</pubDate>
     </item>
     <item>
-      <title>这些视频是用什么 AI 软件生成？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gvsr7z/what_ai_software_is_used_to_generate_these_videos/</link>
-      <description><![CDATA[大家好！这是我第一次在这个论坛发帖，所以如果我对 AI 了解不够，请原谅我。 我看过一些足球视频（对于美国人来说是足球！），它们看起来非常真实，我特别喜欢这些视频： https://www.youtube.com/@MaxianFootball/shorts 我尝试了 Kling AI 软件（klingai.com）。虽然结果显示图形相当不错，但其他方面都欠缺。该软件每个视频最多只有 10 秒。 据我所知，您可以在 Kling 软件上以两种方式制作视频：您可以通过“文本到视频”进行制作。您可以在此处正确设置背景，例如，如果您希望视频拍摄于酒吧或飞机上，该应用可以实现这一点。但如果您在文本中写名人，他们根本不会添加他们的脸，只会添加一些普通人。 通过“图像转视频”制作视频我可以得到正确的面部图像，但不能得到正确的背景设置，因为即使我写“特朗普和拜登一起坐在飞机上”，如果我使用他们一起参加辩论的照片，视频就不会是他们在飞机上，而是来自图像背景。 TLDR：我想制作这样的视频：https://www.youtube.com/shorts/4y41gCPkDq8 我使用什么软件，如何使用？    提交人    /u/RazMataz90   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gvsr7z/what_ai_software_is_used_to_generate_these_videos/</guid>
-      <pubDate>Wed, 20 Nov 2024 15:58:39 GMT</pubDate>
+      <title>独家机会：在不干扰现有系统的情况下彻底改变业务运营</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gvyrbd/exclusive_opportunity_revolutionize_business/</link>
+      <description><![CDATA[嘿 Reddit， 我提供一次性机会来参与一些真正具有开创性的事物。 我正在寻找一家公司来试行一个与你从未见过的任何东西都不一样的概念。理想情况下，您属于制造和分销领域，但任何具有复杂运营问题的企业都非常适合。 最好的部分是：该项目不会干扰您当前的系统。  我们不需要访问您的实际系统、数据或基础设施。 这是一个登月项目，您可以站起来并从远处观看。  工作原理如下： 我们将接受您的运营挑战并将它们变成视频游戏。这个游戏将模拟您的现实世界问题，并结合影响它们的每个变量。然后，我们将释放一个AI 代理群来“玩”游戏，这些代理由我们专为业务和物流优化设计的尖端算法驱动。 这些代理将学习、适应和优化，直到它们以超人水平 这对您有什么好处？  对您当前的系统没有任何风险。 提供解决您最大挑战的彻底见解。 前沿 AI 创新的前沿席位。  如果这听起来很有趣，请联系我。我可以提供演示、白皮书、评估结果以及您探索这个机会所需的任何其他内容。 未来几年没有其他公司会为您提供这样的服务。准备好迎接未来了吗？让我们谈谈吧！ 如果您想进入兔子洞，请按以下步骤操作：https://youtu.be/kI_RD70tA0E     提交人    /u/FaultInteresting3856   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gvyrbd/exclusive_opportunity_revolutionize_business/</guid>
+      <pubDate>Wed, 20 Nov 2024 20:03:33 GMT</pubDate>
     </item>
     <item>
-      <title>艺术爱好者可以闲逛和创作的空间</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gvrjwo/a_space_where_art_hobbyists_can_hang_around_and/</link>
-      <description><![CDATA[看看这个可爱的房间：怪物    提交人    /u/GenTube0   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gvrjwo/a_space_where_art_hobbyists_can_hang_around_and/</guid>
-      <pubDate>Wed, 20 Nov 2024 15:06:05 GMT</pubDate>
+      <title>学校 AI 聊天机器人的创建者被捕，并被指控诈骗投资者 1000 万美元</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gvwc87/the_creator_of_an_ai_chatbot_for_schools_has_been/</link>
+      <description><![CDATA[https://www.the74million.org/article/feds-charge-once-lauded-allhere-ai-founder-in-10m-scheme-to-defraud-investors/    提交人    /u/mkerbs942   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gvwc87/the_creator_of_an_ai_chatbot_for_schools_has_been/</guid>
+      <pubDate>Wed, 20 Nov 2024 18:25:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>RAG 只是一种短暂的趋势吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gvrgif/is_rag_just_a_shortlived_trend/</link>
+      <description><![CDATA[大家好， RAG 在一年前就引起了广泛关注，并且其采用率持续增长。但是，我遇到的大多数 RAG 应用程序都专注于“锦上添花”的用例，例如生成摘要或回答常见问题，而不是关键任务用例。 这让我怀疑它是否被夸大了。    提交人    /u/gangana3   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gvrgif/is_rag_just_a_shortlived_trend/</guid>
+      <pubDate>Wed, 20 Nov 2024 15:02:04 GMT</pubDate>
     </item>
     <item>
       <title>人们对人工智能革命的看法非常错误</title>
@@ -88,13 +95,6 @@
       <description><![CDATA[Automated-AI-Web-Researcher：经过数月的工作，我编写了一个 Python 程序，可以将 Ollama 上运行的本地 LLM 转变为您的在线研究人员，只需输入一个问题或主题，然后等到您返回一个包含指向来源和摘要的链接的研究内容的文本文档，并向它提问！还有更多！ 此自动研究人员使用互联网搜索和网络抓取来收集信息，根据您选择的主题或问题，它将生成与您的主题相关的重点领域，旨在探索您主题的各个方面并调查您主题或问题的各个相关方面，以通过在线研究检索相关信息来回答您的主题或问题。 LLM 将您的查询分解为最多 5 个特定的研究重点，根据相关性对它们进行优先排序，然后通过有针对性的网络搜索和内容分析从最相关的开始系统地调查每一个。 然后，在收集那些搜索并用尽所有重点领域的内容后，它将检查内容并使用其中的信息来生成新的重点领域，并且在过去，它经常根据已经收集的研究内容中的发现来找到新的相关重点领域（例如，它会寻找与您的主题或问题特别相关的特定案例研究），以前这种使用已经收集的研究内容来开发新研究领域的方法最终导致了有趣和新颖的研究重点，在某些情况下，这些重点是人类永远不会想到的，尽管里程可能会有所不同，但这个程序仍然是一个原型，但令人震惊的是，它确实有效！ 主要特点：  根据发现的内容不断生成新的研究重点 保存它找到的每条内容以及源 URL 完成研究内容后创建综合摘要，并使用它来回答您最初的疑问/问题 提供摘要后进入对话模式，您可以就其研究结果和研究提出具体问题，甚至可以询问摘要中未提及的内容，只要其发现的研究提供了有关所述内容的相关信息。 您可以根据需要运行它，直到 LLM 的上下文达到最大值，然后会自动停止研究，但仍然允许进行摘要和提问。或者随时停止它，这将导致它生成摘要。 但它还包括暂停功能以评估研究进度以确定是否收集了足够的信息，让您可以选择取消暂停并继续或终止研究并接收摘要。 适用于流行的 Ollama 本地模型（推荐使用 phi3：3.8b-mini-128k-instruct 或 phi3：14b-medium-128k-instruct，这是我迄今为止测试过并且有效的模型） 一切都在您的机器上本地运行，但仍然为您提供来自互联网的结果，只有一个查询，您就可以在相对较短的时间内获得大量实际研究结果。  最好的部分？您可以让它在后台运行，同时您做其他事情。回来找到一份详细的研究文件，其中包含数十个相关来源和提取的内容，所有这些都已组织并准备好进行审查。加上相关发现的摘要，并且能够向 LLM 询问有关这些发现的问题。非常适合研究、难以研究和新颖的问题，这些问题您懒得亲自研究，或者只是满足您对复杂主题的好奇心！ 带有完整说明的 GitHub repo： https://github.com/TheBlewish/Automated-AI-Web-Researcher-Ollama （使用 Python 构建，完全开源，应该可以与任何兼容 Ollama 的 LLM 一起使用，尽管我只测试了 phi 3）    提交人    /u/CuriousAustralianBoy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gvm1rt/i_created_an_ai_research_assistant_that_actually/</guid>
       <pubDate>Wed, 20 Nov 2024 09:55:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>开放权重（本地） LLM 终于赶上了封闭式 SOTA 吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gvft58/open_weight_local_llms_finally_caught_up_to/</link>
-      <description><![CDATA[昨天，Pixtral large 发布了这里。 这是一个 124B 的多模态视觉模型。这个非常小的模型在各种精心挑选的基准上击败了 1+ 万亿参数的 GPT 4o。别介意 Gemini-1.5 Pro。 据我所知，没有语音或视频。但真的，这重要吗？对我来说，这似乎是开创性的。它也可以免费使用。然而，我几乎没有在太多地方看到提到这一点。我遗漏了什么吗？ 顺便说一句，自 ChatGPT 于 2022 年 11 月 30 日公开发布以来，还不到两年。在短短两年的时间里，人工智能已经变得有些面目全非。疯狂的进步。    提交人    /u/AIAddict1935   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gvft58/open_weight_local_llms_finally_caught_up_to/</guid>
-      <pubDate>Wed, 20 Nov 2024 03:05:39 GMT</pubDate>
     </item>
     <item>
       <title>每周“是否有一个工具可以……”帖子</title>
