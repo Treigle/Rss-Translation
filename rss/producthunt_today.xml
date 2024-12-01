@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt — 每天提供最好的新产品</title>
-    <link>https://www.producthunt.com</link>
+    <link>http://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sun, 01 Dec 2024 09:13:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2024 12:24:00 GMT</lastBuildDate>
     <item>
       <title>索姆河</title>
       <link>https://www.producthunt.com/posts/somme</link>
@@ -23,7 +23,7 @@
       <title>TabBuddy</title>
       <link>https://www.producthunt.com/posts/tabbuddy</link>
       <description><![CDATA[
-无需切换标签即可访问您喜爱的应用
+无需切换标签即可访问您喜爱的应用程序
 
 
 讨论
@@ -62,20 +62,6 @@
       <pubDate>Sat, 30 Nov 2024 04:44:57 GMT</pubDate>
     </item>
     <item>
-      <title>笔尖</title>
-      <link>https://www.producthunt.com/posts/penpoint</link>
-      <description><![CDATA[
-您的自由职业者 CRM：简化一对一客户协作
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/penpoint</guid>
-      <pubDate>Fri, 29 Nov 2024 17:12:43 GMT</pubDate>
-    </item>
-    <item>
       <title>交通管理</title>
       <link>https://www.producthunt.com/posts/trafficforge</link>
       <description><![CDATA[
@@ -102,6 +88,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/sihai</guid>
       <pubDate>Thu, 28 Nov 2024 09:06:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>霜朋克2</title>
+      <link>https://www.producthunt.com/posts/frostpunk-2</link>
+      <description><![CDATA[
+重访大风暴 30 年后冰原
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/frostpunk-2</guid>
+      <pubDate>Thu, 28 Nov 2024 03:48:54 GMT</pubDate>
     </item>
     <item>
       <title>派格</title>
