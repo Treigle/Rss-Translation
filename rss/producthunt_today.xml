@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 06 Dec 2024 09:15:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2024 12:25:12 GMT</lastBuildDate>
     <item>
       <title>ChatGPT 专业版</title>
       <link>https://www.producthunt.com/posts/chatgpt-pro-1</link>
@@ -118,74 +118,46 @@ Bluesky Analytics 跟踪病毒式传播和连续传播
       <pubDate>Thu, 05 Dec 2024 00:45:55 GMT</pubDate>
     </item>
     <item>
-      <title>Google Genie 2</title>
-      <link>https://www.producthunt.com/posts/google-genie-2</link>
+      <title>ElevenLabs 的对话式 AI</title>
+      <link>https://www.producthunt.com/posts/conversational-ai-by-elevenlabs</link>
       <description><![CDATA[
-大规模基础世界模型
+构建会说话的 AI 代理
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/google-genie-2</guid>
-      <pubDate>Wed, 04 Dec 2024 20:31:23 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/conversational-ai-by-elevenlabs</guid>
+      <pubDate>Wed, 04 Dec 2024 20:13:08 GMT</pubDate>
     </item>
     <item>
-      <title>Spotify 2024 年回顾</title>
-      <link>https://www.producthunt.com/posts/spotify-wrapped-2024-2</link>
+      <title>Documenso 平台计划</title>
+      <link>https://www.producthunt.com/posts/documenso-platform-plan</link>
       <description><![CDATA[
-以前所未有的方式体验您这一年的聆听体验
+产品中的白标签名流程
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/spotify-wrapped-2024-2</guid>
-      <pubDate>Wed, 04 Dec 2024 18:04:23 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/documenso-platform-plan</guid>
+      <pubDate>Tue, 03 Dec 2024 10:41:46 GMT</pubDate>
     </item>
     <item>
-      <title>简单的AI电话助手</title>
-      <link>https://www.producthunt.com/posts/simple-ai-phone-assistant</link>
+      <title>Playmaker 出品的桌子</title>
+      <link>https://www.producthunt.com/posts/tables-by-playmaker</link>
       <description><![CDATA[
-Simple AI 可以拨打电话，这样您就不必自己拨打电话了
+立即将非结构化数据转换为可操作数据
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/simple-ai-phone-assistant</guid>
-      <pubDate>Wed, 04 Dec 2024 05:40:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>FidForward 的公司价值生成器</title>
-      <link>https://www.producthunt.com/posts/fidforward-s-company-values-generator</link>
-      <description><![CDATA[
-使用我们的智能助手发现贵公司的核心价值
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/fidforward-s-company-values-generator</guid>
-      <pubDate>Tue, 03 Dec 2024 14:53:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>天空之桥</title>
-      <link>https://www.producthunt.com/posts/sky-follower-bridge</link>
-      <description><![CDATA[
-将您的社交联系从 𝕏 迁移到 Bluesky
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/sky-follower-bridge</guid>
-      <pubDate>Mon, 02 Dec 2024 03:46:47 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/tables-by-playmaker</guid>
+      <pubDate>Tue, 26 Nov 2024 08:42:59 GMT</pubDate>
     </item>
     <item>
       <title>写更多 2.0</title>
@@ -202,6 +174,20 @@ Simple AI 可以拨打电话，这样您就不必自己拨打电话了
       <pubDate>Mon, 25 Nov 2024 14:50:48 GMT</pubDate>
     </item>
     <item>
+      <title>超频</title>
+      <link>https://www.producthunt.com/posts/sdrx</link>
+      <description><![CDATA[
+AI SDR 让您的出站自动运行
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/sdrx</guid>
+      <pubDate>Mon, 25 Nov 2024 11:51:45 GMT</pubDate>
+    </item>
+    <item>
       <title>ZenAdmin</title>
       <link>https://www.producthunt.com/posts/zenadmin</link>
       <description><![CDATA[
@@ -214,6 +200,20 @@ Simple AI 可以拨打电话，这样您就不必自己拨打电话了
 ]]></description>
       <guid>https://www.producthunt.com/posts/zenadmin</guid>
       <pubDate>Fri, 22 Nov 2024 09:57:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>指针</title>
+      <link>https://www.producthunt.com/posts/pointer-3</link>
+      <description><![CDATA[
+Google Docs 的 AI 编辑副驾驶
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/pointer-3</guid>
+      <pubDate>Fri, 08 Nov 2024 13:34:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
