@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 06 Dec 2024 12:25:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2024 15:14:38 GMT</lastBuildDate>
     <item>
       <title>ChatGPT 专业版</title>
       <link>https://www.producthunt.com/posts/chatgpt-pro-1</link>
@@ -132,32 +132,18 @@ Bluesky Analytics 跟踪病毒式传播和连续传播
       <pubDate>Wed, 04 Dec 2024 20:13:08 GMT</pubDate>
     </item>
     <item>
-      <title>Documenso 平台计划</title>
-      <link>https://www.producthunt.com/posts/documenso-platform-plan</link>
+      <title>FidForward 的公司价值生成器</title>
+      <link>https://www.producthunt.com/posts/fidforward-s-company-values-generator</link>
       <description><![CDATA[
-产品中的白标签名流程
+使用我们的智能助手发现贵公司的核心价值
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/documenso-platform-plan</guid>
-      <pubDate>Tue, 03 Dec 2024 10:41:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Playmaker 出品的桌子</title>
-      <link>https://www.producthunt.com/posts/tables-by-playmaker</link>
-      <description><![CDATA[
-立即将非结构化数据转换为可操作数据
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/tables-by-playmaker</guid>
-      <pubDate>Tue, 26 Nov 2024 08:42:59 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/fidforward-s-company-values-generator</guid>
+      <pubDate>Tue, 03 Dec 2024 14:53:47 GMT</pubDate>
     </item>
     <item>
       <title>写更多 2.0</title>
@@ -200,6 +186,20 @@ AI SDR 让您的出站自动运行
 ]]></description>
       <guid>https://www.producthunt.com/posts/zenadmin</guid>
       <pubDate>Fri, 22 Nov 2024 09:57:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>反射云</title>
+      <link>https://www.producthunt.com/posts/reflex-cloud</link>
+      <description><![CDATA[
+使用纯 Python 构建 Web 应用 + 使用单个命令进行部署
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/reflex-cloud</guid>
+      <pubDate>Thu, 14 Nov 2024 21:47:25 GMT</pubDate>
     </item>
     <item>
       <title>指针</title>
