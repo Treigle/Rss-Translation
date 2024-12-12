@@ -4,21 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 12 Dec 2024 03:32:15 GMT</lastBuildDate>
-    <item>
-      <title>Claude 文件夹上传</title>
-      <link>https://www.producthunt.com/posts/claude-folder-upload</link>
-      <description><![CDATA[
-轻松将整个代码库上传至 Claude Projects
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/claude-folder-upload</guid>
-      <pubDate>Wed, 11 Dec 2024 02:41:17 GMT</pubDate>
-    </item>
+    <lastBuildDate>Thu, 12 Dec 2024 06:20:15 GMT</lastBuildDate>
     <item>
       <title>多重登录</title>
       <link>https://www.producthunt.com/posts/multilogin-4</link>
@@ -48,7 +34,7 @@
       <pubDate>Tue, 10 Dec 2024 23:26:36 GMT</pubDate>
     </item>
     <item>
-      <title>明亮数据</title>
+      <title>光明数据</title>
       <link>https://www.producthunt.com/posts/bright-data</link>
       <description><![CDATA[
 世界如何收集公共网络数据
@@ -104,18 +90,18 @@
       <pubDate>Mon, 09 Dec 2024 19:33:11 GMT</pubDate>
     </item>
     <item>
-      <title>嚎叫表</title>
-      <link>https://www.producthunt.com/posts/hylark</link>
+      <title>Defang</title>
+      <link>https://www.producthunt.com/posts/defang</link>
       <description><![CDATA[
-创建、监控和跟踪项目的中心 
+几分钟内即可从创意转变为您最喜欢的云
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/hylark</guid>
-      <pubDate>Mon, 09 Dec 2024 15:07:00 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/defang</guid>
+      <pubDate>Mon, 09 Dec 2024 18:31:48 GMT</pubDate>
     </item>
     <item>
       <title>Suno Android & V4 GA</title>
@@ -214,6 +200,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/rodcast</guid>
       <pubDate>Thu, 21 Nov 2024 10:17:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>提及</title>
+      <link>https://www.producthunt.com/posts/remention</link>
+      <description><![CDATA[
+利用人工智能将您的产品置于数十亿次在线讨论中
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/remention</guid>
+      <pubDate>Fri, 15 Nov 2024 07:55:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
