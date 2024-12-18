@@ -4,21 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 18 Dec 2024 03:24:39 GMT</lastBuildDate>
-    <item>
-      <title>2024 年 LinkedIn 回顾</title>
-      <link>https://www.producthunt.com/posts/2024-linkedin-rewind-2</link>
-      <description><![CDATA[
-您的 LinkedIn 年度回顾帖子生成器。
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/2024-linkedin-rewind-2</guid>
-      <pubDate>Tue, 17 Dec 2024 05:15:01 GMT</pubDate>
-    </item>
+    <lastBuildDate>Wed, 18 Dec 2024 06:19:37 GMT</lastBuildDate>
     <item>
       <title>独白</title>
       <link>https://www.producthunt.com/posts/monologue-2</link>
@@ -32,6 +18,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/monologue-2</guid>
       <pubDate>Tue, 17 Dec 2024 01:44:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>圣诞卡</title>
+      <link>https://www.producthunt.com/posts/santacard</link>
+      <description><![CDATA[
+创建来自圣诞老人的个性化视频消息
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/santacard</guid>
+      <pubDate>Tue, 17 Dec 2024 00:23:29 GMT</pubDate>
     </item>
     <item>
       <title>谷歌搅拌机</title>
@@ -62,21 +62,7 @@
       <pubDate>Mon, 16 Dec 2024 21:22:20 GMT</pubDate>
     </item>
     <item>
-      <title>库克：时钟</title>
-      <link>https://www.producthunt.com/posts/cook-clock</link>
-      <description><![CDATA[
-您一直想要的烹饪助手
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/cook-clock</guid>
-      <pubDate>Mon, 16 Dec 2024 20:09:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌我看到2</title>
+      <title>Google Veo 2</title>
       <link>https://www.producthunt.com/posts/google-veo-2</link>
       <description><![CDATA[
 Google 最先进的视频生成模型
@@ -146,32 +132,46 @@ Google 最先进的视频生成模型
       <pubDate>Fri, 13 Dec 2024 00:03:52 GMT</pubDate>
     </item>
     <item>
-      <title>crtd v2.0</title>
-      <link>https://www.producthunt.com/posts/crtd-v2-0</link>
+      <title>MagicMail：AI电子邮件生成器</title>
+      <link>https://www.producthunt.com/posts/magicmail-ai-email-generator</link>
       <description><![CDATA[
-您的（+ 好友）音乐、电影、书籍和链接 
+文本提示，以完全样式化并准备发送 HTML 电子邮件
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/crtd-v2-0</guid>
-      <pubDate>Tue, 10 Dec 2024 23:28:04 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/magicmail-ai-email-generator</guid>
+      <pubDate>Tue, 03 Dec 2024 09:54:41 GMT</pubDate>
     </item>
     <item>
-      <title>询问 Dovetail</title>
-      <link>https://www.producthunt.com/posts/ask-dovetail</link>
+      <title>Opencord 人工智能移动</title>
+      <link>https://www.producthunt.com/posts/opencord-ai-mobile</link>
       <description><![CDATA[
-将您的客户见解带入 Slack 和 Microsoft Teams
+一周内获得 100 多名客户，将 1000 多条评论转化为销售
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/ask-dovetail</guid>
-      <pubDate>Tue, 26 Nov 2024 00:20:04 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/opencord-ai-mobile</guid>
+      <pubDate>Mon, 25 Nov 2024 12:52:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>诺拉</title>
+      <link>https://www.producthunt.com/posts/nora-3</link>
+      <description><![CDATA[
+24/7 心理健康伴侣，无需透露您的身份
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/nora-3</guid>
+      <pubDate>Wed, 20 Nov 2024 22:07:36 GMT</pubDate>
     </item>
     <item>
       <title>艾姆福克斯</title>
