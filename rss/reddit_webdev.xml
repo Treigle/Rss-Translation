@@ -4,7 +4,14 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 22 Dec 2024 18:15:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2024 21:11:51 GMT</lastBuildDate>
+    <item>
+      <title>协会网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hk5lip/association_website/</link>
+      <description><![CDATA[大家好， 我想为我的心脏病协会建立一个网站。 由于我没有任何资金，我尽可能自己做。 我已经选择了一个带有域名的托管计划。 作为一个完全的初学者（20 年前我用 HTML 做了几个网站...），请问最好的选择是什么？ 像 WordPress 这样的 CMS？我已经开始研究它了，但我有点迷茫。 大约有三十页，包括菜单、频繁的新闻更新等，以及其他静态页面。 提前感谢您的反馈，祝您晚上愉快。    提交人    /u/EldarinFR   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hk5lip/association_website/</guid>
+      <pubDate>Sun, 22 Dec 2024 19:23:32 GMT</pubDate>
+    </item>
     <item>
       <title>创建我的第一个开源项目，有什么建议吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hk3xzg/creating_my_first_open_source_project_any_tips/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>在网站标题中添加实时待办事项列表</title>
       <link>https://www.reddit.com/r/webdev/comments/1hk1ipt/adding_real_time_to_do_list_to_website_header/</link>
-      <description><![CDATA[大家好，我是网页设计、Wordpress 等方面的新手，在发布此信息之前，我花了几个小时研究这个问题。 有人知道我该如何在我的网站中添加实时、响应式的待办事项列表吗（例如，参见图片） 我知道我可以嵌入整个谷歌日历，但这对我的目的来说有点大材小用。 我的想法是让人们通过我的博客实时查看我每天重复任务的进度。 https://preview.redd.it/355837kybf8e1.png?width=1512&amp;format=png&amp;auto=webp&amp;s=a6ef31a4e87972edd0150c2a2e62ae0e66d37fda 任何意见都值得赞赏。 甚至相关教程的链接。等等    提交人    /u/melborn_1334   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我是网页设计、Wordpress 等方面的新手，在发布此信息之前，我花了几个小时研究这个问题。 有人知道我该如何在我的网站中添加实时、响应式的待办事项列表吗（例如，参见图片） 我知道我可以嵌入整个谷歌日历，但这对我的目的来说有点大材小用。 我的想法是让人们通过我的博客实时查看我每天重复任务的进度。 https://preview.redd.it/355837kybf8e1.png?width=1512&amp;format=png&amp;auto=webp&amp;s=a6ef31a4e87972edd0150c2a2e62ae0e66d37fda 任何意见都值得赞赏。甚至相关教程的链接等    提交人    /u/melborn_1334   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hk1ipt/adding_real_time_to_do_list_to_website_header/</guid>
       <pubDate>Sun, 22 Dec 2024 16:09:38 GMT</pubDate>
     </item>
@@ -46,13 +53,6 @@
       <description><![CDATA[它有一些不错的功能，如果你将它与 SolidJS 一起使用，它可以很好地集成，但我发现它有点受限。 如果你使用的是 Google oauth 或类似程序，它会出奇地棘手，在 webviewwindows 上的自定义有限，启动 rust 监听器以向 js 发送数据等，... 不知不觉中，你就编写了很多 Rust 来让 electron 中开箱即用的东西工作（显然是更成熟的框架）。 我很好奇你将 Tauri 用于什么样的应用程序？    提交人    /u/dmart89   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hjz8vt/has_anyone_used_tauri_to_build_a_desktop_app/</guid>
       <pubDate>Sun, 22 Dec 2024 14:13:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>字节跳动 INFP：让图像栩栩如生的人工智能</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hjxx7r/bytedance_infp_the_ai_that_brings_images_to_life/</link>
-      <description><![CDATA[        提交人    /u/sh_tomer   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hjxx7r/bytedance_infp_the_ai_that_brings_images_to_life/</guid>
-      <pubDate>Sun, 22 Dec 2024 12:52:41 GMT</pubDate>
     </item>
     <item>
       <title>Sass：你可以嵌套命名空间属性吗？</title>
@@ -78,12 +78,12 @@
     <item>
       <title>在 DNS 中，当主 A 记录的 IP 没有响应请求时，是否可以路由到不同的 IP 地址？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hjwzps/is_it_possible_to_route_to_a_different_ip_address/</link>
-      <description><![CDATA[我有一个指向我家 IP 的 A 记录。问题是这个 IP 地址上的服务器并非一直在运行。有没有办法为始终运行的服务器提供备用 IP？我知道一种可以提供始终运行的服务器的服务，但我真的不确定如何解决这个问题。 任何帮助都将不胜感激！！    提交人    /u/RadoslavL   [link] [评论]]]></description>
+      <description><![CDATA[我有一个指向我家庭 IP 的 A 记录。问题是这个 IP 地址上的服务器并非一直在运行。有没有办法为始终运行的服务器提供备用 IP？我知道一种可以提供始终运行的服务器的服务，但我真的不确定如何解决这个问题。 任何帮助都将不胜感激！！    提交人    /u/RadoslavL   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hjwzps/is_it_possible_to_route_to_a_different_ip_address/</guid>
       <pubDate>Sun, 22 Dec 2024 11:48:00 GMT</pubDate>
     </item>
     <item>
-      <title>避免接触 bubbi.app</title>
+      <title>避免感染 bubbi.app</title>
       <link>https://www.reddit.com/r/webdev/comments/1hjwpan/avoid_bubbiapp_like_plague/</link>
       <description><![CDATA[曾经使用过他们的服务来生成图像，收费 1 欧元 一周后，他们试图从我的卡上收取 29 欧元，让我注册了他们最昂贵的订阅。 我错了，因为我使用的网站没有信誉。希望这能为其他人省去麻烦 :)    提交人    /u/thibthib18   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hjwpan/avoid_bubbiapp_like_plague/</guid>
