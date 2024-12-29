@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 29 Dec 2024 18:15:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2024 21:11:19 GMT</lastBuildDate>
+    <item>
+      <title>[YT-X] 从终端浏览 YouTube；yt-dlp 包装器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hp5oj5/ytx_browse_youtube_from_the_terminal_ytdlp_wrapper/</link>
+      <description><![CDATA[    /u/BenX855   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hp5oj5/ytx_browse_youtube_from_the_terminal_ytdlp_wrapper/</guid>
+      <pubDate>Sun, 29 Dec 2024 20:59:43 GMT</pubDate>
+    </item>
     <item>
       <title>Air Script 是一款可以破解 Wi-Fi 的瑞士军刀，当捕获到握手信息时还可以选择发送电子邮件通知。</title>
       <link>https://www.reddit.com/r/opensource/comments/1hp1pke/air_script_is_wifi_pwning_swiss_army_knife_that/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[https://github.com/wapikit/wapikit wapikit.com 是核心和旗舰产品，它是一个自托管、高性能和单二进制可执行的 WhatsApp 活动管理器、实时团队收件箱和无代码聊天流程配置器，功能丰富，我们将在即将推出的产品更新中进一步探索每个功能。 WapiKit 同时提供 UI 和 API 接口。 它能做的事情如下： ➡️ 管理联系人列表：高效处理联系人以进行活动管理。 ➡️ 细分联系人：轻松细分受众以进行有针对性的营销。 ➡️ 实时团队收件箱：允许多个团队成员同时管理对话。 ➡️ 集成：通过我们的集成套件与 Slack、自定义网站聊天小部件和 AI 插件无缝连接。 ➡️ 支持 AI 的功能：通过集成 LLM 模型启用自动回复。 您可以在这里加入我们：https://join.slack.com/t/wapikit/shared_invite/zt-2kl7eg29s-4DfP9lFwojQg_yCcyW_w6Q 将其用作自托管 WhatsApp 业务管理器，用于销售、营销和客户支持集成。 我们已经发布了 alpha 版本，其中包含活动管理功能和联系人列表管理。并且正在发布实时团队收件箱功能。  然后是 js.wapikit.com ( wapi.js ) 和 go.wapikit.com ( wapi.go )，这两个 SDK 都是独立构建的，目的都是为了将​​它们用作通过 WhatsApp 业务 API 轻松构建应用程序的工具，无论是 WhatsApp 聊天机器人还是其他后端应用程序。它们与 WhatsApp 业务管理 API 和 WhatsApp 云 API 配合良好。您可以查看它们的文档。如果有任何问题，请在评论部分问我。我在过去的帖子中分享了几个用例示例。甚至 WapiKit 本身也在后端使用 Wapi.go。 如果您是一家初创公司或独立开发者，并希望免费设置 WhatsApp 营销/销售/客户支持基础设施，您可以查看 github，尝试一下或发表评论“Hi”，我会为您提供演示。    提交人    /u/UnusualMeasurement10   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hnz0ea/open_source_ecosystem_for_whatsapp_marketing/</guid>
       <pubDate>Sat, 28 Dec 2024 05:37:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>WhatsApp 营销、销售和交易沟通的开源生态系统</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hnyz0i/open_source_ecosystem_for_whatsapp_marketing/</link>
-      <description><![CDATA[https://github.com/wapikit/wapikit  我不太想谈论 WapiKit 以及它打算培育的整个生态系统。 这是我很长时间以来一直致力于构建的东西。它是一个开源生态系统，使 WhatsApp 营销变得触手可及。 wapikit.com 是核心和旗舰产品，它是一款自托管、高性能和单二进制可执行 WhatsApp 活动管理器、实时团队收件箱和无代码聊天流程配置器，功能丰富，我们将在即将推出的产品更新中进一步探索每个功能。 ✅ WapiKit 同时提供 UI 和 API 接口。 它可以做以下事情：管理联系人列表：高效处理联系人以进行活动管理。细分联系人：轻松细分受众以进行有针对性的营销。实时团队收件箱：允许多个团队成员同时管理对话。集成：通过我们的集成套件与 Slack、自定义网站聊天小部件和 AI 插件无缝连接。 AI 功能：通过集成 LLM 模型启用自动回复。 您可以在此处加入我们：https://join.slack.com/t/wapikit/shared_invite/zt-2kl7eg29s-4DfP9lFwojQg_yCcyW_w6Q ✅ 将其用作您自托管的 WhatsApp 业务管理器，用于销售、营销和客户支持集成。 ✅ 我们已经发布了具有活动管理功能和联系人列表管理的 alpha 版本。并且正在发布实时团队收件箱功能。  然后是 js.wapikit.com ( wapi.js ) 和 go.wapikit.com ( wapi.go )，这两个 SDK 都是独立构建的，目的都是为了将​​它们用作通过 WhatsApp 业务 API 轻松构建应用程序的工具，无论是 WhatsApp 聊天机器人还是其他后端应用程序。它们与 WhatsApp 业务管理 API 和 WhatsApp 云 API 配合良好。您可以查看它们的文档。如果有任何问题，请在评论部分问我。我在过去的帖子中分享了几个用例示例。甚至 WapiKit 本身也在后端使用 Wapi.go。 如果您是一家初创公司或独立开发者，并希望免费设置 WhatsApp 营销/销售/客户支持基础设施，您可以查看 github，尝试一下或发表评论“Hi”，我会为您提供演示。    提交人    /u/UnusualMeasurement10   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hnyz0i/open_source_ecosystem_for_whatsapp_marketing/</guid>
-      <pubDate>Sat, 28 Dec 2024 05:35:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
