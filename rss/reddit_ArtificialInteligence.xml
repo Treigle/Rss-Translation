@@ -4,20 +4,48 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 04 Jan 2025 09:12:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jan 2025 18:14:57 GMT</lastBuildDate>
+    <item>
+      <title>评测具有酷炫附加功能的 AI YouTube 视频摘要器 - 您最喜欢哪些？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1htk1y6/review_of_ai_youtube_video_summarizers_with_cool/</link>
+      <description><![CDATA[我认为每月为一款只能总结 YouTube 视频的工具付费没有什么意义。因此，我搜索了互联网，找到了那些总结质量高、功能非常强大的工具。我非常好奇你们使用什么工具以及为什么使用！  TL;DR：Recall 用于知识管理，NoteGPT 用于内容创建，Harpa AI 用于自动化。所有应用都有免费计划和合理的定价！  以下是我发现的最好的应用：  &gt;Recall 对我来说具有最佳功能组合（我是一个学习狂）。最适合：知识管理和主动学习  离线优先笔记✅ 在 chrome 扩展程序中编辑摘要✅ 移动应用（IOS、Android）✅ AI 知识图谱（有点类似于黑曜石）✅ 自动分类✅ 免费测验/抽认卡✅ 将所有笔记导出到 markdown✅ 带有知识库的 AI 聊天（正在开发中） 定价：免费或 7 美元/月按年计费。  NoteGPT 具有很酷的功能，但有些功能对我来说感觉不必要且令人分心。最适合：多格式内容创建和可视化  AI 图书馆✅ AI 演示 AI 聊天✅ Chrome 扩展程序需要 ChatGPT API 密钥 :( AI 思维导图✅ 自定义思维导图 AI 抽认卡✅ AI 转录器（我只会说一种语言:) 定价：免费或按年计费 7 美元/月。  Harpa AI 很棒，但我无法在免费计划上进行足够的测试。最适合：跨平台的自动化和生产力 用于自动化的 AI 代理 AI 搜索✅ 电子邮件助手✅ 与网站聊天✅ 针对 SEO 优化您的博客 用于文章、推文、电子邮件的 AI Writer...✅ 连接到 1000 多个应用程序 用于预制提示的 AI 命令 定价：免费或每年 12 美元/月。   这些只是基于我的经验，我相信还有很多其他很棒的。你使用什么摘要器？你试过其中任何一个吗？您认为观看 YouTube 时最有用的功能是什么？ 我也非常乐意听到您自己的建议。也许我会找到另一个闪亮的新玩具来玩 :) 在 这里或 这里 找到更多 YouTube 摘要器。    提交人    /u/biamoves   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1htk1y6/review_of_ai_youtube_video_summarizers_with_cool/</guid>
+      <pubDate>Sat, 04 Jan 2025 17:56:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>突然间，程序员不再需要担心很快因为人工智能而丢掉工作了！！！</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hti6i4/suddenly_programmers_dont_need_to_worry_about/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hti6i4/suddenly_programmers_dont_need_to_worry_about/</guid>
+      <pubDate>Sat, 04 Jan 2025 16:34:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>培训时间为 2 个月，成本仅为 600 万美元，到 2025 年是否会有 5 万家企业使用 deepseek v3 的开源方法构建人工智能？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hth2ba/with_a_2month_train_time_and_affordable_6_million/</link>
+      <description><![CDATA[我不确定有多少人意识到 deepseek v3 的开源方法对 2025 年代理人工智能革命具有多么彻底的改变。现在有超过 50,000 家企业有能力建立自己的人工智能。这意味着，在中途我们可能会看到原本预计是革命性的代理人工智能年出现指数级增长。这对计划让这些企业使用其系统的人工智能巨头如 openai 和谷歌来说意味着什么？ 我要求 gemini 2.0 flash 实验扩展其中的一些内容： “DeepSeek 的 V3 人工智能训练方法以及其他领先人工智能实验室的类似进步标志着高级人工智能开发的可访问性发生了重大转变。核心创新在于以更低的成本和更快的速度实现更高效、更强大的人工智能模型，尤其是大型语言模型 (LLM) 和代理系统。这主要得益于优化的训练算法、数据高效方法和改进的并行计算能力等技术。虽然 V3 的具体细节仍是专有的，但总体趋势表明构建最先进 AI 所需的资源和时间显著减少。因此，越来越多的企业考虑开发自己的定制 AI 解决方案，而不是仅仅依赖现成的产品或 API，这变得越来越现实。这对于那些寻求利用代理 AI 功能的人来说尤其重要，这需要针对特定​​任务和环境量身定制的模型。 考虑到潜在的成本降低，我们可以估计，一个复杂、功能相当强大的 AI 系统，可能能够处理复杂的任务并表现出一定程度的代理行为，其开发成本可能在 600 万美元左右。毫无疑问，这是一项重大投资，但与之前与尖端 AI 模型创建相关的成本相比，这是一个大幅下降。这个价格点对于大多数小型企业或初创企业来说是不可行的，但对于中型到大型企业，特别是那些在技术密集型行业运营的企业来说，这是一个越来越可行的选择。考虑到全球公司收入分配、风险投资融资模式和可用的技术基础设施等因素，可以合理估计，全球大约有 2 万到 5 万家企业能够实际负担得起约 600 万美元用于人工智能开发。这些企业主要包括大型企业、成熟的科技公司、金融机构、医疗保健组织和高度重视自动化和创新的制造企业。虽然这个数字只是全球总数的一小部分，但它代表了一大批现在能够推动自己的人工智能战略并更直接参与代理革命的组织，有可能在各个领域掀起一波定制人工智能解决方案的浪潮。这也表明人工智能格局日益多样化，从少数科技巨头的主导地位转向更加分散的生态系统，拥有更加多样化的创新人工智能应用。”    提交人    /u/Georgeo57   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hth2ba/with_a_2month_train_time_and_affordable_6_million/</guid>
+      <pubDate>Sat, 04 Jan 2025 15:44:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>您是否认为雷·库兹韦尔关于奇点的时间表过于悲观？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1htd5h6/do_you_think_ray_kurzweils_timeline_on_the/</link>
+      <description><![CDATA[我被他那本已有 20 年历史的书深深吸引，在这本书中，他基于技术演进的推断数据，提出了一个我们将达到奇点的时间表。去年他确实出版了另一本书，奇点更近了，虽然我还没有读过，但我相信他只是重申了人类智能水平将在 2029 年达到，奇点将在 2045 年达到的日期。 20 年前，我很幸运地找到了一个可以谈论人工智能的人，因为当时人们几乎没有听说过这个术语，更不用说知道它是什么了。仅在过去的两年里，我们就见证了法学硕士和芯片的进步，还有量子计算以惊人的速度发展。在我看来，指数演化的拐点曲线就在现在，而不是再过 4 年。 如果你关注（我的意思是真正关注）所有领域的技术进步，那么仅在 2024 年，我们就看到了令人难以置信的成就速度。在当前环境下，再过 4 年似乎就是永恒。还有人认为 Ray 太保守了吗？如果不是，你为什么认为我们还需要至少 4 年才能实现这一目标？    提交人    /u/Sloth_Almighty   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1htd5h6/do_you_think_ray_kurzweils_timeline_on_the/</guid>
+      <pubDate>Sat, 04 Jan 2025 12:12:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>这里还有多少人对人工智能既心存感激又心存担忧？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1htanpm/how_many_other_people_on_here_are_embracing_ai/</link>
+      <description><![CDATA[我是一名平面设计师，全职工作，但也兼职做一些自由职业。 当我在 2022 年第一次听说 Midjourney 和 DALL-E 之类的东西时，我非常害怕。但后来我很快意识到，无论图像看起来多么令人惊叹，它们都远远无法做到我所做的事情。 我如何使用人工智能 我最终决定将它们用于一些我发现非常有趣的个人艺术项目，采用更多的“人工智能辅助”方法来增强我现有的技能和工具。 图像生成器在我的日常工作中对我没什么用，但我经常使用 ChatGPT 来帮助生成想法、进行基本的文案撰写以及告诉我某些事物的含义等。同样，它仍然是人工智能辅助的，而不是让人工智能来做所有事情。 Photoshop 中的生成填充绝对改变了游戏规则，我真的很想知道没有它我该怎么过。 最近，我在一些自由职业项目中重新熟悉了一些前端开发 — HTML / CSS / WordPress — ChatGPT 确实帮助我清除了生疏的技能，并快速掌握了当前的网络技术......它为我节省了大量的时间。 未来的发展 几年后，我希望创办自己的创意工作室（一人乐队）......我已经拥有各种各样的技能，我觉得人工智能将真正补充这种方法，帮助我与设计机构竞争，尽管我什么都做。 至少，我希望事情会这样发展......我并不担心图像生成器，但我担心我们不知道的潜伏在角落里的东西。 人工智能代理让我很担心，但我想我们只能拭目以待，尽管我觉得他们会对所有白领工作者构成威胁，而不仅仅是创意人士    提交人    /u/Weekly_Frosting_5868   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1htanpm/how_many_other_people_on_here_are_embracing_ai/</guid>
+      <pubDate>Sat, 04 Jan 2025 09:12:16 GMT</pubDate>
+    </item>
     <item>
       <title>2024 年，困惑悄然主导了人工智能搜索</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1htalqj/perplexity_quietly_dominated_ai_search_in_2024/</link>
       <description><![CDATA[  由    /u/5HARK007  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1htalqj/perplexity_quietly_dominated_ai_search_in_2024/</guid>
       <pubDate>Sat, 04 Jan 2025 09:08:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人能告诉我我做错了什么吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ht80mg/can_someone_tell_me_what_am_doing_wrong/</link>
-      <description><![CDATA[大家好，希望你们都一切顺利， 我在使用 OPEN API 时遇到了一个问题，我用它为我的网站构建了一个聊天机器人，今天我尝试了一下，我问了大约 4 个问题，每个问题最多 7 个字，而聊天机器人的输出比问题多得多，我想要的是详细的答复客户，但问题不在这里，而是在输入的令牌中。 我检查了一下，这 4 个问题使用了 70k 个令牌，而输出是 800 个。 这是怎么发生的，我是一个初学者，对这整个事情不太了解，所以任何帮助都将不胜感激。  （知识库的文档是 8 页的 Word 文档，前 3 页只是业务和服务的概述，其他 5 页是已完成的项目、标题、持续时间、开始日期、结束日期。）    提交人    /u/UENINJA   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ht80mg/can_someone_tell_me_what_am_doing_wrong/</guid>
-      <pubDate>Sat, 04 Jan 2025 06:05:21 GMT</pubDate>
     </item>
     <item>
       <title>我们何时才能看到 CUDA 的开源竞争对手？</title>
@@ -34,13 +62,6 @@
       <pubDate>Sat, 04 Jan 2025 03:43:25 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能与机器学习研究生课程：商业应用 - 它好吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ht3xih/post_graduate_program_in_artificial_intelligence/</link>
-      <description><![CDATA[我有建筑背景，所以不是 IT 背景。人工智能和机器学习研究生课程：商业应用程序课程是否适合像我这样在 IT 领域开始职业生涯的人？ 有什么想法或评论吗？感谢 Reddit 社区！    提交人    /u/kamakuu   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ht3xih/post_graduate_program_in_artificial_intelligence/</guid>
-      <pubDate>Sat, 04 Jan 2025 02:17:41 GMT</pubDate>
-    </item>
-    <item>
       <title>加里·马库斯 (Gary Marcus) 和迈尔斯·布伦戴奇 (Miles Brundage) 押注 2030 年前通用人工智能 (AGI) 的进展</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ht3ewp/gary_marcus_vs_miles_brundage_bet_on_agi_progress/</link>
       <description><![CDATA[因此，现在看来，在那些认为我们将在 2028 年之前实现 AGI 的人（代表为 Miles Brundage）和那些持怀疑态度的人（代表为 Gary Marcus）之间，现在出现了一场激烈的赌注。 Marcus 已在此处的 Substack 上发布了他的赌注的完整详细信息：https://garymarcus.substack.com/p/where-will-ai-be-at-the-end-of-2027 我想知道这个 subreddit 上的许多人是怎么想的？具体来说，你认为谁是正确的，为什么？  此外，上述 10 项任务是否是判断 AGI 是否真正实现的合理基准？根据赌注，如果以下 10 项任务中有 8 项在 2028 年之前实现，Gary Marcus 将认输：  观看一部以前没看过的主流电影（不看评论等），能够跟上剧情转折并知道什么时候该笑，能够总结剧情而不泄露任何剧透或编造任何实际上没有发生的事情，能够回答诸如谁是角色？他们的冲突和动机是什么？这些事情是如何变化的？情节转折是什么？ 与上述类似，能够阅读新的主流小说（无需阅读评论等），并可靠地回答有关情节、人物、冲突、动机等的问题，超越文字文本，让普通人能够理解。 撰写引人入胜的简短传记和讣告 [修正澄清：对于《纽约时报》讣告的长度和质量均有要求]，没有明显的幻觉，这些幻觉没有可靠的来源。 在几分钟或几小时内学习和掌握几乎任何新视频游戏的基础知识，并在该视频游戏的另一个世界中解决原始谜题。 撰写令人信服、有说服力的法律摘要，而不会对任何案件产生幻觉。 通过自然语言规范或与非专家的交互，可靠地构建超过 10,000 行的无错误代码用户。[将现有库中的代码粘合在一起不算。] 在很少或根本没有人类参与的情况下，编写普利策水准的书籍、小说和非小说。 在很少或根本没有人类参与的情况下，编写奥斯卡水准的剧本。 在很少或根本没有人类参与的情况下，提出范式转换、诺贝尔奖水准的科学发现。 从用自然语言编写的数学文献中获取任意证明，并将其转换为适合符号验证的符号形式     提交人    /u/__Trigon__   [链接] [评论]]]></description>
@@ -53,20 +74,6 @@
       <description><![CDATA[我个人对人工智能的看法是，它似乎很有用，但在某些方面非常有限。我观看了《经济学人》关于科学领域人工智能的视频。https://www.youtube.com/watch?v=PKN95I93iGE 该视频并未详细介绍人工智能究竟如何有用。此视频中的人工智能似乎必须由人类训练才能发挥作用。在一个例子中，一位科学家（13:20 左右）谈到人工智能的“突破”时刻将是如何，当其中一位人工智能科学家跳出框框思考并“想出一些人类无法想象的东西”时。这很模糊，但我认为他的意思是人工智能想出了治疗疾病的方法或人类永远无法想到的东西。这是真的吗 - AI 是否已经展现出思考人类无法思考的事物的能力？AI 科学家可以整夜工作并不知疲倦地进行实验，这很好，但他们仍在使用资源（测试产品等），因此他们需要证明自己。 对于 AI 擅长的某些任务，似乎值得投入精力和研究来推动这些 AI 工作，但对于许多其他事情，AI 还不够好。这仅仅是因为 AI 还没有时间变得足够好，还是因为它实际上可以做的事情是有限的？    提交人    /u/Alarm-Different   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ht30ya/talking_about_the_limits_of_ai_capabilities/</guid>
       <pubDate>Sat, 04 Jan 2025 01:32:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>简化文本回复并维护品牌声音？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ht2xbs/streamline_text_responses_maintain_brand_voice/</link>
-      <description><![CDATA[发布： 我经营一家服务型企业，主要通过 iPhone 上的文本与客户沟通。为了与我的品牌声音保持一致，我使用 ChatGPT 来帮助撰写回复。 问题是：1. 聊天之间没有记忆——ChatGPT 不会保留过去的对话，所以我不得不不断地重新解释事情。2. 手动复制粘贴——我必须分别复制和粘贴每条消息，这很乏味。3. 缺乏集成——我希望有一种更简单的方法来生成响应，而无需在应用程序之间切换。 我正在寻找一种可以使这个过程更顺畅的 AI 工具、自动化或自定义解决方案——理想情况下是可以与 iPhone 消息传递配合使用并更好地记住上下文的东西。 有人找到解决这个问题的好办法吗？欢迎提出应用程序建议或技术解决方案！   由    /u/Easy_Low3286  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ht2xbs/streamline_text_responses_maintain_brand_voice/</guid>
-      <pubDate>Sat, 04 Jan 2025 01:27:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找根据我的旧广告数据库生成新广告的 AI 平台</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ht0krv/looking_for_ai_platform_that_generates_new_ads/</link>
-      <description><![CDATA[理想情况下，这将能够连接到 Azure 数据库并提取诸如原色和次色以及徽标之类的内容，以生成与我的旧广告数据库一致的广告。旧广告的图案相对简单，主要是形状、条纹和颜色渐变。我知道我们公司的开发人员可以在不使用 AI 的情况下编写类似的东西，只需使用预制模板，但我的老板出于某种原因真的希望这是由 AI 生成的，所以任何帮助都非常感谢！    提交人    /u/Affectionate-Web2365   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ht0krv/looking_for_ai_platform_that_generates_new_ads/</guid>
-      <pubDate>Fri, 03 Jan 2025 23:38:50 GMT</pubDate>
     </item>
     <item>
       <title>中国研究人员破解OpenAI的o1</title>
@@ -88,13 +95,6 @@
       <description><![CDATA[  由    /u/Sam_Tech1  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hstls6/top_10_llm_research_papers_from_last_week/</guid>
       <pubDate>Fri, 03 Jan 2025 18:41:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sonnet 3.6 和 Experimental 1206 是编码的新元数据</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hsbnrd/sonnet_36_and_experimental_1206_is_the_new_meta/</link>
-      <description><![CDATA[刚从假期回来，完成了第一天的编码工作，因此我决定将 1206 添加到我的工作流程中，结果让我大吃一惊。 Claude 的 Sonnet 仍然是编码领域无可争议的赢家，但避免达到使用限制总是很麻烦  这就是 Google 的 1206 发挥作用的地方，它的 200 万个令牌上下文窗口允许我使用一个线程进行整个讨论。我可以随时通知它所有更改，它会记住，让我可以专注于与 Claude 一起完成复杂的编码任务。 这是一个很棒的组合。我喜欢它。     提交人    /u/Crafty_Escape9320   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hsbnrd/sonnet_36_and_experimental_1206_is_the_new_meta/</guid>
-      <pubDate>Fri, 03 Jan 2025 02:22:26 GMT</pubDate>
     </item>
     <item>
       <title>每月“是否有一个工具可以……”帖子</title>
