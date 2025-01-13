@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 13 Jan 2025 18:18:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 21:12:24 GMT</lastBuildDate>
+    <item>
+      <title>Cataphract - 一个开源跨平台 Shell</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i0lhlg/cataphract_an_opensource_cross_platform_shell/</link>
+      <description><![CDATA[你好！ 我用 Java 编写了一个简单的、开源的、跨平台的 shell。目前我已经在 Windows 和 Linux 上对其进行了测试。 该程序是单线程的，具有简单的脚本解析逻辑。我想知道您对这个项目的想法和反馈。我也可以使用 Termux 在 Android 上运行它。 https://github.com/DAK404/Cataphract/tree/Development 注意：* Development 分支具有最新代码，因此我在此处链接了相同的代码。 * 我已经在 openJDK 21 上编译了二进制文件。 * 有一个 make 文件，应该可以直接制作项目。 命令应该是 make project=Cataphract all    提交人    /u/DAK404   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i0lhlg/cataphract_an_opensource_cross_platform_shell/</guid>
+      <pubDate>Mon, 13 Jan 2025 18:56:33 GMT</pubDate>
+    </item>
     <item>
       <title>我开发了一个开源应用程序，可以在你打字时添加打字声音</title>
       <link>https://www.reddit.com/r/opensource/comments/1i0hcfb/i_developed_an_opensource_application_that_adds/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[我不知道我是否正在申请一个melting subreddit，如果不是这样，那么请将我引导到一个更合适的。但是。 你们中的许多人都知道有这样一个神奇的工具，如yt-dlp，它允许您从数百个不同的网站下载视频。一个项目，一个任务，数百个支持的网站。我想问是否有像yt-dlp这样的工具，但用于从文件共享网站（如mega，google drive）下载文件。    提交人    /u/Unique-Usnm   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1i05tld/findind_for_a_ytdlp_like_project/</guid>
       <pubDate>Mon, 13 Jan 2025 04:18:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>我几乎从来没能建立过开源项目</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i05e5i/i_can_almost_never_build_open_source_projects/</link>
-      <description><![CDATA[事情从来都不是一帆风顺的。总是会有一些问题，而且根据我的经验，我往往找不到解决方案/不愿意花费数小时甚至数天的时间来弄清楚。 总是有 10 个东西需要作为先决条件安装，而每个东西对于您需要的确切设置都有些模糊，而且它根本不起作用，构建几乎总是会出现错误。 技能问题？在您的计算机上构建项目是否有更简单的方法？技术已经取得了长足的进步，但我觉得需要一些东西来使这个过程变得简单/标准化。    提交人    /u/LujoCheesecake   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i05e5i/i_can_almost_never_build_open_source_projects/</guid>
-      <pubDate>Mon, 13 Jan 2025 03:54:58 GMT</pubDate>
     </item>
     <item>
       <title>XDA 上的 Android 反取证</title>
