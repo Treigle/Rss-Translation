@@ -4,7 +4,56 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 24 Jan 2025 15:13:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jan 2025 00:53:29 GMT</lastBuildDate>
+    <item>
+      <title>用于在线监考检测的开源解决方案</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i9ay5u/opensource_solutions_for_proctoring_detections/</link>
+      <description><![CDATA[我们从事人力资源行业，我们的产品是 AI 面试。现在我们需要一个能够从视频中检测出作弊迹象的解决方案，我们自己的解决方案是一个需要时间的过程，同时如果有任何可用于此类解决方案的工具，那么我很乐意探索。     提交人    /u/John-Doe-99   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i9ay5u/opensource_solutions_for_proctoring_detections/</guid>
+      <pubDate>Sat, 25 Jan 2025 00:49:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 OSS 还是不使用 OSS</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i99wgt/to_oss_or_not_to_oss/</link>
+      <description><![CDATA[好吧，你好，显然作为一名开发人员，我非常支持开源。我认为它有助于创建一个坚实的社区，而将 OSS 项目用于我的个人项目对我来说是一个有趣的挑战。我的问题是，我试图说服我所在的公司，我们需要在这个领域发挥更多作用，以便对开发人员更友好。但当然，我收到了“OSS 没有钱，所以我们不想在那里浪费时间”的反对意见，但我试图争辩说，加入 OSS 社区所带来的长期社区 + 信誉是值得的。  其他人在自己的公司遇到过类似问题吗？你是如何克服的？     提交人    /u/getambassadorlabs   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i99wgt/to_oss_or_not_to_oss/</guid>
+      <pubDate>Fri, 24 Jan 2025 23:59:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>实验室：用于快速代码实验的零摩擦 CLI 工具</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i99p2h/lab_a_zerofriction_cli_tool_for_quick_code/</link>
+      <description><![CDATA[我制作了一个工具来消除您想要快速测试某些代码时的摩擦。输入 lab 和任何扩展名即可立即开始编码 - 无需考虑文件名或目录。 主要特点： - 即时启动：输入 lab 和任何扩展名即可打开新文件 - 智能组织：文件自动以日期+字母命名（例如，250112a） - 快速访问：lab 1 打开最近的文件 - 自动清理：文件在 7 天后过期（可配置）  目标是消除&quot;我想尝试一些东西&quot;和实际编写代码之间的所有开销。文件位于 ~/lab 中并可自行清理 - 无需管理。 https://github.com/lugenx/lab 欢迎反馈！使用 Go 制作。    由   提交  /u/lugenx   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i99p2h/lab_a_zerofriction_cli_tool_for_quick_code/</guid>
+      <pubDate>Fri, 24 Jan 2025 23:49:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个基于 Counter Strike 1.6 UI 的 css 库。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i97978/i_made_a_css_library_based_on_counter_strike_16_ui/</link>
+      <description><![CDATA[  由    /u/Nice_Wrangler_5576  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i97978/i_made_a_css_library_based_on_counter_strike_16_ui/</guid>
+      <pubDate>Fri, 24 Jan 2025 22:00:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenStax 教科书 UX（阅读体验很差）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i95mei/openstax_text_book_ux_reading_experience_sux/</link>
+      <description><![CDATA[嗨 有人知道 OpenStax 项目吗？如何提供反馈意见并以 UX 设计的形式为该项目做出贡献？ 我希望找到一个像 r/openstax 这样的活跃 subreddit，但它不存在……也许它存在，我只需要有人告诉我在哪里？ 谢谢！    提交人    /u/cat-named-mouse   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i95mei/openstax_text_book_ux_reading_experience_sux/</guid>
+      <pubDate>Fri, 24 Jan 2025 20:49:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>🚀 EtsyTrackr - 用于跟踪 Etsy 销售和支出的小工具</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i94itf/etsytrackr_small_tool_to_track_your_etsy_sales/</link>
+      <description><![CDATA[嗨，热爱开源的 Etsy 卖家们！我创建了 EtsyTrackr，因为我想以一种简单的方式跟踪我的销售、费用和净利润，而不依赖电子表格。我需要一个可以离线工作的东西，使用 Etsy 的月结单 CSV（不需要 API），并将所有内容存储在本地。 功能：  费用跟踪：附加收据、对费用进行分类等等。 销售洞察：快速查看您商店的表现。 离线优先：本地存储以保护隐私。 Windows 支持（Mac/Linux 即将推出，祝您好运！）  在这里查看：EtsyTrackr。欢迎反馈！🌟    提交人    /u/Engle2192   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i94itf/etsytrackr_small_tool_to_track_your_etsy_sales/</guid>
+      <pubDate>Fri, 24 Jan 2025 20:02:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找合作者和反馈：用于人形运动的开源全身非线性 MPC</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i8zqgl/looking_for_collaborators_and_feedback_open/</link>
+      <description><![CDATA[我们最近在 GitHub 上发布了一个开源项目，该项目实现了基于物理的全阶人形机器人运动规划和控制。我们希望这个项目可以帮助让实时优化和控制的主题更容易理解，让用户通过实时参数调整来培养直觉。您是否有任何建议可以最大限度地提高项目的可访问性，特别是关于文档、安装过程和整体用户体验？ https://github.com/1x-technologies/wb-humanoid-mpc    提交人    /u/phthah   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i8zqgl/looking_for_collaborators_and_feedback_open/</guid>
+      <pubDate>Fri, 24 Jan 2025 16:43:41 GMT</pubDate>
+    </item>
     <item>
       <title>哪些开源替代品正在占据 10 亿美元以上的市场？</title>
       <link>https://www.reddit.com/r/opensource/comments/1i8uwei/what_open_source_alternatives_are_taking_on_1b/</link>
@@ -60,55 +109,6 @@
       <description><![CDATA[  由    /u/Qwert-4  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1i8esy0/what_opensource_ui_framework_is_the_closest_to/</guid>
       <pubDate>Thu, 23 Jan 2025 21:37:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Zoom 的安全替代品？（以及对 Fairmeeting 的看法？）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i8alxm/secure_alternatives_to_zoom_and_thoughts_on/</link>
-      <description><![CDATA[嗨！ 我正在尝试寻找 Zoom/Google Meet/等的安全 FOSS 替代品，最好不需要帐户。有人有什么建议吗？ 我一直在尝试研究 fairmeeting，但找不到太多关于它的信息。他们声称他们符合 GDPR 要求，但是？有人用过吗？ 我以前用过 Jitsi Meet，但现在需要一个帐户…… 我将在几个子版块中发布此内容，以尝试涵盖我的所有基础，所以如果您在各个子版块多次看到此帖子，我很抱歉哈哈 😅    提交人    /u/popcultureSp00nie22   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i8alxm/secure_alternatives_to_zoom_and_thoughts_on/</guid>
-      <pubDate>Thu, 23 Jan 2025 18:43:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>KitOps v1.0.0 现已推出，具有将 Hugging Face 导入 ModelKit 的功能</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i8a2i0/kitops_v100_is_now_available_featuring_hugging/</link>
-      <description><![CDATA[  由    /u/iamjessew  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i8a2i0/kitops_v100_is_now_available_featuring_hugging/</guid>
-      <pubDate>Thu, 23 Jan 2025 18:22:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>一款小巧、简单且安全的通讯工具</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i88ex7/a_small_simple_and_secure_messenger/</link>
-      <description><![CDATA[源代码：https://github.com/umutcamliyurt/Amnesichat    由   提交  /u/0TheNemesis0   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i88ex7/a_small_simple_and_secure_messenger/</guid>
-      <pubDate>Thu, 23 Jan 2025 17:14:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>我写过一篇关于拥有开源编程语言的经济学的文章</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i879hw/i_wrote_about_the_economics_of_owning_an/</link>
-      <description><![CDATA[  由    /u/DataBaeBee  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i879hw/i_wrote_about_the_economics_of_owning_an/</guid>
-      <pubDate>Thu, 23 Jan 2025 16:27:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>重新构想开源人工智能的数据：行动呼吁</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i807mb/reimagining_data_for_open_source_ai_a_call_to/</link>
-      <description><![CDATA[        提交人    /u/opensourceinitiative   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i807mb/reimagining_data_for_open_source_ai_a_call_to/</guid>
-      <pubDate>Thu, 23 Jan 2025 10:11:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>商业计划软件：</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i7z0k0/business_plan_software/</link>
-      <description><![CDATA[大家好，有没有与 Live Plan 相当的开源版本？    提交者    /u/Electronic_Kitchen74   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i7z0k0/business_plan_software/</guid>
-      <pubDate>Thu, 23 Jan 2025 08:38:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Neutrix - 状态管理库</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i7xvcf/neutrix_a_state_management_library/</link>
-      <description><![CDATA[📢 介绍 Neutrix 我想分享一些我一直在研究的东西：Neutrix — 一个（希望）强大的 React 状态管理库。 为什么选择 Neutrix？ 我最初遇到的问题之一是在 Zustand 和 Redux 之间进行选择，我有点喜欢 Zustand 的灵活性，但也需要 Redux 提供程序的强大功能来处理大型应用程序。我继续使用 Redux，4 年后，当我回顾一些旧代码时，我甚至无法理解自己在写什么。  🌟 主要特点  单商店简单性：使用 createNeutrixStore 实现类似 Zustand 的仅钩子简单性。无需 &lt;Provider&gt;。 基于提供程序的商店（可选）：需要 SSR 还是多个商店？添加 &lt;NeutrixProvider&gt; 以获得类似 Redux 的灵活性。 自动依赖跟踪：使用基于代理的系统跟踪依赖项，确保重新渲染得到优化。 轻量级：更少的样板。  🚀 示例 基本计数器（仅 Hook） import { createNeutrixStore } from &#39;neutrix&#39;; const { useStore } = createNeutrixStore({ count: 0 }); function Counter() { const count = useStore(s =&gt; s.count); return ( &lt;button onClick={() =&gt; useStore.store.set(&#39;count&#39;, count + 1)}&gt; Count: {count} &lt;/button&gt; ); }  多个商店（基于提供商） import { NeutrixProvider, createNeutrixStore } from &#39;neutrix&#39;; const { store: userStore, useStore: useUserStore } = createNeutrixStore({ user: null }); const { store: cartStore, useStore: useCartStore } = createNeutrixStore({ car​​t: [] }); function App() { return ( &lt;NeutrixProvider stores={{ userStore, cartStore }}&gt; &lt;Profile /&gt; &lt;Cart /&gt; &lt;/NeutrixProvider&gt; ); }  📖 文档 完整文档，包括示例和高级用法，可在此处找到。 🔗 GitHub Repo 查看并给予评价 ⭐，然后告诉我你的反馈：Neutrix GitHub 🗨️ 反馈 我很想听听你的想法！有问题、想法或用例？发表评论或在 GitHub 上打开问题。    提交人    /u/papersashimi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i7xvcf/neutrix_a_state_management_library/</guid>
-      <pubDate>Thu, 23 Jan 2025 07:10:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
