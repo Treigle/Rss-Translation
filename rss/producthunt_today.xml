@@ -4,12 +4,12 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 05 Feb 2025 12:23:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 15:13:28 GMT</lastBuildDate>
     <item>
       <title>a0.dev</title>
       <link>https://www.producthunt.com/posts/a0-dev</link>
       <description><![CDATA[
-使用 AI 生成完整的移动应用程序
+使用 AI 生成完整的移动应用
 
 
 讨论
@@ -76,7 +76,7 @@
       <pubDate>Tue, 04 Feb 2025 12:12:33 GMT</pubDate>
     </item>
     <item>
-      <title>过滤输入</title>
+      <title>筛选输入</title>
       <link>https://www.producthunt.com/posts/filterin</link>
       <description><![CDATA[
 隐藏包含您想要避免的关键字的 LinkedIn 帖子
@@ -88,6 +88,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/filterin</guid>
       <pubDate>Tue, 04 Feb 2025 10:45:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>小部件</title>
+      <link>https://www.producthunt.com/posts/widgets-3</link>
+      <description><![CDATA[
+让生产力更简单的日常实用应用
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/widgets-3</guid>
+      <pubDate>Tue, 04 Feb 2025 05:46:37 GMT</pubDate>
     </item>
     <item>
       <title>冰</title>
@@ -116,20 +130,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/airtop-auth-2</guid>
       <pubDate>Mon, 03 Feb 2025 19:05:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>空中歌剧</title>
-      <link>https://www.producthunt.com/posts/opera-air-2</link>
-      <description><![CDATA[
-用心的浏览器 
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/opera-air-2</guid>
-      <pubDate>Mon, 03 Feb 2025 14:46:45 GMT</pubDate>
     </item>
     <item>
       <title>提示器 IDE</title>
