@@ -3,26 +3,33 @@
   <channel>
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
-    <description></description>
-    <lastBuildDate>Fri, 07 Feb 2025 06:19:32 GMT</lastBuildDate>
+    <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
+    <lastBuildDate>Fri, 07 Feb 2025 09:14:37 GMT</lastBuildDate>
+    <item>
+      <title>ReactOS成立于1998年。它仍处于积极发展状态，并且仍在Alpha中。这是Alpha状态最长的项目吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ijps7k/reactos_was_created_in_1998_its_still_in_active/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  直到该项目是在1998年创建的，并且今天仍在积极开发。但这仍然处于alpha状态。我想知道这是运行时间最长的Alpha状态项目吗？   https://en.wikipedia.org/ wiki/reactos     https://github.com/reaectos/reaectos/reactos/  &lt; /p&gt;  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/monad__     [link]   ＆＃32;   [注释]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ijps7k/reactos_was_created_in_1998_its_still_in_active/</guid>
+      <pubDate>Fri, 07 Feb 2025 07:44:40 GMT</pubDate>
+    </item>
     <item>
       <title>您对代码文档和开源软件的示例有何看法？您仍然使用它们还是直接前往AI并查找代码库？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ijho1v/what_is_your_opinion_of_code_documentation_and/</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我试图了解我应该花费多少时间作为开发人员在我的github repo上维持完全工作的示例。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/arbithero     [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ijho1v/what_is_your_opinion_of_code_documentation_and/</guid>
       <pubDate>Fri, 07 Feb 2025 00:08:06 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>我为Next.js构建了一个开源UI库，以简化设计</title>
       <link>https://www.reddit.com/r/opensource/comments/1ijeooy/i_built_an_opensource_ui_library_for_nextjs_to/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，我一直在使用UI，这是Next.js的开源设计系统或设计。  一个文件，无尽的样式 - 您可以在几分钟内完全更改应用程序的设计。 对开发的样式 - 无需深入研究CSS Hacks ;只需使用几个关键字应用样式即可。 专为吸引设计的人而构建的 - 我们的大多数用户不是硬核前端开发人员。他们是全栈 /后端 /设计人员，他们只想要有效的好东西。&lt; / li&gt; &lt; / ul&gt; 最重要的是，我们正在为创意人建立一个社区，而不仅仅是程序员，而且还关心UI/UX并且不怕进入未知的艺术家，摄影师和设计师。 感兴趣吗？检查一下： https://once-ui.com ，让我知道您的想法！  随意在不和谐上与我们联系： https://designengineers.club       &lt; ！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/lorantart     [link]  ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ijeooy/i_built_an_opensource_ui_library_for_nextjs_to/</guid>
       <pubDate>Thu, 06 Feb 2025 21:57:02 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>要求贡献者</title>
       <link>https://www.reddit.com/r/opensource/comments/1ij9xne/ask_for_contributors/</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[在使用三。用户可以控制化身，探索环境并实时与元素进行交互。 🛠技术堆栈       frontend： react + react +三。  💡您如何帮助 我正在寻找以下领域的贡献者：✅角色控制＆amp; amp;动画✅多人集成✅环境＆amp;资产优化✅一般改进＆amp;错误修复 如果您喜欢 3D开发，基于物理的运动或元现实概念，我很乐意您检查回购并做出贡献！   github存储库：  z-world github    &lt; P&gt;让我知道您的想法，并随时提出建议！期待合作。 🚀  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/marketno6858     [link]  ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ij9xne/ask_for_contributors/</guid>
       <pubDate>Thu, 06 Feb 2025 18:44:16 GMT</pubDate>
     </item>
@@ -43,33 +50,33 @@
     <item>
       <title>18岁以下人士的GSOC有哪些选择？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ij7mta/what_are_some_alternatives_for_gsoc_for_under18/</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我对像GSOC这样的体验非常感兴趣。但是，我不会很快18岁（16岁，今年17岁）。 其他选择是什么？ （我是HS中的高年级）  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/ok_system5789     [link]  ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ij7mta/what_are_some_alternatives_for_gsoc_for_under18/</guid>
       <pubDate>Thu, 06 Feb 2025 17:10:57 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>Reddit用户发布了一个开源多模型AI-Tool，以帮助医疗诊断。</title>
       <link>https://www.reddit.com/r/opensource/comments/1ij7jwi/reddit_user_released_an_opensource_multimodel/</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/proomablepossum_     [link]   ＆＃32;   [注释] /table&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ij7jwi/reddit_user_released_an_opensource_multimodel/</guid>
       <pubDate>Thu, 06 Feb 2025 17:07:37 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>🚀Strava Statistics v0.4.11发布！徽标重新设计，新过滤器和生活质量改善</title>
       <link>https://www.reddit.com/r/opensource/comments/1ij6j1f/strava_statistics_v0411_released_logo_redesign/</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   hi  r/opensource  P&gt; 我很高兴宣布Strava统计学`v0.4.11`已于本周早些时候发布。   Strava Statistics是一个自托管的Web应用程序，旨在为您提供更好的Stats。   示例： https://strava-statistics.法 -  statistics.法/a&gt;   github： https://github.com/robiningelbrecht/strava-statistics  /li&gt;    v0.4.11中的新功能和改进：   新徽标设计 在活动表概述的顶部 添加了日期范围滤波器 +过滤器重新设计 添加了活动拆分的平均心率 添加访问访问到概述搜索 修复了帝国单位的几个问题 修复了一个错误，其中退休的齿轮名被错误地呈现  计划的功能： https://github.com/robiningelbrecht/strava-statistics/issues    一如既往地感谢您的反馈，我的反馈期待更多功能请求！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/frogfuhrer     [link]  ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ij6j1f/strava_statistics_v0411_released_logo_redesign/</guid>
       <pubDate>Thu, 06 Feb 2025 16:26:46 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>Autiobooks：自动将epubs转换为有声读物</title>
       <link>https://www.reddit.com/r/opensource/comments/1ij2565/autiobooks_automatically_convert_epubs_to/</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;     https：//github.com/plususold/autiobooks   这是Kokoro的GUI前端，用于从Epubs生成有声读物。结果非常好！  PR非常欢迎  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/vosfan     [link]  ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ij2565/autiobooks_automatically_convert_epubs_to/</guid>
       <pubDate>Thu, 06 Feb 2025 13:09:32 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>如何开始？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ij18pn/how_to_get_started/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，我正在考虑在不久的将来将我的项目释放到开源中，这基本上是一种将多个Wineguard连接连接到您的PC并使用的简便方法他们同时（例如，您可以通过VPN专门观看电影，同时从默认的隧道下载文件）。我从来没有将项目释放到开源的经验，所以我在弄清楚应该做什么时遇到了麻烦，我在要求如何领导开源的建议 - 如何使其流行，在哪里发布它们，也许有些内容关于它。谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/sagotly     [link]  ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ij18pn/how_to_get_started/</guid>
@@ -83,9 +90,9 @@
       <pubDate>Thu, 06 Feb 2025 11:16:42 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>READEST  - 一款快速，开源的电子书阅读器，具有无缝的书籍文件跨设备同步！</title>
       <link>https://www.reddit.com/r/opensource/comments/1ij0569/readest_a_fast_opensource_ebook_reader_with/</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[在A 轻巧，快速和开源读取器具有无缝的跨设备同步！由 Tauri v2 和 Next.js 15 建造，它的设计重新发现了阅读的乐趣      。 🚀是什么使Readest很棒：     epub＆amp; PDF支持  - 无缝处理EPUB和PDFS。   跨设备同步  - 您的书籍文件，阅读进度，亮点，亮点和笔记毫不费力地在跨设备上同步。&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt; /p&gt;  可自定义的阅读模式  - 调整主题，字体和布局，包括支持垂直epubs 。拆分视图阅读  - 非常适合并排比较或文本分析。 🗣️文本到语音  - 用内置的书籍听读取支持。  在线阅读  - 访问库并直接在浏览器中阅读。  在线尝试 。   开放源质量 - 用爱建造，每个人都可以探索和贡献。  在Windows，Macos，Linux和Web上工作=“ https://readest.com”&gt; 下载readest        github存储库    p.s。这是一个仍在积极开发中的开源项目！如果您有的想法，反馈，或者只是想尝试一些新事物，我很想收到您的来信！ 🚀  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/due_bid564     [link]   ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ij0569/readest_a_fast_opensource_ebook_reader_with/</guid>
       <pubDate>Thu, 06 Feb 2025 11:10:22 GMT</pubDate>
     </item>
@@ -97,18 +104,11 @@
       <pubDate>Thu, 06 Feb 2025 10:45:02 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>替换MSP＆AD  - 需要内部解决方案来进行补丁管理和安全策略</title>
       <link>https://www.reddit.com/r/opensource/comments/1iiyr4u/replacing_msp_ad_need_inhouse_solution_for_patch/</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[在更换我们的MSP。多年来，我们的技术堆栈发生了很大变化，自从远程工作成为常态以来，我们已经离开了本地广告设置。我想认为这种过渡应该很容易，但是我觉得我缺少一些东西。 当前设置＆amp;需求  电子邮件＆amp;协作。 仍然纯粹用于Excel的Microsoft 365业务。 用于从本地广告运营，但我们现在完全遥远。 用户计数：4 |设备：5（Windows＆amp; Mac的混合，有些BYOD）。 需要一个用于补丁管理的解决方案（Windows＆amp; Mac）。 需要执行安全策略（例如限制控制面板，块可移动媒体等）。 想要轻松管理设备访问＆amp;跨Windows/Mac。 寻找一种低成本，易于管理的替代方案，可用于传统AD＆amp; MSP服务。  我正在考虑的解决方案    JumpCloud  - 似乎是最全面的，但值得我们的大小吗？  ACTION1  - 免费补丁管理，但除此之外都有限。   level.io   - 补丁管理，但不是完整的UEM解决方案。 端点中心（manageengine） - 感到笨拙，我不会在4周内出现，因此需要易于管理。  打开-source/自托管选项？ 给定我们的小设置，是否有可以处理补丁管理 +安全策略而无需破坏银行的开源或自托管工具？ 我要在这里发布，因为这是我知道的最精通技术的潜艇。您建议只需要基本设备/登录/安全策略管理的小型团队？ 喜欢任何想法或现实世界的体验。谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/unknownbullet     [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iiyr4u/replacing_msp_ad_need_inhouse_solution_for_patch/</guid>
       <pubDate>Thu, 06 Feb 2025 09:32:45 GMT</pubDate>
-    </item>
-    <item>
-      <title></title>
-      <link>https://www.reddit.com/r/opensource/comments/1iiy8bh/should_i_make_my_project_open_source/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iiy8bh/should_i_make_my_project_open_source/</guid>
-      <pubDate>Thu, 06 Feb 2025 08:53:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
