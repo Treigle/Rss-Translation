@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 13 Feb 2025 12:23:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2025 15:15:28 GMT</lastBuildDate>
     <item>
       <title>购物+博览会</title>
       <link>https://www.producthunt.com/posts/bolt-expo</link>
@@ -90,8 +90,8 @@
       <pubDate>Wed, 12 Feb 2025 10:37:27 GMT</pubDate>
     </item>
     <item>
-      <title>可爱的视觉编辑</title>
-      <link>https://www.producthunt.com/posts/lovable-visual-edits</link>
+      <title>可爱的视觉编辑（早期访问）</title>
+      <link>https://www.producthunt.com/posts/lovable-visual-edits-early-access</link>
       <description><![CDATA[
 更快、更精确的编辑
 
@@ -100,14 +100,14 @@
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/lovable-visual-edits</guid>
+      <guid>https://www.producthunt.com/posts/lovable-visual-edits-early-access</guid>
       <pubDate>Tue, 11 Feb 2025 14:11:42 GMT</pubDate>
     </item>
     <item>
       <title>Chirp：用于 Apple Watch 的人工智能</title>
       <link>https://www.producthunt.com/posts/chirp-ai-for-apple-watch</link>
       <description><![CDATA[
-无需电话，即可进行搜索、留言和获取答案
+只需说话即可获得快速答案和智能操作
 
 
 讨论
@@ -163,7 +163,7 @@
       <title>Roamr 好友</title>
       <link>https://www.producthunt.com/posts/roamr-for-friends</link>
       <description><![CDATA[
-出差期间与朋友同住还能获得报酬
+出差期间和朋友一起住还能获得报酬
 
 
 讨论
@@ -172,6 +172,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/roamr-for-friends</guid>
       <pubDate>Mon, 10 Feb 2025 22:13:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>保持平衡的丘比特</title>
+      <link>https://www.producthunt.com/posts/poised-cupid</link>
+      <description><![CDATA[
+情人节的 AI 僚机 - 从热闹到浪漫 💘
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/poised-cupid</guid>
+      <pubDate>Mon, 10 Feb 2025 16:28:20 GMT</pubDate>
     </item>
     <item>
       <title>视觉代理</title>
@@ -200,20 +214,6 @@ AI 面试：比调查更深入，比 1:1 聊天更快
 ]]></description>
       <guid>https://www.producthunt.com/posts/feedbackstream</guid>
       <pubDate>Mon, 10 Feb 2025 04:26:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>原型</title>
-      <link>https://www.producthunt.com/posts/prototype</link>
-      <description><![CDATA[
-只需一个提示即可构建您的下一个项目
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/prototype</guid>
-      <pubDate>Sun, 09 Feb 2025 20:53:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
