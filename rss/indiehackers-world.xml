@@ -4,15 +4,11 @@
     <title>发布独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是indiehackers.com的非官方提要</description>
-    <lastBuildDate>Fri, 14 Feb 2025 15:15:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2025 18:16:52 GMT</lastBuildDate>
     <item>
       <title>深层 - 建立没有CMS的内容驱动的站点</title>
       <link>https://feed.indiehackers.world/post/1ec439e520</link>
-      <description><![CDATA[ deepdish是一个下一个框架，它使您可以在没有传统的CMS的情况下构建内容驱动的站点。您可以直接在页面上管理内容。您可以通过编写简单的反应组件来完成所有这些。目前，我们提供了一套排版组件，但正在努力提高更多功能。
-我们希望使开发商和营销人员的生活更加轻松。
-我们很乐意在产品的这一早期阶段获得一些反馈。在 https://www.deepdish.app 上查看我们。如果这听起来很酷，您可以加入候补名单。
-欢呼！
-    discord indiehackers chat    ads 在这里 ]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://feed.indiehackers.world/post/1ec439e520</guid>
       <pubDate>Fri, 14 Feb 2025 04:06:28 GMT</pubDate>
     </item>
@@ -90,7 +86,7 @@
       <pubDate>Sun, 09 Feb 2025 18:19:39 GMT</pubDate>
     </item>
     <item>
-      <title>我应该在产品狩猎而不是工作的MVP上启动着陆页吗？</title>
+      <title></title>
       <link>https://feed.indiehackers.world/post/6bc3fd6973</link>
       <description><![CDATA[嗨，大家
 我的着陆页（看起来很漂亮）带有铅形式和等待名单，但没有工作产品。我应该这样启动它，并希望对该想法的候补名单注册和反馈，或者等待完成MVP并启动？还是两者？非常感谢！
@@ -101,27 +97,7 @@
     <item>
       <title>数据分析摊牌：比较SQL，Python和ESPROC SPL</title>
       <link>https://feed.indiehackers.world/post/dd4c31d7ce</link>
-      <description><![CDATA[ arr = np.array（user_date_wether_con3days）
-day7_cont3num = np.sum（arr，axis = 0）
-结果= pd.dataframe（{&#39;dt&#39;：aligned_dates [6：]，&#39;cont3_num&#39;：day7_cont3num}）
- 
-### 4。计算每天新用户的第二天保留率
-
-用户登录数据表
-！[用户登录数据表]（https://miro.medium.com/v2/resize：fit:1400/format:webp/1* yomnhnhxntdmfel9dwyyy1qq.png）
-
-** SPL **
-！[SPL代码脚本]（https://miro.medium.com/v2/resize：Fit:1400/format：Webp/1* 3ce0-xxldtdnvlybzt6nw.png）
-A2：用户组组；记录第一个登录日期，并检查用户是否在第二天登录。
-
-A3：根据第二天的登录日期来计算第二天的保留率。
-
-** SQL **
- 
-使用first_login as（
-    选择UserId，min（trunc（ts））作为first_login_date
-    从login_data 
-    discord indiehackers chat    ads 在这里 ]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://feed.indiehackers.world/post/dd4c31d7ce</guid>
       <pubDate>Sat, 08 Feb 2025 06:22:30 GMT</pubDate>
     </item>
@@ -176,10 +152,7 @@ A3：根据第二天的登录日期来计算第二天的保留率。
     <item>
       <title>我构建了一个改进博客参与度的应用程序，现在我需要测试人员和反馈</title>
       <link>https://feed.indiehackers.world/post/3f6214dd12</link>
-      <description><![CDATA[如果您有兴趣，请发表评论或给我发送电子邮件至＆＃x6e;” ;＆＃117;＆＃x64;＆＃100;＆＃x79;＆＃x2e;＆＃105;＆＃105;＆＃x6f; ，我将与您分享该应用程序。
- P.S：作为次要目标，我对新闻，博客甚至电子商务网站的建议感兴趣，他们有兴趣与我可以联系的AI生成的摘要。
-非常感谢！
-    discord indiehackers chat    ads 在这里 ]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://feed.indiehackers.world/post/3f6214dd12</guid>
       <pubDate>Mon, 03 Feb 2025 15:01:59 GMT</pubDate>
     </item>
