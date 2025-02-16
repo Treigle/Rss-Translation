@@ -4,11 +4,32 @@
     <title>Chatgpt，人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇观着迷，被Chatgpt的力量迷住，或者对人工智能和自动化的无尽可能性所吸引？别再看！我们充满活力的Reddit社区是像您这样的爱好者的完美枢纽。作为我们社区的成员，您将获得大量资源，包括：🔬关于自动化，Chatgpt和AI的发人深省的讨论。 🌟对最新进步和行业新闻的独家见解</description>
-    <lastBuildDate>Sun, 16 Feb 2025 18:14:45 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Feb 2025 21:11:04 GMT</lastBuildDate>
+    <item>
+      <title>AI代理可以预订使用浏览器使用和Gemini 2.0 Flash的航班</title>
+      <link>https://www.reddit.com/r/automation/comments/1ir284f/ai_agent_to_book_a_flight_with_browser_use_and/</link>
+      <description><![CDATA[在网络等。 我发现的用例之一是自动预订或找到航班，而且效果很好。 找到一个开源替代方案很酷openai操作员，并且免费，因为Gemini 2.0 Flash当前是免费的，并且可以使用Ollama。 您对此框架的其他用例有任何想法吗？我写了一篇中等文章，内容涉及如何使用浏览器使用和Gemini 2.0 Flash在Google航班上预订航班。请随时阅读并分享您的想法：   https://link.medium.com/312r3xpj2qb    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/hive-zucchini-180      [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1ir284f/ai_agent_to_book_a_flight_with_browser_use_and/</guid>
+      <pubDate>Sun, 16 Feb 2025 20:50:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>FB小组帖子的通知/警报</title>
+      <link>https://www.reddit.com/r/automation/comments/1ir1msy/notificationalert_for_fb_group_posts/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我希望设置一个自动化，以提醒我，当有人在本地Facebook组之一中发布我，我是我的成员，要求提出建议这套件我的服务业务产品。从我对Webhooks的有限了解来看，这似乎超出了他们的范围。  我想知道这是否可能是可能的，如果是这样，Zapier/Make/Relay等如何实现？   注意：请原谅我的无知 - 非技术倾向于我最好地学习如何使用自动化来减少我的压倒一切，因为一个爸爸挣扎着挽救一家小企业。  &lt; &lt; /p&gt;  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/extension_battle_801     [link]  ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1ir1msy/notificationalert_for_fb_group_posts/</guid>
+      <pubDate>Sun, 16 Feb 2025 20:25:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>在用例中查询自动化服务</title>
+      <link>https://www.reddit.com/r/automation/comments/1ir021q/query_on_use_cases_for_automation_services/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  如果您提供AI自动化或AI应用程序开发服务，您处理客户端项目的典型用例是什么？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/logical_tonight8739      [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1ir021q/query_on_use_cases_for_automation_services/</guid>
+      <pubDate>Sun, 16 Feb 2025 19:19:18 GMT</pubDate>
+    </item>
     <item>
       <title>请教我如何自动化</title>
       <link>https://www.reddit.com/r/automation/comments/1iqyh4t/please_teach_me_how_to_make_automation/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  如果您教我如何进行自动化  &lt;！ -  sc_on-&gt;＆＃，我将为您工作32;提交由＆＃32; /u/u/deadman-walking666     link]   ＆＃32;   [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  ，如果您教我如何使自动化我在Begginer级别，我将为您工作，如果您指导我，我知道所有模块自己做，并为您提供工作  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/deadman-walking666     link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1iqyh4t/please_teach_me_how_to_make_automation/</guid>
       <pubDate>Sun, 16 Feb 2025 18:14:00 GMT</pubDate>
     </item>
@@ -76,13 +97,6 @@
       <pubDate>Fri, 14 Feb 2025 23:32:29 GMT</pubDate>
     </item>
     <item>
-      <title>我构建了一个工作流程自动化工具，但适用于您的浏览器</title>
-      <link>https://www.reddit.com/r/automation/comments/1ipld50/i_built_a_workflow_automation_tool_but_for_your/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   tldr;为浏览器创建自动化工作流： https://browserchef.com/     大家&gt;因此，我构建了一个浏览器扩展程序，可让您为浏览器创建工作流（想想zapier，但）。例如，您可以将数据从页面发送到外部平台，在浏览器中自动化操作，例如打开站点，单击，滚动，打字等。可以手动触发工作流程，在页面加载，右键单击菜单，计划的时间等。在工作流程中，您可以在工作流程运行时动态执行操作。 最初，我想要一种简单的方法来将网站上的某些站点链接发送到我的Zapier Automation。然后，我还想在Gmail中自动化一些操作（我曾经通过Gmail直接提供Micro-Software的支持）。我发现自己反复做可以自动化的事情。  那么，我还拥有更多用例，例如自动完成表单字段，甚至使用AI自动在某些Web应用程序上生成内容。  这是我开始构建它的方式。  确实检查一下并共享您的反馈。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/usamaejazch     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ipld50/i_built_a_workflow_automation_tool_but_for_your/</guid>
-      <pubDate>Fri, 14 Feb 2025 21:22:39 GMT</pubDate>
-    </item>
-    <item>
       <title>撰写SEO优化博客的N8N上的SEO AI代理</title>
       <link>https://www.reddit.com/r/automation/comments/1ipkvtl/seo_ai_agent_on_n8n_that_writes_seo_optimized/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我最近完成了一个荷兰客户端的N8N自动化，该访问端在用户输入关键字后写下SEO优化文章。这是体系结构的详细分解：  使用Google自定义搜索API  刮擦趋势文章链接 来自文章链接的文本使用Apify文本提取器API  将其馈送到GPT O1模型以草拟下一个代理的文档摘要。 下一个AI代理访问关键字和文档简介以写入本文的初稿大约1500个单词  6。另一个代理人使文章人性化。 //youtu.be/7qygrkorhjg?si=ud5h-ygphtqzroro    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/warissaleem     [link]   ＆＃32;  &lt;a href =“ https://www.reddit.com/r/automation/comments/1ipkvtl/seo_ai_ai_agent_agent_n8n_that_that_writes_seo_optimized/]]></description>
@@ -90,25 +104,11 @@
       <pubDate>Fri, 14 Feb 2025 21:01:28 GMT</pubDate>
     </item>
     <item>
-      <title>还有其他人使用Zapier自动化其内容创建吗？</title>
-      <link>https://www.reddit.com/r/automation/comments/1ipj2m9/does_anyone_else_use_zapier_to_automate_their/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我曾经浪费太多时间在小型的，重复的任务上 - 复制平台之间的内容，手动安排帖子，一遍又一遍地格式化内容。这不是艰苦的工作，但这是不变的。每次完成工作时，我都有另一个小任务在等我。感觉就像我在做很多事情，但实际上，我只是在照顾自己的工作流程。 然后我开始设置一些Zaps，老实说，我不知道为什么我没有早点做。节省时间最大的一个是自动化我的内容重新修复。现在，当我在Beehiiv上发布新闻通讯时，Zapier会自动： •将其发送给概念，因此我在一个地方组织了所有内容。 •提取关键的要点并将其转变为Twitter和LinkedIn的草稿帖子。 •将这些帖子安排在缓冲区中，因此它们在下周滴了。 我还设置了一个ZAP来处理IDEA COLLECT是一个改变游戏规则的人。以前，我有一个凌乱的笔记应用程序，随机散布着随机的半烘烤想法。现在，每当我遇到有趣的东西时（一篇文章，评论，甚至是一个随机的想法），我只是将其保存到   raindrop.io  ，Zapier会自动将其添加到我的概念内容板中。当该写作时，我不是从零开始 - 我已经有一个想法列表在等待。 这仍然是一项正在进行的工作，但是自动化无聊的东西让我花更多的时间实际创建创建而不是只是四处走动。好奇 - 其他人使用Zapier简化内容吗？一直在寻找新想法。一直在跟踪和尝试新软件来简化内容，我在对于那些想检查一下的人。没有压力。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/bybrainbytes     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ipj2m9/does_anyone_else_use_zapier_to_automate_their/</guid>
-      <pubDate>Fri, 14 Feb 2025 19:42:49 GMT</pubDate>
-    </item>
-    <item>
       <title>AI自动化机构，您如何操作？</title>
       <link>https://www.reddit.com/r/automation/comments/1ipit8n/ai_automation_agencies_how_do_you_operate/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我很好奇您使用哪些工具，n8n，make，相关性ai？是否有人使用更复杂的工具还是langflow？您如何与客户联系？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/makost     [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1ipit8n/ai_automation_agencies_how_do_you_operate/</guid>
       <pubDate>Fri, 14 Feb 2025 19:31:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的第一个（和有趣的缺陷）语音代理的诞生：无代码混乱的故事</title>
-      <link>https://www.reddit.com/r/automation/comments/1ipefg6/the_birth_of_my_first_and_hilariously_flawed/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ipefg6/the_birth_of_my_first_and_hilariously_flawed/</guid>
-      <pubDate>Fri, 14 Feb 2025 16:26:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
