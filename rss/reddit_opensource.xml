@@ -4,7 +4,7 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Fri, 21 Feb 2025 06:18:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2025 09:15:08 GMT</lastBuildDate>
     <item>
       <title>Embedz-轻松，无依赖性的嵌入式和VUE。</title>
       <link>https://www.reddit.com/r/opensource/comments/1iuk4o7/embedz_easy_dependency_free_embeds_for_svelte_and/</link>
@@ -85,7 +85,7 @@
     <item>
       <title>我制作了一个免费的开源工具来部署Linux游戏云机器</title>
       <link>https://www.reddit.com/r/opensource/comments/1itw6qz/i_made_a_free_open_source_tool_to_deploy_linux/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  由于缺乏云游戏的开源解决方案而感到沮丧，很难找到适当的产品（我在看着您， geforce＆quot ;现在）所以我开发了一个免费的开源工具，以在AWS，Azure，GCP和Paperspace等云上部署Linux远程游戏机： Cloudy Pad🎮。这大约是Geforce现在或Blacknut的开源版本，具有更大的灵活性！  github repo： https：// https：// https：/// github.com/pierrebeucher/cloudypad   您可以使用 Moonlight 。它支持蒸汽（带有质子），Lutris，Pegasus和retroarch具有稳定的性能（60-120fps在1080p或4k），这要归功于 sunshine  和 Wolf 流媒体服务器。  使用现场实例，它相对便宜，并为主流游戏平台提供了一个很好的替代方法 - 具有更多的控制权和较少的每月订阅。标准设置应花费约15美元至20美元 /月30小时的游戏玩法。 以下是一些成本估算  我会很高兴地听到您的反馈和建议:)   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/pbeucher     [links]   &lt;a href =“ https://www.reddit.com/r/opensource/comments/1itw6qz/i_made_made_a_free_open_source_tool_too_to_deploy_loy_linux/]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  由于缺乏云游戏的开源解决方案而感到沮丧，很难找到适当的产品（我在看着您， geforce＆quot ;现在）所以我开发了一个免费的开源工具，以在AWS，Azure，GCP和Paperspace等云上部署Linux远程游戏机： Cloudy Pad🎮。这大约是Geforce现在或Blacknut的开源版本，具有更大的灵活性！  github repo： https：// https：// https：/// github.com/pierrebeucher/cloudypad   您可以使用 Moonlight 。它支持蒸汽（带有质子），Lutris，Pegasus和retroarch具有稳定的性能（60-120fps在1080p或4k），这要归功于 sunshine  和 Wolf 流媒体服务器。  使用现场实例，它相对便宜，并为主流游戏平台提供了一个很好的替代方法 - 具有更多的控制权和较少的每月订阅。标准设置应花费约15美元至20美元 /月30小时的游戏玩法。 以下是一些成本估算  ，我会很高兴地听到您的反馈和建议:)   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/pbeucher     [links]   &lt;a href =“ https://www.reddit.com/r/opensource/comments/1itw6qz/i_made_made_a_free_open_source_tool_too_to_deploy_loy_linux/]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1itw6qz/i_made_a_free_open_source_tool_to_deploy_linux/</guid>
       <pubDate>Thu, 20 Feb 2025 11:16:26 GMT</pubDate>
     </item>
