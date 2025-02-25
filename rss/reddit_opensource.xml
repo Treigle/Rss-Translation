@@ -4,7 +4,14 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Tue, 25 Feb 2025 03:21:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2025 09:14:43 GMT</lastBuildDate>
+    <item>
+      <title>Amurex-开源AI会议副标士，现已演变成开源助理助理</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ixm6ne/amurex_the_open_source_ai_meeting_copilot_now/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，大家👋 上个月，我制作了Amurex，一个开源的AI会议copilot，现在正在演变成某物更大：开源执行助理。我们正在构建诸如在您所有在线知识中的汇总搜索之类的功能，但是如果您想看到其他任何东西，我们都是耳朵！ 👂 现在，Amurex与Google Meet和Microsoft团队合作，处理笔录，摘要，甚至提供实时建议。 •github repo： https://github.com/thepersonalaicompany/amurex     •网站： https://www.amurex.ai    检查一下，让我知道哪些功能会使您的工作流程更轻松，更轻松，也许他们会在下一个版本中出现！ 😉 确实让我知道您的想法：d   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/stealthanthrax   href =“ https://www.reddit.com/r/opensource/comments/1ixm6ne/amurex_the_open_source_ai_meeting_copilot_now/”&gt; [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ixm6ne/amurex_the_open_source_ai_meeting_copilot_now/</guid>
+      <pubDate>Tue, 25 Feb 2025 04:06:12 GMT</pubDate>
+    </item>
     <item>
       <title>Turingtape-用C ++编写的功能齐全的Cl图灵机</title>
       <link>https://www.reddit.com/r/opensource/comments/1ixjk81/turingtape_a_fully_functional_cl_turing_machine/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我知道现成的付费和免费的，但是是否有任何开源解决方案，以便我可以在我的网站上托管此系统，最好在Docker？也许有人找到了这样的东西？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/graveld_     [link]        [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iwmb51/is_there_a_readymade_solution_for_publishing/</guid>
       <pubDate>Sun, 23 Feb 2025 22:21:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>简单的财务交易分类API</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iwge39/simple_finance_transaction_categorization_api/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  今天，我们开放了3个版本的模型的3个版本，该版本训练有素，以服务于想要对其融资交易进行分类的任何应用程序或系统（当前阶段更少的商业融资）。  如果您有兴趣，这里是所有来源： https：//github.com/varchary-io/ FCS   如果此API/模型听起来对您有用，并且想快速尝试，则是完整文档几秒钟。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1iwge39/simple_finance_finance_transaction_categorization_categorization_api/”&gt; [link]    ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iwge39/simple_finance_transaction_categorization_api/</guid>
-      <pubDate>Sun, 23 Feb 2025 18:11:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
