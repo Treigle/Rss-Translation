@@ -4,7 +4,7 @@
     <title>产品狩猎 - 每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 25 Feb 2025 21:13:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Feb 2025 01:00:34 GMT</lastBuildDate>
     <item>
       <title>QWQ-MAX</title>
       <link>https://www.producthunt.com/posts/qwq-max</link>
@@ -18,6 +18,34 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/qwq-max</guid>
       <pubDate>Tue, 25 Feb 2025 01:27:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fabi.AI分析师代理</title>
+      <link>https://www.producthunt.com/posts/fabi-ai-analyst-agent</link>
+      <description><![CDATA[
+            构建，部署和分享专业的AI数据分析师代理 
+          
+
+讨论
+            |
+             link 
+]]></description>
+      <guid>https://www.producthunt.com/posts/fabi-ai-analyst-agent</guid>
+      <pubDate>Mon, 24 Feb 2025 23:04:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude Code和Claude 3.7十四行诗</title>
+      <link>https://www.producthunt.com/posts/claude-code-and-claude-3-7-sonnet</link>
+      <description><![CDATA[
+            我们迄今为止最聪明的模型
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/claude-code-and-claude-3-7-sonnet</guid>
+      <pubDate>Mon, 24 Feb 2025 19:23:13 GMT</pubDate>
     </item>
     <item>
       <title>Wanx 2.1</title>
@@ -48,34 +76,6 @@
       <pubDate>Mon, 24 Feb 2025 08:17:25 GMT</pubDate>
     </item>
     <item>
-      <title>工厂</title>
-      <link>https://www.producthunt.com/posts/factory-3</link>
-      <description><![CDATA[
-            软件开发指挥中心
-          
-
-
-            |
-             link 
-]]></description>
-      <guid>https://www.producthunt.com/posts/factory-3</guid>
-      <pubDate>Sun, 23 Feb 2025 03:32:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Phind</title>
-      <link>https://www.producthunt.com/posts/phind-3</link>
-      <description><![CDATA[
-            具有视觉答案和代理功能的AI搜索引擎
-          
-
-
-            |
-             link 
-]]></description>
-      <guid>https://www.producthunt.com/posts/phind-3</guid>
-      <pubDate>Fri, 21 Feb 2025 20:26:24 GMT</pubDate>
-    </item>
-    <item>
       <title>深湖 -  AI知识代理</title>
       <link>https://www.producthunt.com/posts/deep-lake-ai-knowledge-agent</link>
       <description><![CDATA[
@@ -104,32 +104,18 @@
       <pubDate>Thu, 20 Feb 2025 13:35:03 GMT</pubDate>
     </item>
     <item>
-      <title>Lemonfox.ai</title>
-      <link>https://www.producthunt.com/posts/lemonfox-ai-2</link>
+      <title>下属</title>
+      <link>https://www.producthunt.com/posts/infra-new</link>
       <description><![CDATA[
-            像AI一样的人类声音API  - 成本的一小部分。
+            云devops的AI副驾驶
           
 
 
             |
-             link 
+            链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/lemonfox-ai-2</guid>
-      <pubDate>Tue, 18 Feb 2025 20:16:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>英雄的东西</title>
-      <link>https://www.producthunt.com/posts/hero-stuff-2</link>
-      <description><![CDATA[
-            在线销售任何东西的最快方法 
-          
-
-
-            |
-             link 
-]]></description>
-      <guid>https://www.producthunt.com/posts/hero-stuff-2</guid>
-      <pubDate>Mon, 17 Feb 2025 17:11:38 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/infra-new</guid>
+      <pubDate>Tue, 18 Feb 2025 17:17:59 GMT</pubDate>
     </item>
     <item>
       <title>筒仓队</title>
@@ -146,6 +132,20 @@
       <pubDate>Fri, 14 Feb 2025 04:38:22 GMT</pubDate>
     </item>
     <item>
+      <title>允许AI访问控制</title>
+      <link>https://www.producthunt.com/posts/permit-ai-access-control</link>
+      <description><![CDATA[
+            AI驱动应用的细粒度权限
+          
+
+讨论
+            |
+             link 
+]]></description>
+      <guid>https://www.producthunt.com/posts/permit-ai-access-control</guid>
+      <pubDate>Thu, 13 Feb 2025 08:48:55 GMT</pubDate>
+    </item>
+    <item>
       <title>不含Noloco</title>
       <link>https://www.producthunt.com/posts/noloco-free-2</link>
       <description><![CDATA[
@@ -160,32 +160,32 @@
       <pubDate>Wed, 12 Feb 2025 09:47:22 GMT</pubDate>
     </item>
     <item>
-      <title>雷电计算（YC S24）</title>
-      <link>https://www.producthunt.com/posts/thunder-compute-yc-s24-2</link>
+      <title>深层人</title>
+      <link>https://www.producthunt.com/posts/deeptutor</link>
       <description><![CDATA[
-            与世界上最便宜的GPU云的自助宿主AI/ML
+            纸阅读助手有更深入的了解
           
 
-讨论
+
             |
              link 
 ]]></description>
-      <guid>https://www.producthunt.com/posts/thunder-compute-yc-s24-2</guid>
-      <pubDate>Wed, 12 Feb 2025 03:18:44 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/deeptutor</guid>
+      <pubDate>Wed, 12 Feb 2025 06:51:13 GMT</pubDate>
     </item>
     <item>
-      <title>虹膜ID</title>
-      <link>https://www.producthunt.com/posts/iris-id</link>
+      <title>Captiwate</title>
+      <link>https://www.producthunt.com/posts/captiwate</link>
       <description><![CDATA[
-            $ 0.01的安全和即时身份验证
+            网站访问者的即时入站视频通话
           
 
 
             |
-            链接
+             link 
 ]]></description>
-      <guid>https://www.producthunt.com/posts/iris-id</guid>
-      <pubDate>Mon, 06 Jan 2025 16:57:08 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/captiwate</guid>
+      <pubDate>Fri, 07 Feb 2025 08:59:08 GMT</pubDate>
     </item>
     <item>
       <title>转移</title>
